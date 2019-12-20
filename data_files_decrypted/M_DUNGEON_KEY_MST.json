@@ -1,0 +1,47 @@
+[
+    {
+        "AMOUNT_AND_LOCATION_USED":"1:1:Metal Parade!:100600:6\\/3:1:Super Metal Parade:100601:6\\/5:3:Mega Metal Parade:100601,100614:6",
+        "DUNGEON_ID":"100600",
+        "EK5I6MQ9":"1",
+        "KEY_ID":"1",
+        "KEY_NAME":"Metal Key",
+        "LOCKED_IMAGE":"sp_quest_banner_guerrilla_seal.png",
+        "MAX_CARRY":"50",
+        "THUMBNAIL":"metal_king_key.png,metal_king_key_s.png",
+        "UNLOCKED_IMAGE":"sp_quest_banner_guerrilla.png",
+        "fK15a73g":"1,2,4,5",
+        "i9sBW8uD":"1800",
+        "j0Uszek2":"1",
+        "zfdw7Ry1":"8"
+    },
+    {
+        "AMOUNT_AND_LOCATION_USED":"1:1:Jewel Parade!:100650:7\\/3:1:Super Jewel Parade:100651:7\\/5:3:Mega Jewel Parade:100651,100652:7",
+        "DUNGEON_ID":"100650",
+        "EK5I6MQ9":"1",
+        "KEY_ID":"2",
+        "KEY_NAME":"Jewel Key",
+        "LOCKED_IMAGE":"sp_quest_banner_guerrilla_jewel_seal.png",
+        "MAX_CARRY":"50",
+        "THUMBNAIL":"jewel_king_key.png,jewel_king_key_s.png",
+        "UNLOCKED_IMAGE":"sp_quest_banner_guerrilla_jewel.png",
+        "fK15a73g":"3",
+        "i9sBW8uD":"1800",
+        "j0Uszek2":"1",
+        "zfdw7Ry1":"8"
+    },
+    {
+        "AMOUNT_AND_LOCATION_USED":"1:0:Garden of Imps:102920:",
+        "DUNGEON_ID":"102720",
+        "EK5I6MQ9":"0",
+        "KEY_ID":"3",
+        "KEY_NAME":"Imp Key",
+        "LOCKED_IMAGE":"sp_quest_banner_evil_seal_3.png",
+        "MAX_CARRY":"50",
+        "THUMBNAIL":"yoma_key.png,yoma_key_s.png",
+        "UNLOCKED_IMAGE":"sp_quest_banner_evil_3.png",
+        "fK15a73g":"",
+        "i9sBW8uD":"1800",
+        "j0Uszek2":"1",
+        "zfdw7Ry1":"8"
+    }
+]

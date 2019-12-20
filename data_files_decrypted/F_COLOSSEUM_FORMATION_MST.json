@@ -1,0 +1,56 @@
+[
+    {
+        "COLO_FORMATION_EFFECTS":"1:25,0,0,0,0#1:25,0,0,0,0#1:25,0,0,0,0#1:25,0,0,0,0#1:25,0,0,0,0",
+        "COLO_FORMATION_ID":"101",
+        "COLO_FORMATION_NAME":"\u30d1\u30ef\u30fc\u30b9\u30c8\u30e9\u30a4\u30af",
+        "COLO_STRIKE_NO":"1",
+        "DESCRIPTION":"\u3059\u3079\u3066\u306e\u30e6\u30cb\u30c3\u30c8\u306e\u653b\u6483\u529b\u304c\uff12\uff15\uff05\u30a2\u30c3\u30d7<br \\/>\u30c6\u30c8\u30e9\u30a6\u30a9\u30fc\u30eb\u306b\u6709\u5229\uff1a\u30ab\u30a4\u30b6\u30fc\u30b7\u30fc\u30eb\u30c9\u306b\u4e0d\u5229",
+        "IMAGE":"formation_effect_move.png,formation_effect_move.png,formation_effect_move.png,formation_effect_move.png,formation_effect_move.png",
+        "UNIT_ELEMENT":"1"
+    },
+    {
+        "COLO_FORMATION_EFFECTS":"1:0,0,0,0,0#1:0,0,0,0,0#1:100,0,0,0,100#1:0,0,0,0,0#1:0,0,0,0,0",
+        "COLO_FORMATION_ID":"102",
+        "COLO_FORMATION_NAME":"\u5b64\u5cb3\u5929\u6b66\u306e\u9663",
+        "COLO_STRIKE_NO":"1",
+        "DESCRIPTION":"\u4e2d\u5fc3\u30e6\u30cb\u30c3\u30c8\u306e\u653b\u6483\u529b\u3001\uff28\uff30\u304c\uff11\uff10\uff10\uff05\u30a2\u30c3\u30d7<br \\/>\u4e94\u8292\u5805\u9396\u306e\u9663\u306b\u6709\u5229\uff1a\u30c6\u30c8\u30e9\u30a6\u30a9\u30fc\u30eb\u306b\u4e0d\u5229",
+        "IMAGE":",,formation_effect_move.png,,",
+        "UNIT_ELEMENT":"2"
+    },
+    {
+        "COLO_FORMATION_EFFECTS":"1:50,0,0,0,0#1:50,0,0,0,0#1:0,0,0,0,0#1:0,0,0,0,0#1:0,0,0,0,0",
+        "COLO_FORMATION_ID":"103",
+        "COLO_FORMATION_NAME":"\u30ec\u30a4\u30c9\u30d0\u30f3\u30ac\u30fc\u30c9",
+        "COLO_STRIKE_NO":"1",
+        "DESCRIPTION":"\u524d\u885b\u30e6\u30cb\u30c3\u30c8\u306e\u653b\u6483\u529b\u304c\uff15\uff10\uff05\u30a2\u30c3\u30d7<br \\/>\u30ab\u30a4\u30b6\u30fc\u30b7\u30fc\u30eb\u30c9\u306b\u6709\u5229\uff1a\u4e94\u8292\u5805\u9396\u306e\u9663\u306b\u4e0d\u5229",
+        "IMAGE":"formation_effect_move.png,formation_effect_move.png,,,",
+        "UNIT_ELEMENT":"3"
+    },
+    {
+        "COLO_FORMATION_EFFECTS":"1:0,25,0,0,25#1:0,25,0,0,25#1:0,25,0,0,25#1:0,25,0,0,25#1:0,25,0,0,25",
+        "COLO_FORMATION_ID":"201",
+        "COLO_FORMATION_NAME":"\u4e94\u8292\u5805\u9396\u306e\u9663",
+        "COLO_STRIKE_NO":"2",
+        "DESCRIPTION":"\u3059\u3079\u3066\u306e\u30e6\u30cb\u30c3\u30c8\u306e\u9632\u5fa1\u529b\u3001\uff28\uff30\u304c\uff12\uff15\uff05\u30a2\u30c3\u30d7<br \\/>\u30ec\u30a4\u30c9\u30d0\u30f3\u30ac\u30fc\u30c9\u306b\u6709\u5229\uff1a\u5b64\u5cb3\u5929\u6b66\u306e\u9663\u306b\u4e0d\u5229",
+        "IMAGE":"formation_effect_move.png,formation_effect_move.png,formation_effect_move.png,formation_effect_move.png,formation_effect_move.png",
+        "UNIT_ELEMENT":"1"
+    },
+    {
+        "COLO_FORMATION_EFFECTS":"1:0,50,0,0,50#1:0,50,0,0,50#1:0,0,0,0,0#1:0,0,0,0,0#1:0,0,0,0,0",
+        "COLO_FORMATION_ID":"202",
+        "COLO_FORMATION_NAME":"\u30ab\u30a4\u30b6\u30fc\u30b7\u30fc\u30eb\u30c9",
+        "COLO_STRIKE_NO":"2",
+        "DESCRIPTION":"\u524d\u885b\u30e6\u30cb\u30c3\u30c8\u306e\u9632\u5fa1\u529b\u3001\uff28\uff30\u304c\uff15\uff10\uff05\u30a2\u30c3\u30d7<br \\/>\u30d1\u30ef\u30fc\u30b9\u30c8\u30e9\u30a4\u30af\u306b\u6709\u5229\uff1a\u30ec\u30a4\u30c9\u30d0\u30f3\u30ac\u30fc\u30c9\u306b\u4e0d\u5229",
+        "IMAGE":"formation_effect_move.png,formation_effect_move.png,,,",
+        "UNIT_ELEMENT":"2"
+    },
+    {
+        "COLO_FORMATION_EFFECTS":"1:50,50,0,0,0#1:50,50,0,0,0#1:0,0,0,0,0#1:50,50,0,0,0#1:50,50,0,0,0",
+        "COLO_FORMATION_ID":"203",
+        "COLO_FORMATION_NAME":"\u30c6\u30c8\u30e9\u30a6\u30a9\u30fc\u30eb",
+        "COLO_STRIKE_NO":"2",
+        "DESCRIPTION":"\u4e2d\u5fc3\u4ee5\u5916\u306e\u30e6\u30cb\u30c3\u30c8\u306e\u653b\u6483\u529b\u3001\u9632\u5fa1\u529b\u304c\uff15\uff10\uff05\u30a2\u30c3\u30d7<br \\/>\u5b64\u5cb3\u5929\u6b66\u306e\u9663\u306b\u6709\u5229\uff1a\u30d1\u30ef\u30fc\u30b9\u30c8\u30e9\u30a4\u30af\u306b\u4e0d\u5229",
+        "IMAGE":"formation_effect_move.png,formation_effect_move.png,,formation_effect_move.png,formation_effect_move.png",
+        "UNIT_ELEMENT":"3"
+    }
+]

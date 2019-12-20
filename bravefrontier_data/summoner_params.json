@@ -1,0 +1,5167 @@
+[
+    {
+        "category":"MST_SU_ABILITY_LEVEL_1001_1_NAME",
+        "icon":"su_skill_icon_01_01.png",
+        "levels":[
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1001_1_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,0,0,1",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"1",
+                "sp cost":"0"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1001_2_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,0,0,3",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"2",
+                "sp cost":"10"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1001_3_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,0,0,5",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"3",
+                "sp cost":"40"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1001_4_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,0,0,7",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"4",
+                "sp cost":"80"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1001_5_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,0,0,10",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"5",
+                "sp cost":"130"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1001_6_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,0,0,12",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"6",
+                "sp cost":"190"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1001_7_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,0,0,14",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"7",
+                "sp cost":"260"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1001_8_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,0,0,16",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"8",
+                "sp cost":"340"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1001_9_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,0,0,18",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"9",
+                "sp cost":"430"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1001_10_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,0,0,20",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"10",
+                "sp cost":"530"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1001_11_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,0,0,22",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"11",
+                "sp cost":"640"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1001_12_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,0,0,24",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"12",
+                "sp cost":"760"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1001_13_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,0,0,26",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"13",
+                "sp cost":"890"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1001_14_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,0,0,28",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"14",
+                "sp cost":"1030"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1001_15_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,0,0,30",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"15",
+                "sp cost":"1180"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1001_16_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,0,0,32",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"16",
+                "sp cost":"1340"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1001_17_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,0,0,34",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"17",
+                "sp cost":"1510"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1001_18_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,0,0,36",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"18",
+                "sp cost":"1690"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1001_19_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,0,0,38",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"19",
+                "sp cost":"1880"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1001_20_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,0,0,40",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"20",
+                "sp cost":"2080"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1001_21_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,0,0,42",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"21",
+                "sp cost":"2290"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1001_22_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,0,0,44",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"22",
+                "sp cost":"2510"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1001_23_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,0,0,46",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"23",
+                "sp cost":"2740"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1001_24_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,0,0,48",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"24",
+                "sp cost":"2980"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1001_25_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,0,0,50",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"25",
+                "sp cost":"3230"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1001_26_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,0,0,52",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"26",
+                "sp cost":"3490"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1001_27_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,0,0,54",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"27",
+                "sp cost":"3760"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1001_28_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,0,0,56",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"28",
+                "sp cost":"4040"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1001_29_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,0,0,58",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"29",
+                "sp cost":"4330"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1001_30_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,0,0,60",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"30",
+                "sp cost":"4630"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1001_31_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,0,0,62",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"31",
+                "sp cost":"4940"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1001_32_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,0,0,64",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"32",
+                "sp cost":"5260"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1001_33_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,0,0,66",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"33",
+                "sp cost":"5590"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1001_34_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,0,0,68",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"34",
+                "sp cost":"5930"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1001_35_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,0,0,70",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"35",
+                "sp cost":"6280"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1001_36_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,0,0,72",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"36",
+                "sp cost":"6640"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1001_37_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,0,0,74",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"37",
+                "sp cost":"7010"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1001_38_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,0,0,76",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"38",
+                "sp cost":"7390"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1001_39_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,0,0,78",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"39",
+                "sp cost":"7780"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1001_40_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,0,0,80",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"40",
+                "sp cost":"8180"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1001_41_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,0,0,82",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"41",
+                "sp cost":"8590"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1001_42_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,0,0,84",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"42",
+                "sp cost":"9010"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1001_43_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,0,0,86",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"43",
+                "sp cost":"9440"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1001_44_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,0,0,88",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"44",
+                "sp cost":"9880"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1001_45_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,0,0,90",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"45",
+                "sp cost":"10330"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1001_46_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,0,0,92",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"46",
+                "sp cost":"10790"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1001_47_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,0,0,94",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"47",
+                "sp cost":"11260"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1001_48_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,0,0,96",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"48",
+                "sp cost":"11740"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1001_49_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,0,0,98",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"49",
+                "sp cost":"12230"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1001_50_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,0,0,100",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"50",
+                "sp cost":"12730"
+            }
+        ]
+    },
+    {
+        "category":"MST_SU_ABILITY_LEVEL_1002_1_NAME",
+        "icon":"su_skill_icon_01_02.png",
+        "levels":[
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1002_1_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"1,0,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"1",
+                "sp cost":"0"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1002_2_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"3,0,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"2",
+                "sp cost":"10"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1002_3_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"5,0,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"3",
+                "sp cost":"40"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1002_4_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"7,0,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"4",
+                "sp cost":"80"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1002_5_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"10,0,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"5",
+                "sp cost":"130"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1002_6_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"12,0,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"6",
+                "sp cost":"190"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1002_7_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"14,0,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"7",
+                "sp cost":"260"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1002_8_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"16,0,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"8",
+                "sp cost":"340"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1002_9_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"18,0,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"9",
+                "sp cost":"430"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1002_10_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"20,0,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"10",
+                "sp cost":"530"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1002_11_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"22,0,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"11",
+                "sp cost":"640"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1002_12_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"24,0,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"12",
+                "sp cost":"760"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1002_13_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"26,0,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"13",
+                "sp cost":"890"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1002_14_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"28,0,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"14",
+                "sp cost":"1030"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1002_15_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"30,0,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"15",
+                "sp cost":"1180"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1002_16_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"32,0,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"16",
+                "sp cost":"1340"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1002_17_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"34,0,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"17",
+                "sp cost":"1510"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1002_18_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"36,0,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"18",
+                "sp cost":"1690"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1002_19_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"38,0,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"19",
+                "sp cost":"1880"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1002_20_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"40,0,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"20",
+                "sp cost":"2080"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1002_21_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"42,0,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"21",
+                "sp cost":"2290"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1002_22_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"44,0,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"22",
+                "sp cost":"2510"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1002_23_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"46,0,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"23",
+                "sp cost":"2740"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1002_24_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"48,0,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"24",
+                "sp cost":"2980"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1002_25_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"50,0,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"25",
+                "sp cost":"3230"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1002_26_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"52,0,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"26",
+                "sp cost":"3490"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1002_27_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"54,0,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"27",
+                "sp cost":"3760"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1002_28_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"56,0,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"28",
+                "sp cost":"4040"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1002_29_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"58,0,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"29",
+                "sp cost":"4330"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1002_30_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"60,0,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"30",
+                "sp cost":"4630"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1002_31_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"62,0,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"31",
+                "sp cost":"4940"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1002_32_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"64,0,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"32",
+                "sp cost":"5260"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1002_33_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"66,0,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"33",
+                "sp cost":"5590"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1002_34_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"68,0,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"34",
+                "sp cost":"5930"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1002_35_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"70,0,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"35",
+                "sp cost":"6280"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1002_36_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"72,0,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"36",
+                "sp cost":"6640"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1002_37_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"74,0,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"37",
+                "sp cost":"7010"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1002_38_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"76,0,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"38",
+                "sp cost":"7390"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1002_39_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"78,0,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"39",
+                "sp cost":"7780"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1002_40_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"80,0,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"40",
+                "sp cost":"8180"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1002_41_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"82,0,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"41",
+                "sp cost":"8590"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1002_42_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"84,0,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"42",
+                "sp cost":"9010"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1002_43_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"86,0,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"43",
+                "sp cost":"9440"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1002_44_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"88,0,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"44",
+                "sp cost":"9880"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1002_45_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"90,0,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"45",
+                "sp cost":"10330"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1002_46_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"92,0,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"46",
+                "sp cost":"10790"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1002_47_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"94,0,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"47",
+                "sp cost":"11260"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1002_48_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"96,0,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"48",
+                "sp cost":"11740"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1002_49_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"98,0,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"49",
+                "sp cost":"12230"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1002_50_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"100,0,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"50",
+                "sp cost":"12730"
+            }
+        ]
+    },
+    {
+        "category":"MST_SU_ABILITY_LEVEL_1003_1_NAME",
+        "icon":"su_skill_icon_01_03.png",
+        "levels":[
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1003_1_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,1,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"1",
+                "sp cost":"0"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1003_2_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,3,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"2",
+                "sp cost":"10"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1003_3_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,5,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"3",
+                "sp cost":"40"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1003_4_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,7,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"4",
+                "sp cost":"80"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1003_5_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,10,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"5",
+                "sp cost":"130"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1003_6_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,12,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"6",
+                "sp cost":"190"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1003_7_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,14,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"7",
+                "sp cost":"260"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1003_8_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,16,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"8",
+                "sp cost":"340"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1003_9_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,18,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"9",
+                "sp cost":"430"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1003_10_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,20,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"10",
+                "sp cost":"530"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1003_11_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,22,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"11",
+                "sp cost":"640"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1003_12_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,24,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"12",
+                "sp cost":"760"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1003_13_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,26,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"13",
+                "sp cost":"890"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1003_14_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,28,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"14",
+                "sp cost":"1030"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1003_15_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,30,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"15",
+                "sp cost":"1180"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1003_16_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,32,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"16",
+                "sp cost":"1340"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1003_17_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,34,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"17",
+                "sp cost":"1510"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1003_18_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,36,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"18",
+                "sp cost":"1690"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1003_19_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,38,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"19",
+                "sp cost":"1880"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1003_20_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,40,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"20",
+                "sp cost":"2080"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1003_21_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,42,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"21",
+                "sp cost":"2290"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1003_22_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,44,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"22",
+                "sp cost":"2510"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1003_23_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,46,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"23",
+                "sp cost":"2740"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1003_24_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,48,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"24",
+                "sp cost":"2980"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1003_25_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,50,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"25",
+                "sp cost":"3230"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1003_26_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,52,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"26",
+                "sp cost":"3490"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1003_27_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,54,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"27",
+                "sp cost":"3760"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1003_28_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,56,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"28",
+                "sp cost":"4040"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1003_29_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,58,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"29",
+                "sp cost":"4330"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1003_30_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,60,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"30",
+                "sp cost":"4630"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1003_31_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,62,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"31",
+                "sp cost":"4940"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1003_32_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,64,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"32",
+                "sp cost":"5260"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1003_33_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,66,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"33",
+                "sp cost":"5590"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1003_34_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,68,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"34",
+                "sp cost":"5930"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1003_35_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,70,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"35",
+                "sp cost":"6280"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1003_36_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,72,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"36",
+                "sp cost":"6640"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1003_37_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,74,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"37",
+                "sp cost":"7010"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1003_38_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,76,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"38",
+                "sp cost":"7390"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1003_39_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,78,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"39",
+                "sp cost":"7780"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1003_40_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,80,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"40",
+                "sp cost":"8180"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1003_41_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,82,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"41",
+                "sp cost":"8590"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1003_42_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,84,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"42",
+                "sp cost":"9010"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1003_43_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,86,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"43",
+                "sp cost":"9440"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1003_44_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,88,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"44",
+                "sp cost":"9880"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1003_45_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,90,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"45",
+                "sp cost":"10330"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1003_46_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,92,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"46",
+                "sp cost":"10790"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1003_47_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,94,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"47",
+                "sp cost":"11260"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1003_48_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,96,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"48",
+                "sp cost":"11740"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1003_49_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,98,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"49",
+                "sp cost":"12230"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1003_50_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,100,0,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"50",
+                "sp cost":"12730"
+            }
+        ]
+    },
+    {
+        "category":"MST_SU_ABILITY_LEVEL_1004_1_NAME",
+        "icon":"su_skill_icon_01_04.png",
+        "levels":[
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1004_1_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,1,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"1",
+                "sp cost":"0"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1004_2_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,3,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"2",
+                "sp cost":"10"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1004_3_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,5,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"3",
+                "sp cost":"40"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1004_4_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,7,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"4",
+                "sp cost":"80"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1004_5_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,10,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"5",
+                "sp cost":"130"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1004_6_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,12,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"6",
+                "sp cost":"190"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1004_7_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,14,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"7",
+                "sp cost":"260"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1004_8_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,16,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"8",
+                "sp cost":"340"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1004_9_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,18,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"9",
+                "sp cost":"430"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1004_10_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,20,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"10",
+                "sp cost":"530"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1004_11_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,22,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"11",
+                "sp cost":"640"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1004_12_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,24,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"12",
+                "sp cost":"760"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1004_13_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,26,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"13",
+                "sp cost":"890"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1004_14_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,28,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"14",
+                "sp cost":"1030"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1004_15_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,30,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"15",
+                "sp cost":"1180"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1004_16_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,32,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"16",
+                "sp cost":"1340"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1004_17_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,34,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"17",
+                "sp cost":"1510"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1004_18_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,36,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"18",
+                "sp cost":"1690"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1004_19_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,38,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"19",
+                "sp cost":"1880"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1004_20_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,40,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"20",
+                "sp cost":"2080"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1004_21_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,42,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"21",
+                "sp cost":"2290"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1004_22_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,44,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"22",
+                "sp cost":"2510"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1004_23_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,46,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"23",
+                "sp cost":"2740"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1004_24_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,48,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"24",
+                "sp cost":"2980"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1004_25_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,50,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"25",
+                "sp cost":"3230"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1004_26_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,52,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"26",
+                "sp cost":"3490"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1004_27_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,54,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"27",
+                "sp cost":"3760"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1004_28_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,56,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"28",
+                "sp cost":"4040"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1004_29_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,58,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"29",
+                "sp cost":"4330"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1004_30_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,60,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"30",
+                "sp cost":"4630"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1004_31_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,62,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"31",
+                "sp cost":"4940"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1004_32_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,64,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"32",
+                "sp cost":"5260"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1004_33_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,66,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"33",
+                "sp cost":"5590"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1004_34_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,68,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"34",
+                "sp cost":"5930"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1004_35_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,70,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"35",
+                "sp cost":"6280"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1004_36_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,72,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"36",
+                "sp cost":"6640"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1004_37_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,74,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"37",
+                "sp cost":"7010"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1004_38_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,76,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"38",
+                "sp cost":"7390"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1004_39_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,78,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"39",
+                "sp cost":"7780"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1004_40_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,80,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"40",
+                "sp cost":"8180"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1004_41_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,82,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"41",
+                "sp cost":"8590"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1004_42_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,84,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"42",
+                "sp cost":"9010"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1004_43_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,86,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"43",
+                "sp cost":"9440"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1004_44_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,88,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"44",
+                "sp cost":"9880"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1004_45_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,90,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"45",
+                "sp cost":"10330"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1004_46_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,92,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"46",
+                "sp cost":"10790"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1004_47_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,94,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"47",
+                "sp cost":"11260"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1004_48_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,96,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"48",
+                "sp cost":"11740"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1004_49_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,98,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"49",
+                "sp cost":"12230"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1004_50_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,100,0,0",
+                        "proc id":"1"
+                    }
+                ],
+                "level":"50",
+                "sp cost":"12730"
+            }
+        ]
+    },
+    {
+        "category":"MST_SU_ABILITY_LEVEL_1005_1_NAME",
+        "icon":"su_skill_icon_11_01.png",
+        "levels":[
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1005_1_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"11",
+                        "params":"1,0,0,0,0,0",
+                        "proc id":"31"
+                    }
+                ],
+                "level":"1",
+                "sp cost":"0"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1005_2_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"11",
+                        "params":"3,0,0,0,0,0",
+                        "proc id":"31"
+                    }
+                ],
+                "level":"2",
+                "sp cost":"10"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1005_3_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"11",
+                        "params":"5,0,0,0,0,0",
+                        "proc id":"31"
+                    }
+                ],
+                "level":"3",
+                "sp cost":"40"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1005_4_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"11",
+                        "params":"7,0,0,0,0,0",
+                        "proc id":"31"
+                    }
+                ],
+                "level":"4",
+                "sp cost":"80"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1005_5_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"11",
+                        "params":"10,0,0,0,0,0",
+                        "proc id":"31"
+                    }
+                ],
+                "level":"5",
+                "sp cost":"130"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1005_6_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"11",
+                        "params":"12,0,0,0,0,0",
+                        "proc id":"31"
+                    }
+                ],
+                "level":"6",
+                "sp cost":"190"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1005_7_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"11",
+                        "params":"14,0,0,0,0,0",
+                        "proc id":"31"
+                    }
+                ],
+                "level":"7",
+                "sp cost":"260"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1005_8_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"11",
+                        "params":"16,0,0,0,0,0",
+                        "proc id":"31"
+                    }
+                ],
+                "level":"8",
+                "sp cost":"340"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1005_9_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"11",
+                        "params":"18,0,0,0,0,0",
+                        "proc id":"31"
+                    }
+                ],
+                "level":"9",
+                "sp cost":"430"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1005_10_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"11",
+                        "params":"20,0,0,0,0,0",
+                        "proc id":"31"
+                    }
+                ],
+                "level":"10",
+                "sp cost":"530"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1005_11_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"11",
+                        "params":"22,0,0,0,0,0",
+                        "proc id":"31"
+                    }
+                ],
+                "level":"11",
+                "sp cost":"640"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1005_12_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"11",
+                        "params":"24,0,0,0,0,0",
+                        "proc id":"31"
+                    }
+                ],
+                "level":"12",
+                "sp cost":"760"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1005_13_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"11",
+                        "params":"26,0,0,0,0,0",
+                        "proc id":"31"
+                    }
+                ],
+                "level":"13",
+                "sp cost":"890"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1005_14_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"11",
+                        "params":"28,0,0,0,0,0",
+                        "proc id":"31"
+                    }
+                ],
+                "level":"14",
+                "sp cost":"1030"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1005_15_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"11",
+                        "params":"30,0,0,0,0,0",
+                        "proc id":"31"
+                    }
+                ],
+                "level":"15",
+                "sp cost":"1180"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1005_16_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"11",
+                        "params":"32,0,0,0,0,0",
+                        "proc id":"31"
+                    }
+                ],
+                "level":"16",
+                "sp cost":"1340"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1005_17_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"11",
+                        "params":"34,0,0,0,0,0",
+                        "proc id":"31"
+                    }
+                ],
+                "level":"17",
+                "sp cost":"1510"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1005_18_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"11",
+                        "params":"36,0,0,0,0,0",
+                        "proc id":"31"
+                    }
+                ],
+                "level":"18",
+                "sp cost":"1690"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1005_19_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"11",
+                        "params":"38,0,0,0,0,0",
+                        "proc id":"31"
+                    }
+                ],
+                "level":"19",
+                "sp cost":"1880"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1005_20_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"11",
+                        "params":"40,0,0,0,0,0",
+                        "proc id":"31"
+                    }
+                ],
+                "level":"20",
+                "sp cost":"2080"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1005_21_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"11",
+                        "params":"42,0,0,0,0,0",
+                        "proc id":"31"
+                    }
+                ],
+                "level":"21",
+                "sp cost":"2290"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1005_22_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"11",
+                        "params":"44,0,0,0,0,0",
+                        "proc id":"31"
+                    }
+                ],
+                "level":"22",
+                "sp cost":"2510"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1005_23_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"11",
+                        "params":"46,0,0,0,0,0",
+                        "proc id":"31"
+                    }
+                ],
+                "level":"23",
+                "sp cost":"2740"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1005_24_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"11",
+                        "params":"48,0,0,0,0,0",
+                        "proc id":"31"
+                    }
+                ],
+                "level":"24",
+                "sp cost":"2980"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1005_25_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"11",
+                        "params":"50,0,0,0,0,0",
+                        "proc id":"31"
+                    }
+                ],
+                "level":"25",
+                "sp cost":"3230"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1005_26_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"11",
+                        "params":"52,0,0,0,0,0",
+                        "proc id":"31"
+                    }
+                ],
+                "level":"26",
+                "sp cost":"3490"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1005_27_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"11",
+                        "params":"54,0,0,0,0,0",
+                        "proc id":"31"
+                    }
+                ],
+                "level":"27",
+                "sp cost":"3760"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1005_28_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"11",
+                        "params":"56,0,0,0,0,0",
+                        "proc id":"31"
+                    }
+                ],
+                "level":"28",
+                "sp cost":"4040"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1005_29_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"11",
+                        "params":"58,0,0,0,0,0",
+                        "proc id":"31"
+                    }
+                ],
+                "level":"29",
+                "sp cost":"4330"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1005_30_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"11",
+                        "params":"60,0,0,0,0,0",
+                        "proc id":"31"
+                    }
+                ],
+                "level":"30",
+                "sp cost":"4630"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1005_31_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"11",
+                        "params":"62,0,0,0,0,0",
+                        "proc id":"31"
+                    }
+                ],
+                "level":"31",
+                "sp cost":"4940"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1005_32_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"11",
+                        "params":"64,0,0,0,0,0",
+                        "proc id":"31"
+                    }
+                ],
+                "level":"32",
+                "sp cost":"5260"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1005_33_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"11",
+                        "params":"66,0,0,0,0,0",
+                        "proc id":"31"
+                    }
+                ],
+                "level":"33",
+                "sp cost":"5590"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1005_34_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"11",
+                        "params":"68,0,0,0,0,0",
+                        "proc id":"31"
+                    }
+                ],
+                "level":"34",
+                "sp cost":"5930"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1005_35_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"11",
+                        "params":"70,0,0,0,0,0",
+                        "proc id":"31"
+                    }
+                ],
+                "level":"35",
+                "sp cost":"6280"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1005_36_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"11",
+                        "params":"72,0,0,0,0,0",
+                        "proc id":"31"
+                    }
+                ],
+                "level":"36",
+                "sp cost":"6640"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1005_37_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"11",
+                        "params":"74,0,0,0,0,0",
+                        "proc id":"31"
+                    }
+                ],
+                "level":"37",
+                "sp cost":"7010"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1005_38_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"11",
+                        "params":"76,0,0,0,0,0",
+                        "proc id":"31"
+                    }
+                ],
+                "level":"38",
+                "sp cost":"7390"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1005_39_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"11",
+                        "params":"78,0,0,0,0,0",
+                        "proc id":"31"
+                    }
+                ],
+                "level":"39",
+                "sp cost":"7780"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1005_40_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"11",
+                        "params":"80,0,0,0,0,0",
+                        "proc id":"31"
+                    }
+                ],
+                "level":"40",
+                "sp cost":"8180"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1005_41_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"11",
+                        "params":"82,0,0,0,0,0",
+                        "proc id":"31"
+                    }
+                ],
+                "level":"41",
+                "sp cost":"8590"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1005_42_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"11",
+                        "params":"84,0,0,0,0,0",
+                        "proc id":"31"
+                    }
+                ],
+                "level":"42",
+                "sp cost":"9010"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1005_43_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"11",
+                        "params":"86,0,0,0,0,0",
+                        "proc id":"31"
+                    }
+                ],
+                "level":"43",
+                "sp cost":"9440"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1005_44_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"11",
+                        "params":"88,0,0,0,0,0",
+                        "proc id":"31"
+                    }
+                ],
+                "level":"44",
+                "sp cost":"9880"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1005_45_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"11",
+                        "params":"90,0,0,0,0,0",
+                        "proc id":"31"
+                    }
+                ],
+                "level":"45",
+                "sp cost":"10330"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1005_46_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"11",
+                        "params":"92,0,0,0,0,0",
+                        "proc id":"31"
+                    }
+                ],
+                "level":"46",
+                "sp cost":"10790"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1005_47_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"11",
+                        "params":"94,0,0,0,0,0",
+                        "proc id":"31"
+                    }
+                ],
+                "level":"47",
+                "sp cost":"11260"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1005_48_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"11",
+                        "params":"96,0,0,0,0,0",
+                        "proc id":"31"
+                    }
+                ],
+                "level":"48",
+                "sp cost":"11740"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1005_49_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"11",
+                        "params":"98,0,0,0,0,0",
+                        "proc id":"31"
+                    }
+                ],
+                "level":"49",
+                "sp cost":"12230"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1005_50_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"11",
+                        "params":"100,0,0,0,0,0",
+                        "proc id":"31"
+                    }
+                ],
+                "level":"50",
+                "sp cost":"12730"
+            }
+        ]
+    },
+    {
+        "category":"MST_SU_ABILITY_LEVEL_1007_1_NAME",
+        "icon":"su_skill_icon_13_01.png",
+        "levels":[
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1007_1_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"13",
+                        "params":"10,0,0",
+                        "proc id":"64"
+                    }
+                ],
+                "level":"1",
+                "sp cost":"0"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1007_2_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"13",
+                        "params":"20,0,0",
+                        "proc id":"64"
+                    }
+                ],
+                "level":"2",
+                "sp cost":"80"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1007_3_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"13",
+                        "params":"30,0,0",
+                        "proc id":"64"
+                    }
+                ],
+                "level":"3",
+                "sp cost":"320"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1007_4_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"13",
+                        "params":"40,0,0",
+                        "proc id":"64"
+                    }
+                ],
+                "level":"4",
+                "sp cost":"640"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1007_5_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"13",
+                        "params":"50,0,0",
+                        "proc id":"64"
+                    }
+                ],
+                "level":"5",
+                "sp cost":"1040"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1007_6_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"13",
+                        "params":"60,0,0",
+                        "proc id":"64"
+                    }
+                ],
+                "level":"6",
+                "sp cost":"1520"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1007_7_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"13",
+                        "params":"70,0,0",
+                        "proc id":"64"
+                    }
+                ],
+                "level":"7",
+                "sp cost":"2080"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1007_8_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"13",
+                        "params":"80,0,0",
+                        "proc id":"64"
+                    }
+                ],
+                "level":"8",
+                "sp cost":"2720"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1007_9_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"13",
+                        "params":"90,0,0",
+                        "proc id":"64"
+                    }
+                ],
+                "level":"9",
+                "sp cost":"3040"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1007_10_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"13",
+                        "params":"100,0,0",
+                        "proc id":"64"
+                    }
+                ],
+                "level":"10",
+                "sp cost":"3280"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1007_11_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"13",
+                        "params":"110,0,0",
+                        "proc id":"64"
+                    }
+                ],
+                "level":"11",
+                "sp cost":"3520"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1007_12_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"13",
+                        "params":"120,0,0",
+                        "proc id":"64"
+                    }
+                ],
+                "level":"12",
+                "sp cost":"3760"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1007_13_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"13",
+                        "params":"130,0,0",
+                        "proc id":"64"
+                    }
+                ],
+                "level":"13",
+                "sp cost":"4000"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1007_14_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"13",
+                        "params":"140,0,0",
+                        "proc id":"64"
+                    }
+                ],
+                "level":"14",
+                "sp cost":"4240"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1007_15_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"13",
+                        "params":"150,0,0",
+                        "proc id":"64"
+                    }
+                ],
+                "level":"15",
+                "sp cost":"4480"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1007_16_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"13",
+                        "params":"160,0,0",
+                        "proc id":"64"
+                    }
+                ],
+                "level":"16",
+                "sp cost":"4720"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1007_17_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"13",
+                        "params":"170,0,0",
+                        "proc id":"64"
+                    }
+                ],
+                "level":"17",
+                "sp cost":"4960"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1007_18_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"13",
+                        "params":"180,0,0",
+                        "proc id":"64"
+                    }
+                ],
+                "level":"18",
+                "sp cost":"5200"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1007_19_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"13",
+                        "params":"190,0,0",
+                        "proc id":"64"
+                    }
+                ],
+                "level":"19",
+                "sp cost":"5440"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1007_20_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"13",
+                        "params":"200,0,0",
+                        "proc id":"64"
+                    }
+                ],
+                "level":"20",
+                "sp cost":"5680"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1007_21_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"13",
+                        "params":"210,0,0",
+                        "proc id":"64"
+                    }
+                ],
+                "level":"21",
+                "sp cost":"5920"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1007_22_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"13",
+                        "params":"220,0,0",
+                        "proc id":"64"
+                    }
+                ],
+                "level":"22",
+                "sp cost":"6160"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1007_23_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"13",
+                        "params":"230,0,0",
+                        "proc id":"64"
+                    }
+                ],
+                "level":"23",
+                "sp cost":"6400"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1007_24_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"13",
+                        "params":"240,0,0",
+                        "proc id":"64"
+                    }
+                ],
+                "level":"24",
+                "sp cost":"6640"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1007_25_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"13",
+                        "params":"250,0,0",
+                        "proc id":"64"
+                    }
+                ],
+                "level":"25",
+                "sp cost":"6880"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1007_26_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"13",
+                        "params":"260,0,0",
+                        "proc id":"64"
+                    }
+                ],
+                "level":"26",
+                "sp cost":"7120"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1007_27_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"13",
+                        "params":"270,0,0",
+                        "proc id":"64"
+                    }
+                ],
+                "level":"27",
+                "sp cost":"7360"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1007_28_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"13",
+                        "params":"280,0,0",
+                        "proc id":"64"
+                    }
+                ],
+                "level":"28",
+                "sp cost":"7600"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1007_29_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"13",
+                        "params":"290,0,0",
+                        "proc id":"64"
+                    }
+                ],
+                "level":"29",
+                "sp cost":"7840"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1007_30_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"13",
+                        "params":"300,0,0",
+                        "proc id":"64"
+                    }
+                ],
+                "level":"30",
+                "sp cost":"8080"
+            }
+        ]
+    },
+    {
+        "category":"MST_SU_ABILITY_LEVEL_1008_1_NAME",
+        "icon":"su_skill_icon_03_07.png",
+        "levels":[
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1008_1_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"3",
+                        "params":"1,1,0,0,0",
+                        "proc id":"19"
+                    }
+                ],
+                "level":"1",
+                "sp cost":"0"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1008_2_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"3",
+                        "params":"2,2,0,0,0",
+                        "proc id":"19"
+                    }
+                ],
+                "level":"2",
+                "sp cost":"40"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1008_3_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"3",
+                        "params":"3,3,0,0,0",
+                        "proc id":"19"
+                    }
+                ],
+                "level":"3",
+                "sp cost":"160"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1008_4_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"3",
+                        "params":"4,4,0,0,0",
+                        "proc id":"19"
+                    }
+                ],
+                "level":"4",
+                "sp cost":"320"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1008_5_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"3",
+                        "params":"5,5,0,0,0",
+                        "proc id":"19"
+                    }
+                ],
+                "level":"5",
+                "sp cost":"520"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1008_6_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"3",
+                        "params":"6,6,0,0,0",
+                        "proc id":"19"
+                    }
+                ],
+                "level":"6",
+                "sp cost":"760"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1008_7_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"3",
+                        "params":"7,7,0,0,0",
+                        "proc id":"19"
+                    }
+                ],
+                "level":"7",
+                "sp cost":"1040"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1008_8_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"3",
+                        "params":"8,8,0,0,0",
+                        "proc id":"19"
+                    }
+                ],
+                "level":"8",
+                "sp cost":"1360"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1008_9_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"3",
+                        "params":"9,9,0,0,0",
+                        "proc id":"19"
+                    }
+                ],
+                "level":"9",
+                "sp cost":"1720"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1008_10_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"3",
+                        "params":"10,10,0,0,0",
+                        "proc id":"19"
+                    }
+                ],
+                "level":"10",
+                "sp cost":"2120"
+            }
+        ]
+    },
+    {
+        "category":"MST_SU_ABILITY_LEVEL_1009_1_NAME",
+        "icon":"su_skill_icon_05_07.png",
+        "levels":[
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1009_1_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"5",
+                        "params":"0,0,0,0,0,0",
+                        "proc id":"4"
+                    }
+                ],
+                "level":"1",
+                "sp cost":"0"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1009_2_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"5",
+                        "params":"10,10,10,10,10,10",
+                        "proc id":"4"
+                    }
+                ],
+                "level":"2",
+                "sp cost":"160"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1009_3_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"5",
+                        "params":"20,20,20,20,20,20",
+                        "proc id":"4"
+                    }
+                ],
+                "level":"3",
+                "sp cost":"640"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1009_4_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"5",
+                        "params":"30,30,30,30,30,30",
+                        "proc id":"4"
+                    }
+                ],
+                "level":"4",
+                "sp cost":"1280"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1009_5_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"5",
+                        "params":"50,50,50,50,50,50",
+                        "proc id":"4"
+                    }
+                ],
+                "level":"5",
+                "sp cost":"2080"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1009_6_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"5",
+                        "params":"60,60,60,60,60,60",
+                        "proc id":"4"
+                    }
+                ],
+                "level":"6",
+                "sp cost":"2880"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1009_7_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"5",
+                        "params":"70,70,70,70,70,70",
+                        "proc id":"4"
+                    }
+                ],
+                "level":"7",
+                "sp cost":"3680"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1009_8_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"5",
+                        "params":"80,80,80,80,80,80",
+                        "proc id":"4"
+                    }
+                ],
+                "level":"8",
+                "sp cost":"4480"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1009_9_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"5",
+                        "params":"90,90,90,90,90,90",
+                        "proc id":"4"
+                    }
+                ],
+                "level":"9",
+                "sp cost":"5280"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1009_10_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"5",
+                        "params":"100,100,100,100,100,100",
+                        "proc id":"4"
+                    }
+                ],
+                "level":"10",
+                "sp cost":"6080"
+            }
+        ]
+    },
+    {
+        "category":"MST_SU_ABILITY_LEVEL_1010_1_NAME",
+        "icon":"su_skill_icon_11_02.png",
+        "levels":[
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1010_1_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"11",
+                        "params":"0,50",
+                        "proc id":"100"
+                    }
+                ],
+                "level":"1",
+                "sp cost":"0"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1010_2_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"11",
+                        "params":"2,50",
+                        "proc id":"100"
+                    }
+                ],
+                "level":"2",
+                "sp cost":"120"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1010_3_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"11",
+                        "params":"4,50",
+                        "proc id":"100"
+                    }
+                ],
+                "level":"3",
+                "sp cost":"480"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1010_4_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"11",
+                        "params":"6,50",
+                        "proc id":"100"
+                    }
+                ],
+                "level":"4",
+                "sp cost":"960"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1010_5_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"11",
+                        "params":"10,50",
+                        "proc id":"100"
+                    }
+                ],
+                "level":"5",
+                "sp cost":"1560"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1010_6_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"11",
+                        "params":"11,50",
+                        "proc id":"100"
+                    }
+                ],
+                "level":"6",
+                "sp cost":"2160"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1010_7_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"11",
+                        "params":"12,50",
+                        "proc id":"100"
+                    }
+                ],
+                "level":"7",
+                "sp cost":"2760"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1010_8_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"11",
+                        "params":"13,50",
+                        "proc id":"100"
+                    }
+                ],
+                "level":"8",
+                "sp cost":"3360"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1010_9_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"11",
+                        "params":"14,50",
+                        "proc id":"100"
+                    }
+                ],
+                "level":"9",
+                "sp cost":"3960"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1010_10_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"11",
+                        "params":"15,50",
+                        "proc id":"100"
+                    }
+                ],
+                "level":"10",
+                "sp cost":"4560"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1010_11_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"11",
+                        "params":"16,50",
+                        "proc id":"100"
+                    }
+                ],
+                "level":"11",
+                "sp cost":"5160"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1010_12_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"11",
+                        "params":"17,50",
+                        "proc id":"100"
+                    }
+                ],
+                "level":"12",
+                "sp cost":"5760"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1010_13_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"11",
+                        "params":"18,50",
+                        "proc id":"100"
+                    }
+                ],
+                "level":"13",
+                "sp cost":"6360"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1010_14_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"11",
+                        "params":"19,50",
+                        "proc id":"100"
+                    }
+                ],
+                "level":"14",
+                "sp cost":"6960"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1010_15_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"11",
+                        "params":"20,50",
+                        "proc id":"100"
+                    }
+                ],
+                "level":"15",
+                "sp cost":"7560"
+            }
+        ]
+    },
+    {
+        "category":"MST_SU_ABILITY_LEVEL_1011_1_NAME",
+        "icon":"su_skill_icon_13_18.png",
+        "levels":[
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1011_1_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"13",
+                        "params":"0,0,0",
+                        "proc id":"64"
+                    }
+                ],
+                "level":"1",
+                "sp cost":"0"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1011_2_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"13",
+                        "params":"0,10,0",
+                        "proc id":"64"
+                    }
+                ],
+                "level":"2",
+                "sp cost":"80"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1011_3_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"13",
+                        "params":"0,20,0",
+                        "proc id":"64"
+                    }
+                ],
+                "level":"3",
+                "sp cost":"320"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1011_4_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"13",
+                        "params":"0,30,0",
+                        "proc id":"64"
+                    }
+                ],
+                "level":"4",
+                "sp cost":"640"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1011_5_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"13",
+                        "params":"0,40,0",
+                        "proc id":"64"
+                    }
+                ],
+                "level":"5",
+                "sp cost":"1040"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1011_6_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"13",
+                        "params":"0,50,0",
+                        "proc id":"64"
+                    }
+                ],
+                "level":"6",
+                "sp cost":"1520"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1011_7_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"13",
+                        "params":"0,60,0",
+                        "proc id":"64"
+                    }
+                ],
+                "level":"7",
+                "sp cost":"2080"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1011_8_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"13",
+                        "params":"0,70,0",
+                        "proc id":"64"
+                    }
+                ],
+                "level":"8",
+                "sp cost":"2720"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1011_9_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"13",
+                        "params":"0,80,0",
+                        "proc id":"64"
+                    }
+                ],
+                "level":"9",
+                "sp cost":"3040"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1011_10_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"13",
+                        "params":"0,100,0",
+                        "proc id":"64"
+                    }
+                ],
+                "level":"10",
+                "sp cost":"3280"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1011_11_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"13",
+                        "params":"0,110,0",
+                        "proc id":"64"
+                    }
+                ],
+                "level":"11",
+                "sp cost":"3520"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1011_12_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"13",
+                        "params":"0,120,0",
+                        "proc id":"64"
+                    }
+                ],
+                "level":"12",
+                "sp cost":"3760"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1011_13_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"13",
+                        "params":"0,130,0",
+                        "proc id":"64"
+                    }
+                ],
+                "level":"13",
+                "sp cost":"4000"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1011_14_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"13",
+                        "params":"0,140,0",
+                        "proc id":"64"
+                    }
+                ],
+                "level":"14",
+                "sp cost":"4240"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1011_15_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"13",
+                        "params":"0,150,0",
+                        "proc id":"64"
+                    }
+                ],
+                "level":"15",
+                "sp cost":"4480"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1011_16_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"13",
+                        "params":"0,160,0",
+                        "proc id":"64"
+                    }
+                ],
+                "level":"16",
+                "sp cost":"4720"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1011_17_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"13",
+                        "params":"0,170,0",
+                        "proc id":"64"
+                    }
+                ],
+                "level":"17",
+                "sp cost":"4960"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1011_18_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"13",
+                        "params":"0,180,0",
+                        "proc id":"64"
+                    }
+                ],
+                "level":"18",
+                "sp cost":"5200"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1011_19_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"13",
+                        "params":"0,190,0",
+                        "proc id":"64"
+                    }
+                ],
+                "level":"19",
+                "sp cost":"5440"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1011_20_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"13",
+                        "params":"0,200,0",
+                        "proc id":"64"
+                    }
+                ],
+                "level":"20",
+                "sp cost":"5680"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1011_21_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"13",
+                        "params":"0,210,0",
+                        "proc id":"64"
+                    }
+                ],
+                "level":"21",
+                "sp cost":"5920"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1011_22_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"13",
+                        "params":"0,220,0",
+                        "proc id":"64"
+                    }
+                ],
+                "level":"22",
+                "sp cost":"6160"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1011_23_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"13",
+                        "params":"0,230,0",
+                        "proc id":"64"
+                    }
+                ],
+                "level":"23",
+                "sp cost":"6400"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1011_24_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"13",
+                        "params":"0,240,0",
+                        "proc id":"64"
+                    }
+                ],
+                "level":"24",
+                "sp cost":"6640"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1011_25_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"13",
+                        "params":"0,250,0",
+                        "proc id":"64"
+                    }
+                ],
+                "level":"25",
+                "sp cost":"6880"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1011_26_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"13",
+                        "params":"0,260,0",
+                        "proc id":"64"
+                    }
+                ],
+                "level":"26",
+                "sp cost":"7120"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1011_27_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"13",
+                        "params":"0,270,0",
+                        "proc id":"64"
+                    }
+                ],
+                "level":"27",
+                "sp cost":"7360"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1011_28_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"13",
+                        "params":"0,280,0",
+                        "proc id":"64"
+                    }
+                ],
+                "level":"28",
+                "sp cost":"7600"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1011_29_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"13",
+                        "params":"0,290,0",
+                        "proc id":"64"
+                    }
+                ],
+                "level":"29",
+                "sp cost":"7840"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1011_30_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"13",
+                        "params":"0,300,0",
+                        "proc id":"64"
+                    }
+                ],
+                "level":"30",
+                "sp cost":"8080"
+            }
+        ]
+    },
+    {
+        "category":"MST_SU_ABILITY_LEVEL_1012_1_NAME",
+        "icon":"su_skill_icon_06_07.png",
+        "levels":[
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1012_1_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"6",
+                        "params":"0",
+                        "proc id":"48"
+                    }
+                ],
+                "level":"1",
+                "sp cost":"0"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1012_2_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"6",
+                        "params":"2",
+                        "proc id":"48"
+                    }
+                ],
+                "level":"2",
+                "sp cost":"240"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1012_3_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"6",
+                        "params":"4",
+                        "proc id":"48"
+                    }
+                ],
+                "level":"3",
+                "sp cost":"960"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1012_4_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"6",
+                        "params":"6",
+                        "proc id":"48"
+                    }
+                ],
+                "level":"4",
+                "sp cost":"1920"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1012_5_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"6",
+                        "params":"10",
+                        "proc id":"48"
+                    }
+                ],
+                "level":"5",
+                "sp cost":"3120"
+            }
+        ]
+    },
+    {
+        "category":"MST_SU_ABILITY_LEVEL_1013_1_NAME",
+        "icon":"su_skill_icon_01_09.png",
+        "levels":[
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1013_1_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,0,0,0,0,0",
+                        "proc id":"46"
+                    }
+                ],
+                "level":"1",
+                "sp cost":"0"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1013_2_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,50,0,0,0,0,0",
+                        "proc id":"46"
+                    }
+                ],
+                "level":"2",
+                "sp cost":"10000"
+            }
+        ]
+    },
+    {
+        "category":"MST_SU_ABILITY_LEVEL_1014_1_NAME",
+        "icon":"su_skill_icon_01_10.png",
+        "levels":[
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1014_1_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,0,0,0,0,1",
+                        "proc id":"46"
+                    }
+                ],
+                "level":"1",
+                "sp cost":"0"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1014_2_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,0,50,0,0,1",
+                        "proc id":"46"
+                    }
+                ],
+                "level":"2",
+                "sp cost":"10000"
+            }
+        ]
+    },
+    {
+        "category":"MST_SU_ABILITY_LEVEL_1015_1_NAME",
+        "icon":"su_skill_icon_06_06.png",
+        "levels":[
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1015_1_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"6",
+                        "params":"0",
+                        "proc id":"32"
+                    }
+                ],
+                "level":"1",
+                "sp cost":"0"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1015_2_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"6",
+                        "params":"3",
+                        "proc id":"32"
+                    }
+                ],
+                "level":"2",
+                "sp cost":"240"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1015_3_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"6",
+                        "params":"6",
+                        "proc id":"32"
+                    }
+                ],
+                "level":"3",
+                "sp cost":"960"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1015_4_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"6",
+                        "params":"9",
+                        "proc id":"32"
+                    }
+                ],
+                "level":"4",
+                "sp cost":"1920"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1015_5_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"6",
+                        "params":"15",
+                        "proc id":"32"
+                    }
+                ],
+                "level":"5",
+                "sp cost":"3120"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1015_6_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"6",
+                        "params":"18",
+                        "proc id":"32"
+                    }
+                ],
+                "level":"6",
+                "sp cost":"4320"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1015_7_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"6",
+                        "params":"21",
+                        "proc id":"32"
+                    }
+                ],
+                "level":"7",
+                "sp cost":"5520"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1015_8_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"6",
+                        "params":"24",
+                        "proc id":"32"
+                    }
+                ],
+                "level":"8",
+                "sp cost":"6720"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1015_9_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"6",
+                        "params":"27",
+                        "proc id":"32"
+                    }
+                ],
+                "level":"9",
+                "sp cost":"7920"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1015_10_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"6",
+                        "params":"30",
+                        "proc id":"32"
+                    }
+                ],
+                "level":"10",
+                "sp cost":"9120"
+            }
+        ]
+    },
+    {
+        "category":"MST_SU_ABILITY_LEVEL_1016_1_NAME",
+        "icon":"su_skill_icon_07_01.png",
+        "levels":[
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1016_1_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"7",
+                        "params":"0",
+                        "proc id":"10"
+                    }
+                ],
+                "level":"1",
+                "sp cost":"0"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1016_2_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"7",
+                        "params":"3",
+                        "proc id":"10"
+                    }
+                ],
+                "level":"2",
+                "sp cost":"240"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1016_3_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"7",
+                        "params":"6",
+                        "proc id":"10"
+                    }
+                ],
+                "level":"3",
+                "sp cost":"960"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1016_4_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"7",
+                        "params":"9",
+                        "proc id":"10"
+                    }
+                ],
+                "level":"4",
+                "sp cost":"1920"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1016_5_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"7",
+                        "params":"15",
+                        "proc id":"10"
+                    }
+                ],
+                "level":"5",
+                "sp cost":"3120"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1016_6_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"7",
+                        "params":"18",
+                        "proc id":"10"
+                    }
+                ],
+                "level":"6",
+                "sp cost":"4320"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1016_7_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"7",
+                        "params":"21",
+                        "proc id":"10"
+                    }
+                ],
+                "level":"7",
+                "sp cost":"5520"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1016_8_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"7",
+                        "params":"24",
+                        "proc id":"10"
+                    }
+                ],
+                "level":"8",
+                "sp cost":"6720"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1016_9_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"7",
+                        "params":"27",
+                        "proc id":"10"
+                    }
+                ],
+                "level":"9",
+                "sp cost":"7920"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1016_10_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"7",
+                        "params":"30",
+                        "proc id":"10"
+                    }
+                ],
+                "level":"10",
+                "sp cost":"9120"
+            }
+        ]
+    },
+    {
+        "category":"MST_SU_ABILITY_LEVEL_1017_1_NAME",
+        "icon":"su_skill_icon_14_01.png",
+        "levels":[
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1017_1_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"99999",
+                        "proc id":"143"
+                    }
+                ],
+                "level":"1",
+                "sp cost":"0"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1017_2_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"130000",
+                        "proc id":"143"
+                    }
+                ],
+                "level":"2",
+                "sp cost":"50000"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1017_3_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"150000",
+                        "proc id":"143"
+                    }
+                ],
+                "level":"3",
+                "sp cost":"50000"
+            }
+        ]
+    },
+    {
+        "category":"MST_SU_ABILITY_LEVEL_1018_1_NAME",
+        "icon":"su_skill_icon_15_01.png",
+        "levels":[
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1018_1_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"14",
+                        "params":"0",
+                        "proc id":"70"
+                    }
+                ],
+                "level":"1",
+                "sp cost":"0"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1018_2_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"14",
+                        "params":"2",
+                        "proc id":"70"
+                    }
+                ],
+                "level":"2",
+                "sp cost":"240"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1018_3_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"14",
+                        "params":"4",
+                        "proc id":"70"
+                    }
+                ],
+                "level":"3",
+                "sp cost":"960"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1018_4_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"14",
+                        "params":"6",
+                        "proc id":"70"
+                    }
+                ],
+                "level":"4",
+                "sp cost":"1920"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1018_5_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"14",
+                        "params":"8",
+                        "proc id":"70"
+                    }
+                ],
+                "level":"5",
+                "sp cost":"3120"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1018_6_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"14",
+                        "params":"10",
+                        "proc id":"70"
+                    }
+                ],
+                "level":"6",
+                "sp cost":"4320"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1018_7_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"14",
+                        "params":"12",
+                        "proc id":"70"
+                    }
+                ],
+                "level":"7",
+                "sp cost":"5520"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1018_8_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"14",
+                        "params":"14",
+                        "proc id":"70"
+                    }
+                ],
+                "level":"8",
+                "sp cost":"6720"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1018_9_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"14",
+                        "params":"16",
+                        "proc id":"70"
+                    }
+                ],
+                "level":"9",
+                "sp cost":"7920"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1018_10_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"14",
+                        "params":"20",
+                        "proc id":"70"
+                    }
+                ],
+                "level":"10",
+                "sp cost":"9120"
+            }
+        ]
+    },
+    {
+        "category":"MST_SU_ABILITY_LEVEL_1019_1_NAME",
+        "icon":"su_skill_icon_16_01.png",
+        "levels":[
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1019_1_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"0,0,0,0,0",
+                        "proc id":"69"
+                    }
+                ],
+                "level":"1",
+                "sp cost":"0"
+            },
+            {
+                "desc":"MST_SU_ABILITY_LEVEL_1019_2_DESC",
+                "effects":[
+                    {
+                        "effect area":"1",
+                        "kind?":"1",
+                        "params":"100,1,100,100,0",
+                        "proc id":"69"
+                    }
+                ],
+                "level":"2",
+                "sp cost":"90000"
+            }
+        ]
+    }
+]

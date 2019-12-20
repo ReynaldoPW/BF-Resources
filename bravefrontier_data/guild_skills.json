@@ -1,0 +1,490 @@
+{
+    "EXP":{
+        "1":{
+            "guild level":"10",
+            "karma":"2250000",
+            "percent boost":5,
+            "zel":"6750000"
+        },
+        "2":{
+            "guild level":"12",
+            "karma":"3425000",
+            "percent boost":10,
+            "zel":"10275000"
+        },
+        "3":{
+            "guild level":"14",
+            "karma":"3935000",
+            "percent boost":15,
+            "zel":"11805000"
+        },
+        "4":{
+            "guild level":"17",
+            "karma":"4525000",
+            "percent boost":20,
+            "zel":"13575000"
+        },
+        "5":{
+            "guild level":"21",
+            "karma":"6500000",
+            "percent boost":25,
+            "zel":"19500000"
+        },
+        "6":{
+            "guild level":"26",
+            "karma":"7470000",
+            "percent boost":30,
+            "zel":"22410000"
+        },
+        "7":{
+            "guild level":"37",
+            "karma":"8590000",
+            "percent boost":35,
+            "zel":"25770000"
+        },
+        "8":{
+            "guild level":"48",
+            "karma":"11845000",
+            "percent boost":40,
+            "zel":"35535000"
+        },
+        "9":{
+            "guild level":"59",
+            "karma":"13615000",
+            "percent boost":45,
+            "zel":"40845000"
+        },
+        "10":{
+            "guild level":"70",
+            "karma":"18260000",
+            "percent boost":50,
+            "zel":"54780000"
+        },
+        "11":{
+            "guild level":"81",
+            "karma":"20990000",
+            "percent boost":55,
+            "zel":"62970000"
+        },
+        "12":{
+            "guild level":"92",
+            "karma":"27570000",
+            "percent boost":60,
+            "zel":"82710000"
+        },
+        "13":{
+            "guild level":"103",
+            "karma":"31690000",
+            "percent boost":65,
+            "zel":"95070000"
+        },
+        "14":{
+            "guild level":"114",
+            "karma":"36425000",
+            "percent boost":70,
+            "zel":"109275000"
+        },
+        "15":{
+            "guild level":"125",
+            "karma":"47100000",
+            "percent boost":75,
+            "zel":"141300000"
+        },
+        "16":{
+            "guild level":"136",
+            "karma":"54140000",
+            "percent boost":80,
+            "zel":"162420000"
+        },
+        "17":{
+            "guild level":"147",
+            "karma":"62230000",
+            "percent boost":85,
+            "zel":"186690000"
+        },
+        "18":{
+            "guild level":"158",
+            "karma":"71530000",
+            "percent boost":90,
+            "zel":"214590000"
+        },
+        "19":{
+            "guild level":"169",
+            "karma":"82215000",
+            "percent boost":95,
+            "zel":"246645000"
+        },
+        "20":{
+            "guild level":"180",
+            "karma":"105000000",
+            "percent boost":100,
+            "zel":"315000000"
+        }
+    },
+    "Karma":{
+        "1":{
+            "guild level":"1",
+            "karma":"1500000",
+            "percent boost":10,
+            "zel":"4500000"
+        },
+        "2":{
+            "guild level":"3",
+            "karma":"1715000",
+            "percent boost":20,
+            "zel":"5145000"
+        },
+        "3":{
+            "guild level":"5",
+            "karma":"2955000",
+            "percent boost":30,
+            "zel":"8865000"
+        },
+        "4":{
+            "guild level":"8",
+            "karma":"3395000",
+            "percent boost":40,
+            "zel":"10185000"
+        },
+        "5":{
+            "guild level":"12",
+            "karma":"5200000",
+            "percent boost":50,
+            "zel":"15600000"
+        },
+        "6":{
+            "guild level":"17",
+            "karma":"5980000",
+            "percent boost":60,
+            "zel":"17940000"
+        },
+        "7":{
+            "guild level":"28",
+            "karma":"8590000",
+            "percent boost":70,
+            "zel":"25770000"
+        },
+        "8":{
+            "guild level":"39",
+            "karma":"9870000",
+            "percent boost":80,
+            "zel":"29610000"
+        },
+        "9":{
+            "guild level":"50",
+            "karma":"13615000",
+            "percent boost":90,
+            "zel":"40845000"
+        },
+        "10":{
+            "guild level":"61",
+            "karma":"15650000",
+            "percent boost":100,
+            "zel":"46950000"
+        },
+        "11":{
+            "guild level":"72",
+            "karma":"20990000",
+            "percent boost":110,
+            "zel":"62970000"
+        },
+        "12":{
+            "guild level":"83",
+            "karma":"24125000",
+            "percent boost":120,
+            "zel":"72375000"
+        },
+        "13":{
+            "guild level":"94",
+            "karma":"31690000",
+            "percent boost":130,
+            "zel":"95070000"
+        },
+        "14":{
+            "guild level":"105",
+            "karma":"36425000",
+            "percent boost":140,
+            "zel":"109275000"
+        },
+        "15":{
+            "guild level":"116",
+            "karma":"41870000",
+            "percent boost":150,
+            "zel":"125610000"
+        },
+        "16":{
+            "guild level":"127",
+            "karma":"54140000",
+            "percent boost":160,
+            "zel":"162420000"
+        },
+        "17":{
+            "guild level":"138",
+            "karma":"62230000",
+            "percent boost":170,
+            "zel":"186690000"
+        },
+        "18":{
+            "guild level":"149",
+            "karma":"71530000",
+            "percent boost":180,
+            "zel":"214590000"
+        },
+        "19":{
+            "guild level":"160",
+            "karma":"82215000",
+            "percent boost":190,
+            "zel":"246645000"
+        },
+        "20":{
+            "guild level":"171",
+            "karma":"94500000",
+            "percent boost":200,
+            "zel":"283500000"
+        }
+    },
+    "Summoner Exp":{
+        "1":{
+            "guild level":"10",
+            "karma":"2250000",
+            "percent boost":2,
+            "zel":"6750000"
+        },
+        "2":{
+            "guild level":"12",
+            "karma":"3425000",
+            "percent boost":4,
+            "zel":"10275000"
+        },
+        "3":{
+            "guild level":"14",
+            "karma":"3935000",
+            "percent boost":6,
+            "zel":"11805000"
+        },
+        "4":{
+            "guild level":"17",
+            "karma":"4525000",
+            "percent boost":8,
+            "zel":"13575000"
+        },
+        "5":{
+            "guild level":"21",
+            "karma":"6500000",
+            "percent boost":10,
+            "zel":"19500000"
+        },
+        "6":{
+            "guild level":"26",
+            "karma":"7470000",
+            "percent boost":12,
+            "zel":"22410000"
+        },
+        "7":{
+            "guild level":"37",
+            "karma":"8590000",
+            "percent boost":14,
+            "zel":"25770000"
+        },
+        "8":{
+            "guild level":"48",
+            "karma":"11845000",
+            "percent boost":16,
+            "zel":"35535000"
+        },
+        "9":{
+            "guild level":"59",
+            "karma":"13615000",
+            "percent boost":18,
+            "zel":"40845000"
+        },
+        "10":{
+            "guild level":"70",
+            "karma":"18260000",
+            "percent boost":20,
+            "zel":"54780000"
+        },
+        "11":{
+            "guild level":"81",
+            "karma":"20990000",
+            "percent boost":23,
+            "zel":"62970000"
+        },
+        "12":{
+            "guild level":"92",
+            "karma":"27570000",
+            "percent boost":26,
+            "zel":"82710000"
+        },
+        "13":{
+            "guild level":"103",
+            "karma":"31690000",
+            "percent boost":29,
+            "zel":"95070000"
+        },
+        "14":{
+            "guild level":"114",
+            "karma":"36425000",
+            "percent boost":32,
+            "zel":"109275000"
+        },
+        "15":{
+            "guild level":"125",
+            "karma":"47100000",
+            "percent boost":35,
+            "zel":"141300000"
+        },
+        "16":{
+            "guild level":"136",
+            "karma":"54140000",
+            "percent boost":38,
+            "zel":"162420000"
+        },
+        "17":{
+            "guild level":"147",
+            "karma":"62230000",
+            "percent boost":41,
+            "zel":"186690000"
+        },
+        "18":{
+            "guild level":"158",
+            "karma":"71530000",
+            "percent boost":44,
+            "zel":"214590000"
+        },
+        "19":{
+            "guild level":"169",
+            "karma":"82215000",
+            "percent boost":47,
+            "zel":"246645000"
+        },
+        "20":{
+            "guild level":"180",
+            "karma":"105000000",
+            "percent boost":50,
+            "zel":"315000000"
+        }
+    },
+    "Zel":{
+        "1":{
+            "guild level":"1",
+            "karma":"1500000",
+            "percent boost":10,
+            "zel":"4500000"
+        },
+        "2":{
+            "guild level":"3",
+            "karma":"1715000",
+            "percent boost":20,
+            "zel":"5145000"
+        },
+        "3":{
+            "guild level":"5",
+            "karma":"2955000",
+            "percent boost":30,
+            "zel":"8865000"
+        },
+        "4":{
+            "guild level":"8",
+            "karma":"3395000",
+            "percent boost":40,
+            "zel":"10185000"
+        },
+        "5":{
+            "guild level":"12",
+            "karma":"5200000",
+            "percent boost":50,
+            "zel":"15600000"
+        },
+        "6":{
+            "guild level":"17",
+            "karma":"5980000",
+            "percent boost":60,
+            "zel":"17940000"
+        },
+        "7":{
+            "guild level":"28",
+            "karma":"8590000",
+            "percent boost":70,
+            "zel":"25770000"
+        },
+        "8":{
+            "guild level":"39",
+            "karma":"9870000",
+            "percent boost":80,
+            "zel":"29610000"
+        },
+        "9":{
+            "guild level":"50",
+            "karma":"13615000",
+            "percent boost":90,
+            "zel":"40845000"
+        },
+        "10":{
+            "guild level":"61",
+            "karma":"15650000",
+            "percent boost":100,
+            "zel":"46950000"
+        },
+        "11":{
+            "guild level":"72",
+            "karma":"20990000",
+            "percent boost":110,
+            "zel":"62970000"
+        },
+        "12":{
+            "guild level":"83",
+            "karma":"24125000",
+            "percent boost":120,
+            "zel":"72375000"
+        },
+        "13":{
+            "guild level":"94",
+            "karma":"31690000",
+            "percent boost":130,
+            "zel":"95070000"
+        },
+        "14":{
+            "guild level":"105",
+            "karma":"36425000",
+            "percent boost":140,
+            "zel":"109275000"
+        },
+        "15":{
+            "guild level":"116",
+            "karma":"41870000",
+            "percent boost":150,
+            "zel":"125610000"
+        },
+        "16":{
+            "guild level":"127",
+            "karma":"54140000",
+            "percent boost":160,
+            "zel":"162420000"
+        },
+        "17":{
+            "guild level":"138",
+            "karma":"62230000",
+            "percent boost":170,
+            "zel":"186690000"
+        },
+        "18":{
+            "guild level":"149",
+            "karma":"71530000",
+            "percent boost":180,
+            "zel":"214590000"
+        },
+        "19":{
+            "guild level":"160",
+            "karma":"82215000",
+            "percent boost":190,
+            "zel":"246645000"
+        },
+        "20":{
+            "guild level":"171",
+            "karma":"94500000",
+            "percent boost":200,
+            "zel":"283500000"
+        }
+    }
+}

@@ -1,0 +1,17 @@
+[
+    {
+        "MAX_AGE":"13",
+        "MIN_AGE":"0",
+        "P_AMOUNT_LIMIT":"3000"
+    },
+    {
+        "MAX_AGE":"17",
+        "MIN_AGE":"14",
+        "P_AMOUNT_LIMIT":"10000"
+    },
+    {
+        "MAX_AGE":"19",
+        "MIN_AGE":"18",
+        "P_AMOUNT_LIMIT":"50000"
+    }
+]

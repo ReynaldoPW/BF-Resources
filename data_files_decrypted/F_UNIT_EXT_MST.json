@@ -1,0 +1,50 @@
+[
+    {
+        "ES_CHANCE (1=add,2=remove)*":"0",
+        "IMP_CAP_BOOST":"0:20:0:0",
+        "SPHERE_CAPACITY_INCREASE":"0",
+        "UNIT_ID":"10452"
+    },
+    {
+        "ES_CHANCE (1=add,2=remove)*":"0",
+        "IMP_CAP_BOOST":"0:0:0:0",
+        "SPHERE_CAPACITY_INCREASE":"1",
+        "UNIT_ID":"20302"
+    },
+    {
+        "ES_CHANCE (1=add,2=remove)*":"0",
+        "IMP_CAP_BOOST":"0:0:20:0",
+        "SPHERE_CAPACITY_INCREASE":"0",
+        "UNIT_ID":"20442"
+    },
+    {
+        "ES_CHANCE (1=add,2=remove)*":"0",
+        "IMP_CAP_BOOST":"0:0:0:20",
+        "SPHERE_CAPACITY_INCREASE":"0",
+        "UNIT_ID":"30432"
+    },
+    {
+        "ES_CHANCE (1=add,2=remove)*":"0",
+        "IMP_CAP_BOOST":"50:0:0:0",
+        "SPHERE_CAPACITY_INCREASE":"0",
+        "UNIT_ID":"40432"
+    },
+    {
+        "ES_CHANCE (1=add,2=remove)*":"0",
+        "IMP_CAP_BOOST":"150:60:60:60",
+        "SPHERE_CAPACITY_INCREASE":"0",
+        "UNIT_ID":"50612"
+    },
+    {
+        "ES_CHANCE (1=add,2=remove)*":"1",
+        "IMP_CAP_BOOST":"0:0:0:0",
+        "SPHERE_CAPACITY_INCREASE":"0",
+        "UNIT_ID":"50792"
+    },
+    {
+        "ES_CHANCE (1=add,2=remove)*":"2",
+        "IMP_CAP_BOOST":"0:0:0:0",
+        "SPHERE_CAPACITY_INCREASE":"0",
+        "UNIT_ID":"60812"
+    }
+]

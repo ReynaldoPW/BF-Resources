@@ -1,0 +1,26 @@
+[
+    {
+        "PLAY_STYLE_NAME":"Not Specified",
+        "PLAY_STYLE_NUMBER":"1"
+    },
+    {
+        "PLAY_STYLE_NAME":"Beginners welcome",
+        "PLAY_STYLE_NUMBER":"2"
+    },
+    {
+        "PLAY_STYLE_NAME":"Casual play",
+        "PLAY_STYLE_NUMBER":"3"
+    },
+    {
+        "PLAY_STYLE_NAME":"Open to all",
+        "PLAY_STYLE_NUMBER":"4"
+    },
+    {
+        "PLAY_STYLE_NAME":"Strategic play",
+        "PLAY_STYLE_NUMBER":"5"
+    },
+    {
+        "PLAY_STYLE_NAME":"Advanced only",
+        "PLAY_STYLE_NUMBER":"6"
+    }
+]

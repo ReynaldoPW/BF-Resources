@@ -1,0 +1,50 @@
+[
+    {
+        "GEM_COST":"0",
+        "STAMP_COST_BUTNOTGEMS*":"1",
+        "STAMP_SET_NAME":"Vargas",
+        "STAMP_SET_NUMBER":"1",
+        "THUMBNAIL":"tab_stamp_00002.png",
+        "vnYi8c3R":""
+    },
+    {
+        "GEM_COST":"0",
+        "STAMP_COST_BUTNOTGEMS*":"1",
+        "STAMP_SET_NAME":"Sergio",
+        "STAMP_SET_NUMBER":"2",
+        "THUMBNAIL":"tab_stamp_00003.png",
+        "vnYi8c3R":""
+    },
+    {
+        "GEM_COST":"0",
+        "STAMP_COST_BUTNOTGEMS*":"1",
+        "STAMP_SET_NAME":"May",
+        "STAMP_SET_NUMBER":"3",
+        "THUMBNAIL":"tab_stamp_00004.png",
+        "vnYi8c3R":""
+    },
+    {
+        "GEM_COST":"2",
+        "STAMP_COST_BUTNOTGEMS*":"0",
+        "STAMP_SET_NAME":"Brave Heroes",
+        "STAMP_SET_NUMBER":"4",
+        "THUMBNAIL":"tab_stamp_00005.png",
+        "vnYi8c3R":"893c1f38690c025768f21273e6c684f273350a26"
+    },
+    {
+        "GEM_COST":"2",
+        "STAMP_COST_BUTNOTGEMS*":"0",
+        "STAMP_SET_NAME":"Brave Heroines",
+        "STAMP_SET_NUMBER":"5",
+        "THUMBNAIL":"tab_stamp_00006.png",
+        "vnYi8c3R":"e57c514d9e058e2fa033805551227e1db8ccd387"
+    },
+    {
+        "GEM_COST":"2",
+        "STAMP_COST_BUTNOTGEMS*":"0",
+        "STAMP_SET_NAME":"12 Guardians",
+        "STAMP_SET_NUMBER":"6",
+        "THUMBNAIL":"tab_stamp_00007.png",
+        "vnYi8c3R":"633755b95a4ab83e74ee981bdd4cff98fb130796"
+    }
+]

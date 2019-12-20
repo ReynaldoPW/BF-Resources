@@ -1,0 +1,254 @@
+[
+    {
+        "KARMA":"1500000",
+        "OE+ Level":1,
+        "UNIT_COST":45,
+        "ZEL":"4000000",
+        "s049sdck":"1"
+    },
+    {
+        "KARMA":"0",
+        "OE+ Level":1,
+        "UNIT_COST":45,
+        "ZEL":"0",
+        "s049sdck":"2"
+    },
+    {
+        "KARMA":"1500000",
+        "OE+ Level":1,
+        "UNIT_COST":47,
+        "ZEL":"4000000",
+        "s049sdck":"1"
+    },
+    {
+        "KARMA":"0",
+        "OE+ Level":1,
+        "UNIT_COST":47,
+        "ZEL":"0",
+        "s049sdck":"2"
+    },
+    {
+        "KARMA":"1500000",
+        "OE+ Level":1,
+        "UNIT_COST":48,
+        "ZEL":"4000000",
+        "s049sdck":"1"
+    },
+    {
+        "KARMA":"0",
+        "OE+ Level":1,
+        "UNIT_COST":48,
+        "ZEL":"0",
+        "s049sdck":"2"
+    },
+    {
+        "KARMA":"1500000",
+        "OE+ Level":1,
+        "UNIT_COST":50,
+        "ZEL":"4000000",
+        "s049sdck":"1"
+    },
+    {
+        "KARMA":"0",
+        "OE+ Level":1,
+        "UNIT_COST":50,
+        "ZEL":"0",
+        "s049sdck":"2"
+    },
+    {
+        "KARMA":"1500000",
+        "OE+ Level":1,
+        "UNIT_COST":54,
+        "ZEL":"4000000",
+        "s049sdck":"1"
+    },
+    {
+        "KARMA":"0",
+        "OE+ Level":1,
+        "UNIT_COST":54,
+        "ZEL":"0",
+        "s049sdck":"2"
+    },
+    {
+        "KARMA":"1500000",
+        "OE+ Level":1,
+        "UNIT_COST":60,
+        "ZEL":"4000000",
+        "s049sdck":"1"
+    },
+    {
+        "KARMA":"0",
+        "OE+ Level":1,
+        "UNIT_COST":60,
+        "ZEL":"0",
+        "s049sdck":"2"
+    },
+    {
+        "KARMA":"2500000",
+        "OE+ Level":2,
+        "UNIT_COST":45,
+        "ZEL":"5000000",
+        "s049sdck":"1"
+    },
+    {
+        "KARMA":"0",
+        "OE+ Level":2,
+        "UNIT_COST":45,
+        "ZEL":"0",
+        "s049sdck":"2"
+    },
+    {
+        "KARMA":"2500000",
+        "OE+ Level":2,
+        "UNIT_COST":47,
+        "ZEL":"5000000",
+        "s049sdck":"1"
+    },
+    {
+        "KARMA":"0",
+        "OE+ Level":2,
+        "UNIT_COST":47,
+        "ZEL":"0",
+        "s049sdck":"2"
+    },
+    {
+        "KARMA":"2500000",
+        "OE+ Level":2,
+        "UNIT_COST":48,
+        "ZEL":"5000000",
+        "s049sdck":"1"
+    },
+    {
+        "KARMA":"0",
+        "OE+ Level":2,
+        "UNIT_COST":48,
+        "ZEL":"0",
+        "s049sdck":"2"
+    },
+    {
+        "KARMA":"2500000",
+        "OE+ Level":2,
+        "UNIT_COST":50,
+        "ZEL":"5000000",
+        "s049sdck":"1"
+    },
+    {
+        "KARMA":"0",
+        "OE+ Level":2,
+        "UNIT_COST":50,
+        "ZEL":"0",
+        "s049sdck":"2"
+    },
+    {
+        "KARMA":"2500000",
+        "OE+ Level":2,
+        "UNIT_COST":54,
+        "ZEL":"5000000",
+        "s049sdck":"1"
+    },
+    {
+        "KARMA":"0",
+        "OE+ Level":2,
+        "UNIT_COST":54,
+        "ZEL":"0",
+        "s049sdck":"2"
+    },
+    {
+        "KARMA":"2500000",
+        "OE+ Level":2,
+        "UNIT_COST":60,
+        "ZEL":"5000000",
+        "s049sdck":"1"
+    },
+    {
+        "KARMA":"0",
+        "OE+ Level":2,
+        "UNIT_COST":60,
+        "ZEL":"0",
+        "s049sdck":"2"
+    },
+    {
+        "KARMA":"3500000",
+        "OE+ Level":3,
+        "UNIT_COST":45,
+        "ZEL":"7000000",
+        "s049sdck":"1"
+    },
+    {
+        "KARMA":"0",
+        "OE+ Level":3,
+        "UNIT_COST":45,
+        "ZEL":"0",
+        "s049sdck":"2"
+    },
+    {
+        "KARMA":"3500000",
+        "OE+ Level":3,
+        "UNIT_COST":47,
+        "ZEL":"7000000",
+        "s049sdck":"1"
+    },
+    {
+        "KARMA":"0",
+        "OE+ Level":3,
+        "UNIT_COST":47,
+        "ZEL":"0",
+        "s049sdck":"2"
+    },
+    {
+        "KARMA":"3500000",
+        "OE+ Level":3,
+        "UNIT_COST":48,
+        "ZEL":"7000000",
+        "s049sdck":"1"
+    },
+    {
+        "KARMA":"0",
+        "OE+ Level":3,
+        "UNIT_COST":48,
+        "ZEL":"0",
+        "s049sdck":"2"
+    },
+    {
+        "KARMA":"3500000",
+        "OE+ Level":3,
+        "UNIT_COST":50,
+        "ZEL":"7000000",
+        "s049sdck":"1"
+    },
+    {
+        "KARMA":"0",
+        "OE+ Level":3,
+        "UNIT_COST":50,
+        "ZEL":"0",
+        "s049sdck":"2"
+    },
+    {
+        "KARMA":"3500000",
+        "OE+ Level":3,
+        "UNIT_COST":54,
+        "ZEL":"7000000",
+        "s049sdck":"1"
+    },
+    {
+        "KARMA":"0",
+        "OE+ Level":3,
+        "UNIT_COST":54,
+        "ZEL":"0",
+        "s049sdck":"2"
+    },
+    {
+        "KARMA":"3500000",
+        "OE+ Level":3,
+        "UNIT_COST":60,
+        "ZEL":"7000000",
+        "s049sdck":"1"
+    },
+    {
+        "KARMA":"0",
+        "OE+ Level":3,
+        "UNIT_COST":60,
+        "ZEL":"0",
+        "s049sdck":"2"
+    }
+]

@@ -1,0 +1,695 @@
+[
+    {
+        "DESCRIPTION":"While traveling in Grand Gaia, cooperating with friends and with a powerful goddess, a Summoner faces off against demons in fierce battles.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"1",
+        "SCENARIO_SUPERSECTION*":"0",
+        "SP_CAT_ID":"10000",
+        "SP_CAT_NAME":"Memoirs of Grand Gaia"
+    },
+    {
+        "DESCRIPTION":"Ishgria, the land of sealed demons abandoned by the gods. It is here where the Summoner faces even more powerful demons in glorious battles.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"2",
+        "SCENARIO_SUPERSECTION*":"0",
+        "SP_CAT_ID":"10001",
+        "SP_CAT_NAME":"Memoirs of Ishgria"
+    },
+    {
+        "DESCRIPTION":"\u201c\u53ec\u559a\u8853\u306e\u6e90\u3068\u306a\u308b\u529b\u201d\u3092\u6c42\u3081\u3001\u69d8\u3005\u306a\u7570\u754c\u3092\u5de1\u308b\u53ec\u559a\u5e2b\u305f\u3061\u3002\u53ec\u559a\u306e\u529b\u304c\u4e71\u308c\u308b\u4e2d\u3067\u3001\u65b0\u305f\u306a\u6226\u3044\u304c\u7e70\u308a\u5e83\u3052\u3089\u308c\u308b\u2026\u2026\uff01\uff01",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"3",
+        "SCENARIO_SUPERSECTION*":"0",
+        "SP_CAT_ID":"10002",
+        "SP_CAT_NAME":"\u65c5\u306e\u8a18\u61b6\u3000\u7834\u7d46\u306e\u5c01\u795e\u7de8"
+    },
+    {
+        "DESCRIPTION":"Guided by Tilith, who serves the god Lucius, the Summoner starts a great adventure. The Four Fallen Gods must be defeated, starting with Maxwell.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"1",
+        "SCENARIO_SUPERSECTION*":"10000",
+        "SP_CAT_ID":"10100",
+        "SP_CAT_NAME":"Mistral"
+    },
+    {
+        "DESCRIPTION":"An island once inhabited by giants seems to be this Summoner's next stop. However, the Imperial Guard's Paris is also headed towards Cordelica...",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"2",
+        "SCENARIO_SUPERSECTION*":"10000",
+        "SP_CAT_ID":"10101",
+        "SP_CAT_NAME":"Cordelica"
+    },
+    {
+        "DESCRIPTION":"The Summoner arrives to the land Cardes the Malevolent seeks to destroy. A new battle commences where the legendary 4 Heroes of Palmyna once stood.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"3",
+        "SCENARIO_SUPERSECTION*":"10000",
+        "SP_CAT_ID":"10102",
+        "SP_CAT_NAME":"Palmyna"
+    },
+    {
+        "DESCRIPTION":"Paris arrives to the island of the ancient La Veda Republic to search for a rumored gate, but the Summoners' Hall has already begun investigation.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"4",
+        "SCENARIO_SUPERSECTION*":"10000",
+        "SP_CAT_ID":"10103",
+        "SP_CAT_NAME":"Lizeria"
+    },
+    {
+        "DESCRIPTION":"Zevalhua the Supreme must be slain before he destroys everything. He is said to be in a quarrel with Afla Dilith, one of the Four Fallen Gods.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"5",
+        "SCENARIO_SUPERSECTION*":"10000",
+        "SP_CAT_ID":"10104",
+        "SP_CAT_NAME":"Agni Region"
+    },
+    {
+        "DESCRIPTION":"This verdant region where the Vriksha Duchy once flourished becomes the setting for the Summoner's battle with the fiercest opponent yet, Afla Dilith.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"6",
+        "SCENARIO_SUPERSECTION*":"10000",
+        "SP_CAT_ID":"10105",
+        "SP_CAT_NAME":"Vriksha"
+    },
+    {
+        "DESCRIPTION":"The Summoners head to Atharva to halt the Imperial Guard's rebellion. They search for the rebel leader Eriole, but fate's wheels begin turning...",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"7",
+        "SCENARIO_SUPERSECTION*":"10000",
+        "SP_CAT_ID":"10106",
+        "SP_CAT_NAME":"Atharva"
+    },
+    {
+        "DESCRIPTION":"Lucius awaits in Bariura. What truths could Tilith and Ark be ready to shed light on before the Summoners?",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"8",
+        "SCENARIO_SUPERSECTION*":"10000",
+        "SP_CAT_ID":"10107",
+        "SP_CAT_NAME":"Bariura"
+    },
+    {
+        "DESCRIPTION":"The Summoner arrives to Ishgria, the land of the sealed demons. Grahdens, who had been waiting there for some time, mentions he has a new assistant...",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"1",
+        "SCENARIO_SUPERSECTION*":"10001",
+        "SP_CAT_ID":"10200",
+        "SP_CAT_NAME":"Celgrad"
+    },
+    {
+        "DESCRIPTION":"After facing the War Demon Shusui, the Summoner reaches Lem, the second region of Ishgria. What could be awaiting the Summoner in this new land?",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"2",
+        "SCENARIO_SUPERSECTION*":"10001",
+        "SP_CAT_ID":"10201",
+        "SP_CAT_NAME":"Lem"
+    },
+    {
+        "DESCRIPTION":"After meeting up with Seria and Lugina, the Summoner travels beyond Lem towards Beiorg, at Tilith's request.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"3",
+        "SCENARIO_SUPERSECTION*":"10001",
+        "SP_CAT_ID":"10202",
+        "SP_CAT_NAME":"Beiorg"
+    },
+    {
+        "DESCRIPTION":"\u5de8\u5927\u306a\u82b1\u304c\u4e00\u969b\u76ee\u3092\u60f9\u304f\u30a4\u30b7\u30e5\u30b0\u30ea\u30a2\u6771\u90e8\u306e\u5927\u9678\u30a6\u30eb\u30b8\u3002\u30ab\u30eb\u306e\u3053\u3068\u304c\u6c17\u639b\u304b\u308a\u306a\u53ec\u559a\u5e2b\u306f\u3001\u6b21\u306e\u5730\u3078\u3068\u6b69\u307f\u3092\u9032\u3081\u308b\u3002",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"4",
+        "SCENARIO_SUPERSECTION*":"10001",
+        "SP_CAT_ID":"10203",
+        "SP_CAT_NAME":"\u30a6\u30eb\u30b8"
+    },
+    {
+        "DESCRIPTION":"\u7570\u754c\u3084\u4eba\u9593\u306e\u6280\u8853\u306b\u8208\u5473\u3092\u6301\u3064\u9b54\u795e\u30e2\u30eb\u30c7\u30ea\u30e0\u306e\u652f\u914d\u3059\u308b\u5730\u30e9\u30af\u30b7\u30e5\u30eb\u30c8\u3002\u69d8\u3005\u306a\u898b\u6163\u308c\u306c\u65bd\u8a2d\u304c\u53ec\u559a\u5e2b\u306e\u884c\u304f\u624b\u306b\u73fe\u308c\u308b\u3002",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"5",
+        "SCENARIO_SUPERSECTION*":"10001",
+        "SP_CAT_ID":"10204",
+        "SP_CAT_NAME":"\u30e9\u30af\u30b7\u30e5\u30eb\u30c8"
+    },
+    {
+        "DESCRIPTION":"\u65ad\u5d16\u306b\u6a2a\u305f\u308f\u308b\u5927\u5de8\u4eba\u306e\u8eaf\u304c\u76ee\u3092\u60f9\u304f\u30b6\u30fc\u30e0\u30d6\u30eb\u30b0\u306e\u5730\u3002\u3053\u306e\u5730\u3092\u652f\u914d\u3059\u308b\u9b54\u795e\u30a2\u30e0\uff1d\u30e6\u30ce\u30b9\u306f\u6700\u53e4\u306e\u9b54\u795e\u3060\u3068\u8a00\u308f\u308c\u3066\u3044\u308b\u3002",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"6",
+        "SCENARIO_SUPERSECTION*":"10001",
+        "SP_CAT_ID":"10205",
+        "SP_CAT_NAME":"\u30b6\u30fc\u30e0\u30d6\u30eb\u30b0"
+    },
+    {
+        "DESCRIPTION":"\u7adc\u306e\u529b\u3092\u6301\u3064\u9b54\u795e\u304c\u6cbb\u3081\u308b\u3068\u3044\u3046\u571f\u5730\u30d5\u30a1\u30eb\u30fb\u30ca\u30fc\u30ac\u3002\u7e41\u6804\u306e\u9762\u5f71\u3092\u6b8b\u3059\u3053\u306e\u5834\u6240\u306b\u306f\u3001\u53ec\u559a\u5e2b\u306e\u89aa\u53cb\u304c\u5f85\u3061\u53d7\u3051\u3066\u3044\u308b\u3002",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"7",
+        "SCENARIO_SUPERSECTION*":"10001",
+        "SP_CAT_ID":"10206",
+        "SP_CAT_NAME":"\u30d5\u30a1\u30eb\u30fb\u30ca\u30fc\u30ac"
+    },
+    {
+        "DESCRIPTION":"\u30e2\u30fc\u30e9\u3092\u8ffd\u3063\u3066\u3084\u3063\u3066\u304d\u305f\u30a8\u30b9\u30c8\u30ea\u30a2\u3002\u3053\u306e\u5730\u306b\u306f\u304b\u3064\u3066\u9b54\u795e\u305f\u3061\u306e\u7bc9\u3044\u305f\u6700\u53e4\u306e\u56fd\u5bb6\u304c\u3042\u3063\u305f\u3068\u8a00\u308f\u308c\u3066\u3044\u308b\u3002",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"8",
+        "SCENARIO_SUPERSECTION*":"10001",
+        "SP_CAT_ID":"10207",
+        "SP_CAT_NAME":"\u30a8\u30b9\u30c8\u30ea\u30a2"
+    },
+    {
+        "DESCRIPTION":"\u3053\u306e\u5730\u306f\u30ab\u30eb\u30ca\u30fb\u30de\u30b9\u30bf\u306e\u7834\u58ca\u306e\u75d5\u8de1\u306e\u6b8b\u308b\u5834\u6240\u3067\u3042\u308a\u3001\u540c\u6642\u306b\u30ab\u30eb\u30ca\u30fb\u30de\u30b9\u30bf\u306e\u672c\u4f53\u304c\u5c01\u5370\u3055\u308c\u305f\u571f\u5730\u3067\u3082\u3042\u308b\u3002",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"9",
+        "SCENARIO_SUPERSECTION*":"10001",
+        "SP_CAT_ID":"10208",
+        "SP_CAT_NAME":"\u30e1\u30ce\u30f3"
+    },
+    {
+        "DESCRIPTION":"\u304b\u3064\u3066\u30a4\u30b7\u30e5\u30b0\u30ea\u30a2\u306e\u8987\u6a29\u3092\u76ee\u6307\u3057\u305f\u738b\u304c\u62e0\u70b9\u3068\u3057\u305f\u5730\u3002\u3053\u3053\u306b\u306f\u5927\u795e\u7687\u306e\u9b42\u3068\u771f\u306e\u529b\u304c\u5c01\u5370\u3055\u308c\u3066\u3044\u308b\u3068\u3044\u3046\u3002",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"10",
+        "SCENARIO_SUPERSECTION*":"10001",
+        "SP_CAT_ID":"10209",
+        "SP_CAT_NAME":"\u30df\u30eb\u30c9\u30e9\u30f3"
+    },
+    {
+        "DESCRIPTION":"\u7279\u6b8a\u6280\u8853\u304c\u767a\u9054\u3057\u305f\u7570\u754c\u300c\u30d9\u30af\u30bf\u30b9\u300d\u3067\u30eb\u30b8\u30fc\u30ca\u3092\u635c\u3059\u53ec\u559a\u5e2b\u3068\u30c6\u30a3\u30ea\u30b9\u3002\u53ec\u559a\u8853\u304c\u4e0a\u624b\u304f\u4f7f\u3048\u306a\u3044\u4e2d\u3001\u65b0\u305f\u306a\u5192\u967a\u304c\u59cb\u307e\u308b\u2026\u3002",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"1",
+        "SCENARIO_SUPERSECTION*":"10002",
+        "SP_CAT_ID":"10300",
+        "SP_CAT_NAME":"\u30d9\u30af\u30bf\u30b9"
+    },
+    {
+        "DESCRIPTION":"\u96ea\u3068\u6c37\u306b\u8986\u308f\u308c\u305f\u7570\u754c\u300c\u30f4\u30a3\u30e9\u30f3\u30b7\u30eb\u300d\u3002\u3053\u306e\u4e16\u754c\u3082\u307e\u305f\u5c01\u795e\u5100\u306e\u66b4\u8d70\u306b\u3088\u308a\u3001\u5d29\u58ca\u3078\u5411\u304b\u3063\u3066\u3044\u308b\u306e\u304b\u3082\u3057\u308c\u306a\u3044\u3002",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"2",
+        "SCENARIO_SUPERSECTION*":"10002",
+        "SP_CAT_ID":"10301",
+        "SP_CAT_NAME":"\u30f4\u30a3\u30e9\u30f3\u30b7\u30eb"
+    },
+    {
+        "DESCRIPTION":"\u72ec\u7279\u306e\u6587\u5316\u3092\u6301\u3064\u4e16\u754c\u300c\u51f0\u5203\u90a3\u539f\u300d\u3002\u30bb\u30ea\u30a2\u3068\u5408\u6d41\u3057\u305f\u53ec\u559a\u5e2b\u306f\u3053\u306e\u4e16\u754c\u3067\u3069\u306e\u3088\u3046\u306a\u5473\u65b9\u3001\u305d\u3057\u3066\u6575\u3068\u51fa\u4f1a\u3046\u306e\u304b\uff1f",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"3",
+        "SCENARIO_SUPERSECTION*":"10002",
+        "SP_CAT_ID":"10302",
+        "SP_CAT_NAME":"\u51f0\u5203\u90a3\u539f"
+    },
+    {
+        "DESCRIPTION":"\u4eba\u9593\u306e\u75d5\u8de1\u304c\u7121\u3044\u306b\u3082\u95a2\u308f\u3089\u305a\u3001\u5de8\u5927\u306a\u5efa\u9020\u7269\u304c\u70b9\u5728\u3059\u308b\u7570\u754c\u3002\u5efa\u9020\u7269\u306f\u673d\u3061\u3066\u306f\u304a\u3089\u305a\u3001\u4f55\u8005\u304b\u306b\u3088\u308b\u624b\u5165\u308c\u306e\u8de1\u304c\u898b\u3089\u308c\u308b\u3002",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"4",
+        "SCENARIO_SUPERSECTION*":"10002",
+        "SP_CAT_ID":"10303",
+        "SP_CAT_NAME":"\u30ed\u30c3\u30ab\u30b6\u30eb\u30e0"
+    },
+    {
+        "DESCRIPTION":"\u5de8\u7adc\u305f\u3061\u304c\u95ca\u6b69\u3059\u308b\u4e16\u754c\u300c\u30f4\u30a1\u30eb\u30c9\u30ed\u30a2\u300d\u3002\u6700\u5f8c\u306e\u5c01\u795e\u5100\u2026\u5c01\u795e\u7adc\u306e\u3082\u3068\u3078\u5411\u304b\u3046\u53ec\u559a\u5e2b\u305f\u3061\u3092\u5f85\u3061\u53d7\u3051\u308b\u3082\u306e\u306f\u679c\u305f\u3057\u3066\u2026\u2026\uff1f",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"5",
+        "SCENARIO_SUPERSECTION*":"10002",
+        "SP_CAT_ID":"10304",
+        "SP_CAT_NAME":"\u30f4\u30a1\u30eb\u30c9\u30ed\u30a2"
+    },
+    {
+        "DESCRIPTION":"\u30a2\u30d9\u30eb\u6a5f\u95a2\u6b8b\u515a\u306e\u30ae\u30e3\u30ec\u30c3\u30c8\u3068\u30e1\u30eb\u306e\u547d\u3092\u72d9\u3046\u30d9\u30eb\u30c4\u3002\u53ec\u559a\u5e2b\u306f\u30b0\u30e9\u30c7\u30f3\u30b9\u3088\u308a\u5bc6\u547d\u3092\u53d7\u3051\u3001\u5f7c\u3089\u306e\u3082\u3068\u3078\u6025\u3050\u304c\u2026\u2026\u3002",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"6",
+        "SCENARIO_SUPERSECTION*":"10002",
+        "SP_CAT_ID":"10305",
+        "SP_CAT_NAME":"\u30bb\u30f3\u30c8\u30af\u30ea\u30fc\u30af"
+    },
+    {
+        "DESCRIPTION":"Tilith sheds light on the Four Fallen Gods and the situation in Grand Gaia. Before heading to Morgan, the next destination is the Tower of Mistral.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"1",
+        "SCENARIO_SUPERSECTION*":"10100",
+        "SP_CAT_ID":"11000",
+        "SP_CAT_NAME":"Mistral"
+    },
+    {
+        "DESCRIPTION":"While Karl goes after the demon Graham, the Summoner seeks to challenge Maxwell's disciple, Abaddon. But can Abaddon really be defeated?",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"2",
+        "SCENARIO_SUPERSECTION*":"10100",
+        "SP_CAT_ID":"11001",
+        "SP_CAT_NAME":"Morgan"
+    },
+    {
+        "DESCRIPTION":"The land under Creator Maxwell's jurisdiction is the new destination. The goal is to head towards Maxwell's stronghold, St. Lamia Palace, with Tilith.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"3",
+        "SCENARIO_SUPERSECTION*":"10100",
+        "SP_CAT_ID":"11002",
+        "SP_CAT_NAME":"St. Lamia"
+    },
+    {
+        "DESCRIPTION":"The Summoner touches down where the great Amdahl Empire once prospered. Tilith expects this journey to end in Cardes the Malevolent's defeat.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"1",
+        "SCENARIO_SUPERSECTION*":"10102",
+        "SP_CAT_ID":"11010",
+        "SP_CAT_NAME":"Amdahl"
+    },
+    {
+        "DESCRIPTION":"According to Tilith, this land was once witness to a human civil war. Intense battles begin breaking out in the midst of the wilderness.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"2",
+        "SCENARIO_SUPERSECTION*":"10102",
+        "SP_CAT_ID":"11011",
+        "SP_CAT_NAME":"Encervis"
+    },
+    {
+        "DESCRIPTION":"Palmyna, where Cardes is sealed, is the next step. However, many lost souls and demons still lurk about after the great war with the gods...",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"3",
+        "SCENARIO_SUPERSECTION*":"10102",
+        "SP_CAT_ID":"11012",
+        "SP_CAT_NAME":"Palmyna"
+    },
+    {
+        "DESCRIPTION":"Zevalhua the Supreme has become the new target. Tilith mentions that she is afraid a plot may be afoot.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"1",
+        "SCENARIO_SUPERSECTION*":"10104",
+        "SP_CAT_ID":"11040",
+        "SP_CAT_NAME":"Ryvern"
+    },
+    {
+        "DESCRIPTION":"The land where an empire once stood tall is now visited by the Summoner. Grahdens has entrusted you and Lugina with Karl's rescue, but...",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"2",
+        "SCENARIO_SUPERSECTION*":"10104",
+        "SP_CAT_ID":"11041",
+        "SP_CAT_NAME":"Agni"
+    },
+    {
+        "DESCRIPTION":"Having finally reached Zevalhua's stronghold, it's time for this old battlefield to give way for a new fight to rescue a captured Grahdens.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"3",
+        "SCENARIO_SUPERSECTION*":"10104",
+        "SP_CAT_ID":"11042",
+        "SP_CAT_NAME":"Mirvana"
+    },
+    {
+        "DESCRIPTION":"After the destruction of the last Fallen God, Afla Dilith, Tilith and her Summoner set off on a new journey in lands unknown.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"1",
+        "SCENARIO_SUPERSECTION*":"10105",
+        "SP_CAT_ID":"11050",
+        "SP_CAT_NAME":"Lanara"
+    },
+    {
+        "DESCRIPTION":"After touching down in the land where the Vriksha Duchy once flourished, Zurg's words make Tilith feel very unlike her bubbly self...",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"2",
+        "SCENARIO_SUPERSECTION*":"10105",
+        "SP_CAT_ID":"11051",
+        "SP_CAT_NAME":"Vriksha"
+    },
+    {
+        "DESCRIPTION":"Afla Dilith awaits in Aldahlia. Though Tilith gets a really eerie feeling from Afla Dilith's presence, she still has full faith in her Summoner.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"3",
+        "SCENARIO_SUPERSECTION*":"10105",
+        "SP_CAT_ID":"11052",
+        "SP_CAT_NAME":"Aldahlia"
+    },
+    {
+        "DESCRIPTION":"The Summoner is asked to venture into a newly discovered and mysterious land. However, the enemies waiting there prove a lot stronger than imagined...",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"3",
+        "SCENARIO_SUPERSECTION*":"0",
+        "SP_CAT_ID":"20000",
+        "SP_CAT_NAME":"A New Region"
+    },
+    {
+        "DESCRIPTION":"A demonic \"shadow\" found in one of Ishgria's regions. Why would demons create such a thing? And what is the purpose of these \"shadows\"?",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"4",
+        "SCENARIO_SUPERSECTION*":"0",
+        "SP_CAT_ID":"20001",
+        "SP_CAT_NAME":"Demon Leftovers"
+    },
+    {
+        "DESCRIPTION":"The Arena is a place where Summoners can use their skills to earn a rank promotion. Nonetheless, there are those who don't take it very seriously...",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"5",
+        "SCENARIO_SUPERSECTION*":"0",
+        "SP_CAT_ID":"30000",
+        "SP_CAT_NAME":"Memoirs of the Arena"
+    },
+    {
+        "DESCRIPTION":"Many demons have been appearing recently, so the ban on Demon Slayer missions has been lifted. Summoners can now challenge the strongest opponents!",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"6",
+        "SCENARIO_SUPERSECTION*":"0",
+        "SP_CAT_ID":"40000",
+        "SP_CAT_NAME":"Memoirs of Raids"
+    },
+    {
+        "DESCRIPTION":"Decades of unmitigated warfare among the guilds of Orebus have resulted in a devastated landscape.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"0",
+        "SCENARIO_SUPERSECTION*":"40000",
+        "SP_CAT_ID":"40001",
+        "SP_CAT_NAME":"Ashes of Orebus"
+    },
+    {
+        "DESCRIPTION":"It is said that the Grand Quest System built by the Akras Summoners' Hall Survey Office allows one to experience the same adventure in numerous ways.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"7",
+        "SCENARIO_SUPERSECTION*":"0",
+        "SP_CAT_ID":"50000",
+        "SP_CAT_NAME":"Memoirs of Grand Quest"
+    },
+    {
+        "DESCRIPTION":"The Grand Quest System allows Summoners to relive any adventures already experienced in different lands, facing off against gods and demons alike...",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"1",
+        "SCENARIO_SUPERSECTION*":"50000",
+        "SP_CAT_ID":"50100",
+        "SP_CAT_NAME":"Dawn of the Summoner"
+    },
+    {
+        "DESCRIPTION":"The Grand Quest System grants Summoners the opportunity to go on adventures with ancient heroes, helping to reveal history's most famous mysteries...",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"2",
+        "SCENARIO_SUPERSECTION*":"50000",
+        "SP_CAT_ID":"50200",
+        "SP_CAT_NAME":"Saga of Heroes"
+    },
+    {
+        "DESCRIPTION":"Karl asks the Summoner for some help with defeating a certain dragon. This particular beast is quick to flee, so they try a pincer attack, but...",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"1",
+        "SCENARIO_SUPERSECTION*":"50100",
+        "SP_CAT_ID":"51000",
+        "SP_CAT_NAME":"Demonic Agitation"
+    },
+    {
+        "DESCRIPTION":"Lugina and the Summoner search for the Empress's treasure hidden within the Great Tree of Life. However, Paris is also after the treasure herself.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"2",
+        "SCENARIO_SUPERSECTION*":"50100",
+        "SP_CAT_ID":"51001",
+        "SP_CAT_NAME":"Proud Soldier's Feast"
+    },
+    {
+        "DESCRIPTION":"Seria and Karl ask the Summoner for help with defeating the demon Graham. However, Graham has several traps in store for them...",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"3",
+        "SCENARIO_SUPERSECTION*":"50100",
+        "SP_CAT_ID":"51002",
+        "SP_CAT_NAME":"Cobalt Spirit's Waking"
+    },
+    {
+        "DESCRIPTION":"After learning of the demon Algmos's sighting, Seria ignores orders from Summoners' Hall and pursues the demon. Now the Summoner must bring her back.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"4",
+        "SCENARIO_SUPERSECTION*":"50100",
+        "SP_CAT_ID":"51003",
+        "SP_CAT_NAME":"The Crimson God's Cry"
+    },
+    {
+        "DESCRIPTION":"Grahdens asks the Summoner for help with defeating the demon Mashreed. However, a number of other demons seem to be lurking in the area as well...",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"5",
+        "SCENARIO_SUPERSECTION*":"50100",
+        "SP_CAT_ID":"51004",
+        "SP_CAT_NAME":"The Old Dawn General"
+    },
+    {
+        "DESCRIPTION":"Lin asks the Summoner for help with conducting some land surveys in a region connected to Grand Gaia. Lots of monsters start showing up though, and...",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"6",
+        "SCENARIO_SUPERSECTION*":"50100",
+        "SP_CAT_ID":"51005",
+        "SP_CAT_NAME":"Lin's Long Day"
+    },
+    {
+        "DESCRIPTION":"Paris visits a strange land upon Noel's request, and the Summoner goes in the same direction. Going their separate ways they run into unexpected foes.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"7",
+        "SCENARIO_SUPERSECTION*":"50100",
+        "SP_CAT_ID":"51006",
+        "SP_CAT_NAME":"Virtual Garden"
+    },
+    {
+        "DESCRIPTION":"Lugina and the Summoner set off to defeat a demon, all according to Noel's plan. However, Lugina is then forced to fight a demon that resembles him.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"8",
+        "SCENARIO_SUPERSECTION*":"50100",
+        "SP_CAT_ID":"51007",
+        "SP_CAT_NAME":"Warped Reflection"
+    },
+    {
+        "DESCRIPTION":"\u30a8\u30ea\u30fc\u30bc\u3001\u30ea\u30e0\u3001\u30bb\u30e9\u304c\u30d4\u30af\u30cb\u30c3\u30af\u306b\u5411\u304b\u3046\u30a8\u30a4\u30d6\u5c71\u306b\u9b54\u795e\u304c\u51fa\u73fe\u3002\u30ce\u30a2\u3068\u53ec\u559a\u5e2b\u306f\u3001\u6025\u3044\u3067\u5f7c\u5973\u305f\u3061\u306e\u6551\u51fa\u306b\u5411\u304b\u3046\u304c\u2026\u2026\u3002",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"9",
+        "SCENARIO_SUPERSECTION*":"50100",
+        "SP_CAT_ID":"51008",
+        "SP_CAT_NAME":"\u5f8c\u6094\u3068\u9858\u3044"
+    },
+    {
+        "DESCRIPTION":"Cardes the Malevolent invades the Kingdom of Palmyna. Princess Edea and her comrades, along with the Royal Army, fight until the very end, but...",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"1",
+        "SCENARIO_SUPERSECTION*":"50200",
+        "SP_CAT_ID":"52000",
+        "SP_CAT_NAME":"Gathering Hope"
+    },
+    {
+        "DESCRIPTION":"Edea falls into a deep sleep in order to seal away Cardes. Having been transported to different regions, Edea's friends gather anew to save her.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"2",
+        "SCENARIO_SUPERSECTION*":"50200",
+        "SP_CAT_ID":"52001",
+        "SP_CAT_NAME":"Four Heroes of Palmyna"
+    },
+    {
+        "DESCRIPTION":"Michele, who lives in the La Veda Republic, happens upon Duel-GX. Together, they set out on a journey to defeat Duel-GX's target, Melchio.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"3",
+        "SCENARIO_SUPERSECTION*":"50200",
+        "SP_CAT_ID":"52002",
+        "SP_CAT_NAME":"Ten-Winged Tormentor"
+    },
+    {
+        "DESCRIPTION":"\u7570\u754c\u30a4\u30b7\u30e5\u30b0\u30ea\u30a2\u3078\u9b54\u795e\u8a0e\u4f10\u306b\u5411\u304b\u3046\u795e\u885b\u4f7f\u30e1\u30a4\u30ea\u30b9\u305f\u3061\u3002\u3060\u304c\u9053\u4e2d\u3067\u5927\u795e\u7687\u306e\u5371\u6a5f\u3092\u77e5\u308a\u6025\u907d\u3001\u968a\u3092\uff12\u3064\u306b\u5206\u3051\u308b\u304c\u2026\u3002",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"4",
+        "SCENARIO_SUPERSECTION*":"50200",
+        "SP_CAT_ID":"52003",
+        "SP_CAT_NAME":"\u4fe1\u3058\u308b\u3079\u304d\u9053"
+    },
+    {
+        "DESCRIPTION":"\u30a4\u30b7\u30e5\u30b0\u30ea\u30a2\u8abf\u67fb\u306e\u5148\u9063\u968a\u3068\u3057\u3066\u3001\u73fe\u5730\u306b\u51fa\u767a\u3059\u308b\u9b54\u795e\u8a0e\u4f10\u968a\u968a\u9577\uff17\u4eba\u3002\u3060\u304c\u305d\u3053\u306f\u5f7c\u3089\u306e\u60f3\u50cf\u3092\u9065\u304b\u306b\u8d85\u3048\u305f\u5834\u6240\u3060\u3063\u305f\u2026\u3002",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"5",
+        "SCENARIO_SUPERSECTION*":"50200",
+        "SP_CAT_ID":"52004",
+        "SP_CAT_NAME":"\u8a17\u3055\u308c\u305f\u9858\u3044"
+    },
+    {
+        "DESCRIPTION":"\u795e\u3068\u4eba\u9593\u306e\u5927\u6226\u672b\u671f\u3001\u30ea\u30fc\u30c9\u305f\u3061\u306f\u751f\u304d\u6b8b\u3063\u305f\u4eba\u3005\u3092\u6551\u3046\u305f\u3081\u3001\u30df\u30b9\u30c8\u30e9\u30eb\u306b\u3042\u308b\u3068\u3055\u308c\u308b\u7d04\u675f\u306e\u5730\u3092\u76ee\u6307\u3059\u304c\u2026\u2026\u3002",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"6",
+        "SCENARIO_SUPERSECTION*":"50200",
+        "SP_CAT_ID":"52005",
+        "SP_CAT_NAME":"\u5c0e\u304d\u3057\u8005\u305f\u3061"
+    },
+    {
+        "DESCRIPTION":"\u795e\u3005\u3068\u306e\u5927\u6226\u672b\u671f\u3001\u30d0\u30ea\u30a6\u30e9\u5e1d\u56fd\u304c\u795e\u8ecd\u306e\u731b\u653b\u306b\u3088\u308a\u6ec5\u4ea1\u306e\u5371\u6a5f\u3092\u8fce\u3048\u308b\u4e2d\u3001\u7b2c\u4e00\u7687\u5b50\u30b7\u30ea\u30a6\u30b9\u306f\u3042\u308b\u6c7a\u65ad\u3092\u8feb\u3089\u308c\u308b\u2026\u2026\u3002",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"7",
+        "SCENARIO_SUPERSECTION*":"50200",
+        "SP_CAT_ID":"52006",
+        "SP_CAT_NAME":"\u5e1d\u56fd\u6700\u5f8c\u306e\u65e5"
+    },
+    {
+        "DESCRIPTION":"A place where Summoners can train for battle by setting certain settings and conditions.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"8",
+        "SCENARIO_SUPERSECTION*":"0",
+        "SP_CAT_ID":"60000",
+        "SP_CAT_NAME":"Summoners' Training Ground"
+    },
+    {
+        "DESCRIPTION":"Strange singularities tend to happen within the Vortex. These curious glitches allow the Summoners to share adventures with beings from other worlds.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"9",
+        "SCENARIO_SUPERSECTION*":"0",
+        "SP_CAT_ID":"70000",
+        "SP_CAT_NAME":"Memoirs of the Vortex"
+    },
+    {
+        "DESCRIPTION":"\u30b2\u30fc\u30c8\u306e\u72ed\u9593\u3092\u63a2\u7d22\u3059\u308b\u53ec\u559a\u5e2b\u306e\u524d\u306b\u3001\u7570\u754c\u306e\u5192\u967a\u8005\u305f\u3061\u304c\u73fe\u308c\u308b\u3002\u53ec\u559a\u5e2b\u306f\u8ff7\u3044\u8fbc\u3093\u3060\u5f7c\u3089\u306e\u5e30\u9084\u306b\u5354\u529b\u3059\u308b\u3053\u3068\u306b\u3057\u305f\u3002",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"1",
+        "SCENARIO_SUPERSECTION*":"70000",
+        "SP_CAT_ID":"71000",
+        "SP_CAT_NAME":"\u30ea\u30a2\u30d5\u30a3\u30fc\u30b9\u306e\u6226\u58eb\u305f\u3061"
+    },
+    {
+        "DESCRIPTION":"Relive the saga of the Soul-Bound heroes as they battle with Gazia to discover the truth behind his schemes!",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"11",
+        "SCENARIO_SUPERSECTION*":"50100",
+        "SP_CAT_ID":"85001",
+        "SP_CAT_NAME":"The Tinkerer\u2019s Deceit"
+    },
+    {
+        "DESCRIPTION":"Join the team as they search for Ezra to get him back safely. Time to zoom-zoom!",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"12",
+        "SCENARIO_SUPERSECTION*":"50100",
+        "SP_CAT_ID":"85002",
+        "SP_CAT_NAME":"Eneroth: Genesis"
+    },
+    {
+        "DESCRIPTION":"Our heroes from Galardhon finally make it into the heart of the enemy fortress. But when reality breaks, everything can go wrong.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"13",
+        "SCENARIO_SUPERSECTION*":"50100",
+        "SP_CAT_ID":"85003",
+        "SP_CAT_NAME":"Crossing the Abyss"
+    },
+    {
+        "DESCRIPTION":"Ensa-Taya chases Juno-Seto into the world of Aimyhr, bringing tragedy and conflict with them.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"14",
+        "SCENARIO_SUPERSECTION*":"50100",
+        "SP_CAT_ID":"85004",
+        "SP_CAT_NAME":"Everlasting Embrace"
+    },
+    {
+        "DESCRIPTION":"The saga of Aimyhr enters its final act.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"15",
+        "SCENARIO_SUPERSECTION*":"50100",
+        "SP_CAT_ID":"85005",
+        "SP_CAT_NAME":"Fates of the Fallen"
+    },
+    {
+        "DESCRIPTION":"Meet Fei and Fang, lovers who have fallen under the shadow of an evil witch!",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"3",
+        "SCENARIO_SUPERSECTION*":"70000",
+        "SP_CAT_ID":"87001",
+        "SP_CAT_NAME":"Witch of the Abyss"
+    },
+    {
+        "DESCRIPTION":"A madman has come to Grand Gaia to crush his enemies in a blood-soaked tournament.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"4",
+        "SCENARIO_SUPERSECTION*":"70000",
+        "SP_CAT_ID":"87002",
+        "SP_CAT_NAME":"The Scarlet Abyss Tournament"
+    },
+    {
+        "DESCRIPTION":"New friends have arrived, searching for the one known as Veritas. The shadows deepen...",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"5",
+        "SCENARIO_SUPERSECTION*":"70000",
+        "SP_CAT_ID":"87003",
+        "SP_CAT_NAME":"Overwhelming Darkness"
+    },
+    {
+        "DESCRIPTION":"In the wake of disaster, two strangers find out about who they are - and what the holidays mean to them.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"6",
+        "SCENARIO_SUPERSECTION*":"70000",
+        "SP_CAT_ID":"87004",
+        "SP_CAT_NAME":"Jubilant Jingles"
+    },
+    {
+        "DESCRIPTION":"An old enemy has returned to menace Fei and Fang anew! Will they overcome the challenge?",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"8",
+        "SCENARIO_SUPERSECTION*":"70000",
+        "SP_CAT_ID":"87005",
+        "SP_CAT_NAME":"Forgotten Shadows"
+    },
+    {
+        "DESCRIPTION":"Carrol returns this Easter and she's on the hunt for Easter Eggs! But who's that robot?",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"9",
+        "SCENARIO_SUPERSECTION*":"70000",
+        "SP_CAT_ID":"87006",
+        "SP_CAT_NAME":"A Colorful Hunt"
+    },
+    {
+        "DESCRIPTION":"Three serendipitous souls starring in a tale of sacrifice, perseverance and merry endings.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"7",
+        "SCENARIO_SUPERSECTION*":"70000",
+        "SP_CAT_ID":"87007",
+        "SP_CAT_NAME":"Midwinter's Tale"
+    },
+    {
+        "DESCRIPTION":"MHA Collaboration - Izuku and Ochaco Appears!",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"10",
+        "SCENARIO_SUPERSECTION*":"70000",
+        "SP_CAT_ID":"87008",
+        "SP_CAT_NAME":"Hero Academia"
+    },
+    {
+        "DESCRIPTION":"In this BFxTG collaboration, watch Touka Kirishima and Ken Kaneki battle their foes, Yamori and Shu Tsukiyama!",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"20",
+        "SCENARIO_SUPERSECTION*":"70000",
+        "SP_CAT_ID":"87009",
+        "SP_CAT_NAME":"Tokyo Ghoul"
+    },
+    {
+        "DESCRIPTION":"Sennie and Chryssa: Road trip!",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"21",
+        "SCENARIO_SUPERSECTION*":"70000",
+        "SP_CAT_ID":"87010",
+        "SP_CAT_NAME":"Brave Summer 2019"
+    },
+    {
+        "DESCRIPTION":"Can this unlikely duo, Feora, a moody, teenaged beastkin and Hyshka, an aspirant of the Old Ways, bridge the cultural gap to solve the woes of the woods?",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"22",
+        "SCENARIO_SUPERSECTION*":"70000",
+        "SP_CAT_ID":"87012",
+        "SP_CAT_NAME":"Re:Generations"
+    },
+    {
+        "DESCRIPTION":"Long-deceased noblewoman Lydia is looking forward to the annual homecoming festival of The Return, but this year, a strange new visitor has hopped into the city\u2026",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"26",
+        "SCENARIO_SUPERSECTION*":"70000",
+        "SP_CAT_ID":"87013",
+        "SP_CAT_NAME":"Candy Crash"
+    },
+    {
+        "DESCRIPTION":"In this BFxSC collaboration, Jin, Mugen and Fuu face off against Shoryu once again!",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"27",
+        "SCENARIO_SUPERSECTION*":"70000",
+        "SP_CAT_ID":"87014",
+        "SP_CAT_NAME":"Samurai Champloo"
+    },
+    {
+        "DESCRIPTION":"The greatest changes start with the smallest tweaks.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"28",
+        "SCENARIO_SUPERSECTION*":"70000",
+        "SP_CAT_ID":"87015",
+        "SP_CAT_NAME":"Altered Destinies"
+    },
+    {
+        "DESCRIPTION":"Devised by Noel, Frontier Rifts allow Summoners to explore unstable worlds formed by experimenting with time itself.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"10",
+        "SCENARIO_SUPERSECTION*":"0",
+        "SP_CAT_ID":"90000",
+        "SP_CAT_NAME":"Memoirs of Rifts"
+    },
+    {
+        "DESCRIPTION":"MHA Collaboration - Tsuyu, Bakugo and All Might!",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"11",
+        "SCENARIO_SUPERSECTION*":"70000",
+        "SP_CAT_ID":"100001",
+        "SP_CAT_NAME":"The Greatest Hero"
+    },
+    {
+        "DESCRIPTION":"It is said that every autumn in Aimyhr, a moon fairy descends upon the land to revel among the mortals during the annual Harvest Festival. ",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"12",
+        "SCENARIO_SUPERSECTION*":"70000",
+        "SP_CAT_ID":"100002",
+        "SP_CAT_NAME":"Moonlight Harvest"
+    },
+    {
+        "DESCRIPTION":"Accepting a request of a client, a strange beak-masked man greets you. What looms ahead in the huge mansion behind him?",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"13",
+        "SCENARIO_SUPERSECTION*":"70000",
+        "SP_CAT_ID":"100003",
+        "SP_CAT_NAME":"Manor of Horrors"
+    },
+    {
+        "DESCRIPTION":"Fairy Tail 2nd Collaboration - The cast of Fairy Tail returns, alongside with some unexpected company!",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"14",
+        "SCENARIO_SUPERSECTION*":"70000",
+        "SP_CAT_ID":"100004",
+        "SP_CAT_NAME":"Fairy Tail II"
+    },
+    {
+        "DESCRIPTION":"How well do you know about the lore of Brave Frontier? Find out with this trivia game, hosted by Rizky and Shaly!",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"15",
+        "SCENARIO_SUPERSECTION*":"70000",
+        "SP_CAT_ID":"100005",
+        "SP_CAT_NAME":"5th Anniversary Trivia!"
+    },
+    {
+        "DESCRIPTION":"Legend has it that during this festive season of the land, a spirit will whisk away naughty children and adults alike. Is this legend true?",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"16",
+        "SCENARIO_SUPERSECTION*":"70000",
+        "SP_CAT_ID":"100006",
+        "SP_CAT_NAME":"Of Snow and Flames"
+    },
+    {
+        "DESCRIPTION":"Join the military android Galene and the scrappy techpunk Vektor as a flourishing relationship between human and robot unfolds in the grip of the sinister Corporation!",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"17",
+        "SCENARIO_SUPERSECTION*":"70000",
+        "SP_CAT_ID":"100007",
+        "SP_CAT_NAME":"Glitch in the Heart"
+    },
+    {
+        "DESCRIPTION":"Join Marianne and Auberi on their journey to discover the fabled Rainbow Crystal!",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"18",
+        "SCENARIO_SUPERSECTION*":"70000",
+        "SP_CAT_ID":"100008",
+        "SP_CAT_NAME":"Colored Gods"
+    },
+    {
+        "DESCRIPTION":"The worlds of BRAVE FRONTIER and THE KING OF FIGHTERS will clash once more! It's time to crack those knuckles and stretch those muscles!",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"19",
+        "SCENARIO_SUPERSECTION*":"70000",
+        "SP_CAT_ID":"100009",
+        "SP_CAT_NAME":"The King of Fighters"
+    },
+    {
+        "DESCRIPTION":"Evil has not ceased in Urzyma, despite the God-King's death.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"23",
+        "SCENARIO_SUPERSECTION*":"70000",
+        "SP_CAT_ID":"100010",
+        "SP_CAT_NAME":"Burden of Aesys"
+    },
+    {
+        "DESCRIPTION":"The story of Urzyma's resistance against the God-King continues.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"24",
+        "SCENARIO_SUPERSECTION*":"70000",
+        "SP_CAT_ID":"100011",
+        "SP_CAT_NAME":"Amduat"
+    },
+    {
+        "DESCRIPTION":"The ultimate fate of Urzyma lies in the hands of the Vessels.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"25",
+        "SCENARIO_SUPERSECTION*":"70000",
+        "SP_CAT_ID":"100012",
+        "SP_CAT_NAME":"Traversing Eternity"
+    },
+    {
+        "DESCRIPTION":"Witness the history of characters from another world.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"98",
+        "SCENARIO_SUPERSECTION*":"70000",
+        "SP_CAT_ID":"100013",
+        "SP_CAT_NAME":"Battles of Brave Frontier 2"
+    }
+]

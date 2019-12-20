@@ -1,0 +1,37 @@
+[
+    {
+        "FH_GRADE":"1",
+        "MISSION_ID":"1000000",
+        "POINTS_REQUIRED":"0"
+    },
+    {
+        "FH_GRADE":"2",
+        "MISSION_ID":"1000000",
+        "POINTS_REQUIRED":"50000"
+    },
+    {
+        "FH_GRADE":"3",
+        "MISSION_ID":"1000000",
+        "POINTS_REQUIRED":"150000"
+    },
+    {
+        "FH_GRADE":"4",
+        "MISSION_ID":"1000000",
+        "POINTS_REQUIRED":"250000"
+    },
+    {
+        "FH_GRADE":"5",
+        "MISSION_ID":"1000000",
+        "POINTS_REQUIRED":"400000"
+    },
+    {
+        "FH_GRADE":"6",
+        "MISSION_ID":"1000000",
+        "POINTS_REQUIRED":"550000"
+    },
+    {
+        "FH_GRADE":"7",
+        "MISSION_ID":"1000000",
+        "POINTS_REQUIRED":"700000"
+    }
+]

@@ -1,0 +1,722 @@
+{
+    "1":{
+        "exp to next level":4132,
+        "max members":10
+    },
+    "2":{
+        "exp to next level":4167,
+        "max members":10
+    },
+    "3":{
+        "exp to next level":4201,
+        "max members":10
+    },
+    "4":{
+        "exp to next level":6355,
+        "max members":10
+    },
+    "5":{
+        "exp to next level":6408,
+        "max members":15
+    },
+    "6":{
+        "exp to next level":6462,
+        "max members":15
+    },
+    "7":{
+        "exp to next level":6516,
+        "max members":15
+    },
+    "8":{
+        "exp to next level":6570,
+        "max members":15
+    },
+    "9":{
+        "exp to next level":8833,
+        "max members":15
+    },
+    "10":{
+        "exp to next level":8907,
+        "max members":20
+    },
+    "11":{
+        "exp to next level":8982,
+        "max members":20
+    },
+    "12":{
+        "exp to next level":9057,
+        "max members":20
+    },
+    "13":{
+        "exp to next level":9132,
+        "max members":20
+    },
+    "14":{
+        "exp to next level":9208,
+        "max members":20
+    },
+    "15":{
+        "exp to next level":9285,
+        "max members":20
+    },
+    "16":{
+        "exp to next level":9363,
+        "max members":20
+    },
+    "17":{
+        "exp to next level":9441,
+        "max members":20
+    },
+    "18":{
+        "exp to next level":9520,
+        "max members":20
+    },
+    "19":{
+        "exp to next level":12000,
+        "max members":20
+    },
+    "20":{
+        "exp to next level":12250,
+        "max members":25
+    },
+    "21":{
+        "exp to next level":12638,
+        "max members":25
+    },
+    "22":{
+        "exp to next level":13037,
+        "max members":25
+    },
+    "23":{
+        "exp to next level":13450,
+        "max members":25
+    },
+    "24":{
+        "exp to next level":13875,
+        "max members":25
+    },
+    "25":{
+        "exp to next level":14314,
+        "max members":25
+    },
+    "26":{
+        "exp to next level":14766,
+        "max members":25
+    },
+    "27":{
+        "exp to next level":15233,
+        "max members":25
+    },
+    "28":{
+        "exp to next level":15715,
+        "max members":25
+    },
+    "29":{
+        "exp to next level":16212,
+        "max members":25
+    },
+    "30":{
+        "exp to next level":16724,
+        "max members":25
+    },
+    "31":{
+        "exp to next level":17253,
+        "max members":25
+    },
+    "32":{
+        "exp to next level":17799,
+        "max members":25
+    },
+    "33":{
+        "exp to next level":18361,
+        "max members":25
+    },
+    "34":{
+        "exp to next level":18942,
+        "max members":25
+    },
+    "35":{
+        "exp to next level":19541,
+        "max members":25
+    },
+    "36":{
+        "exp to next level":20159,
+        "max members":25
+    },
+    "37":{
+        "exp to next level":20796,
+        "max members":25
+    },
+    "38":{
+        "exp to next level":21454,
+        "max members":25
+    },
+    "39":{
+        "exp to next level":26559,
+        "max members":25
+    },
+    "40":{
+        "exp to next level":27399,
+        "max members":30
+    },
+    "41":{
+        "exp to next level":28265,
+        "max members":30
+    },
+    "42":{
+        "exp to next level":29159,
+        "max members":30
+    },
+    "43":{
+        "exp to next level":30081,
+        "max members":30
+    },
+    "44":{
+        "exp to next level":31032,
+        "max members":30
+    },
+    "45":{
+        "exp to next level":32013,
+        "max members":30
+    },
+    "46":{
+        "exp to next level":33025,
+        "max members":30
+    },
+    "47":{
+        "exp to next level":34070,
+        "max members":30
+    },
+    "48":{
+        "exp to next level":35147,
+        "max members":30
+    },
+    "49":{
+        "exp to next level":36258,
+        "max members":30
+    },
+    "50":{
+        "exp to next level":37405,
+        "max members":30
+    },
+    "51":{
+        "exp to next level":38587,
+        "max members":30
+    },
+    "52":{
+        "exp to next level":39807,
+        "max members":30
+    },
+    "53":{
+        "exp to next level":41066,
+        "max members":30
+    },
+    "54":{
+        "exp to next level":42365,
+        "max members":30
+    },
+    "55":{
+        "exp to next level":43704,
+        "max members":30
+    },
+    "56":{
+        "exp to next level":45086,
+        "max members":30
+    },
+    "57":{
+        "exp to next level":46512,
+        "max members":30
+    },
+    "58":{
+        "exp to next level":47982,
+        "max members":30
+    },
+    "59":{
+        "exp to next level":57750,
+        "max members":30
+    },
+    "60":{
+        "exp to next level":59477,
+        "max members":35
+    },
+    "61":{
+        "exp to next level":61181,
+        "max members":35
+    },
+    "62":{
+        "exp to next level":62933,
+        "max members":35
+    },
+    "63":{
+        "exp to next level":64735,
+        "max members":35
+    },
+    "64":{
+        "exp to next level":66589,
+        "max members":35
+    },
+    "65":{
+        "exp to next level":68496,
+        "max members":35
+    },
+    "66":{
+        "exp to next level":70457,
+        "max members":35
+    },
+    "67":{
+        "exp to next level":72475,
+        "max members":35
+    },
+    "68":{
+        "exp to next level":74550,
+        "max members":35
+    },
+    "69":{
+        "exp to next level":76685,
+        "max members":35
+    },
+    "70":{
+        "exp to next level":78881,
+        "max members":35
+    },
+    "71":{
+        "exp to next level":81140,
+        "max members":35
+    },
+    "72":{
+        "exp to next level":83464,
+        "max members":35
+    },
+    "73":{
+        "exp to next level":85854,
+        "max members":35
+    },
+    "74":{
+        "exp to next level":88313,
+        "max members":35
+    },
+    "75":{
+        "exp to next level":90842,
+        "max members":35
+    },
+    "76":{
+        "exp to next level":93443,
+        "max members":35
+    },
+    "77":{
+        "exp to next level":96119,
+        "max members":35
+    },
+    "78":{
+        "exp to next level":98872,
+        "max members":35
+    },
+    "79":{
+        "exp to next level":101703,
+        "max members":35
+    },
+    "80":{
+        "exp to next level":104616,
+        "max members":35
+    },
+    "81":{
+        "exp to next level":107612,
+        "max members":35
+    },
+    "82":{
+        "exp to next level":110694,
+        "max members":35
+    },
+    "83":{
+        "exp to next level":113864,
+        "max members":35
+    },
+    "84":{
+        "exp to next level":117124,
+        "max members":35
+    },
+    "85":{
+        "exp to next level":120478,
+        "max members":35
+    },
+    "86":{
+        "exp to next level":123929,
+        "max members":35
+    },
+    "87":{
+        "exp to next level":127478,
+        "max members":35
+    },
+    "88":{
+        "exp to next level":131128,
+        "max members":35
+    },
+    "89":{
+        "exp to next level":154153,
+        "max members":35
+    },
+    "90":{
+        "exp to next level":158567,
+        "max members":40
+    },
+    "91":{
+        "exp to next level":163108,
+        "max members":40
+    },
+    "92":{
+        "exp to next level":167779,
+        "max members":40
+    },
+    "93":{
+        "exp to next level":172584,
+        "max members":40
+    },
+    "94":{
+        "exp to next level":177526,
+        "max members":40
+    },
+    "95":{
+        "exp to next level":182610,
+        "max members":40
+    },
+    "96":{
+        "exp to next level":187839,
+        "max members":40
+    },
+    "97":{
+        "exp to next level":193219,
+        "max members":40
+    },
+    "98":{
+        "exp to next level":198752,
+        "max members":40
+    },
+    "99":{
+        "exp to next level":204444,
+        "max members":40
+    },
+    "100":{
+        "exp to next level":210298,
+        "max members":40
+    },
+    "101":{
+        "exp to next level":216321,
+        "max members":40
+    },
+    "102":{
+        "exp to next level":222516,
+        "max members":40
+    },
+    "103":{
+        "exp to next level":228888,
+        "max members":40
+    },
+    "104":{
+        "exp to next level":235443,
+        "max members":40
+    },
+    "105":{
+        "exp to next level":242185,
+        "max members":40
+    },
+    "106":{
+        "exp to next level":249121,
+        "max members":40
+    },
+    "107":{
+        "exp to next level":256255,
+        "max members":40
+    },
+    "108":{
+        "exp to next level":263593,
+        "max members":40
+    },
+    "109":{
+        "exp to next level":271142,
+        "max members":40
+    },
+    "110":{
+        "exp to next level":278906,
+        "max members":40
+    },
+    "111":{
+        "exp to next level":286894,
+        "max members":40
+    },
+    "112":{
+        "exp to next level":295109,
+        "max members":40
+    },
+    "113":{
+        "exp to next level":303561,
+        "max members":40
+    },
+    "114":{
+        "exp to next level":312254,
+        "max members":40
+    },
+    "115":{
+        "exp to next level":321196,
+        "max members":40
+    },
+    "116":{
+        "exp to next level":330394,
+        "max members":40
+    },
+    "117":{
+        "exp to next level":339856,
+        "max members":40
+    },
+    "118":{
+        "exp to next level":349588,
+        "max members":40
+    },
+    "119":{
+        "exp to next level":404550,
+        "max members":40
+    },
+    "120":{
+        "exp to next level":408959,
+        "max members":45
+    },
+    "121":{
+        "exp to next level":410948,
+        "max members":45
+    },
+    "122":{
+        "exp to next level":412947,
+        "max members":45
+    },
+    "123":{
+        "exp to next level":414955,
+        "max members":45
+    },
+    "124":{
+        "exp to next level":416973,
+        "max members":45
+    },
+    "125":{
+        "exp to next level":419001,
+        "max members":45
+    },
+    "126":{
+        "exp to next level":421039,
+        "max members":45
+    },
+    "127":{
+        "exp to next level":423087,
+        "max members":45
+    },
+    "128":{
+        "exp to next level":425144,
+        "max members":45
+    },
+    "129":{
+        "exp to next level":427212,
+        "max members":45
+    },
+    "130":{
+        "exp to next level":429290,
+        "max members":45
+    },
+    "131":{
+        "exp to next level":431378,
+        "max members":45
+    },
+    "132":{
+        "exp to next level":433476,
+        "max members":45
+    },
+    "133":{
+        "exp to next level":435584,
+        "max members":45
+    },
+    "134":{
+        "exp to next level":437702,
+        "max members":45
+    },
+    "135":{
+        "exp to next level":439831,
+        "max members":45
+    },
+    "136":{
+        "exp to next level":441970,
+        "max members":45
+    },
+    "137":{
+        "exp to next level":444120,
+        "max members":45
+    },
+    "138":{
+        "exp to next level":446280,
+        "max members":45
+    },
+    "139":{
+        "exp to next level":448450,
+        "max members":45
+    },
+    "140":{
+        "exp to next level":450631,
+        "max members":45
+    },
+    "141":{
+        "exp to next level":452823,
+        "max members":45
+    },
+    "142":{
+        "exp to next level":455025,
+        "max members":45
+    },
+    "143":{
+        "exp to next level":457238,
+        "max members":45
+    },
+    "144":{
+        "exp to next level":459462,
+        "max members":45
+    },
+    "145":{
+        "exp to next level":461697,
+        "max members":45
+    },
+    "146":{
+        "exp to next level":463942,
+        "max members":45
+    },
+    "147":{
+        "exp to next level":466199,
+        "max members":45
+    },
+    "148":{
+        "exp to next level":468466,
+        "max members":45
+    },
+    "149":{
+        "exp to next level":470744,
+        "max members":45
+    },
+    "150":{
+        "exp to next level":473034,
+        "max members":45
+    },
+    "151":{
+        "exp to next level":475335,
+        "max members":45
+    },
+    "152":{
+        "exp to next level":477646,
+        "max members":45
+    },
+    "153":{
+        "exp to next level":479969,
+        "max members":45
+    },
+    "154":{
+        "exp to next level":482304,
+        "max members":45
+    },
+    "155":{
+        "exp to next level":484649,
+        "max members":45
+    },
+    "156":{
+        "exp to next level":487007,
+        "max members":45
+    },
+    "157":{
+        "exp to next level":489375,
+        "max members":45
+    },
+    "158":{
+        "exp to next level":491755,
+        "max members":45
+    },
+    "159":{
+        "exp to next level":494147,
+        "max members":45
+    },
+    "160":{
+        "exp to next level":496550,
+        "max members":45
+    },
+    "161":{
+        "exp to next level":498965,
+        "max members":45
+    },
+    "162":{
+        "exp to next level":501392,
+        "max members":45
+    },
+    "163":{
+        "exp to next level":503831,
+        "max members":45
+    },
+    "164":{
+        "exp to next level":506281,
+        "max members":45
+    },
+    "165":{
+        "exp to next level":508743,
+        "max members":45
+    },
+    "166":{
+        "exp to next level":511218,
+        "max members":45
+    },
+    "167":{
+        "exp to next level":513704,
+        "max members":45
+    },
+    "168":{
+        "exp to next level":516202,
+        "max members":45
+    },
+    "169":{
+        "exp to next level":518713,
+        "max members":45
+    },
+    "170":{
+        "exp to next level":521236,
+        "max members":45
+    },
+    "171":{
+        "exp to next level":523771,
+        "max members":45
+    },
+    "172":{
+        "exp to next level":526318,
+        "max members":45
+    },
+    "173":{
+        "exp to next level":528878,
+        "max members":45
+    },
+    "174":{
+        "exp to next level":531450,
+        "max members":45
+    },
+    "175":{
+        "exp to next level":534035,
+        "max members":45
+    },
+    "176":{
+        "exp to next level":536632,
+        "max members":45
+    },
+    "177":{
+        "exp to next level":539242,
+        "max members":45
+    },
+    "178":{
+        "exp to next level":541865,
+        "max members":45
+    },
+    "179":{
+        "exp to next level":605000,
+        "max members":45
+    },
+    "180":{
+        "exp to next level":0,
+        "max members":50
+    }
+}

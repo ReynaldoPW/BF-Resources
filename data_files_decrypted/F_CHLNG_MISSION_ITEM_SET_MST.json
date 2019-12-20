@@ -1,0 +1,26 @@
+[
+    {
+        "GUILD_NAME":"Recovery Set",
+        "ITEM_SET_CONTAINED":"50000,15:50001,10:50100,5:50200,15:52400,2",
+        "MISSION_ID":"1000000",
+        "gUvjqu39":"1"
+    },
+    {
+        "GUILD_NAME":"Marauder Set",
+        "ITEM_SET_CONTAINED":"50000,15:50400,10:51000,7:50200,15:52400,2",
+        "MISSION_ID":"1000000",
+        "gUvjqu39":"2"
+    },
+    {
+        "GUILD_NAME":"Protector Set",
+        "ITEM_SET_CONTAINED":"50000,15:50600,10:52300,7:50200,15:52400,2",
+        "MISSION_ID":"1000000",
+        "gUvjqu39":"3"
+    },
+    {
+        "GUILD_NAME":"Balance Set",
+        "ITEM_SET_CONTAINED":"50000,15:50400,15:50600,15:52300,7:50200,15",
+        "MISSION_ID":"1000000",
+        "gUvjqu39":"4"
+    }
+]

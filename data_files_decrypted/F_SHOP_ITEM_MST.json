@@ -1,0 +1,50 @@
+[
+    {
+        "29MgiJIQ":"1",
+        "AI_PRIORITY":"1",
+        "AVAILABILITY_TIME_END":"0000-00-00 00:00:00",
+        "AVAILABILITY_TIME_START/AMOUNT_REQUIRED":"0000-00-00 00:00:00",
+        "DESCRIPTION":"Multiplies Summoner EXP, weapon EXP, and SP by 1.5 whenever a Quest is cleared for 30min",
+        "GEM_COST":"1",
+        "PRESENT_AMOUNT":"1",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"101",
+        "REWARD_ITEM_ID":"130000",
+        "SHOP_ITEM_NUMBER":"1"
+    },
+    {
+        "29MgiJIQ":"1",
+        "AI_PRIORITY":"1",
+        "AVAILABILITY_TIME_END":"0000-00-00 00:00:00",
+        "AVAILABILITY_TIME_START/AMOUNT_REQUIRED":"0000-00-00 00:00:00",
+        "DESCRIPTION":"Multiplies Summoner EXP, weapon EXP, and SP by 2 whenever a Quest is cleared for 30min",
+        "GEM_COST":"2",
+        "PRESENT_AMOUNT":"1",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"102",
+        "REWARD_ITEM_ID":"130001",
+        "SHOP_ITEM_NUMBER":"2"
+    },
+    {
+        "29MgiJIQ":"1",
+        "AI_PRIORITY":"1",
+        "AVAILABILITY_TIME_END":"0000-00-00 00:00:00",
+        "AVAILABILITY_TIME_START/AMOUNT_REQUIRED":"0000-00-00 00:00:00",
+        "DESCRIPTION":"Multiplies Summoner EXP, weapon EXP, and SP by 1.5 whenever a Quest is cleared",
+        "GEM_COST":"1",
+        "PRESENT_AMOUNT":"30",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"201",
+        "REWARD_ITEM_ID":"130010",
+        "SHOP_ITEM_NUMBER":"3"
+    },
+    {
+        "29MgiJIQ":"1",
+        "AI_PRIORITY":"1",
+        "AVAILABILITY_TIME_END":"0000-00-00 00:00:00",
+        "AVAILABILITY_TIME_START/AMOUNT_REQUIRED":"0000-00-00 00:00:00",
+        "DESCRIPTION":"Multiplies Summoner EXP, weapon EXP, and SP by 2 whenever a Quest is cleared",
+        "GEM_COST":"2",
+        "PRESENT_AMOUNT":"30",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"202",
+        "REWARD_ITEM_ID":"130011",
+        "SHOP_ITEM_NUMBER":"4"
+    }
+]

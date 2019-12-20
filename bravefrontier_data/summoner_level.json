@@ -1,0 +1,5002 @@
+{
+    "1":{
+        "exp to next level":80,
+        "stats":{
+            "atk":1500,
+            "def":1500,
+            "hp":4000,
+            "rec":1500
+        },
+        "summoning arts level":0
+    },
+    "2":{
+        "exp to next level":152,
+        "stats":{
+            "atk":1506,
+            "def":1505,
+            "hp":4030,
+            "rec":1504
+        },
+        "summoning arts level":5
+    },
+    "3":{
+        "exp to next level":248,
+        "stats":{
+            "atk":1515,
+            "def":1515,
+            "hp":4051,
+            "rec":1512
+        },
+        "summoning arts level":6
+    },
+    "4":{
+        "exp to next level":368,
+        "stats":{
+            "atk":1520,
+            "def":1523,
+            "hp":4061,
+            "rec":1516
+        },
+        "summoning arts level":7
+    },
+    "5":{
+        "exp to next level":512,
+        "stats":{
+            "atk":1527,
+            "def":1526,
+            "hp":4061,
+            "rec":1525
+        },
+        "summoning arts level":8
+    },
+    "6":{
+        "exp to next level":680,
+        "stats":{
+            "atk":1534,
+            "def":1531,
+            "hp":4091,
+            "rec":1529
+        },
+        "summoning arts level":9
+    },
+    "7":{
+        "exp to next level":872,
+        "stats":{
+            "atk":1542,
+            "def":1541,
+            "hp":4112,
+            "rec":1538
+        },
+        "summoning arts level":10
+    },
+    "8":{
+        "exp to next level":1088,
+        "stats":{
+            "atk":1548,
+            "def":1550,
+            "hp":4122,
+            "rec":1542
+        },
+        "summoning arts level":11
+    },
+    "9":{
+        "exp to next level":1328,
+        "stats":{
+            "atk":1555,
+            "def":1555,
+            "hp":4122,
+            "rec":1551
+        },
+        "summoning arts level":12
+    },
+    "10":{
+        "exp to next level":1592,
+        "stats":{
+            "atk":1561,
+            "def":1564,
+            "hp":4147,
+            "rec":1555
+        },
+        "summoning arts level":13
+    },
+    "11":{
+        "exp to next level":1880,
+        "stats":{
+            "atk":1570,
+            "def":1573,
+            "hp":4178,
+            "rec":1563
+        },
+        "summoning arts level":14
+    },
+    "12":{
+        "exp to next level":2192,
+        "stats":{
+            "atk":1575,
+            "def":1576,
+            "hp":4198,
+            "rec":1567
+        },
+        "summoning arts level":15
+    },
+    "13":{
+        "exp to next level":2528,
+        "stats":{
+            "atk":1582,
+            "def":1581,
+            "hp":4208,
+            "rec":1576
+        },
+        "summoning arts level":16
+    },
+    "14":{
+        "exp to next level":2888,
+        "stats":{
+            "atk":1589,
+            "def":1591,
+            "hp":4208,
+            "rec":1580
+        },
+        "summoning arts level":17
+    },
+    "15":{
+        "exp to next level":3272,
+        "stats":{
+            "atk":1597,
+            "def":1599,
+            "hp":4239,
+            "rec":1589
+        },
+        "summoning arts level":18
+    },
+    "16":{
+        "exp to next level":3680,
+        "stats":{
+            "atk":1603,
+            "def":1602,
+            "hp":4259,
+            "rec":1592
+        },
+        "summoning arts level":19
+    },
+    "17":{
+        "exp to next level":4112,
+        "stats":{
+            "atk":1610,
+            "def":1607,
+            "hp":4269,
+            "rec":1602
+        },
+        "summoning arts level":20
+    },
+    "18":{
+        "exp to next level":4568,
+        "stats":{
+            "atk":1616,
+            "def":1617,
+            "hp":4269,
+            "rec":1606
+        },
+        "summoning arts level":21
+    },
+    "19":{
+        "exp to next level":5048,
+        "stats":{
+            "atk":1625,
+            "def":1626,
+            "hp":4299,
+            "rec":1614
+        },
+        "summoning arts level":22
+    },
+    "20":{
+        "exp to next level":5552,
+        "stats":{
+            "atk":1630,
+            "def":1629,
+            "hp":4320,
+            "rec":1618
+        },
+        "summoning arts level":23
+    },
+    "21":{
+        "exp to next level":6080,
+        "stats":{
+            "atk":1637,
+            "def":1634,
+            "hp":4330,
+            "rec":1627
+        },
+        "summoning arts level":24
+    },
+    "22":{
+        "exp to next level":6632,
+        "stats":{
+            "atk":1644,
+            "def":1644,
+            "hp":4330,
+            "rec":1631
+        },
+        "summoning arts level":25
+    },
+    "23":{
+        "exp to next level":7208,
+        "stats":{
+            "atk":1652,
+            "def":1652,
+            "hp":4360,
+            "rec":1640
+        },
+        "summoning arts level":26
+    },
+    "24":{
+        "exp to next level":7808,
+        "stats":{
+            "atk":1658,
+            "def":1655,
+            "hp":4381,
+            "rec":1643
+        },
+        "summoning arts level":27
+    },
+    "25":{
+        "exp to next level":8432,
+        "stats":{
+            "atk":1665,
+            "def":1659,
+            "hp":4391,
+            "rec":1653
+        },
+        "summoning arts level":28
+    },
+    "26":{
+        "exp to next level":9080,
+        "stats":{
+            "atk":1671,
+            "def":1664,
+            "hp":4391,
+            "rec":1657
+        },
+        "summoning arts level":29
+    },
+    "27":{
+        "exp to next level":9752,
+        "stats":{
+            "atk":1680,
+            "def":1674,
+            "hp":4421,
+            "rec":1665
+        },
+        "summoning arts level":30
+    },
+    "28":{
+        "exp to next level":10448,
+        "stats":{
+            "atk":1685,
+            "def":1682,
+            "hp":4442,
+            "rec":1669
+        },
+        "summoning arts level":31
+    },
+    "29":{
+        "exp to next level":11168,
+        "stats":{
+            "atk":1692,
+            "def":1685,
+            "hp":4452,
+            "rec":1678
+        },
+        "summoning arts level":32
+    },
+    "30":{
+        "exp to next level":11912,
+        "stats":{
+            "atk":1699,
+            "def":1690,
+            "hp":4452,
+            "rec":1682
+        },
+        "summoning arts level":33
+    },
+    "31":{
+        "exp to next level":12680,
+        "stats":{
+            "atk":1707,
+            "def":1700,
+            "hp":4482,
+            "rec":1691
+        },
+        "summoning arts level":34
+    },
+    "32":{
+        "exp to next level":13472,
+        "stats":{
+            "atk":1713,
+            "def":1708,
+            "hp":4503,
+            "rec":1694
+        },
+        "summoning arts level":35
+    },
+    "33":{
+        "exp to next level":14288,
+        "stats":{
+            "atk":1720,
+            "def":1712,
+            "hp":4513,
+            "rec":1704
+        },
+        "summoning arts level":36
+    },
+    "34":{
+        "exp to next level":15128,
+        "stats":{
+            "atk":1726,
+            "def":1715,
+            "hp":4513,
+            "rec":1708
+        },
+        "summoning arts level":37
+    },
+    "35":{
+        "exp to next level":15992,
+        "stats":{
+            "atk":1735,
+            "def":1720,
+            "hp":4543,
+            "rec":1716
+        },
+        "summoning arts level":38
+    },
+    "36":{
+        "exp to next level":16880,
+        "stats":{
+            "atk":1740,
+            "def":1730,
+            "hp":4563,
+            "rec":1720
+        },
+        "summoning arts level":39
+    },
+    "37":{
+        "exp to next level":17792,
+        "stats":{
+            "atk":1747,
+            "def":1738,
+            "hp":4574,
+            "rec":1729
+        },
+        "summoning arts level":40
+    },
+    "38":{
+        "exp to next level":18728,
+        "stats":{
+            "atk":1754,
+            "def":1741,
+            "hp":4574,
+            "rec":1733
+        },
+        "summoning arts level":41
+    },
+    "39":{
+        "exp to next level":19688,
+        "stats":{
+            "atk":1762,
+            "def":1746,
+            "hp":4599,
+            "rec":1742
+        },
+        "summoning arts level":42
+    },
+    "40":{
+        "exp to next level":20672,
+        "stats":{
+            "atk":1768,
+            "def":1756,
+            "hp":4629,
+            "rec":1745
+        },
+        "summoning arts level":43
+    },
+    "41":{
+        "exp to next level":21680,
+        "stats":{
+            "atk":1775,
+            "def":1764,
+            "hp":4650,
+            "rec":1755
+        },
+        "summoning arts level":44
+    },
+    "42":{
+        "exp to next level":22712,
+        "stats":{
+            "atk":1781,
+            "def":1768,
+            "hp":4660,
+            "rec":1758
+        },
+        "summoning arts level":45
+    },
+    "43":{
+        "exp to next level":23768,
+        "stats":{
+            "atk":1789,
+            "def":1773,
+            "hp":4660,
+            "rec":1767
+        },
+        "summoning arts level":46
+    },
+    "44":{
+        "exp to next level":24848,
+        "stats":{
+            "atk":1795,
+            "def":1783,
+            "hp":4690,
+            "rec":1771
+        },
+        "summoning arts level":47
+    },
+    "45":{
+        "exp to next level":25952,
+        "stats":{
+            "atk":1802,
+            "def":1791,
+            "hp":4711,
+            "rec":1780
+        },
+        "summoning arts level":48
+    },
+    "46":{
+        "exp to next level":27080,
+        "stats":{
+            "atk":1808,
+            "def":1794,
+            "hp":4721,
+            "rec":1784
+        },
+        "summoning arts level":49
+    },
+    "47":{
+        "exp to next level":28232,
+        "stats":{
+            "atk":1817,
+            "def":1799,
+            "hp":4721,
+            "rec":1792
+        },
+        "summoning arts level":50
+    },
+    "48":{
+        "exp to next level":29408,
+        "stats":{
+            "atk":1823,
+            "def":1809,
+            "hp":4746,
+            "rec":1796
+        },
+        "summoning arts level":51
+    },
+    "49":{
+        "exp to next level":30608,
+        "stats":{
+            "atk":1830,
+            "def":1817,
+            "hp":4746,
+            "rec":1806
+        },
+        "summoning arts level":52
+    },
+    "50":{
+        "exp to next level":32240,
+        "stats":{
+            "atk":1900,
+            "def":1900,
+            "hp":5000,
+            "rec":1900
+        },
+        "summoning arts level":53
+    },
+    "51":{
+        "exp to next level":33904,
+        "stats":{
+            "atk":1903,
+            "def":1908,
+            "hp":5008,
+            "rec":1902
+        },
+        "summoning arts level":54
+    },
+    "52":{
+        "exp to next level":35600,
+        "stats":{
+            "atk":1909,
+            "def":1913,
+            "hp":5020,
+            "rec":1908
+        },
+        "summoning arts level":55
+    },
+    "53":{
+        "exp to next level":37328,
+        "stats":{
+            "atk":1914,
+            "def":1915,
+            "hp":5027,
+            "rec":1910
+        },
+        "summoning arts level":56
+    },
+    "54":{
+        "exp to next level":39088,
+        "stats":{
+            "atk":1916,
+            "def":1915,
+            "hp":5037,
+            "rec":1916
+        },
+        "summoning arts level":57
+    },
+    "55":{
+        "exp to next level":40880,
+        "stats":{
+            "atk":1919,
+            "def":1923,
+            "hp":5045,
+            "rec":1918
+        },
+        "summoning arts level":58
+    },
+    "56":{
+        "exp to next level":42704,
+        "stats":{
+            "atk":1925,
+            "def":1928,
+            "hp":5057,
+            "rec":1924
+        },
+        "summoning arts level":59
+    },
+    "57":{
+        "exp to next level":44560,
+        "stats":{
+            "atk":1930,
+            "def":1931,
+            "hp":5064,
+            "rec":1926
+        },
+        "summoning arts level":60
+    },
+    "58":{
+        "exp to next level":46448,
+        "stats":{
+            "atk":1933,
+            "def":1931,
+            "hp":5074,
+            "rec":1932
+        },
+        "summoning arts level":61
+    },
+    "59":{
+        "exp to next level":48368,
+        "stats":{
+            "atk":1939,
+            "def":1937,
+            "hp":5082,
+            "rec":1934
+        },
+        "summoning arts level":62
+    },
+    "60":{
+        "exp to next level":50320,
+        "stats":{
+            "atk":1944,
+            "def":1945,
+            "hp":5093,
+            "rec":1939
+        },
+        "summoning arts level":63
+    },
+    "61":{
+        "exp to next level":52304,
+        "stats":{
+            "atk":1946,
+            "def":1950,
+            "hp":5101,
+            "rec":1942
+        },
+        "summoning arts level":64
+    },
+    "62":{
+        "exp to next level":54320,
+        "stats":{
+            "atk":1949,
+            "def":1952,
+            "hp":5110,
+            "rec":1948
+        },
+        "summoning arts level":65
+    },
+    "63":{
+        "exp to next level":56368,
+        "stats":{
+            "atk":1955,
+            "def":1952,
+            "hp":5119,
+            "rec":1950
+        },
+        "summoning arts level":66
+    },
+    "64":{
+        "exp to next level":58448,
+        "stats":{
+            "atk":1960,
+            "def":1960,
+            "hp":5130,
+            "rec":1955
+        },
+        "summoning arts level":67
+    },
+    "65":{
+        "exp to next level":60560,
+        "stats":{
+            "atk":1962,
+            "def":1965,
+            "hp":5138,
+            "rec":1958
+        },
+        "summoning arts level":68
+    },
+    "66":{
+        "exp to next level":62704,
+        "stats":{
+            "atk":1965,
+            "def":1968,
+            "hp":5147,
+            "rec":1964
+        },
+        "summoning arts level":69
+    },
+    "67":{
+        "exp to next level":64880,
+        "stats":{
+            "atk":1971,
+            "def":1968,
+            "hp":5156,
+            "rec":1966
+        },
+        "summoning arts level":70
+    },
+    "68":{
+        "exp to next level":67088,
+        "stats":{
+            "atk":1976,
+            "def":1976,
+            "hp":5167,
+            "rec":1971
+        },
+        "summoning arts level":71
+    },
+    "69":{
+        "exp to next level":69328,
+        "stats":{
+            "atk":1978,
+            "def":1981,
+            "hp":5175,
+            "rec":1974
+        },
+        "summoning arts level":72
+    },
+    "70":{
+        "exp to next level":71600,
+        "stats":{
+            "atk":1981,
+            "def":1983,
+            "hp":5184,
+            "rec":1979
+        },
+        "summoning arts level":73
+    },
+    "71":{
+        "exp to next level":73904,
+        "stats":{
+            "atk":1987,
+            "def":1983,
+            "hp":5192,
+            "rec":1982
+        },
+        "summoning arts level":74
+    },
+    "72":{
+        "exp to next level":76240,
+        "stats":{
+            "atk":1992,
+            "def":1991,
+            "hp":5204,
+            "rec":1987
+        },
+        "summoning arts level":75
+    },
+    "73":{
+        "exp to next level":78608,
+        "stats":{
+            "atk":1994,
+            "def":1996,
+            "hp":5211,
+            "rec":1989
+        },
+        "summoning arts level":76
+    },
+    "74":{
+        "exp to next level":81008,
+        "stats":{
+            "atk":1996,
+            "def":1999,
+            "hp":5221,
+            "rec":1995
+        },
+        "summoning arts level":77
+    },
+    "75":{
+        "exp to next level":83440,
+        "stats":{
+            "atk":1999,
+            "def":1999,
+            "hp":5229,
+            "rec":1998
+        },
+        "summoning arts level":78
+    },
+    "76":{
+        "exp to next level":85904,
+        "stats":{
+            "atk":2005,
+            "def":2006,
+            "hp":5241,
+            "rec":2003
+        },
+        "summoning arts level":79
+    },
+    "77":{
+        "exp to next level":88400,
+        "stats":{
+            "atk":2010,
+            "def":2011,
+            "hp":5248,
+            "rec":2005
+        },
+        "summoning arts level":80
+    },
+    "78":{
+        "exp to next level":90928,
+        "stats":{
+            "atk":2012,
+            "def":2014,
+            "hp":5258,
+            "rec":2011
+        },
+        "summoning arts level":81
+    },
+    "79":{
+        "exp to next level":93488,
+        "stats":{
+            "atk":2015,
+            "def":2014,
+            "hp":5266,
+            "rec":2014
+        },
+        "summoning arts level":82
+    },
+    "80":{
+        "exp to next level":96080,
+        "stats":{
+            "atk":2021,
+            "def":2022,
+            "hp":5277,
+            "rec":2019
+        },
+        "summoning arts level":83
+    },
+    "81":{
+        "exp to next level":98704,
+        "stats":{
+            "atk":2026,
+            "def":2027,
+            "hp":5285,
+            "rec":2021
+        },
+        "summoning arts level":84
+    },
+    "82":{
+        "exp to next level":101360,
+        "stats":{
+            "atk":2028,
+            "def":2029,
+            "hp":5294,
+            "rec":2027
+        },
+        "summoning arts level":85
+    },
+    "83":{
+        "exp to next level":104048,
+        "stats":{
+            "atk":2030,
+            "def":2029,
+            "hp":5303,
+            "rec":2029
+        },
+        "summoning arts level":86
+    },
+    "84":{
+        "exp to next level":106768,
+        "stats":{
+            "atk":2033,
+            "def":2037,
+            "hp":5314,
+            "rec":2035
+        },
+        "summoning arts level":87
+    },
+    "85":{
+        "exp to next level":109520,
+        "stats":{
+            "atk":2039,
+            "def":2042,
+            "hp":5322,
+            "rec":2037
+        },
+        "summoning arts level":88
+    },
+    "86":{
+        "exp to next level":112304,
+        "stats":{
+            "atk":2044,
+            "def":2045,
+            "hp":5331,
+            "rec":2043
+        },
+        "summoning arts level":89
+    },
+    "87":{
+        "exp to next level":115120,
+        "stats":{
+            "atk":2046,
+            "def":2045,
+            "hp":5340,
+            "rec":2045
+        },
+        "summoning arts level":90
+    },
+    "88":{
+        "exp to next level":117968,
+        "stats":{
+            "atk":2049,
+            "def":2051,
+            "hp":5351,
+            "rec":2051
+        },
+        "summoning arts level":91
+    },
+    "89":{
+        "exp to next level":120848,
+        "stats":{
+            "atk":2055,
+            "def":2059,
+            "hp":5358,
+            "rec":2053
+        },
+        "summoning arts level":92
+    },
+    "90":{
+        "exp to next level":123760,
+        "stats":{
+            "atk":2060,
+            "def":2064,
+            "hp":5368,
+            "rec":2059
+        },
+        "summoning arts level":93
+    },
+    "91":{
+        "exp to next level":126704,
+        "stats":{
+            "atk":2062,
+            "def":2066,
+            "hp":5376,
+            "rec":2061
+        },
+        "summoning arts level":94
+    },
+    "92":{
+        "exp to next level":129680,
+        "stats":{
+            "atk":2065,
+            "def":2066,
+            "hp":5388,
+            "rec":2066
+        },
+        "summoning arts level":95
+    },
+    "93":{
+        "exp to next level":132688,
+        "stats":{
+            "atk":2071,
+            "def":2074,
+            "hp":5395,
+            "rec":2069
+        },
+        "summoning arts level":96
+    },
+    "94":{
+        "exp to next level":135728,
+        "stats":{
+            "atk":2076,
+            "def":2079,
+            "hp":5405,
+            "rec":2075
+        },
+        "summoning arts level":97
+    },
+    "95":{
+        "exp to next level":138800,
+        "stats":{
+            "atk":2078,
+            "def":2082,
+            "hp":5413,
+            "rec":2077
+        },
+        "summoning arts level":98
+    },
+    "96":{
+        "exp to next level":141904,
+        "stats":{
+            "atk":2081,
+            "def":2082,
+            "hp":5425,
+            "rec":2082
+        },
+        "summoning arts level":99
+    },
+    "97":{
+        "exp to next level":145040,
+        "stats":{
+            "atk":2087,
+            "def":2088,
+            "hp":5432,
+            "rec":2085
+        },
+        "summoning arts level":100
+    },
+    "98":{
+        "exp to next level":148208,
+        "stats":{
+            "atk":2092,
+            "def":2088,
+            "hp":5442,
+            "rec":2091
+        },
+        "summoning arts level":101
+    },
+    "99":{
+        "exp to next level":151408,
+        "stats":{
+            "atk":2095,
+            "def":2096,
+            "hp":5450,
+            "rec":2093
+        },
+        "summoning arts level":102
+    },
+    "100":{
+        "exp to next level":154640,
+        "stats":{
+            "atk":2100,
+            "def":2101,
+            "hp":5461,
+            "rec":2098
+        },
+        "summoning arts level":103
+    },
+    "101":{
+        "exp to next level":157904,
+        "stats":{
+            "atk":2105,
+            "def":2104,
+            "hp":5469,
+            "rec":2101
+        },
+        "summoning arts level":100
+    },
+    "102":{
+        "exp to next level":161200,
+        "stats":{
+            "atk":2107,
+            "def":2104,
+            "hp":5478,
+            "rec":2106
+        },
+        "summoning arts level":100
+    },
+    "103":{
+        "exp to next level":164528,
+        "stats":{
+            "atk":2110,
+            "def":2111,
+            "hp":5487,
+            "rec":2109
+        },
+        "summoning arts level":100
+    },
+    "104":{
+        "exp to next level":167888,
+        "stats":{
+            "atk":2116,
+            "def":2116,
+            "hp":5498,
+            "rec":2114
+        },
+        "summoning arts level":100
+    },
+    "105":{
+        "exp to next level":171280,
+        "stats":{
+            "atk":2121,
+            "def":2119,
+            "hp":5506,
+            "rec":2116
+        },
+        "summoning arts level":100
+    },
+    "106":{
+        "exp to next level":174704,
+        "stats":{
+            "atk":2124,
+            "def":2119,
+            "hp":5515,
+            "rec":2122
+        },
+        "summoning arts level":100
+    },
+    "107":{
+        "exp to next level":178160,
+        "stats":{
+            "atk":2130,
+            "def":2125,
+            "hp":5524,
+            "rec":2125
+        },
+        "summoning arts level":100
+    },
+    "108":{
+        "exp to next level":181648,
+        "stats":{
+            "atk":2135,
+            "def":2133,
+            "hp":5535,
+            "rec":2130
+        },
+        "summoning arts level":100
+    },
+    "109":{
+        "exp to next level":185168,
+        "stats":{
+            "atk":2137,
+            "def":2138,
+            "hp":5542,
+            "rec":2132
+        },
+        "summoning arts level":100
+    },
+    "110":{
+        "exp to next level":188720,
+        "stats":{
+            "atk":2140,
+            "def":2141,
+            "hp":5552,
+            "rec":2138
+        },
+        "summoning arts level":100
+    },
+    "111":{
+        "exp to next level":192304,
+        "stats":{
+            "atk":2146,
+            "def":2141,
+            "hp":5560,
+            "rec":2141
+        },
+        "summoning arts level":100
+    },
+    "112":{
+        "exp to next level":195920,
+        "stats":{
+            "atk":2151,
+            "def":2148,
+            "hp":5572,
+            "rec":2146
+        },
+        "summoning arts level":100
+    },
+    "113":{
+        "exp to next level":199568,
+        "stats":{
+            "atk":2153,
+            "def":2153,
+            "hp":5579,
+            "rec":2148
+        },
+        "summoning arts level":100
+    },
+    "114":{
+        "exp to next level":203248,
+        "stats":{
+            "atk":2156,
+            "def":2156,
+            "hp":5589,
+            "rec":2154
+        },
+        "summoning arts level":100
+    },
+    "115":{
+        "exp to next level":206960,
+        "stats":{
+            "atk":2162,
+            "def":2156,
+            "hp":5597,
+            "rec":2156
+        },
+        "summoning arts level":100
+    },
+    "116":{
+        "exp to next level":210704,
+        "stats":{
+            "atk":2167,
+            "def":2164,
+            "hp":5608,
+            "rec":2162
+        },
+        "summoning arts level":100
+    },
+    "117":{
+        "exp to next level":214480,
+        "stats":{
+            "atk":2169,
+            "def":2169,
+            "hp":5616,
+            "rec":2164
+        },
+        "summoning arts level":100
+    },
+    "118":{
+        "exp to next level":218288,
+        "stats":{
+            "atk":2172,
+            "def":2171,
+            "hp":5625,
+            "rec":2170
+        },
+        "summoning arts level":100
+    },
+    "119":{
+        "exp to next level":222128,
+        "stats":{
+            "atk":2178,
+            "def":2171,
+            "hp":5634,
+            "rec":2172
+        },
+        "summoning arts level":100
+    },
+    "120":{
+        "exp to next level":226000,
+        "stats":{
+            "atk":2183,
+            "def":2179,
+            "hp":5645,
+            "rec":2178
+        },
+        "summoning arts level":100
+    },
+    "121":{
+        "exp to next level":229904,
+        "stats":{
+            "atk":2185,
+            "def":2184,
+            "hp":5653,
+            "rec":2180
+        },
+        "summoning arts level":100
+    },
+    "122":{
+        "exp to next level":233840,
+        "stats":{
+            "atk":2187,
+            "def":2187,
+            "hp":5662,
+            "rec":2186
+        },
+        "summoning arts level":100
+    },
+    "123":{
+        "exp to next level":237808,
+        "stats":{
+            "atk":2190,
+            "def":2187,
+            "hp":5671,
+            "rec":2188
+        },
+        "summoning arts level":100
+    },
+    "124":{
+        "exp to next level":241808,
+        "stats":{
+            "atk":2196,
+            "def":2194,
+            "hp":5682,
+            "rec":2194
+        },
+        "summoning arts level":100
+    },
+    "125":{
+        "exp to next level":245840,
+        "stats":{
+            "atk":2201,
+            "def":2200,
+            "hp":5690,
+            "rec":2196
+        },
+        "summoning arts level":100
+    },
+    "126":{
+        "exp to next level":249904,
+        "stats":{
+            "atk":2203,
+            "def":2202,
+            "hp":5699,
+            "rec":2202
+        },
+        "summoning arts level":100
+    },
+    "127":{
+        "exp to next level":254000,
+        "stats":{
+            "atk":2206,
+            "def":2202,
+            "hp":5708,
+            "rec":2204
+        },
+        "summoning arts level":100
+    },
+    "128":{
+        "exp to next level":258128,
+        "stats":{
+            "atk":2212,
+            "def":2210,
+            "hp":5719,
+            "rec":2209
+        },
+        "summoning arts level":100
+    },
+    "129":{
+        "exp to next level":262288,
+        "stats":{
+            "atk":2217,
+            "def":2215,
+            "hp":5726,
+            "rec":2212
+        },
+        "summoning arts level":100
+    },
+    "130":{
+        "exp to next level":266480,
+        "stats":{
+            "atk":2219,
+            "def":2217,
+            "hp":5736,
+            "rec":2218
+        },
+        "summoning arts level":100
+    },
+    "131":{
+        "exp to next level":270704,
+        "stats":{
+            "atk":2221,
+            "def":2217,
+            "hp":5744,
+            "rec":2220
+        },
+        "summoning arts level":100
+    },
+    "132":{
+        "exp to next level":274960,
+        "stats":{
+            "atk":2224,
+            "def":2225,
+            "hp":5756,
+            "rec":2225
+        },
+        "summoning arts level":100
+    },
+    "133":{
+        "exp to next level":279248,
+        "stats":{
+            "atk":2230,
+            "def":2230,
+            "hp":5763,
+            "rec":2228
+        },
+        "summoning arts level":100
+    },
+    "134":{
+        "exp to next level":283568,
+        "stats":{
+            "atk":2235,
+            "def":2233,
+            "hp":5773,
+            "rec":2234
+        },
+        "summoning arts level":100
+    },
+    "135":{
+        "exp to next level":287920,
+        "stats":{
+            "atk":2237,
+            "def":2233,
+            "hp":5781,
+            "rec":2236
+        },
+        "summoning arts level":100
+    },
+    "136":{
+        "exp to next level":292304,
+        "stats":{
+            "atk":2240,
+            "def":2239,
+            "hp":5792,
+            "rec":2241
+        },
+        "summoning arts level":100
+    },
+    "137":{
+        "exp to next level":296720,
+        "stats":{
+            "atk":2246,
+            "def":2247,
+            "hp":5800,
+            "rec":2244
+        },
+        "summoning arts level":100
+    },
+    "138":{
+        "exp to next level":301168,
+        "stats":{
+            "atk":2251,
+            "def":2252,
+            "hp":5809,
+            "rec":2249
+        },
+        "summoning arts level":100
+    },
+    "139":{
+        "exp to next level":305648,
+        "stats":{
+            "atk":2253,
+            "def":2255,
+            "hp":5818,
+            "rec":2252
+        },
+        "summoning arts level":100
+    },
+    "140":{
+        "exp to next level":310160,
+        "stats":{
+            "atk":2256,
+            "def":2255,
+            "hp":5829,
+            "rec":2257
+        },
+        "summoning arts level":100
+    },
+    "141":{
+        "exp to next level":314704,
+        "stats":{
+            "atk":2262,
+            "def":2262,
+            "hp":5837,
+            "rec":2259
+        },
+        "summoning arts level":100
+    },
+    "142":{
+        "exp to next level":319280,
+        "stats":{
+            "atk":2267,
+            "def":2267,
+            "hp":5846,
+            "rec":2265
+        },
+        "summoning arts level":100
+    },
+    "143":{
+        "exp to next level":323888,
+        "stats":{
+            "atk":2269,
+            "def":2270,
+            "hp":5855,
+            "rec":2268
+        },
+        "summoning arts level":100
+    },
+    "144":{
+        "exp to next level":328528,
+        "stats":{
+            "atk":2272,
+            "def":2270,
+            "hp":5866,
+            "rec":2273
+        },
+        "summoning arts level":100
+    },
+    "145":{
+        "exp to next level":333200,
+        "stats":{
+            "atk":2278,
+            "def":2276,
+            "hp":5874,
+            "rec":2275
+        },
+        "summoning arts level":100
+    },
+    "146":{
+        "exp to next level":337904,
+        "stats":{
+            "atk":2281,
+            "def":2276,
+            "hp":5885,
+            "rec":2281
+        },
+        "summoning arts level":100
+    },
+    "147":{
+        "exp to next level":342640,
+        "stats":{
+            "atk":2287,
+            "def":2284,
+            "hp":5892,
+            "rec":2283
+        },
+        "summoning arts level":100
+    },
+    "148":{
+        "exp to next level":347408,
+        "stats":{
+            "atk":2292,
+            "def":2289,
+            "hp":5902,
+            "rec":2289
+        },
+        "summoning arts level":100
+    },
+    "149":{
+        "exp to next level":352208,
+        "stats":{
+            "atk":2295,
+            "def":2294,
+            "hp":5906,
+            "rec":2294
+        },
+        "summoning arts level":100
+    },
+    "150":{
+        "exp to next level":358248,
+        "stats":{
+            "atk":2300,
+            "def":2300,
+            "hp":6000,
+            "rec":2300
+        },
+        "summoning arts level":100
+    },
+    "151":{
+        "exp to next level":364328,
+        "stats":{
+            "atk":2302,
+            "def":2300,
+            "hp":6005,
+            "rec":2302
+        },
+        "summoning arts level":100
+    },
+    "152":{
+        "exp to next level":370448,
+        "stats":{
+            "atk":2303,
+            "def":2302,
+            "hp":6012,
+            "rec":2303
+        },
+        "summoning arts level":100
+    },
+    "153":{
+        "exp to next level":376608,
+        "stats":{
+            "atk":2306,
+            "def":2302,
+            "hp":6018,
+            "rec":2305
+        },
+        "summoning arts level":100
+    },
+    "154":{
+        "exp to next level":382808,
+        "stats":{
+            "atk":2308,
+            "def":2305,
+            "hp":6026,
+            "rec":2306
+        },
+        "summoning arts level":100
+    },
+    "155":{
+        "exp to next level":389048,
+        "stats":{
+            "atk":2309,
+            "def":2307,
+            "hp":6032,
+            "rec":2308
+        },
+        "summoning arts level":100
+    },
+    "156":{
+        "exp to next level":395328,
+        "stats":{
+            "atk":2310,
+            "def":2308,
+            "hp":6038,
+            "rec":2309
+        },
+        "summoning arts level":100
+    },
+    "157":{
+        "exp to next level":401648,
+        "stats":{
+            "atk":2313,
+            "def":2308,
+            "hp":6045,
+            "rec":2311
+        },
+        "summoning arts level":100
+    },
+    "158":{
+        "exp to next level":408008,
+        "stats":{
+            "atk":2315,
+            "def":2310,
+            "hp":6053,
+            "rec":2312
+        },
+        "summoning arts level":100
+    },
+    "159":{
+        "exp to next level":414408,
+        "stats":{
+            "atk":2316,
+            "def":2312,
+            "hp":6058,
+            "rec":2314
+        },
+        "summoning arts level":100
+    },
+    "160":{
+        "exp to next level":420848,
+        "stats":{
+            "atk":2319,
+            "def":2313,
+            "hp":6065,
+            "rec":2315
+        },
+        "summoning arts level":100
+    },
+    "161":{
+        "exp to next level":427328,
+        "stats":{
+            "atk":2321,
+            "def":2313,
+            "hp":6071,
+            "rec":2317
+        },
+        "summoning arts level":100
+    },
+    "162":{
+        "exp to next level":433848,
+        "stats":{
+            "atk":2322,
+            "def":2315,
+            "hp":6079,
+            "rec":2318
+        },
+        "summoning arts level":100
+    },
+    "163":{
+        "exp to next level":440408,
+        "stats":{
+            "atk":2323,
+            "def":2318,
+            "hp":6084,
+            "rec":2320
+        },
+        "summoning arts level":100
+    },
+    "164":{
+        "exp to next level":447008,
+        "stats":{
+            "atk":2326,
+            "def":2320,
+            "hp":6091,
+            "rec":2321
+        },
+        "summoning arts level":100
+    },
+    "165":{
+        "exp to next level":453648,
+        "stats":{
+            "atk":2328,
+            "def":2321,
+            "hp":6097,
+            "rec":2323
+        },
+        "summoning arts level":100
+    },
+    "166":{
+        "exp to next level":460328,
+        "stats":{
+            "atk":2329,
+            "def":2321,
+            "hp":6105,
+            "rec":2324
+        },
+        "summoning arts level":100
+    },
+    "167":{
+        "exp to next level":467048,
+        "stats":{
+            "atk":2330,
+            "def":2324,
+            "hp":6111,
+            "rec":2326
+        },
+        "summoning arts level":100
+    },
+    "168":{
+        "exp to next level":473808,
+        "stats":{
+            "atk":2333,
+            "def":2325,
+            "hp":6117,
+            "rec":2327
+        },
+        "summoning arts level":100
+    },
+    "169":{
+        "exp to next level":480608,
+        "stats":{
+            "atk":2335,
+            "def":2326,
+            "hp":6124,
+            "rec":2329
+        },
+        "summoning arts level":100
+    },
+    "170":{
+        "exp to next level":487448,
+        "stats":{
+            "atk":2336,
+            "def":2326,
+            "hp":6132,
+            "rec":2330
+        },
+        "summoning arts level":100
+    },
+    "171":{
+        "exp to next level":494328,
+        "stats":{
+            "atk":2337,
+            "def":2329,
+            "hp":6137,
+            "rec":2332
+        },
+        "summoning arts level":100
+    },
+    "172":{
+        "exp to next level":501248,
+        "stats":{
+            "atk":2339,
+            "def":2331,
+            "hp":6144,
+            "rec":2333
+        },
+        "summoning arts level":100
+    },
+    "173":{
+        "exp to next level":508208,
+        "stats":{
+            "atk":2342,
+            "def":2332,
+            "hp":6150,
+            "rec":2335
+        },
+        "summoning arts level":100
+    },
+    "174":{
+        "exp to next level":515208,
+        "stats":{
+            "atk":2342,
+            "def":2332,
+            "hp":6158,
+            "rec":2336
+        },
+        "summoning arts level":100
+    },
+    "175":{
+        "exp to next level":522248,
+        "stats":{
+            "atk":2343,
+            "def":2335,
+            "hp":6163,
+            "rec":2338
+        },
+        "summoning arts level":100
+    },
+    "176":{
+        "exp to next level":529328,
+        "stats":{
+            "atk":2345,
+            "def":2336,
+            "hp":6170,
+            "rec":2339
+        },
+        "summoning arts level":100
+    },
+    "177":{
+        "exp to next level":536448,
+        "stats":{
+            "atk":2347,
+            "def":2337,
+            "hp":6176,
+            "rec":2342
+        },
+        "summoning arts level":100
+    },
+    "178":{
+        "exp to next level":543608,
+        "stats":{
+            "atk":2349,
+            "def":2337,
+            "hp":6184,
+            "rec":2342
+        },
+        "summoning arts level":100
+    },
+    "179":{
+        "exp to next level":550808,
+        "stats":{
+            "atk":2350,
+            "def":2340,
+            "hp":6190,
+            "rec":2344
+        },
+        "summoning arts level":100
+    },
+    "180":{
+        "exp to next level":558048,
+        "stats":{
+            "atk":2352,
+            "def":2342,
+            "hp":6196,
+            "rec":2345
+        },
+        "summoning arts level":100
+    },
+    "181":{
+        "exp to next level":565328,
+        "stats":{
+            "atk":2354,
+            "def":2343,
+            "hp":6203,
+            "rec":2348
+        },
+        "summoning arts level":100
+    },
+    "182":{
+        "exp to next level":572648,
+        "stats":{
+            "atk":2356,
+            "def":2343,
+            "hp":6211,
+            "rec":2348
+        },
+        "summoning arts level":100
+    },
+    "183":{
+        "exp to next level":580008,
+        "stats":{
+            "atk":2357,
+            "def":2345,
+            "hp":6216,
+            "rec":2350
+        },
+        "summoning arts level":100
+    },
+    "184":{
+        "exp to next level":587408,
+        "stats":{
+            "atk":2358,
+            "def":2347,
+            "hp":6223,
+            "rec":2351
+        },
+        "summoning arts level":100
+    },
+    "185":{
+        "exp to next level":594848,
+        "stats":{
+            "atk":2359,
+            "def":2348,
+            "hp":6229,
+            "rec":2354
+        },
+        "summoning arts level":100
+    },
+    "186":{
+        "exp to next level":602328,
+        "stats":{
+            "atk":2362,
+            "def":2348,
+            "hp":6237,
+            "rec":2355
+        },
+        "summoning arts level":100
+    },
+    "187":{
+        "exp to next level":609848,
+        "stats":{
+            "atk":2364,
+            "def":2351,
+            "hp":6242,
+            "rec":2357
+        },
+        "summoning arts level":100
+    },
+    "188":{
+        "exp to next level":617408,
+        "stats":{
+            "atk":2365,
+            "def":2353,
+            "hp":6249,
+            "rec":2357
+        },
+        "summoning arts level":100
+    },
+    "189":{
+        "exp to next level":625008,
+        "stats":{
+            "atk":2366,
+            "def":2354,
+            "hp":6255,
+            "rec":2360
+        },
+        "summoning arts level":100
+    },
+    "190":{
+        "exp to next level":632648,
+        "stats":{
+            "atk":2369,
+            "def":2354,
+            "hp":6263,
+            "rec":2361
+        },
+        "summoning arts level":100
+    },
+    "191":{
+        "exp to next level":640328,
+        "stats":{
+            "atk":2371,
+            "def":2356,
+            "hp":6269,
+            "rec":2363
+        },
+        "summoning arts level":100
+    },
+    "192":{
+        "exp to next level":648048,
+        "stats":{
+            "atk":2372,
+            "def":2359,
+            "hp":6275,
+            "rec":2364
+        },
+        "summoning arts level":100
+    },
+    "193":{
+        "exp to next level":655808,
+        "stats":{
+            "atk":2373,
+            "def":2360,
+            "hp":6282,
+            "rec":2366
+        },
+        "summoning arts level":100
+    },
+    "194":{
+        "exp to next level":663608,
+        "stats":{
+            "atk":2376,
+            "def":2361,
+            "hp":6290,
+            "rec":2367
+        },
+        "summoning arts level":100
+    },
+    "195":{
+        "exp to next level":671448,
+        "stats":{
+            "atk":2378,
+            "def":2361,
+            "hp":6295,
+            "rec":2369
+        },
+        "summoning arts level":100
+    },
+    "196":{
+        "exp to next level":679328,
+        "stats":{
+            "atk":2379,
+            "def":2364,
+            "hp":6303,
+            "rec":2370
+        },
+        "summoning arts level":100
+    },
+    "197":{
+        "exp to next level":687248,
+        "stats":{
+            "atk":2380,
+            "def":2366,
+            "hp":6309,
+            "rec":2372
+        },
+        "summoning arts level":100
+    },
+    "198":{
+        "exp to next level":695208,
+        "stats":{
+            "atk":2382,
+            "def":2368,
+            "hp":6315,
+            "rec":2373
+        },
+        "summoning arts level":100
+    },
+    "199":{
+        "exp to next level":703208,
+        "stats":{
+            "atk":2385,
+            "def":2370,
+            "hp":6318,
+            "rec":2375
+        },
+        "summoning arts level":100
+    },
+    "200":{
+        "exp to next level":703851,
+        "stats":{
+            "atk":2385,
+            "def":2373,
+            "hp":6325,
+            "rec":2376
+        },
+        "summoning arts level":100
+    },
+    "201":{
+        "exp to next level":704498,
+        "stats":{
+            "atk":2388,
+            "def":2375,
+            "hp":6332,
+            "rec":2378
+        },
+        "summoning arts level":100
+    },
+    "202":{
+        "exp to next level":705147,
+        "stats":{
+            "atk":2390,
+            "def":2377,
+            "hp":6338,
+            "rec":2380
+        },
+        "summoning arts level":100
+    },
+    "203":{
+        "exp to next level":705800,
+        "stats":{
+            "atk":2392,
+            "def":2380,
+            "hp":6345,
+            "rec":2382
+        },
+        "summoning arts level":100
+    },
+    "204":{
+        "exp to next level":706456,
+        "stats":{
+            "atk":2394,
+            "def":2382,
+            "hp":6352,
+            "rec":2385
+        },
+        "summoning arts level":100
+    },
+    "205":{
+        "exp to next level":707115,
+        "stats":{
+            "atk":2396,
+            "def":2384,
+            "hp":6359,
+            "rec":2387
+        },
+        "summoning arts level":100
+    },
+    "206":{
+        "exp to next level":707778,
+        "stats":{
+            "atk":2398,
+            "def":2386,
+            "hp":6365,
+            "rec":2389
+        },
+        "summoning arts level":100
+    },
+    "207":{
+        "exp to next level":708443,
+        "stats":{
+            "atk":2400,
+            "def":2389,
+            "hp":6372,
+            "rec":2391
+        },
+        "summoning arts level":100
+    },
+    "208":{
+        "exp to next level":709112,
+        "stats":{
+            "atk":2403,
+            "def":2391,
+            "hp":6379,
+            "rec":2394
+        },
+        "summoning arts level":100
+    },
+    "209":{
+        "exp to next level":709784,
+        "stats":{
+            "atk":2405,
+            "def":2393,
+            "hp":6386,
+            "rec":2396
+        },
+        "summoning arts level":100
+    },
+    "210":{
+        "exp to next level":710459,
+        "stats":{
+            "atk":2407,
+            "def":2395,
+            "hp":6392,
+            "rec":2398
+        },
+        "summoning arts level":100
+    },
+    "211":{
+        "exp to next level":711138,
+        "stats":{
+            "atk":2409,
+            "def":2398,
+            "hp":6399,
+            "rec":2400
+        },
+        "summoning arts level":100
+    },
+    "212":{
+        "exp to next level":711819,
+        "stats":{
+            "atk":2411,
+            "def":2400,
+            "hp":6406,
+            "rec":2403
+        },
+        "summoning arts level":100
+    },
+    "213":{
+        "exp to next level":712504,
+        "stats":{
+            "atk":2413,
+            "def":2402,
+            "hp":6413,
+            "rec":2405
+        },
+        "summoning arts level":100
+    },
+    "214":{
+        "exp to next level":713192,
+        "stats":{
+            "atk":2415,
+            "def":2405,
+            "hp":6419,
+            "rec":2407
+        },
+        "summoning arts level":100
+    },
+    "215":{
+        "exp to next level":713883,
+        "stats":{
+            "atk":2418,
+            "def":2407,
+            "hp":6426,
+            "rec":2409
+        },
+        "summoning arts level":100
+    },
+    "216":{
+        "exp to next level":714578,
+        "stats":{
+            "atk":2420,
+            "def":2409,
+            "hp":6433,
+            "rec":2412
+        },
+        "summoning arts level":100
+    },
+    "217":{
+        "exp to next level":715275,
+        "stats":{
+            "atk":2422,
+            "def":2411,
+            "hp":6440,
+            "rec":2414
+        },
+        "summoning arts level":100
+    },
+    "218":{
+        "exp to next level":715976,
+        "stats":{
+            "atk":2424,
+            "def":2414,
+            "hp":6446,
+            "rec":2416
+        },
+        "summoning arts level":100
+    },
+    "219":{
+        "exp to next level":716680,
+        "stats":{
+            "atk":2426,
+            "def":2416,
+            "hp":6453,
+            "rec":2418
+        },
+        "summoning arts level":100
+    },
+    "220":{
+        "exp to next level":717387,
+        "stats":{
+            "atk":2428,
+            "def":2418,
+            "hp":6460,
+            "rec":2420
+        },
+        "summoning arts level":100
+    },
+    "221":{
+        "exp to next level":718098,
+        "stats":{
+            "atk":2430,
+            "def":2420,
+            "hp":6467,
+            "rec":2423
+        },
+        "summoning arts level":100
+    },
+    "222":{
+        "exp to next level":718811,
+        "stats":{
+            "atk":2433,
+            "def":2423,
+            "hp":6473,
+            "rec":2425
+        },
+        "summoning arts level":100
+    },
+    "223":{
+        "exp to next level":719528,
+        "stats":{
+            "atk":2435,
+            "def":2425,
+            "hp":6480,
+            "rec":2427
+        },
+        "summoning arts level":100
+    },
+    "224":{
+        "exp to next level":720248,
+        "stats":{
+            "atk":2437,
+            "def":2427,
+            "hp":6487,
+            "rec":2429
+        },
+        "summoning arts level":100
+    },
+    "225":{
+        "exp to next level":720971,
+        "stats":{
+            "atk":2439,
+            "def":2430,
+            "hp":6494,
+            "rec":2432
+        },
+        "summoning arts level":100
+    },
+    "226":{
+        "exp to next level":721698,
+        "stats":{
+            "atk":2441,
+            "def":2432,
+            "hp":6500,
+            "rec":2434
+        },
+        "summoning arts level":100
+    },
+    "227":{
+        "exp to next level":722427,
+        "stats":{
+            "atk":2443,
+            "def":2434,
+            "hp":6507,
+            "rec":2436
+        },
+        "summoning arts level":100
+    },
+    "228":{
+        "exp to next level":723160,
+        "stats":{
+            "atk":2445,
+            "def":2436,
+            "hp":6514,
+            "rec":2438
+        },
+        "summoning arts level":100
+    },
+    "229":{
+        "exp to next level":723896,
+        "stats":{
+            "atk":2448,
+            "def":2439,
+            "hp":6521,
+            "rec":2441
+        },
+        "summoning arts level":100
+    },
+    "230":{
+        "exp to next level":724635,
+        "stats":{
+            "atk":2450,
+            "def":2441,
+            "hp":6527,
+            "rec":2443
+        },
+        "summoning arts level":100
+    },
+    "231":{
+        "exp to next level":725378,
+        "stats":{
+            "atk":2452,
+            "def":2443,
+            "hp":6534,
+            "rec":2445
+        },
+        "summoning arts level":100
+    },
+    "232":{
+        "exp to next level":726123,
+        "stats":{
+            "atk":2454,
+            "def":2445,
+            "hp":6541,
+            "rec":2447
+        },
+        "summoning arts level":100
+    },
+    "233":{
+        "exp to next level":726872,
+        "stats":{
+            "atk":2456,
+            "def":2448,
+            "hp":6548,
+            "rec":2450
+        },
+        "summoning arts level":100
+    },
+    "234":{
+        "exp to next level":727624,
+        "stats":{
+            "atk":2458,
+            "def":2450,
+            "hp":6554,
+            "rec":2452
+        },
+        "summoning arts level":100
+    },
+    "235":{
+        "exp to next level":728379,
+        "stats":{
+            "atk":2461,
+            "def":2452,
+            "hp":6561,
+            "rec":2454
+        },
+        "summoning arts level":100
+    },
+    "236":{
+        "exp to next level":729138,
+        "stats":{
+            "atk":2463,
+            "def":2455,
+            "hp":6568,
+            "rec":2456
+        },
+        "summoning arts level":100
+    },
+    "237":{
+        "exp to next level":729899,
+        "stats":{
+            "atk":2465,
+            "def":2457,
+            "hp":6575,
+            "rec":2459
+        },
+        "summoning arts level":100
+    },
+    "238":{
+        "exp to next level":730664,
+        "stats":{
+            "atk":2467,
+            "def":2459,
+            "hp":6581,
+            "rec":2461
+        },
+        "summoning arts level":100
+    },
+    "239":{
+        "exp to next level":731432,
+        "stats":{
+            "atk":2469,
+            "def":2461,
+            "hp":6588,
+            "rec":2463
+        },
+        "summoning arts level":100
+    },
+    "240":{
+        "exp to next level":732203,
+        "stats":{
+            "atk":2471,
+            "def":2464,
+            "hp":6595,
+            "rec":2465
+        },
+        "summoning arts level":100
+    },
+    "241":{
+        "exp to next level":732978,
+        "stats":{
+            "atk":2473,
+            "def":2466,
+            "hp":6602,
+            "rec":2468
+        },
+        "summoning arts level":100
+    },
+    "242":{
+        "exp to next level":733755,
+        "stats":{
+            "atk":2476,
+            "def":2468,
+            "hp":6608,
+            "rec":2470
+        },
+        "summoning arts level":100
+    },
+    "243":{
+        "exp to next level":734536,
+        "stats":{
+            "atk":2478,
+            "def":2470,
+            "hp":6615,
+            "rec":2472
+        },
+        "summoning arts level":100
+    },
+    "244":{
+        "exp to next level":735320,
+        "stats":{
+            "atk":2480,
+            "def":2473,
+            "hp":6622,
+            "rec":2474
+        },
+        "summoning arts level":100
+    },
+    "245":{
+        "exp to next level":736107,
+        "stats":{
+            "atk":2482,
+            "def":2475,
+            "hp":6629,
+            "rec":2477
+        },
+        "summoning arts level":100
+    },
+    "246":{
+        "exp to next level":736898,
+        "stats":{
+            "atk":2484,
+            "def":2477,
+            "hp":6635,
+            "rec":2479
+        },
+        "summoning arts level":100
+    },
+    "247":{
+        "exp to next level":737691,
+        "stats":{
+            "atk":2486,
+            "def":2480,
+            "hp":6642,
+            "rec":2481
+        },
+        "summoning arts level":100
+    },
+    "248":{
+        "exp to next level":738488,
+        "stats":{
+            "atk":2488,
+            "def":2482,
+            "hp":6649,
+            "rec":2483
+        },
+        "summoning arts level":100
+    },
+    "249":{
+        "exp to next level":739288,
+        "stats":{
+            "atk":2491,
+            "def":2484,
+            "hp":6656,
+            "rec":2486
+        },
+        "summoning arts level":100
+    },
+    "250":{
+        "exp to next level":740091,
+        "stats":{
+            "atk":2493,
+            "def":2486,
+            "hp":6662,
+            "rec":2488
+        },
+        "summoning arts level":100
+    },
+    "251":{
+        "exp to next level":740898,
+        "stats":{
+            "atk":2495,
+            "def":2489,
+            "hp":6669,
+            "rec":2490
+        },
+        "summoning arts level":100
+    },
+    "252":{
+        "exp to next level":741707,
+        "stats":{
+            "atk":2497,
+            "def":2491,
+            "hp":6676,
+            "rec":2492
+        },
+        "summoning arts level":100
+    },
+    "253":{
+        "exp to next level":742520,
+        "stats":{
+            "atk":2499,
+            "def":2493,
+            "hp":6683,
+            "rec":2495
+        },
+        "summoning arts level":100
+    },
+    "254":{
+        "exp to next level":743336,
+        "stats":{
+            "atk":2501,
+            "def":2495,
+            "hp":6689,
+            "rec":2497
+        },
+        "summoning arts level":100
+    },
+    "255":{
+        "exp to next level":744155,
+        "stats":{
+            "atk":2503,
+            "def":2498,
+            "hp":6696,
+            "rec":2499
+        },
+        "summoning arts level":100
+    },
+    "256":{
+        "exp to next level":744978,
+        "stats":{
+            "atk":2506,
+            "def":2500,
+            "hp":6703,
+            "rec":2501
+        },
+        "summoning arts level":100
+    },
+    "257":{
+        "exp to next level":745803,
+        "stats":{
+            "atk":2508,
+            "def":2502,
+            "hp":6710,
+            "rec":2504
+        },
+        "summoning arts level":100
+    },
+    "258":{
+        "exp to next level":746632,
+        "stats":{
+            "atk":2510,
+            "def":2505,
+            "hp":6716,
+            "rec":2506
+        },
+        "summoning arts level":100
+    },
+    "259":{
+        "exp to next level":747464,
+        "stats":{
+            "atk":2512,
+            "def":2507,
+            "hp":6723,
+            "rec":2508
+        },
+        "summoning arts level":100
+    },
+    "260":{
+        "exp to next level":748299,
+        "stats":{
+            "atk":2514,
+            "def":2509,
+            "hp":6730,
+            "rec":2510
+        },
+        "summoning arts level":100
+    },
+    "261":{
+        "exp to next level":749138,
+        "stats":{
+            "atk":2516,
+            "def":2511,
+            "hp":6737,
+            "rec":2512
+        },
+        "summoning arts level":100
+    },
+    "262":{
+        "exp to next level":749979,
+        "stats":{
+            "atk":2518,
+            "def":2514,
+            "hp":6743,
+            "rec":2515
+        },
+        "summoning arts level":100
+    },
+    "263":{
+        "exp to next level":750824,
+        "stats":{
+            "atk":2521,
+            "def":2516,
+            "hp":6750,
+            "rec":2517
+        },
+        "summoning arts level":100
+    },
+    "264":{
+        "exp to next level":751672,
+        "stats":{
+            "atk":2523,
+            "def":2518,
+            "hp":6757,
+            "rec":2519
+        },
+        "summoning arts level":100
+    },
+    "265":{
+        "exp to next level":752523,
+        "stats":{
+            "atk":2525,
+            "def":2520,
+            "hp":6764,
+            "rec":2521
+        },
+        "summoning arts level":100
+    },
+    "266":{
+        "exp to next level":753378,
+        "stats":{
+            "atk":2527,
+            "def":2523,
+            "hp":6770,
+            "rec":2524
+        },
+        "summoning arts level":100
+    },
+    "267":{
+        "exp to next level":754235,
+        "stats":{
+            "atk":2529,
+            "def":2525,
+            "hp":6777,
+            "rec":2526
+        },
+        "summoning arts level":100
+    },
+    "268":{
+        "exp to next level":755096,
+        "stats":{
+            "atk":2531,
+            "def":2527,
+            "hp":6784,
+            "rec":2528
+        },
+        "summoning arts level":100
+    },
+    "269":{
+        "exp to next level":755960,
+        "stats":{
+            "atk":2533,
+            "def":2530,
+            "hp":6791,
+            "rec":2530
+        },
+        "summoning arts level":100
+    },
+    "270":{
+        "exp to next level":756827,
+        "stats":{
+            "atk":2536,
+            "def":2532,
+            "hp":6797,
+            "rec":2533
+        },
+        "summoning arts level":100
+    },
+    "271":{
+        "exp to next level":757698,
+        "stats":{
+            "atk":2538,
+            "def":2534,
+            "hp":6804,
+            "rec":2535
+        },
+        "summoning arts level":100
+    },
+    "272":{
+        "exp to next level":758571,
+        "stats":{
+            "atk":2540,
+            "def":2536,
+            "hp":6811,
+            "rec":2537
+        },
+        "summoning arts level":100
+    },
+    "273":{
+        "exp to next level":759448,
+        "stats":{
+            "atk":2542,
+            "def":2539,
+            "hp":6818,
+            "rec":2539
+        },
+        "summoning arts level":100
+    },
+    "274":{
+        "exp to next level":760328,
+        "stats":{
+            "atk":2544,
+            "def":2541,
+            "hp":6824,
+            "rec":2542
+        },
+        "summoning arts level":100
+    },
+    "275":{
+        "exp to next level":761211,
+        "stats":{
+            "atk":2546,
+            "def":2543,
+            "hp":6831,
+            "rec":2544
+        },
+        "summoning arts level":100
+    },
+    "276":{
+        "exp to next level":762098,
+        "stats":{
+            "atk":2548,
+            "def":2545,
+            "hp":6838,
+            "rec":2546
+        },
+        "summoning arts level":100
+    },
+    "277":{
+        "exp to next level":762987,
+        "stats":{
+            "atk":2551,
+            "def":2548,
+            "hp":6845,
+            "rec":2548
+        },
+        "summoning arts level":100
+    },
+    "278":{
+        "exp to next level":763880,
+        "stats":{
+            "atk":2553,
+            "def":2550,
+            "hp":6851,
+            "rec":2551
+        },
+        "summoning arts level":100
+    },
+    "279":{
+        "exp to next level":764776,
+        "stats":{
+            "atk":2555,
+            "def":2552,
+            "hp":6858,
+            "rec":2553
+        },
+        "summoning arts level":100
+    },
+    "280":{
+        "exp to next level":765675,
+        "stats":{
+            "atk":2557,
+            "def":2555,
+            "hp":6865,
+            "rec":2555
+        },
+        "summoning arts level":100
+    },
+    "281":{
+        "exp to next level":766578,
+        "stats":{
+            "atk":2559,
+            "def":2557,
+            "hp":6872,
+            "rec":2557
+        },
+        "summoning arts level":100
+    },
+    "282":{
+        "exp to next level":767483,
+        "stats":{
+            "atk":2561,
+            "def":2559,
+            "hp":6878,
+            "rec":2560
+        },
+        "summoning arts level":100
+    },
+    "283":{
+        "exp to next level":768392,
+        "stats":{
+            "atk":2564,
+            "def":2561,
+            "hp":6885,
+            "rec":2562
+        },
+        "summoning arts level":100
+    },
+    "284":{
+        "exp to next level":769304,
+        "stats":{
+            "atk":2566,
+            "def":2564,
+            "hp":6892,
+            "rec":2564
+        },
+        "summoning arts level":100
+    },
+    "285":{
+        "exp to next level":770219,
+        "stats":{
+            "atk":2568,
+            "def":2566,
+            "hp":6899,
+            "rec":2566
+        },
+        "summoning arts level":100
+    },
+    "286":{
+        "exp to next level":771138,
+        "stats":{
+            "atk":2570,
+            "def":2568,
+            "hp":6905,
+            "rec":2569
+        },
+        "summoning arts level":100
+    },
+    "287":{
+        "exp to next level":772059,
+        "stats":{
+            "atk":2572,
+            "def":2570,
+            "hp":6912,
+            "rec":2571
+        },
+        "summoning arts level":100
+    },
+    "288":{
+        "exp to next level":772984,
+        "stats":{
+            "atk":2574,
+            "def":2573,
+            "hp":6919,
+            "rec":2573
+        },
+        "summoning arts level":100
+    },
+    "289":{
+        "exp to next level":773912,
+        "stats":{
+            "atk":2576,
+            "def":2575,
+            "hp":6926,
+            "rec":2575
+        },
+        "summoning arts level":100
+    },
+    "290":{
+        "exp to next level":774843,
+        "stats":{
+            "atk":2579,
+            "def":2577,
+            "hp":6932,
+            "rec":2578
+        },
+        "summoning arts level":100
+    },
+    "291":{
+        "exp to next level":775778,
+        "stats":{
+            "atk":2581,
+            "def":2580,
+            "hp":6939,
+            "rec":2580
+        },
+        "summoning arts level":100
+    },
+    "292":{
+        "exp to next level":776715,
+        "stats":{
+            "atk":2583,
+            "def":2582,
+            "hp":6946,
+            "rec":2582
+        },
+        "summoning arts level":100
+    },
+    "293":{
+        "exp to next level":777656,
+        "stats":{
+            "atk":2585,
+            "def":2584,
+            "hp":6953,
+            "rec":2584
+        },
+        "summoning arts level":100
+    },
+    "294":{
+        "exp to next level":778600,
+        "stats":{
+            "atk":2587,
+            "def":2586,
+            "hp":6959,
+            "rec":2587
+        },
+        "summoning arts level":100
+    },
+    "295":{
+        "exp to next level":779547,
+        "stats":{
+            "atk":2589,
+            "def":2589,
+            "hp":6966,
+            "rec":2589
+        },
+        "summoning arts level":100
+    },
+    "296":{
+        "exp to next level":780498,
+        "stats":{
+            "atk":2591,
+            "def":2591,
+            "hp":6973,
+            "rec":2591
+        },
+        "summoning arts level":100
+    },
+    "297":{
+        "exp to next level":781451,
+        "stats":{
+            "atk":2594,
+            "def":2593,
+            "hp":6980,
+            "rec":2593
+        },
+        "summoning arts level":100
+    },
+    "298":{
+        "exp to next level":782408,
+        "stats":{
+            "atk":2596,
+            "def":2595,
+            "hp":6986,
+            "rec":2596
+        },
+        "summoning arts level":100
+    },
+    "299":{
+        "exp to next level":783368,
+        "stats":{
+            "atk":2598,
+            "def":2598,
+            "hp":6993,
+            "rec":2598
+        },
+        "summoning arts level":100
+    },
+    "300":{
+        "exp to next level":784331,
+        "stats":{
+            "atk":2600,
+            "def":2600,
+            "hp":7000,
+            "rec":2600
+        },
+        "summoning arts level":100
+    },
+    "301":{
+        "exp to next level":785298,
+        "stats":{
+            "atk":2601,
+            "def":2602,
+            "hp":7004,
+            "rec":2601
+        },
+        "summoning arts level":100
+    },
+    "302":{
+        "exp to next level":786267,
+        "stats":{
+            "atk":2602,
+            "def":2604,
+            "hp":7010,
+            "rec":2603
+        },
+        "summoning arts level":100
+    },
+    "303":{
+        "exp to next level":787240,
+        "stats":{
+            "atk":2604,
+            "def":2605,
+            "hp":7013,
+            "rec":2604
+        },
+        "summoning arts level":100
+    },
+    "304":{
+        "exp to next level":788216,
+        "stats":{
+            "atk":2606,
+            "def":2606,
+            "hp":7018,
+            "rec":2606
+        },
+        "summoning arts level":100
+    },
+    "305":{
+        "exp to next level":789195,
+        "stats":{
+            "atk":2607,
+            "def":2608,
+            "hp":7022,
+            "rec":2607
+        },
+        "summoning arts level":100
+    },
+    "306":{
+        "exp to next level":790178,
+        "stats":{
+            "atk":2608,
+            "def":2610,
+            "hp":7027,
+            "rec":2608
+        },
+        "summoning arts level":100
+    },
+    "307":{
+        "exp to next level":791163,
+        "stats":{
+            "atk":2610,
+            "def":2611,
+            "hp":7031,
+            "rec":2608
+        },
+        "summoning arts level":100
+    },
+    "308":{
+        "exp to next level":792152,
+        "stats":{
+            "atk":2612,
+            "def":2611,
+            "hp":7035,
+            "rec":2610
+        },
+        "summoning arts level":100
+    },
+    "309":{
+        "exp to next level":793144,
+        "stats":{
+            "atk":2613,
+            "def":2612,
+            "hp":7039,
+            "rec":2611
+        },
+        "summoning arts level":100
+    },
+    "310":{
+        "exp to next level":794139,
+        "stats":{
+            "atk":2614,
+            "def":2613,
+            "hp":7045,
+            "rec":2613
+        },
+        "summoning arts level":100
+    },
+    "311":{
+        "exp to next level":795138,
+        "stats":{
+            "atk":2615,
+            "def":2614,
+            "hp":7048,
+            "rec":2614
+        },
+        "summoning arts level":100
+    },
+    "312":{
+        "exp to next level":796139,
+        "stats":{
+            "atk":2616,
+            "def":2616,
+            "hp":7053,
+            "rec":2616
+        },
+        "summoning arts level":100
+    },
+    "313":{
+        "exp to next level":797144,
+        "stats":{
+            "atk":2617,
+            "def":2619,
+            "hp":7057,
+            "rec":2617
+        },
+        "summoning arts level":100
+    },
+    "314":{
+        "exp to next level":798152,
+        "stats":{
+            "atk":2619,
+            "def":2620,
+            "hp":7062,
+            "rec":2618
+        },
+        "summoning arts level":100
+    },
+    "315":{
+        "exp to next level":799163,
+        "stats":{
+            "atk":2621,
+            "def":2621,
+            "hp":7065,
+            "rec":2620
+        },
+        "summoning arts level":100
+    },
+    "316":{
+        "exp to next level":800178,
+        "stats":{
+            "atk":2622,
+            "def":2622,
+            "hp":7070,
+            "rec":2621
+        },
+        "summoning arts level":100
+    },
+    "317":{
+        "exp to next level":801195,
+        "stats":{
+            "atk":2623,
+            "def":2624,
+            "hp":7074,
+            "rec":2623
+        },
+        "summoning arts level":100
+    },
+    "318":{
+        "exp to next level":802216,
+        "stats":{
+            "atk":2625,
+            "def":2626,
+            "hp":7079,
+            "rec":2624
+        },
+        "summoning arts level":100
+    },
+    "319":{
+        "exp to next level":803240,
+        "stats":{
+            "atk":2627,
+            "def":2627,
+            "hp":7083,
+            "rec":2625
+        },
+        "summoning arts level":100
+    },
+    "320":{
+        "exp to next level":804267,
+        "stats":{
+            "atk":2628,
+            "def":2628,
+            "hp":7087,
+            "rec":2627
+        },
+        "summoning arts level":100
+    },
+    "321":{
+        "exp to next level":805298,
+        "stats":{
+            "atk":2629,
+            "def":2629,
+            "hp":7091,
+            "rec":2628
+        },
+        "summoning arts level":100
+    },
+    "322":{
+        "exp to next level":806331,
+        "stats":{
+            "atk":2630,
+            "def":2630,
+            "hp":7097,
+            "rec":2630
+        },
+        "summoning arts level":100
+    },
+    "323":{
+        "exp to next level":807368,
+        "stats":{
+            "atk":2631,
+            "def":2631,
+            "hp":7100,
+            "rec":2631
+        },
+        "summoning arts level":100
+    },
+    "324":{
+        "exp to next level":808408,
+        "stats":{
+            "atk":2632,
+            "def":2633,
+            "hp":7105,
+            "rec":2633
+        },
+        "summoning arts level":100
+    },
+    "325":{
+        "exp to next level":809451,
+        "stats":{
+            "atk":2634,
+            "def":2635,
+            "hp":7109,
+            "rec":2634
+        },
+        "summoning arts level":100
+    },
+    "326":{
+        "exp to next level":810498,
+        "stats":{
+            "atk":2636,
+            "def":2637,
+            "hp":7114,
+            "rec":2635
+        },
+        "summoning arts level":100
+    },
+    "327":{
+        "exp to next level":811547,
+        "stats":{
+            "atk":2637,
+            "def":2638,
+            "hp":7118,
+            "rec":2637
+        },
+        "summoning arts level":100
+    },
+    "328":{
+        "exp to next level":812600,
+        "stats":{
+            "atk":2638,
+            "def":2639,
+            "hp":7122,
+            "rec":2638
+        },
+        "summoning arts level":100
+    },
+    "329":{
+        "exp to next level":813656,
+        "stats":{
+            "atk":2641,
+            "def":2641,
+            "hp":7126,
+            "rec":2640
+        },
+        "summoning arts level":100
+    },
+    "330":{
+        "exp to next level":814715,
+        "stats":{
+            "atk":2642,
+            "def":2643,
+            "hp":7131,
+            "rec":2641
+        },
+        "summoning arts level":100
+    },
+    "331":{
+        "exp to next level":815778,
+        "stats":{
+            "atk":2643,
+            "def":2643,
+            "hp":7135,
+            "rec":2642
+        },
+        "summoning arts level":100
+    },
+    "332":{
+        "exp to next level":816843,
+        "stats":{
+            "atk":2644,
+            "def":2644,
+            "hp":7139,
+            "rec":2644
+        },
+        "summoning arts level":100
+    },
+    "333":{
+        "exp to next level":817912,
+        "stats":{
+            "atk":2645,
+            "def":2645,
+            "hp":7143,
+            "rec":2645
+        },
+        "summoning arts level":100
+    },
+    "334":{
+        "exp to next level":818984,
+        "stats":{
+            "atk":2646,
+            "def":2646,
+            "hp":7149,
+            "rec":2647
+        },
+        "summoning arts level":100
+    },
+    "335":{
+        "exp to next level":820059,
+        "stats":{
+            "atk":2647,
+            "def":2647,
+            "hp":7152,
+            "rec":2648
+        },
+        "summoning arts level":100
+    },
+    "336":{
+        "exp to next level":821138,
+        "stats":{
+            "atk":2649,
+            "def":2649,
+            "hp":7157,
+            "rec":2650
+        },
+        "summoning arts level":100
+    },
+    "337":{
+        "exp to next level":822219,
+        "stats":{
+            "atk":2651,
+            "def":2652,
+            "hp":7161,
+            "rec":2651
+        },
+        "summoning arts level":100
+    },
+    "338":{
+        "exp to next level":823304,
+        "stats":{
+            "atk":2652,
+            "def":2653,
+            "hp":7166,
+            "rec":2652
+        },
+        "summoning arts level":100
+    },
+    "339":{
+        "exp to next level":824392,
+        "stats":{
+            "atk":2653,
+            "def":2654,
+            "hp":7170,
+            "rec":2654
+        },
+        "summoning arts level":100
+    },
+    "340":{
+        "exp to next level":825483,
+        "stats":{
+            "atk":2656,
+            "def":2655,
+            "hp":7174,
+            "rec":2655
+        },
+        "summoning arts level":100
+    },
+    "341":{
+        "exp to next level":826578,
+        "stats":{
+            "atk":2658,
+            "def":2657,
+            "hp":7178,
+            "rec":2657
+        },
+        "summoning arts level":100
+    },
+    "342":{
+        "exp to next level":827675,
+        "stats":{
+            "atk":2658,
+            "def":2659,
+            "hp":7183,
+            "rec":2658
+        },
+        "summoning arts level":100
+    },
+    "343":{
+        "exp to next level":828776,
+        "stats":{
+            "atk":2659,
+            "def":2660,
+            "hp":7187,
+            "rec":2659
+        },
+        "summoning arts level":100
+    },
+    "344":{
+        "exp to next level":829880,
+        "stats":{
+            "atk":2660,
+            "def":2661,
+            "hp":7191,
+            "rec":2661
+        },
+        "summoning arts level":100
+    },
+    "345":{
+        "exp to next level":830987,
+        "stats":{
+            "atk":2661,
+            "def":2662,
+            "hp":7195,
+            "rec":2662
+        },
+        "summoning arts level":100
+    },
+    "346":{
+        "exp to next level":832098,
+        "stats":{
+            "atk":2662,
+            "def":2662,
+            "hp":7201,
+            "rec":2664
+        },
+        "summoning arts level":100
+    },
+    "347":{
+        "exp to next level":833211,
+        "stats":{
+            "atk":2664,
+            "def":2664,
+            "hp":7204,
+            "rec":2665
+        },
+        "summoning arts level":100
+    },
+    "348":{
+        "exp to next level":834328,
+        "stats":{
+            "atk":2666,
+            "def":2666,
+            "hp":7210,
+            "rec":2667
+        },
+        "summoning arts level":100
+    },
+    "349":{
+        "exp to next level":835448,
+        "stats":{
+            "atk":2667,
+            "def":2668,
+            "hp":7213,
+            "rec":2668
+        },
+        "summoning arts level":100
+    },
+    "350":{
+        "exp to next level":836571,
+        "stats":{
+            "atk":2668,
+            "def":2670,
+            "hp":7218,
+            "rec":2669
+        },
+        "summoning arts level":100
+    },
+    "351":{
+        "exp to next level":837698,
+        "stats":{
+            "atk":2671,
+            "def":2671,
+            "hp":7220,
+            "rec":2671
+        },
+        "summoning arts level":100
+    },
+    "352":{
+        "exp to next level":838827,
+        "stats":{
+            "atk":2673,
+            "def":2672,
+            "hp":7264,
+            "rec":2672
+        },
+        "summoning arts level":100
+    },
+    "353":{
+        "exp to next level":839960,
+        "stats":{
+            "atk":2673,
+            "def":2674,
+            "hp":7268,
+            "rec":2674
+        },
+        "summoning arts level":100
+    },
+    "354":{
+        "exp to next level":841096,
+        "stats":{
+            "atk":2674,
+            "def":2676,
+            "hp":7272,
+            "rec":2675
+        },
+        "summoning arts level":100
+    },
+    "355":{
+        "exp to next level":842235,
+        "stats":{
+            "atk":2675,
+            "def":2676,
+            "hp":7276,
+            "rec":2676
+        },
+        "summoning arts level":100
+    },
+    "356":{
+        "exp to next level":843378,
+        "stats":{
+            "atk":2676,
+            "def":2677,
+            "hp":7281,
+            "rec":2678
+        },
+        "summoning arts level":100
+    },
+    "357":{
+        "exp to next level":844523,
+        "stats":{
+            "atk":2677,
+            "def":2678,
+            "hp":7285,
+            "rec":2679
+        },
+        "summoning arts level":100
+    },
+    "358":{
+        "exp to next level":845672,
+        "stats":{
+            "atk":2680,
+            "def":2679,
+            "hp":7289,
+            "rec":2681
+        },
+        "summoning arts level":100
+    },
+    "359":{
+        "exp to next level":846824,
+        "stats":{
+            "atk":2681,
+            "def":2680,
+            "hp":7293,
+            "rec":2682
+        },
+        "summoning arts level":100
+    },
+    "360":{
+        "exp to next level":847979,
+        "stats":{
+            "atk":2682,
+            "def":2682,
+            "hp":7299,
+            "rec":2683
+        },
+        "summoning arts level":100
+    },
+    "361":{
+        "exp to next level":849138,
+        "stats":{
+            "atk":2683,
+            "def":2684,
+            "hp":7302,
+            "rec":2685
+        },
+        "summoning arts level":100
+    },
+    "362":{
+        "exp to next level":850299,
+        "stats":{
+            "atk":2686,
+            "def":2686,
+            "hp":7307,
+            "rec":2686
+        },
+        "summoning arts level":100
+    },
+    "363":{
+        "exp to next level":851464,
+        "stats":{
+            "atk":2688,
+            "def":2687,
+            "hp":7311,
+            "rec":2688
+        },
+        "summoning arts level":100
+    },
+    "364":{
+        "exp to next level":852632,
+        "stats":{
+            "atk":2688,
+            "def":2688,
+            "hp":7316,
+            "rec":2689
+        },
+        "summoning arts level":100
+    },
+    "365":{
+        "exp to next level":853803,
+        "stats":{
+            "atk":2689,
+            "def":2690,
+            "hp":7320,
+            "rec":2691
+        },
+        "summoning arts level":100
+    },
+    "366":{
+        "exp to next level":854978,
+        "stats":{
+            "atk":2690,
+            "def":2692,
+            "hp":7324,
+            "rec":2692
+        },
+        "summoning arts level":100
+    },
+    "367":{
+        "exp to next level":856155,
+        "stats":{
+            "atk":2691,
+            "def":2693,
+            "hp":7328,
+            "rec":2693
+        },
+        "summoning arts level":100
+    },
+    "368":{
+        "exp to next level":857336,
+        "stats":{
+            "atk":2692,
+            "def":2694,
+            "hp":7333,
+            "rec":2695
+        },
+        "summoning arts level":100
+    },
+    "369":{
+        "exp to next level":858520,
+        "stats":{
+            "atk":2695,
+            "def":2695,
+            "hp":7337,
+            "rec":2696
+        },
+        "summoning arts level":100
+    },
+    "370":{
+        "exp to next level":859707,
+        "stats":{
+            "atk":2697,
+            "def":2695,
+            "hp":7341,
+            "rec":2698
+        },
+        "summoning arts level":100
+    },
+    "371":{
+        "exp to next level":860898,
+        "stats":{
+            "atk":2697,
+            "def":2696,
+            "hp":7346,
+            "rec":2699
+        },
+        "summoning arts level":100
+    },
+    "372":{
+        "exp to next level":862091,
+        "stats":{
+            "atk":2698,
+            "def":2699,
+            "hp":7351,
+            "rec":2700
+        },
+        "summoning arts level":100
+    },
+    "373":{
+        "exp to next level":863288,
+        "stats":{
+            "atk":2701,
+            "def":2701,
+            "hp":7354,
+            "rec":2702
+        },
+        "summoning arts level":100
+    },
+    "374":{
+        "exp to next level":864488,
+        "stats":{
+            "atk":2703,
+            "def":2703,
+            "hp":7359,
+            "rec":2703
+        },
+        "summoning arts level":100
+    },
+    "375":{
+        "exp to next level":865691,
+        "stats":{
+            "atk":2703,
+            "def":2703,
+            "hp":7363,
+            "rec":2705
+        },
+        "summoning arts level":100
+    },
+    "376":{
+        "exp to next level":866898,
+        "stats":{
+            "atk":2704,
+            "def":2705,
+            "hp":7368,
+            "rec":2706
+        },
+        "summoning arts level":100
+    },
+    "377":{
+        "exp to next level":868107,
+        "stats":{
+            "atk":2705,
+            "def":2707,
+            "hp":7372,
+            "rec":2708
+        },
+        "summoning arts level":100
+    },
+    "378":{
+        "exp to next level":869320,
+        "stats":{
+            "atk":2706,
+            "def":2709,
+            "hp":7376,
+            "rec":2709
+        },
+        "summoning arts level":100
+    },
+    "379":{
+        "exp to next level":870536,
+        "stats":{
+            "atk":2707,
+            "def":2709,
+            "hp":7380,
+            "rec":2710
+        },
+        "summoning arts level":100
+    },
+    "380":{
+        "exp to next level":871755,
+        "stats":{
+            "atk":2710,
+            "def":2710,
+            "hp":7386,
+            "rec":2712
+        },
+        "summoning arts level":100
+    },
+    "381":{
+        "exp to next level":872978,
+        "stats":{
+            "atk":2712,
+            "def":2711,
+            "hp":7389,
+            "rec":2713
+        },
+        "summoning arts level":100
+    },
+    "382":{
+        "exp to next level":874203,
+        "stats":{
+            "atk":2712,
+            "def":2712,
+            "hp":7394,
+            "rec":2715
+        },
+        "summoning arts level":100
+    },
+    "383":{
+        "exp to next level":875432,
+        "stats":{
+            "atk":2714,
+            "def":2713,
+            "hp":7398,
+            "rec":2716
+        },
+        "summoning arts level":100
+    },
+    "384":{
+        "exp to next level":876664,
+        "stats":{
+            "atk":2716,
+            "def":2715,
+            "hp":7403,
+            "rec":2717
+        },
+        "summoning arts level":100
+    },
+    "385":{
+        "exp to next level":877899,
+        "stats":{
+            "atk":2718,
+            "def":2717,
+            "hp":7407,
+            "rec":2719
+        },
+        "summoning arts level":100
+    },
+    "386":{
+        "exp to next level":879138,
+        "stats":{
+            "atk":2719,
+            "def":2719,
+            "hp":7411,
+            "rec":2720
+        },
+        "summoning arts level":100
+    },
+    "387":{
+        "exp to next level":880379,
+        "stats":{
+            "atk":2719,
+            "def":2720,
+            "hp":7415,
+            "rec":2722
+        },
+        "summoning arts level":100
+    },
+    "388":{
+        "exp to next level":881624,
+        "stats":{
+            "atk":2720,
+            "def":2721,
+            "hp":7420,
+            "rec":2723
+        },
+        "summoning arts level":100
+    },
+    "389":{
+        "exp to next level":882872,
+        "stats":{
+            "atk":2721,
+            "def":2723,
+            "hp":7424,
+            "rec":2725
+        },
+        "summoning arts level":100
+    },
+    "390":{
+        "exp to next level":884123,
+        "stats":{
+            "atk":2722,
+            "def":2725,
+            "hp":7428,
+            "rec":2726
+        },
+        "summoning arts level":100
+    },
+    "391":{
+        "exp to next level":885378,
+        "stats":{
+            "atk":2725,
+            "def":2726,
+            "hp":7432,
+            "rec":2727
+        },
+        "summoning arts level":100
+    },
+    "392":{
+        "exp to next level":886635,
+        "stats":{
+            "atk":2727,
+            "def":2726,
+            "hp":7438,
+            "rec":2729
+        },
+        "summoning arts level":100
+    },
+    "393":{
+        "exp to next level":887896,
+        "stats":{
+            "atk":2727,
+            "def":2728,
+            "hp":7441,
+            "rec":2730
+        },
+        "summoning arts level":100
+    },
+    "394":{
+        "exp to next level":889160,
+        "stats":{
+            "atk":2729,
+            "def":2728,
+            "hp":7446,
+            "rec":2732
+        },
+        "summoning arts level":100
+    },
+    "395":{
+        "exp to next level":890427,
+        "stats":{
+            "atk":2731,
+            "def":2729,
+            "hp":7450,
+            "rec":2733
+        },
+        "summoning arts level":100
+    },
+    "396":{
+        "exp to next level":891698,
+        "stats":{
+            "atk":2733,
+            "def":2732,
+            "hp":7455,
+            "rec":2734
+        },
+        "summoning arts level":100
+    },
+    "397":{
+        "exp to next level":892971,
+        "stats":{
+            "atk":2734,
+            "def":2734,
+            "hp":7459,
+            "rec":2736
+        },
+        "summoning arts level":100
+    },
+    "398":{
+        "exp to next level":894248,
+        "stats":{
+            "atk":2734,
+            "def":2736,
+            "hp":7464,
+            "rec":2737
+        },
+        "summoning arts level":100
+    },
+    "399":{
+        "exp to next level":895528,
+        "stats":{
+            "atk":2736,
+            "def":2736,
+            "hp":7467,
+            "rec":2739
+        },
+        "summoning arts level":100
+    },
+    "400":{
+        "exp to next level":898094,
+        "stats":{
+            "atk":2745,
+            "def":2745,
+            "hp":7490,
+            "rec":2746
+        },
+        "summoning arts level":100
+    },
+    "401":{
+        "exp to next level":900667,
+        "stats":{
+            "atk":2746,
+            "def":2748,
+            "hp":7492,
+            "rec":2747
+        },
+        "summoning arts level":100
+    },
+    "402":{
+        "exp to next level":903246,
+        "stats":{
+            "atk":2749,
+            "def":2749,
+            "hp":7496,
+            "rec":2749
+        },
+        "summoning arts level":100
+    },
+    "403":{
+        "exp to next level":905832,
+        "stats":{
+            "atk":2751,
+            "def":2750,
+            "hp":7501,
+            "rec":2750
+        },
+        "summoning arts level":100
+    },
+    "404":{
+        "exp to next level":908424,
+        "stats":{
+            "atk":2751,
+            "def":2751,
+            "hp":7505,
+            "rec":2751
+        },
+        "summoning arts level":100
+    },
+    "405":{
+        "exp to next level":911022,
+        "stats":{
+            "atk":2753,
+            "def":2752,
+            "hp":7509,
+            "rec":2753
+        },
+        "summoning arts level":100
+    },
+    "406":{
+        "exp to next level":913627,
+        "stats":{
+            "atk":2755,
+            "def":2753,
+            "hp":7513,
+            "rec":2754
+        },
+        "summoning arts level":100
+    },
+    "407":{
+        "exp to next level":916238,
+        "stats":{
+            "atk":2757,
+            "def":2754,
+            "hp":7519,
+            "rec":2756
+        },
+        "summoning arts level":100
+    },
+    "408":{
+        "exp to next level":918856,
+        "stats":{
+            "atk":2758,
+            "def":2756,
+            "hp":7522,
+            "rec":2757
+        },
+        "summoning arts level":100
+    },
+    "409":{
+        "exp to next level":921480,
+        "stats":{
+            "atk":2758,
+            "def":2758,
+            "hp":7527,
+            "rec":2758
+        },
+        "summoning arts level":100
+    },
+    "410":{
+        "exp to next level":924110,
+        "stats":{
+            "atk":2759,
+            "def":2760,
+            "hp":7531,
+            "rec":2760
+        },
+        "summoning arts level":100
+    },
+    "411":{
+        "exp to next level":926747,
+        "stats":{
+            "atk":2760,
+            "def":2761,
+            "hp":7536,
+            "rec":2761
+        },
+        "summoning arts level":100
+    },
+    "412":{
+        "exp to next level":929390,
+        "stats":{
+            "atk":2761,
+            "def":2762,
+            "hp":7540,
+            "rec":2763
+        },
+        "summoning arts level":100
+    },
+    "413":{
+        "exp to next level":932040,
+        "stats":{
+            "atk":2764,
+            "def":2764,
+            "hp":7544,
+            "rec":2764
+        },
+        "summoning arts level":100
+    },
+    "414":{
+        "exp to next level":934696,
+        "stats":{
+            "atk":2766,
+            "def":2766,
+            "hp":7548,
+            "rec":2766
+        },
+        "summoning arts level":100
+    },
+    "415":{
+        "exp to next level":937358,
+        "stats":{
+            "atk":2766,
+            "def":2767,
+            "hp":7553,
+            "rec":2767
+        },
+        "summoning arts level":100
+    },
+    "416":{
+        "exp to next level":940027,
+        "stats":{
+            "atk":2768,
+            "def":2767,
+            "hp":7557,
+            "rec":2768
+        },
+        "summoning arts level":100
+    },
+    "417":{
+        "exp to next level":942702,
+        "stats":{
+            "atk":2770,
+            "def":2768,
+            "hp":7561,
+            "rec":2770
+        },
+        "summoning arts level":100
+    },
+    "418":{
+        "exp to next level":945384,
+        "stats":{
+            "atk":2772,
+            "def":2769,
+            "hp":7565,
+            "rec":2771
+        },
+        "summoning arts level":100
+    },
+    "419":{
+        "exp to next level":948072,
+        "stats":{
+            "atk":2773,
+            "def":2770,
+            "hp":7571,
+            "rec":2773
+        },
+        "summoning arts level":100
+    },
+    "420":{
+        "exp to next level":950766,
+        "stats":{
+            "atk":2773,
+            "def":2772,
+            "hp":7574,
+            "rec":2774
+        },
+        "summoning arts level":100
+    },
+    "421":{
+        "exp to next level":953467,
+        "stats":{
+            "atk":2775,
+            "def":2775,
+            "hp":7579,
+            "rec":2775
+        },
+        "summoning arts level":100
+    },
+    "422":{
+        "exp to next level":956174,
+        "stats":{
+            "atk":2775,
+            "def":2776,
+            "hp":7583,
+            "rec":2777
+        },
+        "summoning arts level":100
+    },
+    "423":{
+        "exp to next level":958888,
+        "stats":{
+            "atk":2776,
+            "def":2777,
+            "hp":7588,
+            "rec":2778
+        },
+        "summoning arts level":100
+    },
+    "424":{
+        "exp to next level":961608,
+        "stats":{
+            "atk":2779,
+            "def":2778,
+            "hp":7592,
+            "rec":2780
+        },
+        "summoning arts level":100
+    },
+    "425":{
+        "exp to next level":964334,
+        "stats":{
+            "atk":2781,
+            "def":2781,
+            "hp":7596,
+            "rec":2781
+        },
+        "summoning arts level":100
+    },
+    "426":{
+        "exp to next level":967067,
+        "stats":{
+            "atk":2781,
+            "def":2782,
+            "hp":7600,
+            "rec":2783
+        },
+        "summoning arts level":100
+    },
+    "427":{
+        "exp to next level":969806,
+        "stats":{
+            "atk":2783,
+            "def":2783,
+            "hp":7606,
+            "rec":2784
+        },
+        "summoning arts level":100
+    },
+    "428":{
+        "exp to next level":972552,
+        "stats":{
+            "atk":2785,
+            "def":2784,
+            "hp":7609,
+            "rec":2785
+        },
+        "summoning arts level":100
+    },
+    "429":{
+        "exp to next level":975304,
+        "stats":{
+            "atk":2787,
+            "def":2785,
+            "hp":7614,
+            "rec":2787
+        },
+        "summoning arts level":100
+    },
+    "430":{
+        "exp to next level":978062,
+        "stats":{
+            "atk":2788,
+            "def":2786,
+            "hp":7618,
+            "rec":2788
+        },
+        "summoning arts level":100
+    },
+    "431":{
+        "exp to next level":980827,
+        "stats":{
+            "atk":2788,
+            "def":2787,
+            "hp":7623,
+            "rec":2790
+        },
+        "summoning arts level":100
+    },
+    "432":{
+        "exp to next level":983598,
+        "stats":{
+            "atk":2790,
+            "def":2789,
+            "hp":7626,
+            "rec":2791
+        },
+        "summoning arts level":100
+    },
+    "433":{
+        "exp to next level":986376,
+        "stats":{
+            "atk":2790,
+            "def":2791,
+            "hp":7631,
+            "rec":2792
+        },
+        "summoning arts level":100
+    },
+    "434":{
+        "exp to next level":989160,
+        "stats":{
+            "atk":2792,
+            "def":2793,
+            "hp":7635,
+            "rec":2794
+        },
+        "summoning arts level":100
+    },
+    "435":{
+        "exp to next level":991950,
+        "stats":{
+            "atk":2794,
+            "def":2794,
+            "hp":7640,
+            "rec":2795
+        },
+        "summoning arts level":100
+    },
+    "436":{
+        "exp to next level":994747,
+        "stats":{
+            "atk":2796,
+            "def":2795,
+            "hp":7644,
+            "rec":2797
+        },
+        "summoning arts level":100
+    },
+    "437":{
+        "exp to next level":997550,
+        "stats":{
+            "atk":2797,
+            "def":2797,
+            "hp":7648,
+            "rec":2798
+        },
+        "summoning arts level":100
+    },
+    "438":{
+        "exp to next level":1000360,
+        "stats":{
+            "atk":2798,
+            "def":2799,
+            "hp":7652,
+            "rec":2800
+        },
+        "summoning arts level":100
+    },
+    "439":{
+        "exp to next level":1003176,
+        "stats":{
+            "atk":2800,
+            "def":2800,
+            "hp":7658,
+            "rec":2801
+        },
+        "summoning arts level":100
+    },
+    "440":{
+        "exp to next level":1005998,
+        "stats":{
+            "atk":2802,
+            "def":2800,
+            "hp":7661,
+            "rec":2802
+        },
+        "summoning arts level":100
+    },
+    "441":{
+        "exp to next level":1008827,
+        "stats":{
+            "atk":2803,
+            "def":2801,
+            "hp":7666,
+            "rec":2804
+        },
+        "summoning arts level":100
+    },
+    "442":{
+        "exp to next level":1011662,
+        "stats":{
+            "atk":2803,
+            "def":2802,
+            "hp":7670,
+            "rec":2805
+        },
+        "summoning arts level":100
+    },
+    "443":{
+        "exp to next level":1014504,
+        "stats":{
+            "atk":2805,
+            "def":2803,
+            "hp":7675,
+            "rec":2807
+        },
+        "summoning arts level":100
+    },
+    "444":{
+        "exp to next level":1017352,
+        "stats":{
+            "atk":2805,
+            "def":2805,
+            "hp":7679,
+            "rec":2808
+        },
+        "summoning arts level":100
+    },
+    "445":{
+        "exp to next level":1020206,
+        "stats":{
+            "atk":2807,
+            "def":2808,
+            "hp":7683,
+            "rec":2809
+        },
+        "summoning arts level":100
+    },
+    "446":{
+        "exp to next level":1023067,
+        "stats":{
+            "atk":2809,
+            "def":2809,
+            "hp":7687,
+            "rec":2811
+        },
+        "summoning arts level":100
+    },
+    "447":{
+        "exp to next level":1025934,
+        "stats":{
+            "atk":2811,
+            "def":2810,
+            "hp":7692,
+            "rec":2812
+        },
+        "summoning arts level":100
+    },
+    "448":{
+        "exp to next level":1028808,
+        "stats":{
+            "atk":2812,
+            "def":2811,
+            "hp":7696,
+            "rec":2814
+        },
+        "summoning arts level":100
+    },
+    "449":{
+        "exp to next level":1031688,
+        "stats":{
+            "atk":2813,
+            "def":2813,
+            "hp":7701,
+            "rec":2815
+        },
+        "summoning arts level":100
+    },
+    "450":{
+        "exp to next level":1033131,
+        "stats":{
+            "atk":2815,
+            "def":2815,
+            "hp":7705,
+            "rec":2817
+        },
+        "summoning arts level":100
+    },
+    "451":{
+        "exp to next level":1034578,
+        "stats":{
+            "atk":2817,
+            "def":2816,
+            "hp":7709,
+            "rec":2818
+        },
+        "summoning arts level":100
+    },
+    "452":{
+        "exp to next level":1036027,
+        "stats":{
+            "atk":2818,
+            "def":2817,
+            "hp":7711,
+            "rec":2819
+        },
+        "summoning arts level":100
+    },
+    "453":{
+        "exp to next level":1037480,
+        "stats":{
+            "atk":2819,
+            "def":2818,
+            "hp":7756,
+            "rec":2821
+        },
+        "summoning arts level":100
+    },
+    "454":{
+        "exp to next level":1038936,
+        "stats":{
+            "atk":2820,
+            "def":2819,
+            "hp":7759,
+            "rec":2822
+        },
+        "summoning arts level":100
+    },
+    "455":{
+        "exp to next level":1040395,
+        "stats":{
+            "atk":2820,
+            "def":2820,
+            "hp":7764,
+            "rec":2824
+        },
+        "summoning arts level":100
+    },
+    "456":{
+        "exp to next level":1041858,
+        "stats":{
+            "atk":2822,
+            "def":2822,
+            "hp":7768,
+            "rec":2825
+        },
+        "summoning arts level":100
+    },
+    "457":{
+        "exp to next level":1043323,
+        "stats":{
+            "atk":2824,
+            "def":2824,
+            "hp":7773,
+            "rec":2826
+        },
+        "summoning arts level":100
+    },
+    "458":{
+        "exp to next level":1044792,
+        "stats":{
+            "atk":2826,
+            "def":2826,
+            "hp":7776,
+            "rec":2828
+        },
+        "summoning arts level":100
+    },
+    "459":{
+        "exp to next level":1046264,
+        "stats":{
+            "atk":2827,
+            "def":2827,
+            "hp":7781,
+            "rec":2829
+        },
+        "summoning arts level":100
+    },
+    "460":{
+        "exp to next level":1047739,
+        "stats":{
+            "atk":2828,
+            "def":2828,
+            "hp":7785,
+            "rec":2831
+        },
+        "summoning arts level":100
+    },
+    "461":{
+        "exp to next level":1049218,
+        "stats":{
+            "atk":2830,
+            "def":2830,
+            "hp":7790,
+            "rec":2832
+        },
+        "summoning arts level":100
+    },
+    "462":{
+        "exp to next level":1050699,
+        "stats":{
+            "atk":2832,
+            "def":2832,
+            "hp":7794,
+            "rec":2833
+        },
+        "summoning arts level":100
+    },
+    "463":{
+        "exp to next level":1052184,
+        "stats":{
+            "atk":2833,
+            "def":2832,
+            "hp":7798,
+            "rec":2835
+        },
+        "summoning arts level":100
+    },
+    "464":{
+        "exp to next level":1053672,
+        "stats":{
+            "atk":2834,
+            "def":2833,
+            "hp":7802,
+            "rec":2836
+        },
+        "summoning arts level":100
+    },
+    "465":{
+        "exp to next level":1055163,
+        "stats":{
+            "atk":2835,
+            "def":2834,
+            "hp":7808,
+            "rec":2838
+        },
+        "summoning arts level":100
+    },
+    "466":{
+        "exp to next level":1056658,
+        "stats":{
+            "atk":2836,
+            "def":2835,
+            "hp":7811,
+            "rec":2839
+        },
+        "summoning arts level":100
+    },
+    "467":{
+        "exp to next level":1058155,
+        "stats":{
+            "atk":2837,
+            "def":2836,
+            "hp":7816,
+            "rec":2841
+        },
+        "summoning arts level":100
+    },
+    "468":{
+        "exp to next level":1059656,
+        "stats":{
+            "atk":2839,
+            "def":2838,
+            "hp":7820,
+            "rec":2842
+        },
+        "summoning arts level":100
+    },
+    "469":{
+        "exp to next level":1061160,
+        "stats":{
+            "atk":2841,
+            "def":2840,
+            "hp":7825,
+            "rec":2843
+        },
+        "summoning arts level":100
+    },
+    "470":{
+        "exp to next level":1062667,
+        "stats":{
+            "atk":2842,
+            "def":2842,
+            "hp":7829,
+            "rec":2845
+        },
+        "summoning arts level":100
+    },
+    "471":{
+        "exp to next level":1064178,
+        "stats":{
+            "atk":2843,
+            "def":2843,
+            "hp":7833,
+            "rec":2846
+        },
+        "summoning arts level":100
+    },
+    "472":{
+        "exp to next level":1065691,
+        "stats":{
+            "atk":2845,
+            "def":2844,
+            "hp":7837,
+            "rec":2848
+        },
+        "summoning arts level":100
+    },
+    "473":{
+        "exp to next level":1067208,
+        "stats":{
+            "atk":2847,
+            "def":2846,
+            "hp":7842,
+            "rec":2849
+        },
+        "summoning arts level":100
+    },
+    "474":{
+        "exp to next level":1068728,
+        "stats":{
+            "atk":2848,
+            "def":2848,
+            "hp":7846,
+            "rec":2850
+        },
+        "summoning arts level":100
+    },
+    "475":{
+        "exp to next level":1070251,
+        "stats":{
+            "atk":2849,
+            "def":2849,
+            "hp":7850,
+            "rec":2852
+        },
+        "summoning arts level":100
+    },
+    "476":{
+        "exp to next level":1071778,
+        "stats":{
+            "atk":2850,
+            "def":2850,
+            "hp":7854,
+            "rec":2853
+        },
+        "summoning arts level":100
+    },
+    "477":{
+        "exp to next level":1073307,
+        "stats":{
+            "atk":2851,
+            "def":2851,
+            "hp":7860,
+            "rec":2855
+        },
+        "summoning arts level":100
+    },
+    "478":{
+        "exp to next level":1074840,
+        "stats":{
+            "atk":2852,
+            "def":2851,
+            "hp":7863,
+            "rec":2856
+        },
+        "summoning arts level":100
+    },
+    "479":{
+        "exp to next level":1076376,
+        "stats":{
+            "atk":2854,
+            "def":2852,
+            "hp":7868,
+            "rec":2858
+        },
+        "summoning arts level":100
+    },
+    "480":{
+        "exp to next level":1077915,
+        "stats":{
+            "atk":2856,
+            "def":2855,
+            "hp":7872,
+            "rec":2859
+        },
+        "summoning arts level":100
+    },
+    "481":{
+        "exp to next level":1079458,
+        "stats":{
+            "atk":2857,
+            "def":2857,
+            "hp":7877,
+            "rec":2860
+        },
+        "summoning arts level":100
+    },
+    "482":{
+        "exp to next level":1081003,
+        "stats":{
+            "atk":2858,
+            "def":2859,
+            "hp":7881,
+            "rec":2862
+        },
+        "summoning arts level":100
+    },
+    "483":{
+        "exp to next level":1082552,
+        "stats":{
+            "atk":2860,
+            "def":2859,
+            "hp":7885,
+            "rec":2863
+        },
+        "summoning arts level":100
+    },
+    "484":{
+        "exp to next level":1084104,
+        "stats":{
+            "atk":2862,
+            "def":2861,
+            "hp":7889,
+            "rec":2865
+        },
+        "summoning arts level":100
+    },
+    "485":{
+        "exp to next level":1085659,
+        "stats":{
+            "atk":2863,
+            "def":2863,
+            "hp":7894,
+            "rec":2866
+        },
+        "summoning arts level":100
+    },
+    "486":{
+        "exp to next level":1087218,
+        "stats":{
+            "atk":2864,
+            "def":2865,
+            "hp":7898,
+            "rec":2867
+        },
+        "summoning arts level":100
+    },
+    "487":{
+        "exp to next level":1088779,
+        "stats":{
+            "atk":2865,
+            "def":2865,
+            "hp":7902,
+            "rec":2869
+        },
+        "summoning arts level":100
+    },
+    "488":{
+        "exp to next level":1090344,
+        "stats":{
+            "atk":2866,
+            "def":2866,
+            "hp":7907,
+            "rec":2870
+        },
+        "summoning arts level":100
+    },
+    "489":{
+        "exp to next level":1091912,
+        "stats":{
+            "atk":2867,
+            "def":2867,
+            "hp":7912,
+            "rec":2872
+        },
+        "summoning arts level":100
+    },
+    "490":{
+        "exp to next level":1093483,
+        "stats":{
+            "atk":2869,
+            "def":2868,
+            "hp":7915,
+            "rec":2873
+        },
+        "summoning arts level":100
+    },
+    "491":{
+        "exp to next level":1095058,
+        "stats":{
+            "atk":2871,
+            "def":2869,
+            "hp":7920,
+            "rec":2875
+        },
+        "summoning arts level":100
+    },
+    "492":{
+        "exp to next level":1096635,
+        "stats":{
+            "atk":2872,
+            "def":2871,
+            "hp":7924,
+            "rec":2876
+        },
+        "summoning arts level":100
+    },
+    "493":{
+        "exp to next level":1098216,
+        "stats":{
+            "atk":2873,
+            "def":2873,
+            "hp":7929,
+            "rec":2877
+        },
+        "summoning arts level":100
+    },
+    "494":{
+        "exp to next level":1099800,
+        "stats":{
+            "atk":2875,
+            "def":2875,
+            "hp":7933,
+            "rec":2879
+        },
+        "summoning arts level":100
+    },
+    "495":{
+        "exp to next level":1101387,
+        "stats":{
+            "atk":2877,
+            "def":2876,
+            "hp":7937,
+            "rec":2880
+        },
+        "summoning arts level":100
+    },
+    "496":{
+        "exp to next level":1102978,
+        "stats":{
+            "atk":2878,
+            "def":2877,
+            "hp":7941,
+            "rec":2882
+        },
+        "summoning arts level":100
+    },
+    "497":{
+        "exp to next level":1104571,
+        "stats":{
+            "atk":2879,
+            "def":2879,
+            "hp":7947,
+            "rec":2883
+        },
+        "summoning arts level":100
+    },
+    "498":{
+        "exp to next level":1106168,
+        "stats":{
+            "atk":2880,
+            "def":2881,
+            "hp":7950,
+            "rec":2884
+        },
+        "summoning arts level":100
+    },
+    "499":{
+        "exp to next level":1107768,
+        "stats":{
+            "atk":2881,
+            "def":2882,
+            "hp":7955,
+            "rec":2886
+        },
+        "summoning arts level":100
+    },
+    "500":{
+        "exp to next level":0,
+        "stats":{
+            "atk":2900,
+            "def":2900,
+            "hp":8000,
+            "rec":2900
+        },
+        "summoning arts level":100
+    }
+}

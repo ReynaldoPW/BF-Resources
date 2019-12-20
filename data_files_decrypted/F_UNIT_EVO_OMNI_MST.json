@@ -1,0 +1,110 @@
+[
+    {
+        "OE+ Level":"1",
+        "UNIT_COST":"45",
+        "ddD4lsc1":"5",
+        "js95kdsL":"150:60:60:60"
+    },
+    {
+        "OE+ Level":"1",
+        "UNIT_COST":"47",
+        "ddD4lsc1":"5",
+        "js95kdsL":"150:60:60:60"
+    },
+    {
+        "OE+ Level":"1",
+        "UNIT_COST":"48",
+        "ddD4lsc1":"5",
+        "js95kdsL":"150:60:60:60"
+    },
+    {
+        "OE+ Level":"1",
+        "UNIT_COST":"50",
+        "ddD4lsc1":"5",
+        "js95kdsL":"150:60:60:60"
+    },
+    {
+        "OE+ Level":"1",
+        "UNIT_COST":"54",
+        "ddD4lsc1":"5",
+        "js95kdsL":"150:60:60:60"
+    },
+    {
+        "OE+ Level":"1",
+        "UNIT_COST":"60",
+        "ddD4lsc1":"5",
+        "js95kdsL":"150:60:60:60"
+    },
+    {
+        "OE+ Level":"2",
+        "UNIT_COST":"45",
+        "ddD4lsc1":"5",
+        "js95kdsL":"450:180:180:180"
+    },
+    {
+        "OE+ Level":"2",
+        "UNIT_COST":"47",
+        "ddD4lsc1":"5",
+        "js95kdsL":"450:180:180:180"
+    },
+    {
+        "OE+ Level":"2",
+        "UNIT_COST":"48",
+        "ddD4lsc1":"5",
+        "js95kdsL":"450:180:180:180"
+    },
+    {
+        "OE+ Level":"2",
+        "UNIT_COST":"50",
+        "ddD4lsc1":"5",
+        "js95kdsL":"450:180:180:180"
+    },
+    {
+        "OE+ Level":"2",
+        "UNIT_COST":"54",
+        "ddD4lsc1":"5",
+        "js95kdsL":"450:180:180:180"
+    },
+    {
+        "OE+ Level":"2",
+        "UNIT_COST":"60",
+        "ddD4lsc1":"5",
+        "js95kdsL":"450:180:180:180"
+    },
+    {
+        "OE+ Level":"3",
+        "UNIT_COST":"45",
+        "ddD4lsc1":"10",
+        "js95kdsL":"900:360:360:360"
+    },
+    {
+        "OE+ Level":"3",
+        "UNIT_COST":"47",
+        "ddD4lsc1":"10",
+        "js95kdsL":"900:360:360:360"
+    },
+    {
+        "OE+ Level":"3",
+        "UNIT_COST":"48",
+        "ddD4lsc1":"10",
+        "js95kdsL":"900:360:360:360"
+    },
+    {
+        "OE+ Level":"3",
+        "UNIT_COST":"50",
+        "ddD4lsc1":"10",
+        "js95kdsL":"900:360:360:360"
+    },
+    {
+        "OE+ Level":"3",
+        "UNIT_COST":"54",
+        "ddD4lsc1":"10",
+        "js95kdsL":"900:360:360:360"
+    },
+    {
+        "OE+ Level":"3",
+        "UNIT_COST":"60",
+        "ddD4lsc1":"10",
+        "js95kdsL":"900:360:360:360"
+    }
+]

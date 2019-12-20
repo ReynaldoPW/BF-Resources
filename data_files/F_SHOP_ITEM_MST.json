@@ -1,0 +1,50 @@
+[
+    {
+        "03UGMHxF":"1",
+        "29MgiJIQ":"1",
+        "SzV0Nps7":"0000-00-00 00:00:00",
+        "T1IxCpTF":"1",
+        "TdDHf59J":"130000",
+        "XuJL4pc5":"101",
+        "qA7M9EjP":"0000-00-00 00:00:00",
+        "qp37xTDh":"Multiplies Summoner EXP, weapon EXP, and SP by 1.5 whenever a Quest is cleared for 30min",
+        "wJsB35iH":"1",
+        "yu18xScw":"1"
+    },
+    {
+        "03UGMHxF":"2",
+        "29MgiJIQ":"1",
+        "SzV0Nps7":"0000-00-00 00:00:00",
+        "T1IxCpTF":"2",
+        "TdDHf59J":"130001",
+        "XuJL4pc5":"102",
+        "qA7M9EjP":"0000-00-00 00:00:00",
+        "qp37xTDh":"Multiplies Summoner EXP, weapon EXP, and SP by 2 whenever a Quest is cleared for 30min",
+        "wJsB35iH":"1",
+        "yu18xScw":"1"
+    },
+    {
+        "03UGMHxF":"1",
+        "29MgiJIQ":"1",
+        "SzV0Nps7":"0000-00-00 00:00:00",
+        "T1IxCpTF":"3",
+        "TdDHf59J":"130010",
+        "XuJL4pc5":"201",
+        "qA7M9EjP":"0000-00-00 00:00:00",
+        "qp37xTDh":"Multiplies Summoner EXP, weapon EXP, and SP by 1.5 whenever a Quest is cleared",
+        "wJsB35iH":"30",
+        "yu18xScw":"1"
+    },
+    {
+        "03UGMHxF":"2",
+        "29MgiJIQ":"1",
+        "SzV0Nps7":"0000-00-00 00:00:00",
+        "T1IxCpTF":"4",
+        "TdDHf59J":"130011",
+        "XuJL4pc5":"202",
+        "qA7M9EjP":"0000-00-00 00:00:00",
+        "qp37xTDh":"Multiplies Summoner EXP, weapon EXP, and SP by 2 whenever a Quest is cleared",
+        "wJsB35iH":"30",
+        "yu18xScw":"1"
+    }
+]

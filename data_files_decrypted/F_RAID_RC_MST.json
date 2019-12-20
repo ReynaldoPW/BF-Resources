@@ -1,0 +1,32 @@
+[
+    {
+        "MAP_OPENING_TEXT_FILE":"raid_01_2.txt",
+        "RC":"2",
+        "REWARDS_OBTAINED*":"6:20302:1:1:1,8:0:3:0:0"
+    },
+    {
+        "MAP_OPENING_TEXT_FILE":"raid_02_2.txt",
+        "RC":"3",
+        "REWARDS_OBTAINED*":"6:20302:1:1:1,8:0:5:0:0"
+    },
+    {
+        "MAP_OPENING_TEXT_FILE":"raid_03_3_2.txt",
+        "RC":"4",
+        "REWARDS_OBTAINED*":"6:20494:1:1:1"
+    },
+    {
+        "MAP_OPENING_TEXT_FILE":"raid_04_3_2.txt",
+        "RC":"5",
+        "REWARDS_OBTAINED*":"6:20302:1:1:1,6:50612:4:1:0,6:10313:4:1:0"
+    },
+    {
+        "MAP_OPENING_TEXT_FILE":"",
+        "RC":"6",
+        "REWARDS_OBTAINED*":"6:20302:2:1:1,5:70400:20:0:0,5:70500:20:0:0"
+    },
+    {
+        "MAP_OPENING_TEXT_FILE":"RC7_Intro.txt",
+        "RC":"7",
+        "REWARDS_OBTAINED*":"8:0:3:0:0,4:800907:40:0:0"
+    }
+]
