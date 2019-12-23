@@ -29936,11 +29936,28 @@
         "desc":"MST_LEADERSKILLS_830818_DESCRIPTION",
         "effects":[
             {
-                "atk% buff":120,
-                "def% buff":120,
-                "hp% buff":120,
-                "passive id":"1",
-                "rec% buff":120
+                "atk% buff":150,
+                "def% buff":150,
+                "hp% buff":150,
+                "passive id":"1"
+            },
+            {
+                "passive id":"48",
+                "reduced bc cost%":30
+            },
+            {
+                "bc fill on spark high":3,
+                "bc fill on spark low":3,
+                "bc fill on spark%":300,
+                "passive id":"47"
+            },
+            {
+                "params":"100,15",
+                "passive id":"127"
+            },
+            {
+                "params":"30",
+                "passive id":"70"
             }
         ],
         "id":"830818",

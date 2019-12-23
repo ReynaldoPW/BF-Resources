@@ -12033,5 +12033,29 @@
         "short desc":"Bjorn & Linlin, Sylvie, Zeruiah and Annette are available with Increased Rates through the Summon Gate!",
         "start time":"2019-12-18 15:00:00",
         "summon button image":"gacha_rare_summons_btn1.png"
+    },
+    "18110":{
+        "background image":"gacha_img_20191223A_s1.png",
+        "desc":"From 23 Dec 7:00 PST ~ 8 Jan 6:59 PST, summon minimum 5\u0081\u009a Global exclusive units with Omni Potential and enjoy Increased Rates with each summon on Armaiti up to the 8th Summon!",
+        "door image":"gacha_rare_door.png",
+        "end time":"2020-01-08 14:59:59",
+        "gem cost":5,
+        "name":"Winter Summon",
+        "priority":"2",
+        "short desc":"Armaiti is available through the Summon Gate! Get a Global Exclusive Elgif and an Aurora Ticket for every 10 Summons from the same gate!",
+        "start time":"2019-12-23 15:00:00",
+        "summon button image":"gacha_rare_summons_btn1.png"
+    },
+    "18120":{
+        "background image":"WinterGemSummon_gacha_oddstep.png",
+        "desc":"From 23 Dec 7:00 PST ~ 8 Jan 6:59 PST, summon minimum 5\u0081\u009a Global exclusive units with Omni Potential and enjoy Increased Rates on Armaiti and Annette! Get a Winter Mystery Chest on every odd number summon and a Super Winter Mystery Chest every 10 summons!",
+        "door image":"gacha_rare_door.png",
+        "end time":"2020-01-08 14:59:59",
+        "gem cost":5,
+        "name":"Winter Gem Summon",
+        "priority":"2",
+        "short desc":"Get a Winter Mystery Chest on every odd number summon and a Super Winter Mystery Chest every 10 summons!",
+        "start time":"2019-12-23 15:00:00",
+        "summon button image":"gacha_rare_summons_btn1.png"
     }
 }
