@@ -257,13 +257,13 @@ def update():
             if (x['FILE_NAME']=="F_RESOURCE_MST"):
                 fnames=[q['ZwstRU92'].replace("\\","") for q in file if 'sgtext' in q['ZwstRU92']]
                 for fname in fnames:
-                    link="http://2.cdn.bravefrontier.gumi.sg/content"+fname
+                    link="http://dv5bk1m8igv7v.cloudfront.net/asset/2900/content"+fname
                     name=fname.split('/')[-1]
                     try:
                         if (fname[-4:] == ".csv"):
-                            csv_content=requests.get("http://2.cdn.bravefrontier.gumi.sg/content"+fname).content
+                            csv_content=requests.get("http://dv5bk1m8igv7v.cloudfront.net/asset/2900/content"+fname).content
                         else:
-                            input_zip = requests.get("http://2.cdn.bravefrontier.gumi.sg/content"+fname, stream=True).content
+                            input_zip = requests.get("http://dv5bk1m8igv7v.cloudfront.net/asset/2900/content"+fname, stream=True).content
                             input_zip=zipfile.ZipFile(io.BytesIO(input_zip))
                             extracted_zip={name: input_zip.read(name) for name in input_zip.namelist()}
                             name=name[0:-4]+".csv"
