@@ -1,0 +1,1355 @@
+[
+    {
+        "ABP required":500,
+        "name":"MST_ARENARANKS_1_NAME",
+        "rank number":1,
+        "rewards":[],
+        "text file":"arena00.txt"
+    },
+    {
+        "ABP required":1200,
+        "name":"MST_ARENARANKS_2_NAME",
+        "rank number":2,
+        "rewards":[
+            {
+                "quantity":1,
+                "type":"gem(s)"
+            }
+        ],
+        "text file":"arena01.txt"
+    },
+    {
+        "ABP required":2000,
+        "name":"MST_ARENARANKS_3_NAME",
+        "rank number":3,
+        "rewards":[
+            {
+                "id":35200,
+                "name":"MST_SPHERES_35200_NAME",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":3000,
+        "name":"MST_ARENARANKS_4_NAME",
+        "rank number":4,
+        "rewards":[
+            {
+                "id":35201,
+                "name":"MST_SPHERES_35201_NAME",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":5000,
+        "name":"MST_ARENARANKS_5_NAME",
+        "rank number":5,
+        "rewards":[
+            {
+                "quantity":1,
+                "type":"gem(s)"
+            }
+        ],
+        "text file":"arena02.txt"
+    },
+    {
+        "ABP required":8000,
+        "name":"MST_ARENARANKS_6_NAME",
+        "rank number":6,
+        "rewards":[
+            {
+                "id":32900,
+                "name":"MST_SPHERES_32900_NAME",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":12000,
+        "name":"MST_ARENARANKS_7_NAME",
+        "rank number":7,
+        "rewards":[
+            {
+                "id":35001,
+                "name":"MST_SPHERES_35001_NAME",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":15000,
+        "name":"MST_ARENARANKS_8_NAME",
+        "rank number":8,
+        "rewards":[
+            {
+                "quantity":1,
+                "type":"gem(s)"
+            }
+        ],
+        "text file":"arena03.txt"
+    },
+    {
+        "ABP required":18000,
+        "name":"MST_ARENARANKS_9_NAME",
+        "rank number":9,
+        "rewards":[
+            {
+                "id":34600,
+                "name":"MST_SPHERES_34600_NAME",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":23000,
+        "name":"MST_ARENARANKS_10_NAME",
+        "rank number":10,
+        "rewards":[
+            {
+                "id":34100,
+                "name":"MST_SPHERES_34100_NAME",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":28000,
+        "name":"MST_ARENARANKS_11_NAME",
+        "rank number":11,
+        "rewards":[
+            {
+                "quantity":1,
+                "type":"gem(s)"
+            }
+        ],
+        "text file":"arena04.txt"
+    },
+    {
+        "ABP required":33000,
+        "name":"MST_ARENARANKS_12_NAME",
+        "rank number":12,
+        "rewards":[
+            {
+                "id":35202,
+                "name":"MST_SPHERES_35202_NAME",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":38000,
+        "name":"MST_ARENARANKS_13_NAME",
+        "rank number":13,
+        "rewards":[
+            {
+                "id":33501,
+                "name":"MST_SPHERES_33501_NAME",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":46000,
+        "name":"MST_ARENARANKS_14_NAME",
+        "rank number":14,
+        "rewards":[
+            {
+                "quantity":1,
+                "type":"gem(s)"
+            }
+        ],
+        "text file":"arena05.txt"
+    },
+    {
+        "ABP required":54000,
+        "name":"MST_ARENARANKS_15_NAME",
+        "rank number":15,
+        "rewards":[
+            {
+                "id":33600,
+                "name":"MST_SPHERES_33600_NAME",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":62000,
+        "name":"MST_ARENARANKS_16_NAME",
+        "rank number":16,
+        "rewards":[
+            {
+                "id":34700,
+                "name":"MST_SPHERES_34700_NAME",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":70000,
+        "name":"MST_ARENARANKS_17_NAME",
+        "rank number":17,
+        "rewards":[
+            {
+                "quantity":1,
+                "type":"gem(s)"
+            }
+        ],
+        "text file":"arena06.txt"
+    },
+    {
+        "ABP required":80000,
+        "name":"MST_ARENARANKS_18_NAME",
+        "rank number":18,
+        "rewards":[
+            {
+                "id":34800,
+                "name":"MST_SPHERES_34800_NAME",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":90000,
+        "name":"MST_ARENARANKS_19_NAME",
+        "rank number":19,
+        "rewards":[
+            {
+                "id":31500,
+                "name":"MST_SPHERES_31500_NAME",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":100000,
+        "name":"MST_ARENARANKS_20_NAME",
+        "rank number":20,
+        "rewards":[
+            {
+                "quantity":1,
+                "type":"gem(s)"
+            }
+        ],
+        "text file":"arena07.txt"
+    },
+    {
+        "ABP required":110000,
+        "name":"MST_ARENARANKS_21_NAME",
+        "rank number":21,
+        "rewards":[
+            {
+                "id":32201,
+                "name":"MST_SPHERES_32201_NAME",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":120000,
+        "name":"MST_ARENARANKS_22_NAME",
+        "rank number":22,
+        "rewards":[
+            {
+                "id":35000,
+                "name":"MST_SPHERES_35000_NAME",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":130000,
+        "name":"MST_ARENARANKS_23_NAME",
+        "rank number":23,
+        "rewards":[
+            {
+                "quantity":1,
+                "type":"gem(s)"
+            }
+        ],
+        "text file":"arena08.txt"
+    },
+    {
+        "ABP required":140000,
+        "name":"MST_ARENARANKS_24_NAME",
+        "rank number":24,
+        "rewards":[
+            {
+                "id":34301,
+                "name":"MST_SPHERES_34301_NAME",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":150000,
+        "name":"MST_ARENARANKS_25_NAME",
+        "rank number":25,
+        "rewards":[
+            {
+                "id":35100,
+                "name":"MST_SPHERES_35100_NAME",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":160000,
+        "name":"MST_ARENARANKS_26_NAME",
+        "rank number":26,
+        "rewards":[
+            {
+                "quantity":1,
+                "type":"gem(s)"
+            }
+        ],
+        "text file":"arena09.txt"
+    },
+    {
+        "ABP required":170000,
+        "name":"MST_ARENARANKS_27_NAME",
+        "rank number":27,
+        "rewards":[
+            {
+                "id":34900,
+                "name":"MST_SPHERES_34900_NAME",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":180000,
+        "name":"MST_ARENARANKS_28_NAME",
+        "rank number":28,
+        "rewards":[
+            {
+                "id":35002,
+                "name":"MST_SPHERES_35002_NAME",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":192000,
+        "name":"MST_ARENARANKS_29_NAME",
+        "rank number":29,
+        "rewards":[
+            {
+                "quantity":3,
+                "type":"gem(s)"
+            }
+        ],
+        "text file":"arena10.txt"
+    },
+    {
+        "ABP required":205000,
+        "name":"MST_ARENARANKS_30_NAME",
+        "rank number":30,
+        "rewards":[
+            {
+                "id":35900,
+                "name":"MST_SPHERES_35900_NAME",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":219000,
+        "name":"MST_ARENARANKS_31_NAME",
+        "rank number":31,
+        "rewards":[
+            {
+                "id":35800,
+                "name":"MST_SPHERES_35800_NAME",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":234000,
+        "name":"MST_ARENARANKS_32_NAME",
+        "rank number":32,
+        "rewards":[
+            {
+                "id":36400,
+                "name":"MST_SPHERES_36400_NAME",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":250000,
+        "name":"MST_ARENARANKS_33_NAME",
+        "rank number":33,
+        "rewards":[
+            {
+                "quantity":3,
+                "type":"gem(s)"
+            }
+        ],
+        "text file":"arena11.txt"
+    },
+    {
+        "ABP required":267000,
+        "name":"MST_ARENARANKS_34_NAME",
+        "rank number":34,
+        "rewards":[
+            {
+                "id":36300,
+                "name":"MST_SPHERES_36300_NAME",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":285000,
+        "name":"MST_ARENARANKS_35_NAME",
+        "rank number":35,
+        "rewards":[
+            {
+                "id":36000,
+                "name":"MST_SPHERES_36000_NAME",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":304000,
+        "name":"MST_ARENARANKS_36_NAME",
+        "rank number":36,
+        "rewards":[
+            {
+                "id":36500,
+                "name":"MST_SPHERES_36500_NAME",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":324000,
+        "name":"MST_ARENARANKS_37_NAME",
+        "rank number":37,
+        "rewards":[
+            {
+                "quantity":3,
+                "type":"gem(s)"
+            }
+        ],
+        "text file":"arena12.txt"
+    },
+    {
+        "ABP required":345000,
+        "name":"MST_ARENARANKS_38_NAME",
+        "rank number":38,
+        "rewards":[
+            {
+                "id":33600,
+                "name":"MST_SPHERES_33600_NAME",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":367000,
+        "name":"MST_ARENARANKS_39_NAME",
+        "rank number":39,
+        "rewards":[
+            {
+                "id":36100,
+                "name":"MST_SPHERES_36100_NAME",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":390000,
+        "name":"MST_ARENARANKS_40_NAME",
+        "rank number":40,
+        "rewards":[
+            {
+                "id":36200,
+                "name":"MST_SPHERES_36200_NAME",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":414000,
+        "name":"MST_ARENARANKS_41_NAME",
+        "rank number":41,
+        "rewards":[
+            {
+                "quantity":3,
+                "type":"gem(s)"
+            }
+        ],
+        "text file":"arena13.txt"
+    },
+    {
+        "ABP required":439000,
+        "name":"MST_ARENARANKS_42_NAME",
+        "rank number":42,
+        "rewards":[
+            {
+                "id":36401,
+                "name":"MST_SPHERES_36401_NAME",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":464000,
+        "name":"MST_ARENARANKS_43_NAME",
+        "rank number":43,
+        "rewards":[
+            {
+                "id":34808,
+                "name":"MST_SPHERES_34808_NAME",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":490000,
+        "name":"MST_ARENARANKS_44_NAME",
+        "rank number":44,
+        "rewards":[
+            {
+                "id":36800,
+                "name":"MST_SPHERES_36800_NAME",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":516000,
+        "name":"MST_ARENARANKS_45_NAME",
+        "rank number":45,
+        "rewards":[
+            {
+                "quantity":3,
+                "type":"gem(s)"
+            }
+        ],
+        "text file":"arena14.txt"
+    },
+    {
+        "ABP required":542000,
+        "name":"MST_ARENARANKS_46_NAME",
+        "rank number":46,
+        "rewards":[
+            {
+                "id":36900,
+                "name":"MST_SPHERES_36900_NAME",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":568000,
+        "name":"MST_ARENARANKS_47_NAME",
+        "rank number":47,
+        "rewards":[
+            {
+                "id":37000,
+                "name":"MST_SPHERES_37000_NAME",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":595000,
+        "name":"MST_ARENARANKS_48_NAME",
+        "rank number":48,
+        "rewards":[
+            {
+                "id":37100,
+                "name":"MST_SPHERES_37100_NAME",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":622000,
+        "name":"MST_ARENARANKS_49_NAME",
+        "rank number":49,
+        "rewards":[
+            {
+                "quantity":3,
+                "type":"gem(s)"
+            }
+        ],
+        "text file":"arena15.txt"
+    },
+    {
+        "ABP required":649000,
+        "name":"MST_ARENARANKS_50_NAME",
+        "rank number":50,
+        "rewards":[
+            {
+                "id":37200,
+                "name":"MST_SPHERES_37200_NAME",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":676000,
+        "name":"MST_ARENARANKS_51_NAME",
+        "rank number":51,
+        "rewards":[
+            {
+                "id":37300,
+                "name":"MST_SPHERES_37300_NAME",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":704000,
+        "name":"MST_ARENARANKS_52_NAME",
+        "rank number":52,
+        "rewards":[
+            {
+                "id":37400,
+                "name":"MST_SPHERES_37400_NAME",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":735000,
+        "name":"MST_ARENARANKS_53_NAME",
+        "rank number":53,
+        "rewards":[
+            {
+                "quantity":3,
+                "type":"gem(s)"
+            }
+        ],
+        "text file":"arena16.txt"
+    },
+    {
+        "ABP required":767000,
+        "name":"MST_ARENARANKS_54_NAME",
+        "rank number":54,
+        "rewards":[
+            {
+                "id":40500,
+                "name":"MST_SPHERES_40500_NAME",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":800000,
+        "name":"MST_ARENARANKS_55_NAME",
+        "rank number":55,
+        "rewards":[
+            {
+                "id":41100,
+                "name":"MST_SPHERES_41100_NAME",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":835000,
+        "name":"MST_ARENARANKS_56_NAME",
+        "rank number":56,
+        "rewards":[
+            {
+                "id":41300,
+                "name":"MST_SPHERES_41300_NAME",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":871000,
+        "name":"MST_ARENARANKS_57_NAME",
+        "rank number":57,
+        "rewards":[
+            {
+                "quantity":3,
+                "type":"gem(s)"
+            }
+        ],
+        "text file":"arena17.txt"
+    },
+    {
+        "ABP required":908000,
+        "name":"MST_ARENARANKS_58_NAME",
+        "rank number":58,
+        "rewards":[
+            {
+                "id":40300,
+                "name":"MST_SPHERES_40300_NAME",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":946000,
+        "name":"MST_ARENARANKS_59_NAME",
+        "rank number":59,
+        "rewards":[
+            {
+                "id":41200,
+                "name":"MST_SPHERES_41200_NAME",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":986000,
+        "name":"MST_ARENARANKS_60_NAME",
+        "rank number":60,
+        "rewards":[
+            {
+                "id":40700,
+                "name":"MST_SPHERES_40700_NAME",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":1027000,
+        "name":"MST_ARENARANKS_61_NAME",
+        "rank number":61,
+        "rewards":[
+            {
+                "quantity":3,
+                "type":"gem(s)"
+            }
+        ],
+        "text file":"arena18.txt"
+    },
+    {
+        "ABP required":1069000,
+        "name":"MST_ARENARANKS_62_NAME",
+        "rank number":62,
+        "rewards":[
+            {
+                "id":40800,
+                "name":"MST_SPHERES_40800_NAME",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":1112000,
+        "name":"MST_ARENARANKS_63_NAME",
+        "rank number":63,
+        "rewards":[
+            {
+                "id":40200,
+                "name":"MST_SPHERES_40200_NAME",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":1157000,
+        "name":"MST_ARENARANKS_64_NAME",
+        "rank number":64,
+        "rewards":[
+            {
+                "id":38601,
+                "name":"MST_SPHERES_38601_NAME",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":1203000,
+        "name":"MST_ARENARANKS_65_NAME",
+        "rank number":65,
+        "rewards":[
+            {
+                "quantity":3,
+                "type":"gem(s)"
+            }
+        ],
+        "text file":"arena19.txt"
+    },
+    {
+        "ABP required":1250000,
+        "name":"MST_ARENARANKS_66_NAME",
+        "rank number":66,
+        "rewards":[
+            {
+                "id":41000,
+                "name":"MST_SPHERES_41000_NAME",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":1300000,
+        "name":"MST_ARENARANKS_67_NAME",
+        "rank number":67,
+        "rewards":[
+            {
+                "id":40900,
+                "name":"MST_SPHERES_40900_NAME",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":1400000,
+        "name":"MST_ARENARANKS_68_NAME",
+        "rank number":68,
+        "rewards":[
+            {
+                "id":40400,
+                "name":"MST_SPHERES_40400_NAME",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":1451000,
+        "name":"MST_ARENARANKS_69_NAME",
+        "rank number":69,
+        "rewards":[
+            {
+                "quantity":3,
+                "type":"gem(s)"
+            }
+        ],
+        "text file":"arena20.txt"
+    },
+    {
+        "ABP required":1503000,
+        "name":"MST_ARENARANKS_70_NAME",
+        "rank number":70,
+        "rewards":[
+            {
+                "id":43000,
+                "name":"MST_SPHERES_43000_NAME",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":1556000,
+        "name":"MST_ARENARANKS_71_NAME",
+        "rank number":71,
+        "rewards":[
+            {
+                "id":42500,
+                "name":"MST_SPHERES_42500_NAME",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":1611000,
+        "name":"MST_ARENARANKS_72_NAME",
+        "rank number":72,
+        "rewards":[
+            {
+                "id":42000,
+                "name":"MST_SPHERES_42000_NAME",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":1667000,
+        "name":"MST_ARENARANKS_73_NAME",
+        "rank number":73,
+        "rewards":[
+            {
+                "quantity":3,
+                "type":"gem(s)"
+            }
+        ],
+        "text file":"arena21.txt"
+    },
+    {
+        "ABP required":1724000,
+        "name":"MST_ARENARANKS_74_NAME",
+        "rank number":74,
+        "rewards":[
+            {
+                "id":42400,
+                "name":"MST_SPHERES_42400_NAME",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":1782000,
+        "name":"MST_ARENARANKS_75_NAME",
+        "rank number":75,
+        "rewards":[
+            {
+                "id":42700,
+                "name":"MST_SPHERES_42700_NAME",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":1842000,
+        "name":"MST_ARENARANKS_76_NAME",
+        "rank number":76,
+        "rewards":[
+            {
+                "id":42800,
+                "name":"MST_SPHERES_42800_NAME",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":1903000,
+        "name":"MST_ARENARANKS_77_NAME",
+        "rank number":77,
+        "rewards":[
+            {
+                "quantity":3,
+                "type":"gem(s)"
+            }
+        ],
+        "text file":"arena22.txt"
+    },
+    {
+        "ABP required":1965000,
+        "name":"MST_ARENARANKS_78_NAME",
+        "rank number":78,
+        "rewards":[
+            {
+                "id":42200,
+                "name":"MST_SPHERES_42200_NAME",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":2028000,
+        "name":"MST_ARENARANKS_79_NAME",
+        "rank number":79,
+        "rewards":[
+            {
+                "id":42600,
+                "name":"MST_SPHERES_42600_NAME",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":2093000,
+        "name":"MST_ARENARANKS_80_NAME",
+        "rank number":80,
+        "rewards":[
+            {
+                "id":42300,
+                "name":"MST_SPHERES_42300_NAME",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":2159000,
+        "name":"MST_ARENARANKS_81_NAME",
+        "rank number":81,
+        "rewards":[
+            {
+                "quantity":3,
+                "type":"gem(s)"
+            }
+        ],
+        "text file":"arena23.txt"
+    },
+    {
+        "ABP required":2226000,
+        "name":"MST_ARENARANKS_82_NAME",
+        "rank number":82,
+        "rewards":[
+            {
+                "id":42100,
+                "name":"MST_SPHERES_42100_NAME",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":2294000,
+        "name":"MST_ARENARANKS_83_NAME",
+        "rank number":83,
+        "rewards":[
+            {
+                "id":42900,
+                "name":"MST_SPHERES_42900_NAME",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":2400000,
+        "name":"MST_ARENARANKS_84_NAME",
+        "rank number":84,
+        "rewards":[
+            {
+                "id":43100,
+                "name":"MST_SPHERES_43100_NAME",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":2472000,
+        "name":"MST_ARENARANKS_85_NAME",
+        "rank number":85,
+        "rewards":[
+            {
+                "quantity":5,
+                "type":"gem(s)"
+            }
+        ],
+        "text file":"arena24.txt"
+    },
+    {
+        "ABP required":2547000,
+        "name":"MST_ARENARANKS_86_NAME",
+        "rank number":86,
+        "rewards":[
+            {
+                "id":46900,
+                "name":"MST_SPHERES_46900_NAME",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":2625000,
+        "name":"MST_ARENARANKS_87_NAME",
+        "rank number":87,
+        "rewards":[
+            {
+                "id":46700,
+                "name":"MST_SPHERES_46700_NAME",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":2706000,
+        "name":"MST_ARENARANKS_88_NAME",
+        "rank number":88,
+        "rewards":[
+            {
+                "id":46500,
+                "name":"MST_SPHERES_46500_NAME",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":2792000,
+        "name":"MST_ARENARANKS_89_NAME",
+        "rank number":89,
+        "rewards":[
+            {
+                "quantity":5,
+                "type":"gem(s)"
+            }
+        ],
+        "text file":"arena25.txt"
+    },
+    {
+        "ABP required":2883000,
+        "name":"MST_ARENARANKS_90_NAME",
+        "rank number":90,
+        "rewards":[
+            {
+                "id":46100,
+                "name":"MST_SPHERES_46100_NAME",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":2979000,
+        "name":"MST_ARENARANKS_91_NAME",
+        "rank number":91,
+        "rewards":[
+            {
+                "id":46800,
+                "name":"MST_SPHERES_46800_NAME",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":3080000,
+        "name":"MST_ARENARANKS_92_NAME",
+        "rank number":92,
+        "rewards":[
+            {
+                "id":47000,
+                "name":"MST_SPHERES_47000_NAME",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":3188000,
+        "name":"MST_ARENARANKS_93_NAME",
+        "rank number":93,
+        "rewards":[
+            {
+                "quantity":5,
+                "type":"gem(s)"
+            }
+        ],
+        "text file":"arena26.txt"
+    },
+    {
+        "ABP required":3303000,
+        "name":"MST_ARENARANKS_94_NAME",
+        "rank number":94,
+        "rewards":[
+            {
+                "id":46000,
+                "name":"MST_SPHERES_46000_NAME",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":3425000,
+        "name":"MST_ARENARANKS_95_NAME",
+        "rank number":95,
+        "rewards":[
+            {
+                "id":46300,
+                "name":"MST_SPHERES_46300_NAME",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":3554000,
+        "name":"MST_ARENARANKS_96_NAME",
+        "rank number":96,
+        "rewards":[
+            {
+                "id":46200,
+                "name":"MST_SPHERES_46200_NAME",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":3692000,
+        "name":"MST_ARENARANKS_97_NAME",
+        "rank number":97,
+        "rewards":[
+            {
+                "quantity":5,
+                "type":"gem(s)"
+            }
+        ],
+        "text file":"arena27.txt"
+    },
+    {
+        "ABP required":3840000,
+        "name":"MST_ARENARANKS_98_NAME",
+        "rank number":98,
+        "rewards":[
+            {
+                "id":46600,
+                "name":"MST_SPHERES_46600_NAME",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":4000000,
+        "name":"MST_ARENARANKS_99_NAME",
+        "rank number":99,
+        "rewards":[
+            {
+                "id":46400,
+                "name":"MST_SPHERES_46400_NAME",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":4200000,
+        "name":"MST_ARENARANKS_100_NAME",
+        "rank number":100,
+        "rewards":[
+            {
+                "id":47100,
+                "name":"MST_SPHERES_47100_NAME",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    },
+    {
+        "ABP required":4200500,
+        "name":"MST_ARENARANKS_101_NAME",
+        "rank number":101,
+        "rewards":[
+            {
+                "id":47400,
+                "name":"MST_SPHERES_47400_NAME",
+                "quantity":1,
+                "type":"sphere"
+            }
+        ],
+        "text file":""
+    }
+]
