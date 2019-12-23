@@ -12057,5 +12057,17 @@
         "short desc":"Get a Winter Mystery Chest on every odd number summon and a Super Winter Mystery Chest every 10 summons!",
         "start time":"2019-12-23 15:00:00",
         "summon button image":"gacha_rare_summons_btn1.png"
+    },
+    "18130":{
+        "background image":"gacha_img_20191223AS_s1.png",
+        "desc":"From 23 Dec 7:00 PST ~ 10 Jan 6:59 PST, summon minimum 5\u0081\u009a Global exclusive units with Omni Potential and enjoy Increased Rates with each summon on Armaiti and Post-Kranus unit pool, up to the 10th Summon! The gate will reset after every 10th Step!",
+        "door image":"gacha_rare_door.png",
+        "end time":"2020-01-10 14:59:59",
+        "gem cost":5,
+        "name":"Aurora Summon",
+        "priority":"2",
+        "short desc":"Armaiti is available through the Summon Gate! Along with increased rates for Post-Kranus unit pool! Summon with Aurora Ticket now!",
+        "start time":"2019-12-23 15:00:00",
+        "summon button image":"gacha_rare_summons_btn1.png"
     }
 }

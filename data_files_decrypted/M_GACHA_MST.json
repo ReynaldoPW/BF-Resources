@@ -21103,5 +21103,26 @@
         "SUMMON_GATE_NAME":"Winter Gem Summon",
         "gVSj32QH":"",
         "v9TR3cDz":""
+    },
+    {
+        "2HY3jpgu":"",
+        "3-4*_SUMMON_BOOLEAN???":"0",
+        "AI_PRIORITY":"2",
+        "AVAILABILITY_TIME_END":"2020-01-10 14:59:59",
+        "AVAILABILITY_TIME_START/AMOUNT_REQUIRED":"2019-12-23 15:00:00",
+        "BACKGROUND_IMAGE":"gacha_img_20191223AS_s1.png",
+        "DESCRIPTION":"",
+        "DOOR_IMAGE":"gacha_rare_door.png",
+        "GEM_COST":"5",
+        "HONOR_POINTS":"0",
+        "S1oz60Hc":"2",
+        "SUMMON_BUTTOM_IMAGE":"gacha_rare_summons_btn1.png",
+        "SUMMON_GATE_BASIC_ID?":"1249",
+        "SUMMON_GATE_DESCRIPTION_A":"<center>From <color=255:102:60>23 Dec 7:00 PST ~ 10 Jan 6:59 PST<\\/color>,<br>summon minimum <color=255:255:0>5\u0081\u009a<\\/color> Global exclusive units with <color=0:255:0>Omni Potential<\\/color> and enjoy <color=0:255:0>Increased Rates with each summon<\\/color> on <color=0:255:0>Armaiti<\\/color> and Post-<color=128:0:128>Kranus<\\/color> unit pool, up to the 10th Summon! The gate will reset after every 10th Step!<center>",
+        "SUMMON_GATE_DESCRIPTION_B":"<center><color=0:255:0>Armaiti<\\/color> is available through the Summon Gate!<br>Along with increased rates for Post-<color=128:0:128>Kranus<\\/color> unit pool! Summon with <color=0:96:255>Aurora Ticket<\\/color> now!<center>",
+        "SUMMON_GATE_ID":"18130",
+        "SUMMON_GATE_NAME":"Aurora Summon",
+        "gVSj32QH":"",
+        "v9TR3cDz":""
     }
 ]
