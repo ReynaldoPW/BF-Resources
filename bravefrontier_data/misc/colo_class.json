@@ -1,0 +1,26 @@
+{
+    "1":{
+        "banner":"banner_event20140703_1.jpg",
+        "cost":"999",
+        "desc":"MST_COLOSSEUM_CLASS_1_DESC",
+        "name":"MST_COLOSSEUM_CLASS_1_NAME"
+    },
+    "2":{
+        "banner":"banner_event20140703_1.jpg",
+        "cost":"54",
+        "desc":"MST_COLOSSEUM_CLASS_2_DESC",
+        "name":"MST_COLOSSEUM_CLASS_2_NAME"
+    },
+    "3":{
+        "banner":"banner_event20140703_1.jpg",
+        "cost":"50",
+        "desc":"MST_COLOSSEUM_CLASS_3_DESC",
+        "name":"MST_COLOSSEUM_CLASS_3_NAME"
+    },
+    "4":{
+        "banner":"banner_event20140703_1.jpg",
+        "cost":"45",
+        "desc":"MST_COLOSSEUM_CLASS_4_DESC",
+        "name":"MST_COLOSSEUM_CLASS_4_NAME"
+    }
+}

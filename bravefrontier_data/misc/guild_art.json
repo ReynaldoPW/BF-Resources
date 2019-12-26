@@ -1,0 +1,78 @@
+{
+    "1":{
+        "guild level required":1,
+        "image":"insignia_01.png"
+    },
+    "2":{
+        "guild level required":1,
+        "image":"insignia_02.png"
+    },
+    "3":{
+        "guild level required":1,
+        "image":"insignia_03.png"
+    },
+    "4":{
+        "guild level required":2,
+        "image":"insignia_04.png"
+    },
+    "5":{
+        "guild level required":3,
+        "image":"insignia_05.png"
+    },
+    "6":{
+        "guild level required":4,
+        "image":"insignia_06.png"
+    },
+    "7":{
+        "guild level required":5,
+        "image":"insignia_07.png"
+    },
+    "8":{
+        "guild level required":6,
+        "image":"insignia_08.png"
+    },
+    "9":{
+        "guild level required":8,
+        "image":"insignia_09.png"
+    },
+    "10":{
+        "guild level required":10,
+        "image":"insignia_10.png"
+    },
+    "11":{
+        "guild level required":15,
+        "image":"insignia_11.png"
+    },
+    "12":{
+        "guild level required":20,
+        "image":"insignia_12.png"
+    },
+    "13":{
+        "guild level required":25,
+        "image":"insignia_13.png"
+    },
+    "14":{
+        "guild level required":30,
+        "image":"insignia_14.png"
+    },
+    "15":{
+        "guild level required":40,
+        "image":"insignia_15.png"
+    },
+    "16":{
+        "guild level required":65,
+        "image":"insignia_16.png"
+    },
+    "17":{
+        "guild level required":90,
+        "image":"insignia_17.png"
+    },
+    "18":{
+        "guild level required":130,
+        "image":"insignia_18.png"
+    },
+    "19":{
+        "guild level required":170,
+        "image":"insignia_19.png"
+    }
+}
