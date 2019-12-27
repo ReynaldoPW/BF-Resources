@@ -128,7 +128,7 @@
         "moWQ30GH":"F_AREA_MST"
     },
     {
-        "d2RFtP8T":"0",
+        "d2RFtP8T":"644",
         "moWQ30GH":"F_DUNGEON_MST"
     },
     {

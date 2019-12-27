@@ -120,7 +120,7 @@ filenames={#'F_GUILD_POINT_EXCHANGE_MST': ['hR47gBvi','O3nEmUs2'],
            'F_LEADER_SKILL_MST':['4dE8UKcw','HGYZ1Ag5'], #31
            'F_UNIT_CGS_MST':['6rjmY7tV','Y7ezNyn2'], #130
            'F_RAID_BOSS_ROUTE_MST':['z7UiGPQ1','L4pBaT0q'], #121
-           #'F_DUNGEON_MST':['B57MJYoF','w5W8RPSG'], #64
+           'F_DUNGEON_MST':['B57MJYoF','w5W8RPSG'], #64
            'F_COLOSSEUM_EXTRA_RULE_MST':['P6QeyAS5','4FEhdoA8'], #75
            'F_RESOURCE_BASE_MST':['a4M4dh1i','kIj2n6s5'],
            'F_HELP_DETAIL_MST':['EwQ0S5cX','8HG9C1nw'], #25
