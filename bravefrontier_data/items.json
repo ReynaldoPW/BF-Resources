@@ -6678,8 +6678,8 @@
         "desc":"MST_ITEMS_BATTLEITEMS_13381_SHORTDESCRIPTION",
         "effects":[
             {
-                "params":"100,0",
-                "proc id":"33"
+                "params":"",
+                "proc id":"0"
             }
         ],
         "from raid":"false",
@@ -6700,8 +6700,8 @@
         "desc":"MST_ITEMS_BATTLEITEMS_13382_SHORTDESCRIPTION",
         "effects":[
             {
-                "params":"100,0,0",
-                "proc id":"49"
+                "params":"",
+                "proc id":"0"
             }
         ],
         "from raid":"false",
@@ -6722,8 +6722,8 @@
         "desc":"MST_ITEMS_BATTLEITEMS_13383_SHORTDESCRIPTION",
         "effects":[
             {
-                "params":"100",
-                "proc id":"12"
+                "params":"",
+                "proc id":"0"
             }
         ],
         "from raid":"false",
@@ -6744,8 +6744,8 @@
         "desc":"MST_ITEMS_BATTLEITEMS_13384_SHORTDESCRIPTION",
         "effects":[
             {
-                "params":"0,500,0,0,0,3,0",
-                "proc id":"5"
+                "params":"",
+                "proc id":"0"
             }
         ],
         "from raid":"false",
