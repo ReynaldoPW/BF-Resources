@@ -12096,25 +12096,25 @@
     },
     "18160":{
         "background image":"gacha_img_20191226WB.png",
-        "desc":"From 26 Dec 7:00 PST ~ 2 Jan 6:59 PST, summon minimum 5* Global exclusive units with Omni Potential and enjoy Increased Rates on Annette, Silvie, Zeruiah and Bealfyr!",
+        "desc":"From 26 Dec 7:00 PST ~ 2 Jan 6:59 PST, summon minimum 5* Global exclusive units with Omni Potential and enjoy Increased Rates on Annette, Silvie, Zeruiah and Baelfyr!",
         "door image":"gacha_rare_door.png",
         "end time":"2020-01-02 14:59:59",
         "gem cost":5,
         "name":"Winter Bond Summon",
         "priority":"2",
-        "short desc":"Annette, Silvie, Zeruiah and Bealfyr are available with Increased Rates through the Summon Gate! ",
+        "short desc":"Annette, Silvie, Zeruiah and Baelfyr are available with Increased Rates through the Summon Gate! ",
         "start time":"2019-12-26 15:00:00",
         "summon button image":"gacha_rare_summons_btn1.png"
     },
     "18170":{
         "background image":"gacha_img_20191226WA.png",
-        "desc":"From 26 Dec 7:00 PST ~ 2 Jan 6:59 PST, get a 100% Chance to summon Annette, Silvie, Zeruiah or Bealfyr! Get a bonus Summon Ticket on the 4th Summon and 2 Dual Brave Burst Tokens on every Summon!",
+        "desc":"From 26 Dec 7:00 PST ~ 2 Jan 6:59 PST, get a 100% Chance to summon Annette, Silvie, Zeruiah or Baelfyr! Get a bonus Summon Ticket on the 4th Summon and 2 Dual Brave Burst Tokens on every Summon!",
         "door image":"gacha_rare_door.png",
         "end time":"2020-01-02 14:59:59",
         "gem cost":5,
         "name":"Winter Awaken Summon",
         "priority":"2",
-        "short desc":"Get a 100% Chance to summon Annette, Silvie, Zeruiah or Bealfyr! Exchange DBB Potential Units from the Bazaar with the Dual Brave Burst Tokens!",
+        "short desc":"Get a 100% Chance to summon Annette, Silvie, Zeruiah or Baelfyr! Exchange DBB Potential Units from the Bazaar with the Dual Brave Burst Tokens!",
         "start time":"2019-12-26 15:00:00",
         "summon button image":"gacha_rare_summons_btn1.png"
     }
