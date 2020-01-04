@@ -29040,15 +29040,31 @@
         "rarity":7
     },
     "860818":{
-        "conditions":"1#0,0%0,0%0,0@1#0,0%0,0%0,0@1#0,0%0,0%0,0@1#0,0%0,0%0,0@1#0,0%0,0%0,0@1#0,0%0,0%0,0",
+        "conditions":"1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0",
         "desc":"MST_EXTRAPASSIVESKILL_860818_DESCRIPTION",
         "effects":[
             {
-                "atk% buff":30,
-                "def% buff":30,
-                "hp% buff":30,
-                "passive id":"1",
-                "rec% buff":30
+                "dmg% for spark":25,
+                "passive id":"31"
+            },
+            {
+                "ignore def%":100,
+                "passive id":"29"
+            },
+            {
+                "atk% extra buff based on hp":100,
+                "buff proportional to hp":"remaining",
+                "def% extra buff based on hp":100,
+                "passive id":"46",
+                "rec% extra buff based on hp":100
+            },
+            {
+                "dmg% for spark":100,
+                "passive id":"31"
+            },
+            {
+                "params":"100,100,100,100,100,100,100,100,100",
+                "passive id":"73"
             }
         ],
         "id":"860818",

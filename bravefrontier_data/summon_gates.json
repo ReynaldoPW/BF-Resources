@@ -12036,7 +12036,7 @@
     },
     "18110":{
         "background image":"gacha_img_20191223A_s1.png",
-        "desc":"From 23 Dec 7:00 PST ~ 8 Jan 6:59 PST, summon minimum 5\u0081\u009a Global exclusive units with Omni Potential and enjoy Increased Rates with each summon on Armaiti up to the 8th Summon!",
+        "desc":"From 23 Dec 7:00 PST ~ 8 Jan 6:59 PST, summon minimum 5*\u0081\u009a Global exclusive units with Omni Potential and enjoy Increased Rates with each summon on Armaiti up to the 8th Summon!",
         "door image":"gacha_rare_door.png",
         "end time":"2018-01-08 14:59:59",
         "gem cost":5,
@@ -12048,7 +12048,7 @@
     },
     "18120":{
         "background image":"WinterGemSummon_gacha_oddstep.png",
-        "desc":"From 23 Dec 7:00 PST ~ 8 Jan 6:59 PST, summon minimum 5\u0081\u009a Global exclusive units with Omni Potential and enjoy Increased Rates on Armaiti and Annette! Get a Winter Mystery Chest on every odd number summon and a Super Winter Mystery Chest every 10 summons!",
+        "desc":"From 23 Dec 7:00 PST ~ 8 Jan 6:59 PST, summon minimum 5*\u0081\u009a Global exclusive units with Omni Potential and enjoy Increased Rates on Armaiti and Annette! Get a Winter Mystery Chest on every odd number summon and a Super Winter Mystery Chest every 10 summons!",
         "door image":"gacha_rare_door.png",
         "end time":"2018-01-08 14:59:59",
         "gem cost":5,
@@ -12060,7 +12060,7 @@
     },
     "18130":{
         "background image":"gacha_img_20191223AS_s1.png",
-        "desc":"From 23 Dec 7:00 PST ~ 10 Jan 6:59 PST, summon minimum 5\u0081\u009a Global exclusive units with Omni Potential and enjoy Increased Rates with each summon on Armaiti and Post-Kranus unit pool, up to the 10th Summon! The gate will reset after every 10th Step!",
+        "desc":"From 23 Dec 7:00 PST ~ 10 Jan 6:59 PST, summon minimum 5*\u0081\u009a Global exclusive units with Omni Potential and enjoy Increased Rates with each summon on Armaiti and Post-Kranus unit pool, up to the 10th Summon! The gate will reset after every 10th Step!",
         "door image":"gacha_rare_door.png",
         "end time":"2020-01-10 14:59:59",
         "gem cost":5,
@@ -12072,7 +12072,7 @@
     },
     "18140":{
         "background image":"WinterGemSummon_gacha_oddstep.png",
-        "desc":"From 23 Dec 7:00 PST ~ 8 Jan 6:59 PST, summon minimum 5\u0081\u009a Global exclusive units with Omni Potential and enjoy Increased Rates on Armaiti and Annette! Get a Winter Mystery Chest on every odd number summon and a Super Winter Mystery Chest every 10 summons!",
+        "desc":"From 23 Dec 7:00 PST ~ 8 Jan 6:59 PST, summon minimum 5*\u0081\u009a Global exclusive units with Omni Potential and enjoy Increased Rates on Armaiti and Annette! Get a Winter Mystery Chest on every odd number summon and a Super Winter Mystery Chest every 10 summons!",
         "door image":"gacha_rare_door.png",
         "end time":"2020-01-08 14:59:59",
         "gem cost":5,
@@ -12084,7 +12084,7 @@
     },
     "18150":{
         "background image":"gacha_img_20191223A_s1.png",
-        "desc":"From 23 Dec 7:00 PST ~ 8 Jan 6:59 PST, summon minimum 5\u0081\u009a Global exclusive units with Omni Potential and enjoy Increased Rates with each summon on Armaiti up to the 8th Summon!",
+        "desc":"From 23 Dec 7:00 PST ~ 8 Jan 6:59 PST, summon minimum 5*\u0081\u009a Global exclusive units with Omni Potential and enjoy Increased Rates with each summon on Armaiti up to the 8th Summon!",
         "door image":"gacha_rare_door.png",
         "end time":"2020-01-08 14:59:59",
         "gem cost":5,
@@ -12116,6 +12116,30 @@
         "priority":"2",
         "short desc":"Get a 100% Chance to summon Annette, Silvie, Zeruiah or Baelfyr! Exchange DBB Potential Units from the Bazaar with the Dual Brave Burst Tokens!",
         "start time":"2019-12-26 15:00:00",
+        "summon button image":"gacha_rare_summons_btn1.png"
+    },
+    "18180":{
+        "background image":"NewYearGemSummon_gacha_oddstep.png",
+        "desc":"From 2 Jan 7:00 PST ~ 15 Jan 6:59 PST, summon minimum 5* Global exclusive units with Omni Potential and enjoy Increased Rates on Vohu and Kagiya! Get a Winter Mystery Chest on every odd number summon and a Super Winter Mystery Chest every 10 summons!",
+        "door image":"gacha_rare_door.png",
+        "end time":"2020-01-15 14:59:59",
+        "gem cost":5,
+        "name":"New Year Gem Summon",
+        "priority":"2",
+        "short desc":"Get a Winter Mystery Chest on every odd number summon and a Super Winter Mystery Chest every 10 summons!",
+        "start time":"2020-01-02 15:00:00",
+        "summon button image":"gacha_rare_summons_btn1.png"
+    },
+    "18190":{
+        "background image":"gacha_img_20200102V_s1.png",
+        "desc":"From 2 Jan 7:00 PST ~ 15 Jan 6:59 PST, summon minimum 5* Global exclusive units with Omni Potential and enjoy Increased Rates with each summon on Vohu up to the 8th Summon!",
+        "door image":"gacha_rare_door.png",
+        "end time":"2020-01-15 14:59:59",
+        "gem cost":5,
+        "name":"New Year Summon",
+        "priority":"2",
+        "short desc":"Vohu is available through the Summon Gate! Get a Global Exclusive Elgif for every 10 Summons from the same gate!",
+        "start time":"2020-01-02 15:00:00",
         "summon button image":"gacha_rare_summons_btn1.png"
     }
 }

@@ -22123,6 +22123,83 @@
     {
         "DESCRIPTION":"",
         "EFFECT_AREA*":"1",
+        "LEVEL":"2",
+        "PROC/PASSIVE_ID(S)":"1",
+        "PROC/PASSIVE_PARAMETERS":"130,0,0,0,130",
+        "SP_ID":"1010700054",
+        "SP_NAME":"130% Atk, max HP",
+        "SP_NEED_BP":"10",
+        "SP_SERIES":"1010700054"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
+        "LEVEL":"1",
+        "PROC/PASSIVE_ID(S)":"66",
+        "PROC/PASSIVE_PARAMETERS":"70002,0.25&2&0&0&0&0&0&0&0,1,2,0,1,0,0",
+        "SP_ID":"1010700055",
+        "SP_NAME":"Add to BB (25% Chance to Cast Double BB\\/SBB\\/UBB (ALL) 2Turns)",
+        "SP_NEED_BP":"25",
+        "SP_SERIES":"1010700055"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
+        "LEVEL":"4",
+        "PROC/PASSIVE_ID(S)":"66",
+        "PROC/PASSIVE_PARAMETERS":"67,300&400&100&3&0,1,2,0,0,1,0",
+        "SP_ID":"1010700056",
+        "SP_NAME":"Add to SBB (100% Chance 3-4 BC Fill on Spark (ALL) 3Turns)",
+        "SP_NEED_BP":"25",
+        "SP_SERIES":"1010700056"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
+        "LEVEL":"5",
+        "PROC/PASSIVE_ID(S)":"66",
+        "PROC/PASSIVE_PARAMETERS":"132,30&30&75&75&2&0,2,2,0,0,1,0",
+        "SP_ID":"1010700057",
+        "SP_NAME":"Add to SBB (75% Chance 30% EWD Vuln (ALL) 2Turns \\/ 75% Chance 30% CRIT DMG Vuln (ALL) 2Turns)",
+        "SP_NEED_BP":"20",
+        "SP_SERIES":"1010700057"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
+        "LEVEL":"5",
+        "PROC/PASSIVE_ID(S)":"66",
+        "PROC/PASSIVE_PARAMETERS":"5,0&220&220&220&60&3&0,1,2,0,1,1,0",
+        "SP_ID":"1010700058",
+        "SP_NAME":"Add to BB\\/SBB (220% ATK+ 220% DEF+ 220% REC+ 60% CRIT+ (ALL) 3Turns)",
+        "SP_NEED_BP":"25",
+        "SP_SERIES":"1010700058"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1@1",
+        "LEVEL":"5",
+        "PROC/PASSIVE_ID(S)":"66@66",
+        "PROC/PASSIVE_PARAMETERS":"11,1&85&2&85&3&85&0&0&0,2,2,0,1,1,0@11,4&85&5&85&6&85&0&0&0,2,2,0,1,1,0",
+        "SP_ID":"1010700059",
+        "SP_NAME":"Add to BB\\/SBB (Inflict Ails+ (85% IWS 85% CPP))",
+        "SP_NEED_BP":"10",
+        "SP_SERIES":"1010700059"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1@1",
+        "LEVEL":"5",
+        "PROC/PASSIVE_ID(S)":"66@66",
+        "PROC/PASSIVE_PARAMETERS":"8,0&30&0,1,2,0,1,0,0@8,0&55&0,1,2,0,0,0,1",
+        "SP_ID":"1010700060",
+        "SP_NAME":"Add to BB (30% Max HP+ till Death\\/Battle End (ALL), UBB(55% Max HP+ till Death\\/Battle End (ALL)))",
+        "SP_NEED_BP":"25",
+        "SP_SERIES":"1010700060"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
         "LEVEL":"3",
         "PROC/PASSIVE_ID(S)":"31",
         "PROC/PASSIVE_PARAMETERS":"100,0,0,0,0,0",
