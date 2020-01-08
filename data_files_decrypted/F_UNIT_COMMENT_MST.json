@@ -13728,6 +13728,14 @@
         "fBg92Ki7":""
     },
     {
+        "DESCRIPTION":"One of the Summoners of Old from the Akras Summoners' Hall who has not necessarily ruled out marriage. As Grand Commander of the Demon Slayers, Seria rarely has the opportunity to fight in the frontlines anymore. However, she remains as powerful as ever, making appearances during special events at the Arena where she pulverizes the latest waves of champions, despite having officially reti255:0:0 from such competitions long ago. Incidentally, so many members of the Demon Slayers call themselves her apprentices that they could technically form their own division in Summoners' Hall. Both Seria and the Empire's Prime Minister are two of the most highly admi255:0:0 women in all the land.",
+        "UNIT_EVOLUTION_TEXT":"MST_UNITCOMMENT_810808_EVOLUTION",
+        "UNIT_FUSION_TEXT":"MST_UNITCOMMENT_810808_FUSION",
+        "UNIT_ID":"810808",
+        "UNIT_SUMMON_TEXT":"MST_UNITCOMMENT_810808_SUMMON",
+        "fBg92Ki7":""
+    },
+    {
         "DESCRIPTION":"MST_UNITCOMMENT_810827_DESCRIPTION",
         "UNIT_EVOLUTION_TEXT":"MST_UNITCOMMENT_810827_EVOLUTION",
         "UNIT_FUSION_TEXT":"MST_UNITCOMMENT_810827_FUSION",
@@ -14461,6 +14469,14 @@
         "UNIT_FUSION_TEXT":"MST_UNITCOMMENT_820758_FUSION",
         "UNIT_ID":"820758",
         "UNIT_SUMMON_TEXT":"MST_UNITCOMMENT_820758_SUMMON",
+        "fBg92Ki7":""
+    },
+    {
+        "DESCRIPTION":"One of the Summoners of Old from the Akras Summoners' Hall who can be caught seemingly reminiscing about a certain someone from time to time. As leader of the Summoners of Old as well as Summoners' Hall, Karl goes through great pains in order to ensure good diplomatic practices with the Empire, the Federation, and other regions, and thus very few have seen his abilities on the battlefield as of late. However, the truth is that his demon heritage has only served to make him even stronger over the years, which when pai255:0:0 with the combat skills he has maste255:0:0, currently make him the strongest warrior in all of Elgaia. It is safe to say that all Summoners there aspire to be just like him.",
+        "UNIT_EVOLUTION_TEXT":"MST_UNITCOMMENT_820808_EVOLUTION",
+        "UNIT_FUSION_TEXT":"MST_UNITCOMMENT_820808_FUSION",
+        "UNIT_ID":"820808",
+        "UNIT_SUMMON_TEXT":"MST_UNITCOMMENT_820808_SUMMON",
         "fBg92Ki7":""
     },
     {

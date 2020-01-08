@@ -41040,6 +41040,66 @@
         "EFFECT_AREA*":"2"
     },
     {
+        "1NijIP2a":"140",
+        "BATTLE_EFFECT_FILE":"effect_prt_1162.plist",
+        "BATTLE_EFFECT_ID":"8200242",
+        "EFFECT_AREA*":"2"
+    },
+    {
+        "1NijIP2a":"180",
+        "BATTLE_EFFECT_FILE":"effect_prt_521_2.plist",
+        "BATTLE_EFFECT_ID":"8200243",
+        "EFFECT_AREA*":"2"
+    },
+    {
+        "1NijIP2a":"170",
+        "BATTLE_EFFECT_FILE":"effect_prt_161_2.plist",
+        "BATTLE_EFFECT_ID":"8200244",
+        "EFFECT_AREA*":"2"
+    },
+    {
+        "1NijIP2a":"240",
+        "BATTLE_EFFECT_FILE":"effect_prt_161_2.plist",
+        "BATTLE_EFFECT_ID":"8200245",
+        "EFFECT_AREA*":"2"
+    },
+    {
+        "1NijIP2a":"150",
+        "BATTLE_EFFECT_FILE":"effect_prt_1060_red.plist",
+        "BATTLE_EFFECT_ID":"8200246",
+        "EFFECT_AREA*":"2"
+    },
+    {
+        "1NijIP2a":"120",
+        "BATTLE_EFFECT_FILE":"effect_prt_1053_green.plist",
+        "BATTLE_EFFECT_ID":"8200247",
+        "EFFECT_AREA*":"2"
+    },
+    {
+        "1NijIP2a":"180",
+        "BATTLE_EFFECT_FILE":"effect_prt_161_2.plist",
+        "BATTLE_EFFECT_ID":"8200248",
+        "EFFECT_AREA*":"2"
+    },
+    {
+        "1NijIP2a":"280",
+        "BATTLE_EFFECT_FILE":"effect_prt_522_2.plist",
+        "BATTLE_EFFECT_ID":"8200249",
+        "EFFECT_AREA*":"2"
+    },
+    {
+        "1NijIP2a":"180",
+        "BATTLE_EFFECT_FILE":"effect_prt_522_2.plist",
+        "BATTLE_EFFECT_ID":"8200250",
+        "EFFECT_AREA*":"2"
+    },
+    {
+        "1NijIP2a":"180",
+        "BATTLE_EFFECT_FILE":"effect_prt_1236.plist",
+        "BATTLE_EFFECT_ID":"8200251",
+        "EFFECT_AREA*":"2"
+    },
+    {
         "1NijIP2a":"100",
         "BATTLE_EFFECT_FILE":"810507BattleEffectDimBack.sam",
         "BATTLE_EFFECT_ID":"8300001",

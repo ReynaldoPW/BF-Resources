@@ -10008,6 +10008,15 @@
         "SP_CAT_ID":"100013"
     },
     {
+        "DESCRIPTION":"History of the Warmonger, Zaad.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"2",
+        "SCENARIO_ID":"10001303",
+        "SCENARIO_NAME":"The Warmonger",
+        "SCENARIO_TEXT_FILE":"BF2_03_Zaad.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"100013"
+    },
+    {
         "DESCRIPTION":"Aesys breaks through the undead siege of the city to offer aid to its divine-touched protectors.",
         "QUEST_MAP_NUMBER/GUIDE_ID":"1",
         "SCENARIO_ID":"100010001",

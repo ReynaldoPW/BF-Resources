@@ -26683,6 +26683,38 @@
         "id":"810798",
         "name":"MST_LEADERSKILLS_810798_NAME"
     },
+    "810808":{
+        "desc":"MST_LEADERSKILLS_810808_DESCRIPTION",
+        "effects":[
+            {
+                "atk% buff":140,
+                "def% buff":140,
+                "hp% buff":140,
+                "passive id":"1",
+                "rec% buff":140
+            },
+            {
+                "crit dmg%":250,
+                "passive id":"34"
+            },
+            {
+                "dmg% for spark":250,
+                "passive id":"31"
+            },
+            {
+                "passive id":"43",
+                "take 1 dmg%":20
+            },
+            {
+                "passive id":"49",
+                "reduced bc used chance%":100,
+                "reduced bc used% high":30,
+                "reduced bc used% low":25
+            }
+        ],
+        "id":"810808",
+        "name":"MST_LEADERSKILLS_810808_NAME"
+    },
     "810827":{
         "desc":"MST_LEADERSKILLS_810827_DESCRIPTION",
         "effects":[
@@ -28348,6 +28380,46 @@
         ],
         "id":"820758",
         "name":"MST_LEADERSKILLS_820758_NAME"
+    },
+    "820808":{
+        "desc":"MST_LEADERSKILLS_820808_DESCRIPTION",
+        "effects":[
+            {
+                "atk% buff":120,
+                "def% buff":120,
+                "hp% buff":120,
+                "passive id":"1",
+                "rec% buff":120
+            },
+            {
+                "elemental weakness dmg%":250,
+                "elements":[
+                    "water"
+                ],
+                "passive id":"50"
+            },
+            {
+                "bc fill per turn":10,
+                "passive id":"9"
+            },
+            {
+                "bc fill on spark high":3,
+                "bc fill on spark low":3,
+                "bc fill on spark%":300,
+                "passive id":"47"
+            },
+            {
+                "base crit chance resist%":100,
+                "base crit dmg resist%":100,
+                "base elemental damage resist%":100,
+                "buffed crit chance resist%":100,
+                "buffed crit dmg resist%":100,
+                "buffed elemental damage resist%":100,
+                "passive id":"53"
+            }
+        ],
+        "id":"820808",
+        "name":"MST_LEADERSKILLS_820808_NAME"
     },
     "820837":{
         "desc":"MST_LEADERSKILLS_820837_DESCRIPTION",

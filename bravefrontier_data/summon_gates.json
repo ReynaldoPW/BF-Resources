@@ -9347,16 +9347,16 @@
         "summon button image":"gacha_rare_summons_btn1.png"
     },
     "15850":{
-        "background image":"gacha_img_20191211L.png",
-        "desc":"From 18 Dec 0:00 PST onwards, summon 7* units from Kulyuk to Ewan and Regil to Roglizer Batch at a cost of 4 Gems!",
+        "background image":"gacha_img_20191211L_3G.png",
+        "desc":"From 11 Dec 0:00 PST to 18 Dec 0:00 PST, summon 7* units from Kulyuk to Ewan and Regil to Roglizer Batch at the discounted cost of 3 Gems!",
         "door image":"gacha_rare_door.png",
         "end time":"2022-11-28 14:59:59",
-        "gem cost":4,
+        "gem cost":3,
         "name":"Legendary Summon",
         "priority":"2",
-        "short desc":"Summon 7* units from Kulyuk to Ewan and Regil to Roglizer Batch!",
+        "short desc":"Summon 7* units from Kulyuk to Ewan and Regil to Roglizer Batch! SUMMON AT 3 GEMS ONLY FOR A LIMITED TIME!",
         "start time":"2018-11-29 08:00:00",
-        "summon button image":"gacha_rare_summons_btn1.png"
+        "summon button image":"reducedcost_summon_btn1.png"
     },
     "15860":{
         "background image":"gacha_img_20181201H.png",
@@ -11258,7 +11258,7 @@
         "background image":"gacha_img_20190918K_s1.png",
         "desc":"From 18 Sep 7:00 PST ~ 2 Oct 6:59 PST, summon minimum 5* units from Regil to Roglizer Batch and enjoy Increased Rates with each summon on Kassia up to the 8th Summon!",
         "door image":"gacha_rare_door.png",
-        "end time":"2019-10-02 14:59:59",
+        "end time":"2020-10-02 14:59:59",
         "gem cost":5,
         "name":"Vortex Arena Summon",
         "priority":"2",
@@ -11303,6 +11303,18 @@
         "summon button image":"gacha_rare_summons_btn1.png"
     },
     "17490":{
+        "background image":"gacha_img_20190925N_s1.png",
+        "desc":"From 8 Jan 7:00 PST ~ 22 Jan 6:59 PST, summon minimum 5* Global exclusive units with Omni Potential and enjoy Increased Rates with each summon on Noel up to the 8th Summon!",
+        "door image":"gacha_rare_door.png",
+        "end time":"2020-01-22 14:59:59",
+        "gem cost":5,
+        "name":"Heroes Across Time",
+        "priority":"2",
+        "short desc":"Noel is available through the Summon Gate! Get a Global Exclusive Elgif for every 10 Summons from the same gate!",
+        "start time":"2020-01-08 15:00:00",
+        "summon button image":"gacha_rare_summons_btn1.png"
+    },
+    "17491":{
         "background image":"gacha_img_20190925N_s1.png",
         "desc":"From 25 Sep 7:00 PST ~ 9 Oct 6:59 PST, summon minimum 5* units from Regil to Roglizer Batch and enjoy Increased Rates with each summon on Noel up to the 8th Summon!",
         "door image":"gacha_rare_door.png",
@@ -11639,6 +11651,18 @@
         "summon button image":"gacha_rare_summons_btn1.png"
     },
     "17780":{
+        "background image":"gacha_img_20191106P_s1.png",
+        "desc":"From 8 Jan 7:00 PST ~ 22 Jan 6:59 PST, summon minimum 5* Global exclusive units with Omni Potential and enjoy Increased Rates with each summon on Paris up to the 8th Summon!",
+        "door image":"gacha_rare_door.png",
+        "end time":"2020-01-22 14:59:59",
+        "gem cost":5,
+        "name":"Heroes Across Time II",
+        "priority":"2",
+        "short desc":"Paris is available through the Summon Gate! Get a Global Exclusive Elgif for every 10 Summons from the same gate!",
+        "start time":"2020-01-08 15:00:00",
+        "summon button image":"gacha_rare_summons_btn1.png"
+    },
+    "17781":{
         "background image":"gacha_img_20191106P_s1.png",
         "desc":"From 6 Nov 7:00 PST ~ 20 Nov 6:59 PST, summon minimum 5* Global exclusive units with Omni Potential and enjoy Increased Rates with each summon on Paris up to the 8th Summon!",
         "door image":"gacha_rare_door.png",
@@ -12140,6 +12164,30 @@
         "priority":"2",
         "short desc":"Vohu is available through the Summon Gate! Get a Global Exclusive Elgif for every 10 Summons from the same gate!",
         "start time":"2020-01-02 15:00:00",
+        "summon button image":"gacha_rare_summons_btn1.png"
+    },
+    "18210":{
+        "background image":"gacha_img_20200108S_s1.png",
+        "desc":"From 8 Jan 7:00 PST ~ 22 Jan 6:59 PST, summon minimum 5* Global exclusive units with Omni Potential and enjoy Increased Rates with each summon on Seria up to the 8th Summon!",
+        "door image":"gacha_rare_door.png",
+        "end time":"2019-01-22 14:59:59",
+        "gem cost":5,
+        "name":"Heroes Across Time III (Broke)",
+        "priority":"2",
+        "short desc":"Seria is available through the Summon Gate! Get a Global Exclusive Elgif for every 10 Summons from the same gate!",
+        "start time":"2020-01-08 15:00:00",
+        "summon button image":"gacha_rare_summons_btn1.png"
+    },
+    "18220":{
+        "background image":"gacha_img_20200108S_s1.png",
+        "desc":"From 8 Jan 7:00 PST ~ 22 Jan 6:59 PST, summon minimum 5* Global exclusive units with Omni Potential and enjoy Increased Rates with each summon on Seria up to the 8th Summon!",
+        "door image":"gacha_rare_door.png",
+        "end time":"2020-01-22 14:59:59",
+        "gem cost":5,
+        "name":"Heroes Across Time III",
+        "priority":"2",
+        "short desc":"Seria is available through the Summon Gate! Get a Global Exclusive Elgif for every 10 Summons from the same gate!",
+        "start time":"2020-01-08 15:00:00",
         "summon button image":"gacha_rare_summons_btn1.png"
     }
 }
