@@ -1,2 +1,4 @@
 
 bravefrontier_data/globalUnits.json
+*.py
+*.pyc
