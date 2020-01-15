@@ -32764,7 +32764,7 @@
         "desc":"MST_SPHERES_819163_SHORTDESCRIPTION",
         "effects":[
             {
-                "params":"30,30,30,0,0",
+                "params":"40,40,40,0,40",
                 "proc id":"1"
             },
             {
@@ -32776,16 +32776,12 @@
                 "proc id":"92"
             },
             {
-                "params":"100,100",
-                "proc id":"45"
+                "params":"100,100,100,100,100,100,0,0,0,0",
+                "proc id":"53"
             },
             {
                 "params":"50,50",
                 "proc id":"77"
-            },
-            {
-                "params":"0,0,100,100,0,0,0,0,0,0",
-                "proc id":"53"
             }
         ],
         "from raid":"false",
@@ -36967,6 +36963,88 @@
         "thumbnail":"sphere_thum_819272.png",
         "type":"sphere"
     },
+    "819273":{
+        "desc":"MST_SPHERES_819273_SHORTDESCRIPTION",
+        "effects":[
+            {
+                "params":"2,0,55,55,55,0,55",
+                "proc id":"2"
+            },
+            {
+                "params":"200,400,100",
+                "proc id":"25"
+            },
+            {
+                "params":"3000,5000,20",
+                "proc id":"33"
+            },
+            {
+                "params":"60,150",
+                "proc id":"100"
+            },
+            {
+                "params":"50,75,100",
+                "proc id":"26"
+            }
+        ],
+        "from raid":"false",
+        "guide id":"819273",
+        "id":"819273",
+        "lore":"A lightsteel belt sporting a horseshoe buckle belonging to Kahiki, one of the twelve creature candidates sent to the earthly realm to compete for the prized position of Emperor Yu's assistant.<br><br>Horse was the perfect mix of carefree spirit and energy, his mane trailing behind him as he chased the winds across the plains. Initially trapped by the vast expanse of blue surrounding the island he arrived on, a first encounter with a rolling wave soon replaced that trepidation with transcendence.",
+        "max equip":1,
+        "max stack":1,
+        "name":"MST_SPHERES_819273_NAME",
+        "rarity":6,
+        "sale caution":"true",
+        "sale price":30000,
+        "sphere type":"SPHERE_TYPE_NAME_9",
+        "target":"none",
+        "thumbnail":"sphere_thum_819273.png",
+        "type":"sphere"
+    },
+    "819274":{
+        "desc":"MST_SPHERES_819274_SHORTDESCRIPTION",
+        "effects":[
+            {
+                "params":"2,0,65,65,65,0,65",
+                "proc id":"2"
+            },
+            {
+                "params":"300,400,100",
+                "proc id":"25"
+            },
+            {
+                "params":"4000,6000,20",
+                "proc id":"33"
+            },
+            {
+                "params":"60,200",
+                "proc id":"100"
+            },
+            {
+                "params":"75,75,100",
+                "proc id":"26"
+            },
+            {
+                "params":"20",
+                "proc id":"43"
+            }
+        ],
+        "from raid":"false",
+        "guide id":"819274",
+        "id":"819274",
+        "lore":"The latest in lightsteel crafting technology, Kahiki's unique belt is as flexible as wind-driven waters, molding to the shape of its wearer's body as they soar against the sun. The celestial horse traded the call of the land for the song of the sea in his new island home.<br><br>Though scientific advancements had rapidly transformed the human world, a new wave of interest in culture spurred a movement to meld tradition with technology, igniting a search for man's inner spirituality. For Kahiki and the other soul surfers, that blissful zen existed along the sun-kissed sea and its rolling waves.",
+        "max equip":1,
+        "max stack":1,
+        "name":"MST_SPHERES_819274_NAME",
+        "rarity":7,
+        "sale caution":"true",
+        "sale price":30000,
+        "sphere type":"SPHERE_TYPE_NAME_9",
+        "target":"none",
+        "thumbnail":"sphere_thum_819274.png",
+        "type":"sphere"
+    },
     "819284":{
         "desc":"MST_SPHERES_819284_SHORTDESCRIPTION",
         "effects":[
@@ -37367,6 +37445,45 @@
         "sphere type":"SPHERE_TYPE_NAME_1",
         "target":"none",
         "thumbnail":"sphere_thum_819293.png",
+        "type":"sphere"
+    },
+    "819294":{
+        "desc":"MST_SPHERES_819294_SHORTDESCRIPTION",
+        "effects":[
+            {
+                "params":"45,45,45,0,45",
+                "proc id":"1"
+            },
+            {
+                "params":"1,2,3,4,5,6,0.75",
+                "proc id":"50"
+            },
+            {
+                "params":"25",
+                "proc id":"48"
+            },
+            {
+                "params":"2000",
+                "proc id":"9"
+            },
+            {
+                "params":"100,100,100,100,100,100,100,100,100",
+                "proc id":"73"
+            }
+        ],
+        "from raid":"false",
+        "guide id":"819294",
+        "id":"819294",
+        "lore":"Lance of the great Summoner of Old, Karl. This lance, with its noble edge, pulses with a quiet power even at rest.<br><br>Karl, the leader of the Summoners of Old, is a formidable warrior thanks to his demonic heritage and peerless combat skills. In a way, Lad Mirazh is an extension of that prowess.",
+        "max equip":1,
+        "max stack":1,
+        "name":"MST_SPHERES_819294_NAME",
+        "rarity":7,
+        "sale caution":"true",
+        "sale price":30000,
+        "sphere type":"SPHERE_TYPE_NAME_6",
+        "target":"none",
+        "thumbnail":"sphere_thum_819294.png",
         "type":"sphere"
     },
     "819901":{
@@ -43468,6 +43585,29 @@
         "sale price":1000,
         "target":"none",
         "thumbnail":"item_thum_805.png",
+        "type":"material"
+    },
+    "890061":{
+        "color":"yellow",
+        "desc":"MST_ITEMS_MATERIAL_890061_SHORTDESCRIPTION",
+        "effects":[
+            {
+                "params":"",
+                "proc id":"0"
+            }
+        ],
+        "from raid":"false",
+        "guide id":"8166",
+        "id":"890061",
+        "item type":"stone",
+        "lore":"MST_ITEMS_MATERIAL_890061_LONGDESCRIPTION",
+        "max stack":99,
+        "name":"MST_ITEMS_MATERIAL_890061_NAME",
+        "rarity":3,
+        "sale caution":"false",
+        "sale price":1000,
+        "target":"none",
+        "thumbnail":"item_thum_20810.png",
         "type":"material"
     },
     "899998":{
