@@ -2520,6 +2520,20 @@
         "gq73WFmj":""
     },
     {
+        "DESCRIPTION":"SP Dungeon",
+        "IMAGE":"area_sp.jpg",
+        "MAP_OPENING_TEXT_FILE":"0",
+        "MISSION_AREA":"800167",
+        "MISSION_IDS_REQUIRED":"0",
+        "QUEST_ALWAYS_EMPTY":"",
+        "QUEST_BANNER_IMG":"sp_quest_banner_800167.png",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"20200115",
+        "QUEST_ZONE_MAP_NUMBER":"99",
+        "QUEST_ZONE_NAME":"Battles of Brave Frontier 2",
+        "UNKNOWN_BOOLEAN_QUESTS":"1",
+        "gq73WFmj":""
+    },
+    {
         "DESCRIPTION":"",
         "IMAGE":"area_sp.jpg",
         "MAP_OPENING_TEXT_FILE":"0",
