@@ -12237,5 +12237,41 @@
         "short desc":"Guaranteed Featured Unit on 5th Summon! Get Drenched Ticket from Vortex Arena Summon Now!",
         "start time":"2020-01-15 15:00:00",
         "summon button image":"gacha_rare_summons_btn1.png"
+    },
+    "18270":{
+        "background image":"gacha_img_20200122WHS.png",
+        "desc":"From 22 Jan 7:00 PST ~ 19 Feb 6:59 PST, , use your World Heroes Selector Ticket to summon one of the World Heroes! Remember, this ticket is only valid till 19th Feb, so dont miss this chance to strengthen you squad!",
+        "door image":"gacha_rare_door.png",
+        "end time":"2020-02-19 14:59:59",
+        "gem cost":5,
+        "name":"World Heroes Unite ",
+        "priority":"2",
+        "short desc":"Here is your chance to strengthen your squad! Summon any one of the units from our World Heroes series!",
+        "start time":"2020-01-20 15:00:00",
+        "summon button image":"gacha_rare_summons_btn1.png"
+    },
+    "18280":{
+        "background image":"gacha_img_20200122WH_15G.png",
+        "desc":"From 22 Jan 7:00 PST ~ 5 Feb 6:59 PST, summon minimum 5* Global exclusive units with Omni Potential and enjoy Increased Rates on Ophiuchus, Gilgamesh and Utheria!",
+        "door image":"gacha_rare_door.png",
+        "end time":"2020-02-05 14:59:59",
+        "gem cost":5,
+        "name":"World Heroes Resummon",
+        "priority":"2",
+        "short desc":"Summon 3 units with Increased Rates on Ophiuchus, Gilgamesh and Utheria with option to Resummon 1!",
+        "start time":"2020-01-22 15:00:00",
+        "summon button image":"gacha_rare_summons_btn1.png"
+    },
+    "18290":{
+        "background image":"gacha_img_20200122Y_s1.png",
+        "desc":"From 22 Jan 7:00 PST ~ 5 Feb 6:59 PST, summon minimum 5* Global exclusive units with Omni Potential and enjoy Increased Rates with each summon on Yggdrasil up to the 8th Summon!",
+        "door image":"gacha_rare_door.png",
+        "end time":"2020-02-05 14:59:59",
+        "gem cost":5,
+        "name":"World Heroes Summon",
+        "priority":"2",
+        "short desc":"Yggdrasil is available through the Summon Gate! Get a Global Exclusive Elgif for every 10 Summons from the same gate!",
+        "start time":"2020-01-22 15:00:00",
+        "summon button image":"gacha_rare_summons_btn1.png"
     }
 }
