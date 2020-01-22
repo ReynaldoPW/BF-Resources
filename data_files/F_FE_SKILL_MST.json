@@ -20273,6 +20273,94 @@
         "yRlCNyvk":"Add to SBB (3Turns 50% Chance -60% Enemy ATK (ALL)\\/3Turns 50% Chance -60% DEF ATK (ALL))"
     },
     {
+        "2Smu5Mtq":"130,130,0,0,0",
+        "9PsmH7tz":"1010100189",
+        "D9wXQI2V":"2",
+        "G5wFDad6":"10",
+        "hjAy9St3":"1",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010100189",
+        "yRlCNyvk":"130% Atk, Def"
+    },
+    {
+        "2Smu5Mtq":"30,30,30,30,30,30",
+        "9PsmH7tz":"1010100190",
+        "D9wXQI2V":"2",
+        "G5wFDad6":"10",
+        "hjAy9St3":"71",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010100190",
+        "yRlCNyvk":"Inflict Ails when ATKed (30% IWS 30% CPP) (SELF) "
+    },
+    {
+        "2Smu5Mtq":"10019,60&147&71&0&0&0&0&0&0&80,1,1,0,1,0,0",
+        "9PsmH7tz":"1010100191",
+        "D9wXQI2V":"4",
+        "G5wFDad6":"20",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010100191",
+        "yRlCNyvk":"Add to BB (80% Chance Purge (LS Lock) 1 Random Ally \\/ 80% Chance Purge (ES Lock) 1 Random Ally \\/ 80% Chance Purge (DoT) 1 Random Ally)"
+    },
+    {
+        "2Smu5Mtq":"3,5000&6000&100&3&0,1,2,0,1,0,0",
+        "9PsmH7tz":"1010100192",
+        "D9wXQI2V":"3",
+        "G5wFDad6":"15",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010100192",
+        "yRlCNyvk":"Add to BB (Gradual Heal 5000-6000 + 20% REC (ALL) 3Turns)"
+    },
+    {
+        "2Smu5Mtq":"113,0&0&800&3&0,1,2,0,1,1,0",
+        "9PsmH7tz":"1010100193",
+        "D9wXQI2V":"4",
+        "G5wFDad6":"20",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010100193",
+        "yRlCNyvk":"Add to BB\\/SBB (fills OD gauge [800 OD] at turn's end for 3 turns)_newText"
+    },
+    {
+        "2Smu5Mtq":"0,0,5,5,0",
+        "9PsmH7tz":"1010100194",
+        "D9wXQI2V":"4",
+        "G5wFDad6":"20",
+        "hjAy9St3":"69",
+        "jeR2rN3V":"5",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010100194",
+        "yRlCNyvk":"Enhances LS's probable KO resistance Effect [+5% chance]"
+    },
+    {
+        "2Smu5Mtq":"40,1&25&2&25&3&25&0&0&3&0.,1,2,0,1,1,0@40,4&25&5&25&6&25&0&0&3&0,1,2,0,1,1,0@40,1&100&2&100&3&100&0&0&4&0,1,2,0,0,0,1@40,4&100&5&100&6&100&0&0&4&0,1,2,0,0,0,1",
+        "9PsmH7tz":"1010100195",
+        "D9wXQI2V":"5",
+        "G5wFDad6":"25",
+        "hjAy9St3":"66@66@66@66",
+        "jeR2rN3V":"1@1@1@1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010100195",
+        "yRlCNyvk":"Add to BB\\/SBB (Add Ails to ATK (25% IWS 25% CPP) (ALL) 3Turns), UBB (Add Ails to ATK (100% IWS 100% CPP) (ALL) 4Turns)"
+    },
+    {
+        "2Smu5Mtq":"10007,100&3&0&100,1,2,0,0,0,1",
+        "9PsmH7tz":"1010100196",
+        "D9wXQI2V":"4",
+        "G5wFDad6":"20",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010100196",
+        "yRlCNyvk":"Add to UBB (100% Evade ATKs (ALL) 3Turns)"
+    },
+    {
         "2Smu5Mtq":"126,20&2&0,1,2,0,1,0,0",
         "9PsmH7tz":"1010400000",
         "D9wXQI2V":"3",
