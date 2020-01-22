@@ -16733,6 +16733,20 @@
         "id":"730257",
         "name":"MST_LEADERSKILLS_730257_NAME"
     },
+    "730287":{
+        "desc":"MST_LEADERSKILLS_730287_DESCRIPTION",
+        "effects":[
+            {
+                "atk% buff":120,
+                "def% buff":120,
+                "hp% buff":120,
+                "passive id":"1",
+                "rec% buff":120
+            }
+        ],
+        "id":"730287",
+        "name":"MST_LEADERSKILLS_730287_NAME"
+    },
     "7400":{
         "desc":"MST_LEADERSKILLS_7400_DESCRIPTION",
         "effects":[
@@ -20123,6 +20137,35 @@
         ],
         "id":"7600",
         "name":"MST_LEADERSKILLS_7600_NAME"
+    },
+    "760006":{
+        "desc":"MST_LEADERSKILLS_760006_DESCRIPTION",
+        "effects":[
+            {
+                "hp% buff":180,
+                "passive id":"1"
+            },
+            {
+                "bc fill when attacked chance%":100,
+                "bc fill when attacked high":10,
+                "bc fill when attacked low":6,
+                "passive id":"25"
+            },
+            {
+                "params":"36,20,-1,5000,1",
+                "passive id":"78"
+            },
+            {
+                "params":"0,1,25,25,0",
+                "passive id":"69"
+            },
+            {
+                "params":"30",
+                "passive id":"70"
+            }
+        ],
+        "id":"760006",
+        "name":"MST_LEADERSKILLS_760006_NAME"
     },
     "7601":{
         "desc":"MST_LEADERSKILLS_7601_DESCRIPTION",
