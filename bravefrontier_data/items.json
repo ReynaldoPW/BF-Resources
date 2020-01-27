@@ -24465,15 +24465,15 @@
         "desc":"MST_ITEMS_BATTLEITEMS_800305_SHORTDESCRIPTION",
         "effects":[
             {
-                "params":"2000,2000,0,0-0,0,20,20,0,2",
-                "proc id":"2-5"
+                "params":"2000,2000,50,50",
+                "proc id":"2"
             }
         ],
         "from raid":"false",
         "guide id":"1",
         "id":"800305",
         "lore":"MST_ITEMS_BATTLEITEMS_800305_LONGDESCRIPTION",
-        "max equip":5,
+        "max equip":10,
         "max stack":99,
         "name":"MST_ITEMS_BATTLEITEMS_800305_NAME",
         "rarity":3,
@@ -27468,11 +27468,11 @@
         "desc":"MST_SPHERES_818920_SHORTDESCRIPTION",
         "effects":[
             {
-                "params":"20,15,15,0,15",
+                "params":"50,30,30,0,30",
                 "proc id":"1"
             },
             {
-                "params":"20,0,0,0,0,0",
+                "params":"40,0,0,0,0,0",
                 "proc id":"31"
             }
         ],
@@ -27580,22 +27580,22 @@
         "desc":"MST_SPHERES_818924_SHORTDESCRIPTION",
         "effects":[
             {
-                "params":"40,30,30,0,30",
+                "params":"80,40,40,0,40",
                 "proc id":"1"
             },
             {
-                "params":"40,0,0,0,0,0",
+                "params":"50,0,0,0,0,0",
                 "proc id":"31"
             }
         ],
         "from raid":"false",
-        "guide id":"800034",
+        "guide id":"800061",
         "id":"818924",
         "lore":"A magical artifact from a another world. Blessed by the monks of the Eastern Wind Mountains, these golden seals were given to the most loyal subordinates of the emperor known as the Golden Lion. A symbol of great power and authority, the seals also brought great luck and fortune to those in possession of them. The Golden Lion would then go on to conquer the rest of the eastern lands and eventually establish a dynasty that would live on for another thousand years. ",
         "max equip":1,
         "max stack":1,
         "name":"MST_SPHERES_818924_NAME",
-        "rarity":4,
+        "rarity":3,
         "sale caution":"true",
         "sale price":25000,
         "sphere type":"SPHERE_TYPE_NAME_1",
@@ -27607,7 +27607,7 @@
         "desc":"MST_SPHERES_818925_SHORTDESCRIPTION",
         "effects":[
             {
-                "params":"40,35,35,0,35",
+                "params":"120,50,50,0,50",
                 "proc id":"1"
             },
             {
@@ -27638,7 +27638,7 @@
         "desc":"MST_SPHERES_818926_SHORTDESCRIPTION",
         "effects":[
             {
-                "params":"40,40,40,0,40",
+                "params":"60,60,60,0,60",
                 "proc id":"1"
             },
             {
@@ -27650,7 +27650,7 @@
                 "proc id":"4"
             },
             {
-                "params":"1,2,0,0,0,0,10",
+                "params":"1,2,0,0,0,0,15",
                 "proc id":"62"
             }
         ],
