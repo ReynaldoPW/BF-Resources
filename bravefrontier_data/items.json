@@ -37486,6 +37486,45 @@
         "thumbnail":"sphere_thum_819294.png",
         "type":"sphere"
     },
+    "819295":{
+        "desc":"MST_SPHERES_819295_SHORTDESCRIPTION",
+        "effects":[
+            {
+                "params":"0,0,0,0,70",
+                "proc id":"1"
+            },
+            {
+                "params":"150,0,0,0,0,0,50,1",
+                "proc id":"104"
+            },
+            {
+                "params":"15",
+                "proc id":"8"
+            },
+            {
+                "params":"100,100,100,100,100,100,0,0,0,0",
+                "proc id":"53"
+            },
+            {
+                "params":"100,35",
+                "proc id":"127"
+            }
+        ],
+        "from raid":"false",
+        "guide id":"819295",
+        "id":"819295",
+        "lore":"A stunning shield featuring fine Elysian decor. The use of indigo steel in its main body enables magic to be broadcast like an aura around the caster, making this a firm favorite among the few arcane-wielding knights in the royal Elysian army. This one in particular belongs to the brave commander Miriam, wife of Crown Prince Gortius.<br><br>Miriam's mixed Alethi heritage brought her arcane mastery into the spotlight, forcing the army to reconsider their stance on magic-users. The highly polished surface is crisscrossed with numerous scratches and marks, a testament to Miriam's long military career. ",
+        "max equip":1,
+        "max stack":1,
+        "name":"MST_SPHERES_819295_NAME",
+        "rarity":7,
+        "sale caution":"true",
+        "sale price":30000,
+        "sphere type":"SPHERE_TYPE_NAME_10",
+        "target":"none",
+        "thumbnail":"sphere_thum_819295.png",
+        "type":"sphere"
+    },
     "819901":{
         "desc":"MST_SPHERES_819901_SHORTDESCRIPTION",
         "effects":[

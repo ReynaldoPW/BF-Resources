@@ -11258,7 +11258,7 @@
         "background image":"gacha_img_20190918K_s1.png",
         "desc":"From 18 Sep 7:00 PST ~ 2 Oct 6:59 PST, summon minimum 5* units from Regil to Roglizer Batch and enjoy Increased Rates with each summon on Kassia up to the 8th Summon!",
         "door image":"gacha_rare_door.png",
-        "end time":"2020-10-02 14:59:59",
+        "end time":"2019-10-02 14:59:59",
         "gem cost":5,
         "name":"Vortex Arena Summon",
         "priority":"2",
@@ -12272,6 +12272,18 @@
         "priority":"2",
         "short desc":"Yggdrasil is available through the Summon Gate! Get a Global Exclusive Elgif for every 10 Summons from the same gate!",
         "start time":"2020-01-22 15:00:00",
+        "summon button image":"gacha_rare_summons_btn1.png"
+    },
+    "18300":{
+        "background image":"gacha_img_20200129M_s1.png",
+        "desc":"From 29 Jan 7:00 PST ~ 12 Feb 6:59 PST, summon minimum 5* Global exclusive units with Omni Potential and enjoy Increased Rates with each summon on Miriam up to the 8th Summon!",
+        "door image":"gacha_rare_door.png",
+        "end time":"2020-02-12 14:59:59",
+        "gem cost":5,
+        "name":"Destiny Summon",
+        "priority":"2",
+        "short desc":"Miriam is available through the Summon Gate! Get a Global Exclusive Elgif for every 10 Summons from the same gate!",
+        "start time":"2020-01-29 15:00:00",
         "summon button image":"gacha_rare_summons_btn1.png"
     }
 }

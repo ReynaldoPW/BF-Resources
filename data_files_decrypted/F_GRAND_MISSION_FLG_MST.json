@@ -10278,6 +10278,375 @@
         "ky1xsH0h":"2"
     },
     {
+        "AI_CHANCE":"0",
+        "DESCRIPTION":" ",
+        "MISSION_ID":"5008010",
+        "REQUIREMENT_ID":"8600",
+        "REQUIREMENT_RARITY*":"0",
+        "Ufm6c7RA":"0",
+        "ky1xsH0h":"1"
+    },
+    {
+        "AI_CHANCE":"0",
+        "DESCRIPTION":" ",
+        "MISSION_ID":"5008010",
+        "REQUIREMENT_ID":"8601",
+        "REQUIREMENT_RARITY*":"0",
+        "Ufm6c7RA":"0",
+        "ky1xsH0h":"1"
+    },
+    {
+        "AI_CHANCE":"0",
+        "DESCRIPTION":" ",
+        "MISSION_ID":"5008010",
+        "REQUIREMENT_ID":"8602",
+        "REQUIREMENT_RARITY*":"0",
+        "Ufm6c7RA":"0",
+        "ky1xsH0h":"1"
+    },
+    {
+        "AI_CHANCE":"0",
+        "DESCRIPTION":" ",
+        "MISSION_ID":"5008010",
+        "REQUIREMENT_ID":"8603",
+        "REQUIREMENT_RARITY*":"0",
+        "Ufm6c7RA":"0",
+        "ky1xsH0h":"1"
+    },
+    {
+        "AI_CHANCE":"0",
+        "DESCRIPTION":" ",
+        "MISSION_ID":"5008010",
+        "REQUIREMENT_ID":"8604",
+        "REQUIREMENT_RARITY*":"0",
+        "Ufm6c7RA":"0",
+        "ky1xsH0h":"1"
+    },
+    {
+        "AI_CHANCE":"0",
+        "DESCRIPTION":" ",
+        "MISSION_ID":"5008010",
+        "REQUIREMENT_ID":"8605",
+        "REQUIREMENT_RARITY*":"0",
+        "Ufm6c7RA":"0",
+        "ky1xsH0h":"1"
+    },
+    {
+        "AI_CHANCE":"2",
+        "DESCRIPTION":"Episode 1 Clear",
+        "MISSION_ID":"5008010",
+        "REQUIREMENT_ID":"8625",
+        "REQUIREMENT_RARITY*":"3",
+        "Ufm6c7RA":"1",
+        "ky1xsH0h":"1"
+    },
+    {
+        "AI_CHANCE":"0",
+        "DESCRIPTION":"Episode 2 Clear",
+        "MISSION_ID":"5008010",
+        "REQUIREMENT_ID":"8626",
+        "REQUIREMENT_RARITY*":"3",
+        "Ufm6c7RA":"0",
+        "ky1xsH0h":"1"
+    },
+    {
+        "AI_CHANCE":"0",
+        "DESCRIPTION":"Episode 3 Clear",
+        "MISSION_ID":"5008010",
+        "REQUIREMENT_ID":"8627",
+        "REQUIREMENT_RARITY*":"3",
+        "Ufm6c7RA":"0",
+        "ky1xsH0h":"1"
+    },
+    {
+        "AI_CHANCE":"2",
+        "DESCRIPTION":"Episode 1 Hard Mode Clear",
+        "MISSION_ID":"5008010",
+        "REQUIREMENT_ID":"8650",
+        "REQUIREMENT_RARITY*":"1",
+        "Ufm6c7RA":"1",
+        "ky1xsH0h":"1"
+    },
+    {
+        "AI_CHANCE":"0",
+        "DESCRIPTION":"Episode 2 Hard Mode Clear",
+        "MISSION_ID":"5008010",
+        "REQUIREMENT_ID":"8651",
+        "REQUIREMENT_RARITY*":"1",
+        "Ufm6c7RA":"0",
+        "ky1xsH0h":"1"
+    },
+    {
+        "AI_CHANCE":"0",
+        "DESCRIPTION":"Episode 3 Hard Mode Clear",
+        "MISSION_ID":"5008010",
+        "REQUIREMENT_ID":"8652",
+        "REQUIREMENT_RARITY*":"1",
+        "Ufm6c7RA":"0",
+        "ky1xsH0h":"1"
+    },
+    {
+        "AI_CHANCE":"1",
+        "DESCRIPTION":"More episodes coming soon!",
+        "MISSION_ID":"5008010",
+        "REQUIREMENT_ID":"8699",
+        "REQUIREMENT_RARITY*":"1",
+        "Ufm6c7RA":"1",
+        "ky1xsH0h":"1"
+    },
+    {
+        "AI_CHANCE":"0",
+        "DESCRIPTION":" ",
+        "MISSION_ID":"5008010",
+        "REQUIREMENT_ID":"86000",
+        "REQUIREMENT_RARITY*":"0",
+        "Ufm6c7RA":"0",
+        "ky1xsH0h":"2"
+    },
+    {
+        "AI_CHANCE":"0",
+        "DESCRIPTION":" ",
+        "MISSION_ID":"5008010",
+        "REQUIREMENT_ID":"86001",
+        "REQUIREMENT_RARITY*":"0",
+        "Ufm6c7RA":"0",
+        "ky1xsH0h":"2"
+    },
+    {
+        "AI_CHANCE":"0",
+        "DESCRIPTION":" ",
+        "MISSION_ID":"5008010",
+        "REQUIREMENT_ID":"86002",
+        "REQUIREMENT_RARITY*":"0",
+        "Ufm6c7RA":"0",
+        "ky1xsH0h":"2"
+    },
+    {
+        "AI_CHANCE":"0",
+        "DESCRIPTION":" ",
+        "MISSION_ID":"5008010",
+        "REQUIREMENT_ID":"86003",
+        "REQUIREMENT_RARITY*":"0",
+        "Ufm6c7RA":"0",
+        "ky1xsH0h":"2"
+    },
+    {
+        "AI_CHANCE":"0",
+        "DESCRIPTION":" ",
+        "MISSION_ID":"5008010",
+        "REQUIREMENT_ID":"86004",
+        "REQUIREMENT_RARITY*":"0",
+        "Ufm6c7RA":"0",
+        "ky1xsH0h":"2"
+    },
+    {
+        "AI_CHANCE":"0",
+        "DESCRIPTION":"Other Dimension",
+        "MISSION_ID":"5008010",
+        "REQUIREMENT_ID":"86110",
+        "REQUIREMENT_RARITY*":"0",
+        "Ufm6c7RA":"0",
+        "ky1xsH0h":"2"
+    },
+    {
+        "AI_CHANCE":"0",
+        "DESCRIPTION":"Home Dimension",
+        "MISSION_ID":"5008010",
+        "REQUIREMENT_ID":"86111",
+        "REQUIREMENT_RARITY*":"0",
+        "Ufm6c7RA":"0",
+        "ky1xsH0h":"2"
+    },
+    {
+        "AI_CHANCE":"0",
+        "DESCRIPTION":" ",
+        "MISSION_ID":"5008010",
+        "REQUIREMENT_ID":"86200",
+        "REQUIREMENT_RARITY*":"0",
+        "Ufm6c7RA":"0",
+        "ky1xsH0h":"2"
+    },
+    {
+        "AI_CHANCE":"0",
+        "DESCRIPTION":" ",
+        "MISSION_ID":"5008010",
+        "REQUIREMENT_ID":"86201",
+        "REQUIREMENT_RARITY*":"0",
+        "Ufm6c7RA":"0",
+        "ky1xsH0h":"2"
+    },
+    {
+        "AI_CHANCE":"0",
+        "DESCRIPTION":" ",
+        "MISSION_ID":"5008010",
+        "REQUIREMENT_ID":"86202",
+        "REQUIREMENT_RARITY*":"0",
+        "Ufm6c7RA":"0",
+        "ky1xsH0h":"2"
+    },
+    {
+        "AI_CHANCE":"0",
+        "DESCRIPTION":" ",
+        "MISSION_ID":"5008010",
+        "REQUIREMENT_ID":"86203",
+        "REQUIREMENT_RARITY*":"0",
+        "Ufm6c7RA":"0",
+        "ky1xsH0h":"2"
+    },
+    {
+        "AI_CHANCE":"0",
+        "DESCRIPTION":" ",
+        "MISSION_ID":"5008010",
+        "REQUIREMENT_ID":"86204",
+        "REQUIREMENT_RARITY*":"0",
+        "Ufm6c7RA":"0",
+        "ky1xsH0h":"2"
+    },
+    {
+        "AI_CHANCE":"0",
+        "DESCRIPTION":" ",
+        "MISSION_ID":"5008010",
+        "REQUIREMENT_ID":"86205",
+        "REQUIREMENT_RARITY*":"0",
+        "Ufm6c7RA":"0",
+        "ky1xsH0h":"2"
+    },
+    {
+        "AI_CHANCE":"0",
+        "DESCRIPTION":" ",
+        "MISSION_ID":"5008010",
+        "REQUIREMENT_ID":"86206",
+        "REQUIREMENT_RARITY*":"0",
+        "Ufm6c7RA":"0",
+        "ky1xsH0h":"2"
+    },
+    {
+        "AI_CHANCE":"0",
+        "DESCRIPTION":" ",
+        "MISSION_ID":"5008010",
+        "REQUIREMENT_ID":"86207",
+        "REQUIREMENT_RARITY*":"0",
+        "Ufm6c7RA":"0",
+        "ky1xsH0h":"2"
+    },
+    {
+        "AI_CHANCE":"0",
+        "DESCRIPTION":" ",
+        "MISSION_ID":"5008010",
+        "REQUIREMENT_ID":"86208",
+        "REQUIREMENT_RARITY*":"0",
+        "Ufm6c7RA":"0",
+        "ky1xsH0h":"2"
+    },
+    {
+        "AI_CHANCE":"0",
+        "DESCRIPTION":" ",
+        "MISSION_ID":"5008010",
+        "REQUIREMENT_ID":"86209",
+        "REQUIREMENT_RARITY*":"0",
+        "Ufm6c7RA":"0",
+        "ky1xsH0h":"2"
+    },
+    {
+        "AI_CHANCE":"0",
+        "DESCRIPTION":" ",
+        "MISSION_ID":"5008010",
+        "REQUIREMENT_ID":"86210",
+        "REQUIREMENT_RARITY*":"0",
+        "Ufm6c7RA":"0",
+        "ky1xsH0h":"2"
+    },
+    {
+        "AI_CHANCE":"0",
+        "DESCRIPTION":" ",
+        "MISSION_ID":"5008010",
+        "REQUIREMENT_ID":"86211",
+        "REQUIREMENT_RARITY*":"0",
+        "Ufm6c7RA":"0",
+        "ky1xsH0h":"2"
+    },
+    {
+        "AI_CHANCE":"0",
+        "DESCRIPTION":"Forward Camp",
+        "MISSION_ID":"5008010",
+        "REQUIREMENT_ID":"86300",
+        "REQUIREMENT_RARITY*":"0",
+        "Ufm6c7RA":"0",
+        "ky1xsH0h":"2"
+    },
+    {
+        "AI_CHANCE":"0",
+        "DESCRIPTION":"Howling Break",
+        "MISSION_ID":"5008010",
+        "REQUIREMENT_ID":"86301",
+        "REQUIREMENT_RARITY*":"0",
+        "Ufm6c7RA":"0",
+        "ky1xsH0h":"2"
+    },
+    {
+        "AI_CHANCE":"0",
+        "DESCRIPTION":"Frigid Farbank",
+        "MISSION_ID":"5008010",
+        "REQUIREMENT_ID":"86302",
+        "REQUIREMENT_RARITY*":"0",
+        "Ufm6c7RA":"0",
+        "ky1xsH0h":"2"
+    },
+    {
+        "AI_CHANCE":"0",
+        "DESCRIPTION":"Northeast Eiros",
+        "MISSION_ID":"5008010",
+        "REQUIREMENT_ID":"86303",
+        "REQUIREMENT_RARITY*":"0",
+        "Ufm6c7RA":"0",
+        "ky1xsH0h":"2"
+    },
+    {
+        "AI_CHANCE":"0",
+        "DESCRIPTION":"Gates of Elysia",
+        "MISSION_ID":"5008010",
+        "REQUIREMENT_ID":"86304",
+        "REQUIREMENT_RARITY*":"0",
+        "Ufm6c7RA":"0",
+        "ky1xsH0h":"2"
+    },
+    {
+        "AI_CHANCE":"0",
+        "DESCRIPTION":"Royal Court",
+        "MISSION_ID":"5008010",
+        "REQUIREMENT_ID":"86305",
+        "REQUIREMENT_RARITY*":"0",
+        "Ufm6c7RA":"0",
+        "ky1xsH0h":"2"
+    },
+    {
+        "AI_CHANCE":"0",
+        "DESCRIPTION":"Time Rift",
+        "MISSION_ID":"5008010",
+        "REQUIREMENT_ID":"86306",
+        "REQUIREMENT_RARITY*":"0",
+        "Ufm6c7RA":"0",
+        "ky1xsH0h":"2"
+    },
+    {
+        "AI_CHANCE":"0",
+        "DESCRIPTION":"Reality Rift",
+        "MISSION_ID":"5008010",
+        "REQUIREMENT_ID":"86307",
+        "REQUIREMENT_RARITY*":"0",
+        "Ufm6c7RA":"0",
+        "ky1xsH0h":"2"
+    },
+    {
+        "AI_CHANCE":"0",
+        "DESCRIPTION":"Memory Rift",
+        "MISSION_ID":"5008010",
+        "REQUIREMENT_ID":"86308",
+        "REQUIREMENT_RARITY*":"0",
+        "Ufm6c7RA":"0",
+        "ky1xsH0h":"2"
+    },
+    {
         "AI_CHANCE":"50",
         "DESCRIPTION":"\u6765\u8a2a\u8005\u9054\u304c\u5143\u306e\u4e16\u754c\u306b\u5e30\u9084\u3057\u305f",
         "MISSION_ID":"5200000",

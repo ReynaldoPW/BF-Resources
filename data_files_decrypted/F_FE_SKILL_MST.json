@@ -26929,6 +26929,61 @@
     },
     {
         "DESCRIPTION":"",
+        "EFFECT_AREA*":"2@2@2@2",
+        "LEVEL":"4",
+        "PROC/PASSIVE_ID(S)":"18@39@10007@126",
+        "PROC/PASSIVE_PARAMETERS":"0,2,0@0,0,0,0,0,0,0,2,0@0,2,0,0@0,2,0",
+        "SP_ID":"1100000483",
+        "SP_NAME":"Allows BB's base effects to last additional 2 turns",
+        "SP_NEED_BP":"25",
+        "SP_SERIES":"1100000483"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
+        "LEVEL":"5",
+        "PROC/PASSIVE_ID(S)":"66",
+        "PROC/PASSIVE_PARAMETERS":"62,4&7000&0&100&0,1,2,0,1,1,0",
+        "SP_ID":"1100000484",
+        "SP_NAME":"Add to BB\\/SBB (adds Thunder barrier [7000 HP])",
+        "SP_NEED_BP":"20",
+        "SP_SERIES":"1100000484"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
+        "LEVEL":"4",
+        "PROC/PASSIVE_ID(S)":"66",
+        "PROC/PASSIVE_PARAMETERS":"83,60&80&3&0,1,2,0,0,1,0",
+        "SP_ID":"1100000485",
+        "SP_NAME":"Add to SBB (probable [60%] spark critical [80%] for 3 turns)",
+        "SP_NEED_BP":"20",
+        "SP_SERIES":"1100000485"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
+        "LEVEL":"5",
+        "PROC/PASSIVE_ID(S)":"66",
+        "PROC/PASSIVE_PARAMETERS":"47,200&500&0&200&0&0&0&0,2,2,2,0,1,0",
+        "SP_ID":"1100000486",
+        "SP_NAME":"Add to SBB (16 combo Thunder attack [200-500%] on all foes (damage relative to remaining HP))",
+        "SP_NEED_BP":"25",
+        "SP_SERIES":"1100000486"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
+        "LEVEL":"2",
+        "PROC/PASSIVE_ID(S)":"31",
+        "PROC/PASSIVE_PARAMETERS":"170,0,0,0,0,0",
+        "SP_ID":"1100000487",
+        "SP_NAME":"170% spark damage",
+        "SP_NEED_BP":"15",
+        "SP_SERIES":"1010700016"
+    },
+    {
+        "DESCRIPTION":"",
         "EFFECT_AREA*":"1",
         "LEVEL":"1",
         "PROC/PASSIVE_ID(S)":"1",

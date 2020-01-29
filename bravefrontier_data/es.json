@@ -25596,6 +25596,37 @@
         "name":"MST_EXTRAPASSIVESKILL_840788_NAME",
         "rarity":7
     },
+    "840798":{
+        "conditions":"2#3,819295%6,10%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0",
+        "desc":"MST_EXTRAPASSIVESKILL_840798_DESCRIPTION",
+        "effects":[
+            {
+                "miti%":5,
+                "passive id":"8"
+            },
+            {
+                "params":"100,15",
+                "passive id":"127"
+            },
+            {
+                "dmg% for spark":25,
+                "passive id":"31"
+            },
+            {
+                "bc fill when attacked chance%":100,
+                "bc fill when attacked high":4,
+                "bc fill when attacked low":2,
+                "passive id":"25"
+            },
+            {
+                "params":"1,2,50,50,0",
+                "passive id":"69"
+            }
+        ],
+        "id":"840798",
+        "name":"MST_EXTRAPASSIVESKILL_840798_NAME",
+        "rarity":7
+    },
     "840808":{
         "conditions":"1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0",
         "desc":"MST_EXTRAPASSIVESKILL_840808_DESCRIPTION",

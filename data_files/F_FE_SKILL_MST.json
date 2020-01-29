@@ -26928,6 +26928,61 @@
         "yRlCNyvk":"200% spark damage"
     },
     {
+        "2Smu5Mtq":"0,2,0@0,0,0,0,0,0,0,2,0@0,2,0,0@0,2,0",
+        "9PsmH7tz":"1100000483",
+        "D9wXQI2V":"4",
+        "G5wFDad6":"25",
+        "hjAy9St3":"18@39@10007@126",
+        "jeR2rN3V":"2@2@2@2",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1100000483",
+        "yRlCNyvk":"Allows BB's base effects to last additional 2 turns"
+    },
+    {
+        "2Smu5Mtq":"62,4&7000&0&100&0,1,2,0,1,1,0",
+        "9PsmH7tz":"1100000484",
+        "D9wXQI2V":"5",
+        "G5wFDad6":"20",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1100000484",
+        "yRlCNyvk":"Add to BB\\/SBB (adds Thunder barrier [7000 HP])"
+    },
+    {
+        "2Smu5Mtq":"83,60&80&3&0,1,2,0,0,1,0",
+        "9PsmH7tz":"1100000485",
+        "D9wXQI2V":"4",
+        "G5wFDad6":"20",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1100000485",
+        "yRlCNyvk":"Add to SBB (probable [60%] spark critical [80%] for 3 turns)"
+    },
+    {
+        "2Smu5Mtq":"47,200&500&0&200&0&0&0&0,2,2,2,0,1,0",
+        "9PsmH7tz":"1100000486",
+        "D9wXQI2V":"5",
+        "G5wFDad6":"25",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1100000486",
+        "yRlCNyvk":"Add to SBB (16 combo Thunder attack [200-500%] on all foes (damage relative to remaining HP))"
+    },
+    {
+        "2Smu5Mtq":"170,0,0,0,0,0",
+        "9PsmH7tz":"1010700016",
+        "D9wXQI2V":"2",
+        "G5wFDad6":"15",
+        "hjAy9St3":"31",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1100000487",
+        "yRlCNyvk":"170% spark damage"
+    },
+    {
         "2Smu5Mtq":"0,0,30,0,30",
         "9PsmH7tz":"1100000113",
         "D9wXQI2V":"1",

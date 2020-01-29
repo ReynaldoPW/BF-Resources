@@ -223,5 +223,14 @@
         "RESOLUTION_A_EXTENSION?":"0,0",
         "RESOLUTION_B?":"1280,1440",
         "RESOLUTION_B_EXTENSION?":"0,0"
+    },
+    {
+        "IMAGE":"raid_map810_01.png:0:0,raid_map810_02.png:0:960,raid_map810_03.png:640:0,raid_map810_04.png:640:960",
+        "MAP_IMG_AREA_NUMBER":"806",
+        "MAP_NAME":"GQX6MAP",
+        "RESOLUTION_A?":"1280,1440",
+        "RESOLUTION_A_EXTENSION?":"0,0",
+        "RESOLUTION_B?":"1280,1440",
+        "RESOLUTION_B_EXTENSION?":"0,0"
     }
 ]

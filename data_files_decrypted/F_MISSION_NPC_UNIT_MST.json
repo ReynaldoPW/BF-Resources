@@ -2300,6 +2300,26 @@
         "UNIT_TYPE_ID":"1"
     },
     {
+        "ATK":"18000",
+        "BB_ID":"2860578",
+        "DEF":"15000",
+        "ES_ID":"0",
+        "HONOR_POINTS_OBTAINED":"10",
+        "HP":"20000",
+        "LEADER_SKILL_ID":"860577",
+        "LEVEL":"999",
+        "NPC_NAME":"Kranus",
+        "QUEST_USUALLY_EMPTY_BUT_CHECK**":"8081",
+        "REC":"15000",
+        "SBB_ID":"2860578",
+        "SPHERE_1_EQUIPPED_ID":"819270",
+        "SPHERE_2_EQUIPPED_ID":"819285",
+        "UBB_ID":"0",
+        "UNIT_ID":"860577",
+        "UNIT_OD_STATS":"",
+        "UNIT_TYPE_ID":"1"
+    },
+    {
         "ATK":"2015",
         "BB_ID":"10234",
         "DEF":"1842",
