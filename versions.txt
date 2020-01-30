@@ -260,7 +260,7 @@
         "moWQ30GH":"F_GRAND_MISSION_MAP_MST"
     },
     {
-        "d2RFtP8T":"65",
+        "d2RFtP8T":"66",
         "moWQ30GH":"F_GRAND_MISSION_SPOT_MST"
     },
     {
