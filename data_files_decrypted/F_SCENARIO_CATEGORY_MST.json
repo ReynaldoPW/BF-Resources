@@ -329,6 +329,13 @@
         "SP_CAT_NAME":"Saga of Heroes"
     },
     {
+        "DESCRIPTION":"Grand Quests: Global",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"3",
+        "SCENARIO_SUPERSECTION*":"50000",
+        "SP_CAT_ID":"50400",
+        "SP_CAT_NAME":"Grand Quest X Series"
+    },
+    {
         "DESCRIPTION":"Karl asks the Summoner for some help with defeating a certain dragon. This particular beast is quick to flee, so they try a pincer attack, but...",
         "QUEST_MAP_NUMBER/GUIDE_ID":"1",
         "SCENARIO_SUPERSECTION*":"50100",
@@ -464,37 +471,44 @@
     {
         "DESCRIPTION":"Relive the saga of the Soul-Bound heroes as they battle with Gazia to discover the truth behind his schemes!",
         "QUEST_MAP_NUMBER/GUIDE_ID":"11",
-        "SCENARIO_SUPERSECTION*":"50100",
+        "SCENARIO_SUPERSECTION*":"50400",
         "SP_CAT_ID":"85001",
         "SP_CAT_NAME":"The Tinkerer\u2019s Deceit"
     },
     {
         "DESCRIPTION":"Join the team as they search for Ezra to get him back safely. Time to zoom-zoom!",
         "QUEST_MAP_NUMBER/GUIDE_ID":"12",
-        "SCENARIO_SUPERSECTION*":"50100",
+        "SCENARIO_SUPERSECTION*":"50400",
         "SP_CAT_ID":"85002",
         "SP_CAT_NAME":"Eneroth: Genesis"
     },
     {
         "DESCRIPTION":"Our heroes from Galardhon finally make it into the heart of the enemy fortress. But when reality breaks, everything can go wrong.",
         "QUEST_MAP_NUMBER/GUIDE_ID":"13",
-        "SCENARIO_SUPERSECTION*":"50100",
+        "SCENARIO_SUPERSECTION*":"50400",
         "SP_CAT_ID":"85003",
         "SP_CAT_NAME":"Crossing the Abyss"
     },
     {
         "DESCRIPTION":"Ensa-Taya chases Juno-Seto into the world of Aimyhr, bringing tragedy and conflict with them.",
         "QUEST_MAP_NUMBER/GUIDE_ID":"14",
-        "SCENARIO_SUPERSECTION*":"50100",
+        "SCENARIO_SUPERSECTION*":"50400",
         "SP_CAT_ID":"85004",
         "SP_CAT_NAME":"Everlasting Embrace"
     },
     {
         "DESCRIPTION":"The saga of Aimyhr enters its final act.",
         "QUEST_MAP_NUMBER/GUIDE_ID":"15",
-        "SCENARIO_SUPERSECTION*":"50100",
+        "SCENARIO_SUPERSECTION*":"50400",
         "SP_CAT_ID":"85005",
         "SP_CAT_NAME":"Fates of the Fallen"
+    },
+    {
+        "DESCRIPTION":"It's dangerous to stare into the Void\u2026 for it might stare back.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"16",
+        "SCENARIO_SUPERSECTION*":"50400",
+        "SP_CAT_ID":"85006",
+        "SP_CAT_NAME":"The Echoing Void"
     },
     {
         "DESCRIPTION":"Meet Fei and Fang, lovers who have fallen under the shadow of an evil witch!",

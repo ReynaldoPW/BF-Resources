@@ -8325,6 +8325,87 @@
         "SP_CAT_ID":"100011"
     },
     {
+        "DESCRIPTION":"Knowing Noel, you're about to embark on yet another survey for him...This time, through time itself.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"1",
+        "SCENARIO_ID":"87001",
+        "SCENARIO_NAME":"Dimensional Survey",
+        "SCENARIO_TEXT_FILE":"GQX6_Opening.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"85006"
+    },
+    {
+        "DESCRIPTION":"In a different Elysia, Crown Prince Gortius readies his army for the final assault against the Northen Pirates.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"2",
+        "SCENARIO_ID":"87002",
+        "SCENARIO_NAME":"Frontal Assault",
+        "SCENARIO_TEXT_FILE":"GQX6_Arc1_EP1_1.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"85006"
+    },
+    {
+        "DESCRIPTION":"An unexpected storm forces the desperate pirates to besiege the Elysian fleet with reckless abandon.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"3",
+        "SCENARIO_ID":"87003",
+        "SCENARIO_NAME":"Hearts of Steel",
+        "SCENARIO_TEXT_FILE":"GQX6_Arc1_EP1_2.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"85006"
+    },
+    {
+        "DESCRIPTION":"Miriam heads in search of Gortius, coming face-to-face with the pirate lord himself...",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"4",
+        "SCENARIO_ID":"87004",
+        "SCENARIO_NAME":"Against the Tides",
+        "SCENARIO_TEXT_FILE":"GQX6_Arc1_EP1_3a.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"85006"
+    },
+    {
+        "DESCRIPTION":"The battle is won, but the crown prince desires a life lived of his own accord.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"5",
+        "SCENARIO_ID":"87005",
+        "SCENARIO_NAME":"Swept Away",
+        "SCENARIO_TEXT_FILE":"GQX6_Arc1_EP1_3b.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"85006"
+    },
+    {
+        "DESCRIPTION":"Five years later, Gortius' idyllic family life is overshadowed by rumors of his dying father and an empty throne.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"6",
+        "SCENARIO_ID":"87006",
+        "SCENARIO_NAME":"Right to Rule",
+        "SCENARIO_TEXT_FILE":"GQX6_Arc1_EP2_1.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"85006"
+    },
+    {
+        "DESCRIPTION":"Gortius and Miriam find themselves barred from the grand gates to the castle and ordered to be killed on sight.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"7",
+        "SCENARIO_ID":"87007",
+        "SCENARIO_NAME":"Courting Death",
+        "SCENARIO_TEXT_FILE":"GQX6_Arc1_EP2_2.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"85006"
+    },
+    {
+        "DESCRIPTION":"At the feet of the Elysian throne, the true test of the heir's will begins.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"8",
+        "SCENARIO_ID":"87008",
+        "SCENARIO_NAME":"One to Rule",
+        "SCENARIO_TEXT_FILE":"GQX6_Arc1_EP2_3a.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"85006"
+    },
+    {
+        "DESCRIPTION":"Gortius ascends the throne following the death of his father. A new era comes to Elysia...",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"9",
+        "SCENARIO_ID":"87009",
+        "SCENARIO_NAME":"A New Era",
+        "SCENARIO_TEXT_FILE":"GQX6_Arc1_EP2_3b.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"85006"
+    },
+    {
         "DESCRIPTION":"Welcome to an odd sort of theater - your audience awaits you with bated breath. Don't die.",
         "QUEST_MAP_NUMBER/GUIDE_ID":"97",
         "SCENARIO_ID":"88400",

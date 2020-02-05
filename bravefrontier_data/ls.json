@@ -16737,11 +16737,35 @@
         "desc":"MST_LEADERSKILLS_730287_DESCRIPTION",
         "effects":[
             {
-                "atk% buff":120,
-                "def% buff":120,
-                "hp% buff":120,
+                "atk% buff":140,
+                "def% buff":140,
+                "hp% buff":140,
                 "passive id":"1",
-                "rec% buff":120
+                "rec% buff":140
+            },
+            {
+                "params":"50,100",
+                "passive id":"100"
+            },
+            {
+                "params":"36,20,-1,5000,1",
+                "passive id":"78"
+            },
+            {
+                "elemental weakness dmg%":200,
+                "elements":[
+                    "fire",
+                    "water",
+                    "earth",
+                    "thunder",
+                    "light",
+                    "dark"
+                ],
+                "passive id":"50"
+            },
+            {
+                "params":"400,400,400",
+                "passive id":"64"
             }
         ],
         "id":"730287",

@@ -12285,5 +12285,17 @@
         "short desc":"Miriam is available through the Summon Gate! Get a Global Exclusive Elgif for every 10 Summons from the same gate!",
         "start time":"2020-01-29 15:00:00",
         "summon button image":"gacha_rare_summons_btn1.png"
+    },
+    "18310":{
+        "background image":"gacha_img_20200205F_s1.png",
+        "desc":"From 5 Feb 7:00 PST ~ 19 Feb 6:59 PST, summon minimum 5* Global exclusive units with Omni Potential and enjoy Increased Rates with each summon on Frigg up to the 8th Summon!",
+        "door image":"gacha_rare_door.png",
+        "end time":"2020-02-19 14:59:59",
+        "gem cost":5,
+        "name":"World Heroes Summon",
+        "priority":"2",
+        "short desc":"Frigg is available through the Summon Gate! Get a Global Exclusive Elgif for every 10 Summons from the same gate!",
+        "start time":"2020-02-05 15:00:00",
+        "summon button image":"gacha_rare_summons_btn1.png"
     }
 }

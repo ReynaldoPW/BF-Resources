@@ -20361,6 +20361,94 @@
         "yRlCNyvk":"Add to UBB (100% Evade ATKs (ALL) 3Turns)"
     },
     {
+        "2Smu5Mtq":"100,100,100,100,100,100,100,100,100",
+        "9PsmH7tz":"1010100197",
+        "D9wXQI2V":"2",
+        "G5wFDad6":"10",
+        "hjAy9St3":"73",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010100197",
+        "yRlCNyvk":"Negates all status ailments and Atk, Def, Rec reduction effects"
+    },
+    {
+        "2Smu5Mtq":"0,0,0,1,0",
+        "9PsmH7tz":"1010100198",
+        "D9wXQI2V":"4",
+        "G5wFDad6":"20",
+        "hjAy9St3":"10000",
+        "jeR2rN3V":"2",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010100198",
+        "yRlCNyvk":"Enhances BB's Taunt duration"
+    },
+    {
+        "2Smu5Mtq":"2,5000&5500&100&0,1,2,0,1,0,0",
+        "9PsmH7tz":"1010100199",
+        "D9wXQI2V":"3",
+        "G5wFDad6":"15",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010100199",
+        "yRlCNyvk":"Add to BB (Heal+ 5000-5500 + 40% REC (ALL))"
+    },
+    {
+        "2Smu5Mtq":"56,20&1&999,1,2,0,1,0,0",
+        "9PsmH7tz":"1010100200",
+        "D9wXQI2V":"3",
+        "G5wFDad6":"15",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010100200",
+        "yRlCNyvk":"Add to BB (probable [20%] KO resistance)"
+    },
+    {
+        "2Smu5Mtq":"10015,75&3&0&1,1,2,0,0,1,0@10015,75&3&0&2,1,2,0,0,1,0@10015,75&3&0&4,1,2,0,0,1,0@10015,75&3&0&5,1,2,0,0,1,0@10015,75&3&0&6,1,2,0,0,1,0",
+        "9PsmH7tz":"1010100201",
+        "D9wXQI2V":"5",
+        "G5wFDad6":"25",
+        "hjAy9St3":"66@66@66@66@66",
+        "jeR2rN3V":"1@1@1@1@1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010100201",
+        "yRlCNyvk":"Add to SBB (75% Spark DMG to Fire,Water, Thunder, Light, Dark 3Turns)"
+    },
+    {
+        "2Smu5Mtq":"52,70&3&0,1,2,0,1,1,0",
+        "9PsmH7tz":"1010100202",
+        "D9wXQI2V":"4",
+        "G5wFDad6":"20",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010100202",
+        "yRlCNyvk":"Add to BB\\/SBB (70% BB Fill [B.52] (ALL) 3Turns)"
+    },
+    {
+        "2Smu5Mtq":"39,1&2&3&4&5&6&15&3&0,1,2,0,1,0,0@39,1&2&3&4&5&6&100&4&0,1,2,0,0,0,1",
+        "9PsmH7tz":"1010100203",
+        "D9wXQI2V":"7",
+        "G5wFDad6":"35",
+        "hjAy9St3":"66@66",
+        "jeR2rN3V":"1@1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010100203",
+        "yRlCNyvk":"Add to BB (Reduce DMG from All Enemy (15%) 3Turns), UBB (Reduce DMG from (ALL) Enemy (100%) 4Turns)"
+    },
+    {
+        "2Smu5Mtq":"30,1&2&3&4&5&6&4&0,1,2,0,1,1,1",
+        "9PsmH7tz":"1010100204",
+        "D9wXQI2V":"2",
+        "G5wFDad6":"10",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010100204",
+        "yRlCNyvk":"Add to BB\\/SBB\\/UBB (Add All Element to ATK (ALL) 3Turns)"
+    },
+    {
         "2Smu5Mtq":"126,20&2&0,1,2,0,1,0,0",
         "9PsmH7tz":"1010400000",
         "D9wXQI2V":"3",

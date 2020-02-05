@@ -15969,11 +15969,34 @@
         "desc":"MST_EXTRAPASSIVESKILL_730287_DESCRIPTION",
         "effects":[
             {
-                "atk% buff":30,
-                "def% buff":30,
-                "hp% buff":30,
+                "atk% buff":20,
+                "def% buff":20,
+                "hp% buff":20,
                 "passive id":"1",
-                "rec% buff":30
+                "rec% buff":20
+            },
+            {
+                "elemental weakness dmg%":20,
+                "elements":[
+                    "fire",
+                    "water",
+                    "earth",
+                    "thunder",
+                    "light",
+                    "dark"
+                ],
+                "passive id":"50"
+            },
+            {
+                "passive id":"55"
+            },
+            {
+                "passive id":"43",
+                "take 1 dmg%":15
+            },
+            {
+                "params":"100",
+                "passive id":"92"
             }
         ],
         "id":"730287",

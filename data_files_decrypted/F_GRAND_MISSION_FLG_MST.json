@@ -10341,12 +10341,12 @@
         "ky1xsH0h":"1"
     },
     {
-        "AI_CHANCE":"0",
+        "AI_CHANCE":"2",
         "DESCRIPTION":"Episode 2 Clear",
         "MISSION_ID":"5008010",
         "REQUIREMENT_ID":"8626",
         "REQUIREMENT_RARITY*":"3",
-        "Ufm6c7RA":"0",
+        "Ufm6c7RA":"1",
         "ky1xsH0h":"1"
     },
     {
@@ -10368,12 +10368,12 @@
         "ky1xsH0h":"1"
     },
     {
-        "AI_CHANCE":"0",
+        "AI_CHANCE":"2",
         "DESCRIPTION":"Episode 2 Hard Mode Clear",
         "MISSION_ID":"5008010",
         "REQUIREMENT_ID":"8651",
         "REQUIREMENT_RARITY*":"1",
-        "Ufm6c7RA":"0",
+        "Ufm6c7RA":"1",
         "ky1xsH0h":"1"
     },
     {

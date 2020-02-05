@@ -9702,6 +9702,24 @@
         "THUMBNAIL":""
     },
     {
+        "0u1nvMeS":"100000",
+        "3hPeI1RV":"1",
+        "DESCRIPTION":"",
+        "DUNGEON_ID":"1007100",
+        "DUNGEON_IMAGE":"dungeon_battle_1000000.jpg",
+        "DUNGEON_NAME":"FH_71",
+        "M6C1aXfR":"300",
+        "MAP_OPENING_TEXT_FILE":"0,0",
+        "MISSION_AREA":"1000010",
+        "MISSION_IDS_REQUIRED":"0",
+        "QUEST_ALWAYS_EMPTY":"",
+        "QUEST_BANNER_IMAGE":"sp_quest_banner_challenge.png",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"1",
+        "QUEST_ZONE_MAP_NUMBER":"99",
+        "SnNtTh51":"300",
+        "THUMBNAIL":""
+    },
+    {
         "0u1nvMeS":"1",
         "3hPeI1RV":"2",
         "DESCRIPTION":"MST_DUNGEONS_DUNGEON_2000000_DESCRIPTION",
@@ -10514,7 +10532,7 @@
     {
         "0u1nvMeS":"99",
         "3hPeI1RV":"4",
-        "DESCRIPTION":"Crown Prince Gortius of Elysia sails to meet the Northern Pirates.",
+        "DESCRIPTION":"Miriam and Gortius' idyllic family life comes to an abrupt end.",
         "DUNGEON_ID":"5008010",
         "DUNGEON_IMAGE":"dungeon_battle_10100.jpg",
         "DUNGEON_NAME":"The Echoing Void",
