@@ -76,7 +76,7 @@
         "moWQ30GH":"M_NPC_MST"
     },
     {
-        "d2RFtP8T":"1386",
+        "d2RFtP8T":"1387",
         "moWQ30GH":"M_GACHA_EFFECT_MST"
     },
     {
