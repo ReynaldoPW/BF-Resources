@@ -2,3 +2,4 @@
 bravefrontier_data/globalUnits.json
 *.py
 *.pyc
+__pycache__/filesGet.cpython-38.pyc
