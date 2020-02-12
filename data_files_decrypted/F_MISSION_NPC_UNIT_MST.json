@@ -3700,6 +3700,26 @@
         "UNIT_TYPE_ID":"1"
     },
     {
+        "ATK":"3444",
+        "BB_ID":"20000610",
+        "DEF":"3725",
+        "ES_ID":"0",
+        "HONOR_POINTS_OBTAINED":"0",
+        "HP":"8625",
+        "LEADER_SKILL_ID":"0",
+        "LEVEL":"150",
+        "NPC_NAME":"Faithless Seeker Renatus",
+        "QUEST_USUALLY_EMPTY_BUT_CHECK**":"20000200",
+        "REC":"3108",
+        "SBB_ID":"0",
+        "SPHERE_1_EQUIPPED_ID":"0",
+        "SPHERE_2_EQUIPPED_ID":"0",
+        "UBB_ID":"0",
+        "UNIT_ID":"820848",
+        "UNIT_OD_STATS":"100,100,100,0,",
+        "UNIT_TYPE_ID":"1"
+    },
+    {
         "ATK":"3800",
         "BB_ID":"850628",
         "DEF":"3400",

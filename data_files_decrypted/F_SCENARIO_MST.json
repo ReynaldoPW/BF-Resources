@@ -8406,6 +8406,42 @@
         "SP_CAT_ID":"85006"
     },
     {
+        "DESCRIPTION":"Uneasy lies the head that wears a crown, but unrelenting is the heart who protects it.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"10",
+        "SCENARIO_ID":"87010",
+        "SCENARIO_NAME":"Unyielding Faith",
+        "SCENARIO_TEXT_FILE":"GQX6_Arc1_EP3_1.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"85006"
+    },
+    {
+        "DESCRIPTION":"What is better? To kill them with kindness, or let them live in fear?",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"11",
+        "SCENARIO_ID":"87011",
+        "SCENARIO_NAME":"Schism and Sorrow",
+        "SCENARIO_TEXT_FILE":"GQX6_Arc1_EP3_2.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"85006"
+    },
+    {
+        "DESCRIPTION":"Paranoid visions of a different future showing a reality that could have been.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"12",
+        "SCENARIO_ID":"87012",
+        "SCENARIO_NAME":"Ill Omens",
+        "SCENARIO_TEXT_FILE":"GQX6_Arc1_EP3_3a.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"85006"
+    },
+    {
+        "DESCRIPTION":"And she shall rule with a fist of iron and a heart of steel.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"13",
+        "SCENARIO_ID":"87013",
+        "SCENARIO_NAME":"A Queen Is Born",
+        "SCENARIO_TEXT_FILE":"GQX6_Arc1_EP3_3b.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"85006"
+    },
+    {
         "DESCRIPTION":"Welcome to an odd sort of theater - your audience awaits you with bated breath. Don't die.",
         "QUEST_MAP_NUMBER/GUIDE_ID":"97",
         "SCENARIO_ID":"88400",
@@ -10204,6 +10240,96 @@
         "SCENARIO_TEXT_FILE":"UprisingP1_Osiris_B.txt",
         "SOUNDTRACK_FILE":"",
         "SP_CAT_ID":"100010"
+    },
+    {
+        "DESCRIPTION":"Seeking artifacts, Renatus enters the tomb. What awaits him?",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"1",
+        "SCENARIO_ID":"200002001",
+        "SCENARIO_NAME":"North Hall: Foyer",
+        "SCENARIO_TEXT_FILE":"VDay2020_Farm_1.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"100014"
+    },
+    {
+        "DESCRIPTION":"The tales are indeed true, as both wealth and death can be found in equal measure in the Tomb.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"2",
+        "SCENARIO_ID":"200002002",
+        "SCENARIO_NAME":"North Hall: Inner Chamber",
+        "SCENARIO_TEXT_FILE":"VDay2020_Farm_2.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"100014"
+    },
+    {
+        "DESCRIPTION":"Yet another day passes with Nimrah being bounded to her Master's Tomb. However, things may just change with the arrival of Renatus...",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"3",
+        "SCENARIO_ID":"200002003",
+        "SCENARIO_NAME":"East Hall: Bronze",
+        "SCENARIO_TEXT_FILE":"VDay2020_Puzzle_1.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"100014"
+    },
+    {
+        "DESCRIPTION":"After conquering a puzzle, the duo get into a spat, but loyalties are laid bare as the next challenge looms...",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"4",
+        "SCENARIO_ID":"200002004",
+        "SCENARIO_NAME":"East Hall: Silver",
+        "SCENARIO_TEXT_FILE":"VDay2020_Puzzle_2.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"100014"
+    },
+    {
+        "DESCRIPTION":"The third puzzle presents Nimrah with an internal conflict regarding the welfare of her ticket out of this place.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"5",
+        "SCENARIO_ID":"200002005",
+        "SCENARIO_NAME":"East Hall: Gold - Start",
+        "SCENARIO_TEXT_FILE":"VDay2020_Puzzle_3_A.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"100014"
+    },
+    {
+        "DESCRIPTION":"Renatus and Nimrah safely pass the trials, but the Tome's ominous eye suggests more than freedom was gained...",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"6",
+        "SCENARIO_ID":"200002006",
+        "SCENARIO_NAME":"East Hall: Gold - End",
+        "SCENARIO_TEXT_FILE":"VDay2020_Puzzle_3_B.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"100014"
+    },
+    {
+        "DESCRIPTION":"Renatus, an artifact seeker, embarks on a journey to find an ancient tome at the behest of his pontiff uncle.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"7",
+        "SCENARIO_ID":"200002007",
+        "SCENARIO_NAME":"South Hall: Cellar - Start",
+        "SCENARIO_TEXT_FILE":"VDay2020_DM_A.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"100014"
+    },
+    {
+        "DESCRIPTION":"Renatus finds a curious looking coin that he has no explanation for.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"8",
+        "SCENARIO_ID":"200002008",
+        "SCENARIO_NAME":"South Hall: Cellar - End",
+        "SCENARIO_TEXT_FILE":"VDay2020_DM_B.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"100014"
+    },
+    {
+        "DESCRIPTION":"The lost scholar unveils his grand plan: the manipulation of desire to ascend beyond the limits of a mortal existence.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"9",
+        "SCENARIO_ID":"200002009",
+        "SCENARIO_NAME":"West Hall: Rotunda - Start",
+        "SCENARIO_TEXT_FILE":"VDay2020_Challenge_A.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"100014"
+    },
+    {
+        "DESCRIPTION":"Renatus and Nimrah manages to destroy the tome and in the process, Renatus finds the greatest \"artifact\" any man could have.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"10",
+        "SCENARIO_ID":"200002010",
+        "SCENARIO_NAME":"West Hall: Rotunda - End",
+        "SCENARIO_TEXT_FILE":"VDay2020_Challenge_B.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"100014"
     },
     {
         "DESCRIPTION":"The rabbits were enticed by a mysterious girl making what seems to be fluffy rice cakes. With a giggle, she playfully requests that you play a game with her!",

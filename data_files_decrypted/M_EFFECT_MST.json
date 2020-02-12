@@ -48960,6 +48960,12 @@
         "EFFECT_AREA*":"2"
     },
     {
+        "1NijIP2a":"120",
+        "BATTLE_EFFECT_FILE":"effect_prt_301_1.plist",
+        "BATTLE_EFFECT_ID":"9200050",
+        "EFFECT_AREA*":"2"
+    },
+    {
         "1NijIP2a":"140",
         "BATTLE_EFFECT_FILE":"effect_prt_10081_purple_re.plist",
         "BATTLE_EFFECT_ID":"9400044",
@@ -49066,5 +49072,41 @@
         "BATTLE_EFFECT_FILE":"10164BattleEffectSpeedLine4UbbAdd.sam",
         "BATTLE_EFFECT_ID":"9400062",
         "EFFECT_AREA*":"4"
+    },
+    {
+        "1NijIP2a":"250",
+        "BATTLE_EFFECT_FILE":"840848_Atk.sam",
+        "BATTLE_EFFECT_ID":"9400063",
+        "EFFECT_AREA*":"3"
+    },
+    {
+        "1NijIP2a":"250",
+        "BATTLE_EFFECT_FILE":"840848_Atk_Add.sam",
+        "BATTLE_EFFECT_ID":"9400064",
+        "EFFECT_AREA*":"4"
+    },
+    {
+        "1NijIP2a":"30",
+        "BATTLE_EFFECT_FILE":"effect_prt_1013.plist",
+        "BATTLE_EFFECT_ID":"9400065",
+        "EFFECT_AREA*":"2"
+    },
+    {
+        "1NijIP2a":"45",
+        "BATTLE_EFFECT_FILE":"effect_prt_1013.plist",
+        "BATTLE_EFFECT_ID":"9400066",
+        "EFFECT_AREA*":"2"
+    },
+    {
+        "1NijIP2a":"70",
+        "BATTLE_EFFECT_FILE":"effect_prt_1136.plist",
+        "BATTLE_EFFECT_ID":"9400067",
+        "EFFECT_AREA*":"2"
+    },
+    {
+        "1NijIP2a":"65",
+        "BATTLE_EFFECT_FILE":"effect_prt_1138_yellow.plist",
+        "BATTLE_EFFECT_ID":"9400068",
+        "EFFECT_AREA*":"2"
     }
 ]

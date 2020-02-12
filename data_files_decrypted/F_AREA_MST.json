@@ -2569,7 +2569,7 @@
         "MISSION_IDS_REQUIRED":"0",
         "QUEST_ALWAYS_EMPTY":"",
         "QUEST_BANNER_IMG":"sp_quest_banner_800170.png",
-        "QUEST_MAP_NUMBER/GUIDE_ID":"202001221",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"20200121",
         "QUEST_ZONE_MAP_NUMBER":"99",
         "QUEST_ZONE_NAME":"Mythological Entities [Daily]",
         "UNKNOWN_BOOLEAN_QUESTS":"10",
@@ -3385,6 +3385,34 @@
         "QUEST_ZONE_MAP_NUMBER":"99",
         "QUEST_ZONE_NAME":"Heavenly Paradise G12",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
+        "gq73WFmj":""
+    },
+    {
+        "DESCRIPTION":"SP Dungeon",
+        "IMAGE":"area_sp.jpg",
+        "MAP_OPENING_TEXT_FILE":"0",
+        "MISSION_AREA":"20000200",
+        "MISSION_IDS_REQUIRED":"0",
+        "QUEST_ALWAYS_EMPTY":"",
+        "QUEST_BANNER_IMG":"sp_quest_banner_vday2020_2.png",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"20200212",
+        "QUEST_ZONE_MAP_NUMBER":"99",
+        "QUEST_ZONE_NAME":"The Fiend Zone",
+        "UNKNOWN_BOOLEAN_QUESTS":"1",
+        "gq73WFmj":""
+    },
+    {
+        "DESCRIPTION":"SP Dungeon",
+        "IMAGE":"area_sp.jpg",
+        "MAP_OPENING_TEXT_FILE":"0",
+        "MISSION_AREA":"20000201",
+        "MISSION_IDS_REQUIRED":"0",
+        "QUEST_ALWAYS_EMPTY":"",
+        "QUEST_BANNER_IMG":"sp_quest_banner_vday2020_1.png",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"20200210",
+        "QUEST_ZONE_MAP_NUMBER":"99",
+        "QUEST_ZONE_NAME":"Daily Delve",
+        "UNKNOWN_BOOLEAN_QUESTS":"10",
         "gq73WFmj":""
     },
     {

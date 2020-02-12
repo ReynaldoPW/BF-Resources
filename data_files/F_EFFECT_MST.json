@@ -57120,6 +57120,13 @@
         "jeR2rN3V":"2"
     },
     {
+        "1NijIP2a":"120",
+        "1TED5ZSi":"9200050",
+        "CJpkT40r":"renatus8_Hit120",
+        "Heg8ZDQ7":"effect_prt_301_1.plist",
+        "jeR2rN3V":"2"
+    },
+    {
         "1NijIP2a":"140",
         "1TED5ZSi":"9400044",
         "CJpkT40r":"VA4dragon7s_BurstUpPurple",
@@ -57244,5 +57251,47 @@
         "CJpkT40r":"VA5Rhyne8s_Snake_Speedline",
         "Heg8ZDQ7":"10164BattleEffectSpeedLine4UbbAdd.sam",
         "jeR2rN3V":"4"
+    },
+    {
+        "1NijIP2a":"250",
+        "1TED5ZSi":"9400063",
+        "CJpkT40r":"Nimrah8_Atk",
+        "Heg8ZDQ7":"840848_Atk.sam",
+        "jeR2rN3V":"3"
+    },
+    {
+        "1NijIP2a":"250",
+        "1TED5ZSi":"9400064",
+        "CJpkT40r":"Nimrah8_Atk_Add",
+        "Heg8ZDQ7":"840848_Atk_Add.sam",
+        "jeR2rN3V":"4"
+    },
+    {
+        "1NijIP2a":"30",
+        "1TED5ZSi":"9400065",
+        "CJpkT40r":"Nimrah8_Hit",
+        "Heg8ZDQ7":"effect_prt_1013.plist",
+        "jeR2rN3V":"2"
+    },
+    {
+        "1NijIP2a":"45",
+        "1TED5ZSi":"9400066",
+        "CJpkT40r":"Nimrah8_HitSBB",
+        "Heg8ZDQ7":"effect_prt_1013.plist",
+        "jeR2rN3V":"2"
+    },
+    {
+        "1NijIP2a":"70",
+        "1TED5ZSi":"9400067",
+        "CJpkT40r":"Nimrah8_Hit2SBB",
+        "Heg8ZDQ7":"effect_prt_1136.plist",
+        "jeR2rN3V":"2"
+    },
+    {
+        "1NijIP2a":"65",
+        "1TED5ZSi":"9400068",
+        "CJpkT40r":"Nimrah8_HitUBB",
+        "Heg8ZDQ7":"effect_prt_1138_yellow.plist",
+        "jeR2rN3V":"2"
     }
 ]

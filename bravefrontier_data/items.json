@@ -6718,28 +6718,6 @@
         "thumbnail":"item_thum_22210.png",
         "type":"battle item"
     },
-    "13383":{
-        "desc":"MST_ITEMS_BATTLEITEMS_13383_SHORTDESCRIPTION",
-        "effects":[
-            {
-                "params":"",
-                "proc id":"0"
-            }
-        ],
-        "from raid":"false",
-        "guide id":"222",
-        "id":"13383",
-        "lore":"MST_ITEMS_BATTLEITEMS_13383_LONGDESCRIPTION",
-        "max equip":99,
-        "max stack":99,
-        "name":"MST_ITEMS_BATTLEITEMS_13383_NAME",
-        "rarity":0,
-        "sale caution":"false",
-        "sale price":100,
-        "target":"party",
-        "thumbnail":"item_thum_21100.png",
-        "type":"battle item"
-    },
     "13384":{
         "desc":"MST_ITEMS_BATTLEITEMS_13384_SHORTDESCRIPTION",
         "effects":[
@@ -37523,6 +37501,45 @@
         "sphere type":"SPHERE_TYPE_NAME_10",
         "target":"none",
         "thumbnail":"sphere_thum_819295.png",
+        "type":"sphere"
+    },
+    "819299":{
+        "desc":"MST_SPHERES_819299_SHORTDESCRIPTION",
+        "effects":[
+            {
+                "params":"100,0,0,0,0,0",
+                "proc id":"31"
+            },
+            {
+                "params":"98,4&2000&2000&100&0,-1,15000,-1",
+                "proc id":"78"
+            },
+            {
+                "params":"200,300,100",
+                "proc id":"47"
+            },
+            {
+                "params":"100,100",
+                "proc id":"77"
+            },
+            {
+                "params":"92,0&15&0,3,1,0,1,1,0",
+                "proc id":"66"
+            }
+        ],
+        "from raid":"false",
+        "guide id":"819299",
+        "id":"819299",
+        "lore":"A well-worn face mask of unknown origin. One of the relics excavated from the Frontier Spire, this mask radiates some sort of otherworldly energy, empowering its wielder with heroic powers.<br><br>This relic possesses a great deal of beneficial effects, a boon for Summoners conducting surveys of the Frontier Spire or other tasks. As much as the Akras Summoner's Hall would relish studying it in greater detail, it was eventually decided that Summoners should continue using it in the field, if only to better understand its powers.",
+        "max equip":1,
+        "max stack":1,
+        "name":"MST_SPHERES_819299_NAME",
+        "rarity":7,
+        "sale caution":"true",
+        "sale price":30000,
+        "sphere type":"SPHERE_TYPE_NAME_7",
+        "target":"none",
+        "thumbnail":"sphere_thum_818894.png",
         "type":"sphere"
     },
     "819901":{

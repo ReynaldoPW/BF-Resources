@@ -705,5 +705,12 @@
         "SCENARIO_SUPERSECTION*":"70000",
         "SP_CAT_ID":"100013",
         "SP_CAT_NAME":"Battles of Brave Frontier 2"
+    },
+    {
+        "DESCRIPTION":"Join Renatus, an artifact seeker, as he explores a tomb that promises treasures that cannot be measured with money.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"26",
+        "SCENARIO_SUPERSECTION*":"70000",
+        "SP_CAT_ID":"100014",
+        "SP_CAT_NAME":"The Fiend Zone"
     }
 ]
