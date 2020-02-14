@@ -21607,5 +21607,26 @@
         "SUMMON_GATE_NAME":"Valentines Summon",
         "gVSj32QH":"",
         "v9TR3cDz":""
+    },
+    {
+        "2HY3jpgu":"",
+        "3-4*_SUMMON_BOOLEAN???":"0",
+        "AI_PRIORITY":"2",
+        "AVAILABILITY_TIME_END":"2020-02-19 14:59:59",
+        "AVAILABILITY_TIME_START/AMOUNT_REQUIRED":"2020-02-14 15:00:00",
+        "BACKGROUND_IMAGE":"gacha_img_20200210LR_s1.png",
+        "DESCRIPTION":"",
+        "DOOR_IMAGE":"gacha_rare_door.png",
+        "GEM_COST":"5",
+        "HONOR_POINTS":"0",
+        "S1oz60Hc":"2",
+        "SUMMON_BUTTOM_IMAGE":"gacha_rare_summons_btn1.png",
+        "SUMMON_GATE_BASIC_ID?":"1273",
+        "SUMMON_GATE_DESCRIPTION_A":"<center>From <color=255:102:60>14 Feb 7:00 PST ~ 19 Feb 6:59 PST<\\/color>,<br>summon minimum <color=255:255:0>5?<\\/color> Global exclusive units with <color=0:255:0>Omni Potential<\\/color> and enjoy <color=0:255:0>Increased Rates<\\/color> on <color=255:0:0>Feng<\\/color>, <color=255:255:0>Long<\\/color> and <color=0:96:255>Galene<\\/color>!<center>",
+        "SUMMON_GATE_DESCRIPTION_B":"<center>Summon 2 units with Increased Rates on <color=255:0:0>Feng<\\/color>, <color=255:255:0>Long<\\/color> and <color=0:96:255>Galene<\\/color> with option to Resummon 1!<center>",
+        "SUMMON_GATE_ID":"18360",
+        "SUMMON_GATE_NAME":"Lover Resummon",
+        "gVSj32QH":"",
+        "v9TR3cDz":""
     }
 ]
