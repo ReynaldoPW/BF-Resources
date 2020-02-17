@@ -128,7 +128,7 @@
         "moWQ30GH":"F_AREA_MST"
     },
     {
-        "d2RFtP8T":"677",
+        "d2RFtP8T":"679",
         "moWQ30GH":"F_DUNGEON_MST"
     },
     {
@@ -240,7 +240,7 @@
         "moWQ30GH":"F_MISSION_NPC_UNIT_MST"
     },
     {
-        "d2RFtP8T":"95",
+        "d2RFtP8T":"97",
         "moWQ30GH":"F_GRAND_MISSION_MST"
     },
     {
@@ -468,7 +468,7 @@
         "moWQ30GH":"F_SKILL_LEVEL_MST"
     },
     {
-        "d2RFtP8T":"530",
+        "d2RFtP8T":"532",
         "moWQ30GH":"F_EXTRA_PASSIVE_SKILL_MST"
     },
     {
