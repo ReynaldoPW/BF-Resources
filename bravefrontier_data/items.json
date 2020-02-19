@@ -37503,6 +37503,45 @@
         "thumbnail":"sphere_thum_819295.png",
         "type":"sphere"
     },
+    "819296":{
+        "desc":"MST_SPHERES_819296_SHORTDESCRIPTION",
+        "effects":[
+            {
+                "params":"100,0,0,0,0,0",
+                "proc id":"31"
+            },
+            {
+                "params":"1",
+                "proc id":"34"
+            },
+            {
+                "params":"1,150,-1,10,3",
+                "proc id":"86"
+            },
+            {
+                "params":"20",
+                "proc id":"43"
+            },
+            {
+                "params":"1000,1500,100",
+                "proc id":"65"
+            }
+        ],
+        "from raid":"false",
+        "guide id":"819295",
+        "id":"819296",
+        "lore":"A handcrafted hairclip enchanted to mask one's aura. Cherished memento of Evie, heir to the throne in the Echo of Elysia. When Evie was very young, she displayed a stunning talent for Alethi arcane magic, no doubt inherited from her mother Miriam. Though the steppe-dwelling Eiros peoples were no stranger to such magics, Miriam knew that once they returned to Elysia, they would come under the close scrutiny of the court sorcerers. This was Miriam's gift of love and protection to her, and Evie has not gone without it ever since. Even after things had changed irreversibly between mother and daughter...",
+        "max equip":1,
+        "max stack":1,
+        "name":"MST_SPHERES_819296_NAME",
+        "rarity":7,
+        "sale caution":"true",
+        "sale price":30000,
+        "sphere type":"SPHERE_TYPE_NAME_13",
+        "target":"none",
+        "thumbnail":"sphere_thum_819296.png",
+        "type":"sphere"
+    },
     "819299":{
         "desc":"MST_SPHERES_819299_SHORTDESCRIPTION",
         "effects":[
