@@ -34864,6 +34864,36 @@
         "id":"860788",
         "name":"MST_LEADERSKILLS_860788_NAME"
     },
+    "860798":{
+        "desc":"MST_LEADERSKILLS_860798_DESCRIPTION",
+        "effects":[
+            {
+                "atk% buff":200,
+                "def% buff":140,
+                "hp% buff":140,
+                "passive id":"2"
+            },
+            {
+                "crit dmg%":250,
+                "passive id":"34"
+            },
+            {
+                "dmg% for spark":250,
+                "passive id":"31"
+            },
+            {
+                "passive id":"48",
+                "reduced bc cost%":30
+            },
+            {
+                "miti chance%":30,
+                "miti%":25,
+                "passive id":"14"
+            }
+        ],
+        "id":"860798",
+        "name":"MST_LEADERSKILLS_860798_NAME"
+    },
     "860808":{
         "desc":"MST_LEADERSKILLS_860808_DESCRIPTION",
         "effects":[

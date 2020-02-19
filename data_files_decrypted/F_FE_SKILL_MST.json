@@ -22035,6 +22035,61 @@
     {
         "DESCRIPTION":"",
         "EFFECT_AREA*":"1",
+        "LEVEL":"2",
+        "PROC/PASSIVE_ID(S)":"92",
+        "PROC/PASSIVE_PARAMETERS":"100",
+        "SP_ID":"1010500107",
+        "SP_NAME":"Negates ignore Def",
+        "SP_NEED_BP":"10",
+        "SP_SERIES":"1010500107"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
+        "LEVEL":"4",
+        "PROC/PASSIVE_ID(S)":"66",
+        "PROC/PASSIVE_PARAMETERS":"88,120&0&0&0&0&0&3&0,3,1,0,0,1,0",
+        "SP_ID":"1010500108",
+        "SP_NAME":"Add to SBB (Boosts own spark damage [120%] for 3 turns)",
+        "SP_NEED_BP":"20",
+        "SP_SERIES":"1010500108"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1@1",
+        "LEVEL":"4",
+        "PROC/PASSIVE_ID(S)":"66@66",
+        "PROC/PASSIVE_PARAMETERS":"132,30&0&75&0&3&0,2,2,0,0,1,0@58,40&100&2&0,2,2,0,0,1,0",
+        "SP_ID":"1010500109",
+        "SP_NAME":"Add to SBB (Spark vulnerability [40%] and probable [75%] 3 turns critical vulnerability [40%] Infliction)",
+        "SP_NEED_BP":"20",
+        "SP_SERIES":"1010500109"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
+        "LEVEL":"3",
+        "PROC/PASSIVE_ID(S)":"66",
+        "PROC/PASSIVE_PARAMETERS":"47,200&500&0&200&0&0&0&0,2,2,0,0,1,0",
+        "SP_ID":"1010500110",
+        "SP_NAME":"Add to SBB (34 combo Dark attack [200-500%] on all foes (damage relative to remaining HP))",
+        "SP_NEED_BP":"15",
+        "SP_SERIES":"1010500110"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"2@2@2@2",
+        "LEVEL":"3",
+        "PROC/PASSIVE_ID(S)":"5@24@10007@44",
+        "PROC/PASSIVE_PARAMETERS":"0,0,0,0,0,1,0@0,0,0,0,1,0@0,1,0,0@0,0,0,0,0,1,0",
+        "SP_ID":"1010500111",
+        "SP_NAME":"Allows BB effects to last an additional turn",
+        "SP_NEED_BP":"15",
+        "SP_SERIES":"1010500111"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
         "LEVEL":"5",
         "PROC/PASSIVE_ID(S)":"66",
         "PROC/PASSIVE_PARAMETERS":"31,2000&0,1,2,0,1,0,0",

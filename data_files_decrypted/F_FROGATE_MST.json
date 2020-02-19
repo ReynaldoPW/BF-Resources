@@ -722,7 +722,7 @@
     {
         "4N25Z87R":"3",
         "59b1eE6N":"1001,5000000,25000,10000000,50000,25000000,75000,50000000,100000,100000000,125000,:1002,5000000,25000,10000000,50000,25000000,75000,50000000,100000,100000000,125000,",
-        "AVAILABILITY_TIME_END":"1581580799",
+        "AVAILABILITY_TIME_END":"-62169984000",
         "AVAILABILITY_TIME_START/AMOUNT_REQUIRED":"1580976000",
         "DESCRIPTION":"The twilight of the demigods is nigh!<br>Following Ultor's demise at the hands of the Mad Heretic, the survivors must rally the last of their kin against Gazia and his powerful creation, Kranus. ",
         "DUNGEON_ID":"8000009",

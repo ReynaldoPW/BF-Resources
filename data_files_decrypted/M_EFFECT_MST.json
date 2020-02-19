@@ -41160,6 +41160,54 @@
         "EFFECT_AREA*":"2"
     },
     {
+        "1NijIP2a":"150",
+        "BATTLE_EFFECT_FILE":"860798BattleEffectOrbDrop.sam",
+        "BATTLE_EFFECT_ID":"8200262",
+        "EFFECT_AREA*":"3"
+    },
+    {
+        "1NijIP2a":"150",
+        "BATTLE_EFFECT_FILE":"860798BattleEffectOrbDropAdd.sam",
+        "BATTLE_EFFECT_ID":"8200263",
+        "EFFECT_AREA*":"4"
+    },
+    {
+        "1NijIP2a":"150",
+        "BATTLE_EFFECT_FILE":"860798BattleEffectGroundGlowPurpleAdd.sam",
+        "BATTLE_EFFECT_ID":"8200264",
+        "EFFECT_AREA*":"3"
+    },
+    {
+        "1NijIP2a":"150",
+        "BATTLE_EFFECT_FILE":"860798BattleEffectHemiOrbDarkCore.sam",
+        "BATTLE_EFFECT_ID":"8200265",
+        "EFFECT_AREA*":"3"
+    },
+    {
+        "1NijIP2a":"150",
+        "BATTLE_EFFECT_FILE":"860798BattleEffectHemiOrbDarkCoreAdd.sam",
+        "BATTLE_EFFECT_ID":"8200266",
+        "EFFECT_AREA*":"4"
+    },
+    {
+        "1NijIP2a":"150",
+        "BATTLE_EFFECT_FILE":"860798BattleEffectOrbJolt.sam",
+        "BATTLE_EFFECT_ID":"8200267",
+        "EFFECT_AREA*":"3"
+    },
+    {
+        "1NijIP2a":"150",
+        "BATTLE_EFFECT_FILE":"860798BattleEffectOrbJoltAdd.sam",
+        "BATTLE_EFFECT_ID":"8200268",
+        "EFFECT_AREA*":"4"
+    },
+    {
+        "1NijIP2a":"150",
+        "BATTLE_EFFECT_FILE":"860798BattleEffectButterflyFadeAdd.sam",
+        "BATTLE_EFFECT_ID":"8200269",
+        "EFFECT_AREA*":"3"
+    },
+    {
         "1NijIP2a":"100",
         "BATTLE_EFFECT_FILE":"810507BattleEffectDimBack.sam",
         "BATTLE_EFFECT_ID":"8300001",

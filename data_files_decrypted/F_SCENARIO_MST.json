@@ -8442,6 +8442,42 @@
         "SP_CAT_ID":"85006"
     },
     {
+        "DESCRIPTION":"In the aftermath of the King's passing, civil unrest breaks out.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"14",
+        "SCENARIO_ID":"87014",
+        "SCENARIO_NAME":"Upheaval",
+        "SCENARIO_TEXT_FILE":"GQX6_Arc2_EP1_1.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"85006"
+    },
+    {
+        "DESCRIPTION":"A familiar face in new and trying times.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"15",
+        "SCENARIO_ID":"87015",
+        "SCENARIO_NAME":"Grandt",
+        "SCENARIO_TEXT_FILE":"GQX6_Arc2_EP1_2.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"85006"
+    },
+    {
+        "DESCRIPTION":"Blood runs free in the royal courts as the rebels mount a full assault.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"16",
+        "SCENARIO_ID":"87016",
+        "SCENARIO_NAME":"The Red Audience",
+        "SCENARIO_TEXT_FILE":"GQX6_Arc2_EP1_3a.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"85006"
+    },
+    {
+        "DESCRIPTION":"Things didn't work out as planned... for the rebels.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"17",
+        "SCENARIO_ID":"87017",
+        "SCENARIO_NAME":"An Iron Fist",
+        "SCENARIO_TEXT_FILE":"GQX6_Arc2_EP1_3b.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"85006"
+    },
+    {
         "DESCRIPTION":"Welcome to an odd sort of theater - your audience awaits you with bated breath. Don't die.",
         "QUEST_MAP_NUMBER/GUIDE_ID":"97",
         "SCENARIO_ID":"88400",

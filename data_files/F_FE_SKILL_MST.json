@@ -22033,6 +22033,61 @@
         "yRlCNyvk":"Add to BB\\/SBB (2 turns DoT [600%] infliction)"
     },
     {
+        "2Smu5Mtq":"100",
+        "9PsmH7tz":"1010500107",
+        "D9wXQI2V":"2",
+        "G5wFDad6":"10",
+        "hjAy9St3":"92",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010500107",
+        "yRlCNyvk":"Negates ignore Def"
+    },
+    {
+        "2Smu5Mtq":"88,120&0&0&0&0&0&3&0,3,1,0,0,1,0",
+        "9PsmH7tz":"1010500108",
+        "D9wXQI2V":"4",
+        "G5wFDad6":"20",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010500108",
+        "yRlCNyvk":"Add to SBB (Boosts own spark damage [120%] for 3 turns)"
+    },
+    {
+        "2Smu5Mtq":"132,30&0&75&0&3&0,2,2,0,0,1,0@58,40&100&2&0,2,2,0,0,1,0",
+        "9PsmH7tz":"1010500109",
+        "D9wXQI2V":"4",
+        "G5wFDad6":"20",
+        "hjAy9St3":"66@66",
+        "jeR2rN3V":"1@1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010500109",
+        "yRlCNyvk":"Add to SBB (Spark vulnerability [40%] and probable [75%] 3 turns critical vulnerability [40%] Infliction)"
+    },
+    {
+        "2Smu5Mtq":"47,200&500&0&200&0&0&0&0,2,2,0,0,1,0",
+        "9PsmH7tz":"1010500110",
+        "D9wXQI2V":"3",
+        "G5wFDad6":"15",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010500110",
+        "yRlCNyvk":"Add to SBB (34 combo Dark attack [200-500%] on all foes (damage relative to remaining HP))"
+    },
+    {
+        "2Smu5Mtq":"0,0,0,0,0,1,0@0,0,0,0,1,0@0,1,0,0@0,0,0,0,0,1,0",
+        "9PsmH7tz":"1010500111",
+        "D9wXQI2V":"3",
+        "G5wFDad6":"15",
+        "hjAy9St3":"5@24@10007@44",
+        "jeR2rN3V":"2@2@2@2",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010500111",
+        "yRlCNyvk":"Allows BB effects to last an additional turn"
+    },
+    {
         "2Smu5Mtq":"31,2000&0,1,2,0,1,0,0",
         "9PsmH7tz":"1010700010",
         "D9wXQI2V":"5",
