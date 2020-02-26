@@ -22638,6 +22638,72 @@
         "yRlCNyvk":"Add to BB (30% Max HP+ till Death\\/Battle End (ALL), UBB(55% Max HP+ till Death\\/Battle End (ALL)))"
     },
     {
+        "2Smu5Mtq":"10",
+        "9PsmH7tz":"1010700061",
+        "D9wXQI2V":"4",
+        "G5wFDad6":"20",
+        "hjAy9St3":"111",
+        "jeR2rN3V":"5",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010700061",
+        "yRlCNyvk":"Enhances success rate of BB SBB Activation [+10%]"
+    },
+    {
+        "2Smu5Mtq":"31,1200&0,1,2,0,1,1,0",
+        "9PsmH7tz":"1010700062",
+        "D9wXQI2V":"5",
+        "G5wFDad6":"25",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010700062",
+        "yRlCNyvk":"Add to BB\\/SBB (fills BB gauge [12 BC])"
+    },
+    {
+        "2Smu5Mtq":"10016,0.5&3&0&5,1,2,0,0,1,0",
+        "9PsmH7tz":"1010700063",
+        "D9wXQI2V":"3",
+        "G5wFDad6":"15",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010700063",
+        "yRlCNyvk":"Add to SBB (boosts critical damage for light type [50%] for 3 turns)"
+    },
+    {
+        "2Smu5Mtq":"93,100&100&100&100&0&0&2&0,1,2,0,1,1,0",
+        "9PsmH7tz":"1010700064",
+        "D9wXQI2V":"5",
+        "G5wFDad6":"25",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010700064",
+        "yRlCNyvk":"Add to BB\\/SBB (negates critical and elemental damage for 2 turns effect)"
+    },
+    {
+        "2Smu5Mtq":"55,1&2&3&4&5&6&2&3&0,1,2,0,1,1,0",
+        "9PsmH7tz":"1010700065",
+        "D9wXQI2V":"5",
+        "G5wFDad6":"25",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010700065",
+        "yRlCNyvk":"Add to BB\\/SBB (boosts all elemental damage [200%] for 3 turns)"
+    },
+    {
+        "2Smu5Mtq":"8,0&25&0,1,2,0,1,0,0@8,0&50&0,1,2,0,0,0,1",
+        "9PsmH7tz":"1010700066",
+        "D9wXQI2V":"4",
+        "G5wFDad6":"20",
+        "hjAy9St3":"66@66",
+        "jeR2rN3V":"1@1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010700066",
+        "yRlCNyvk":"Add to BB (25% Max HP+ till Death\\/Battle End (ALL)), UBB(50% Max HP+ till Death\\/Battle End (ALL))"
+    },
+    {
         "2Smu5Mtq":"47,300$400$100",
         "9PsmH7tz":"1010700067",
         "D9wXQI2V":"5",
@@ -22724,6 +22790,39 @@
         "qp37xTDh":"",
         "ri6D9yBi":"1010700074",
         "yRlCNyvk":"Add to BB\\/SBB (Fills OD gauge [800 OD] at turn's end for 3 turns)"
+    },
+    {
+        "2Smu5Mtq":"20,600&900&100&3&0,1,2,0,1,0,0",
+        "9PsmH7tz":"1010700075",
+        "D9wXQI2V":"3",
+        "G5wFDad6":"15",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010700075",
+        "yRlCNyvk":"Add to BB (damage taken fills BB gauge for 3 turns)"
+    },
+    {
+        "2Smu5Mtq":"47,200&700&0&200&0&0&0&0,2,2,0,0,1,0",
+        "9PsmH7tz":"1010700076",
+        "D9wXQI2V":"5",
+        "G5wFDad6":"25",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010700076",
+        "yRlCNyvk":"Add to SBB (23 combo Earth on all foes (damage relative to remaining HP))"
+    },
+    {
+        "2Smu5Mtq":"18,50&3&0,1,2,0,1,1,0",
+        "9PsmH7tz":"1010700077",
+        "D9wXQI2V":"5",
+        "G5wFDad6":"25",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010700077",
+        "yRlCNyvk":"Add to BB\\/SBB (50% damage reduction for 3 turns)"
     },
     {
         "2Smu5Mtq":"100,0,0,0,0,0",

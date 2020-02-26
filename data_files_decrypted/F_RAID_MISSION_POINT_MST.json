@@ -5559,6 +5559,69 @@
     },
     {
         "8fjZN6Mx":"",
+        "ITEM_CRAFT_LIMIT":"1",
+        "LOCATION_NUMBER":"1",
+        "MISSION_ID":"87123",
+        "yx4YL1Ua":"87148"
+    },
+    {
+        "8fjZN6Mx":"7500:890015:20,2500:890015:30",
+        "ITEM_CRAFT_LIMIT":"2",
+        "LOCATION_NUMBER":"2",
+        "MISSION_ID":"87123",
+        "yx4YL1Ua":"87149"
+    },
+    {
+        "8fjZN6Mx":"4000:890015:20,2000:890013:10,2000:890006:5,1000:890014:3,1000:890012:5",
+        "ITEM_CRAFT_LIMIT":"2",
+        "LOCATION_NUMBER":"3",
+        "MISSION_ID":"87123",
+        "yx4YL1Ua":"87150"
+    },
+    {
+        "8fjZN6Mx":"4000:890015:20,2000:890013:10,2000:890005:5,1000:890014:3,1000:890011:5",
+        "ITEM_CRAFT_LIMIT":"2",
+        "LOCATION_NUMBER":"4",
+        "MISSION_ID":"87123",
+        "yx4YL1Ua":"87151"
+    },
+    {
+        "8fjZN6Mx":"4000:890015:20,2000:890013:10,2000:890004:5,1000:890014:3,1000:890010:5",
+        "ITEM_CRAFT_LIMIT":"2",
+        "LOCATION_NUMBER":"5",
+        "MISSION_ID":"87123",
+        "yx4YL1Ua":"87152"
+    },
+    {
+        "8fjZN6Mx":"4000:890015:20,2000:890013:10,2000:890003:5,1000:890014:3,1000:890009:5",
+        "ITEM_CRAFT_LIMIT":"2",
+        "LOCATION_NUMBER":"6",
+        "MISSION_ID":"87123",
+        "yx4YL1Ua":"87153"
+    },
+    {
+        "8fjZN6Mx":"4000:890015:20,2000:890013:10,2000:890002:5,1000:890014:3,1000:890008:5",
+        "ITEM_CRAFT_LIMIT":"2",
+        "LOCATION_NUMBER":"7",
+        "MISSION_ID":"87123",
+        "yx4YL1Ua":"87154"
+    },
+    {
+        "8fjZN6Mx":"",
+        "ITEM_CRAFT_LIMIT":"1",
+        "LOCATION_NUMBER":"8",
+        "MISSION_ID":"87123",
+        "yx4YL1Ua":"87155"
+    },
+    {
+        "8fjZN6Mx":"4000:890015:20,2000:890013:10,2000:890001:5,1000:890014:3,1000:890007:5",
+        "ITEM_CRAFT_LIMIT":"2",
+        "LOCATION_NUMBER":"9",
+        "MISSION_ID":"87123",
+        "yx4YL1Ua":"87156"
+    },
+    {
+        "8fjZN6Mx":"",
         "ITEM_CRAFT_LIMIT":"3",
         "LOCATION_NUMBER":"1",
         "MISSION_ID":"80000",

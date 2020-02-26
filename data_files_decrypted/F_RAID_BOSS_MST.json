@@ -2137,6 +2137,42 @@
     },
     {
         "8Pbr70Wv":"0",
+        "AI_ID?":"850000130",
+        "ALWAYS_AAA.JPG":"AAA.jpg",
+        "BOSS_SOUNTRACK":"br063_sec1_lboss02.mp3",
+        "RAID_BOSS_ID?":"87097",
+        "RAID_BOSS_NAME":"Dichroma Spectre",
+        "S8NI2xZk":"1",
+        "iSgK67Du":"5",
+        "ogFx8s2Y":"0",
+        "w46VY1zm":"600"
+    },
+    {
+        "8Pbr70Wv":"60",
+        "AI_ID?":"850000128",
+        "ALWAYS_AAA.JPG":"AAA.jpg",
+        "BOSS_SOUNTRACK":"br063_sec1_lboss02.mp3",
+        "RAID_BOSS_ID?":"87098",
+        "RAID_BOSS_NAME":"Windscourge Revenant",
+        "S8NI2xZk":"1",
+        "iSgK67Du":"5",
+        "ogFx8s2Y":"0",
+        "w46VY1zm":"600"
+    },
+    {
+        "8Pbr70Wv":"60",
+        "AI_ID?":"850000129",
+        "ALWAYS_AAA.JPG":"AAA.jpg",
+        "BOSS_SOUNTRACK":"br063_sec1_lboss02.mp3",
+        "RAID_BOSS_ID?":"87099",
+        "RAID_BOSS_NAME":"Pyreblight Revenant",
+        "S8NI2xZk":"1",
+        "iSgK67Du":"5",
+        "ogFx8s2Y":"0",
+        "w46VY1zm":"600"
+    },
+    {
+        "8Pbr70Wv":"0",
         "AI_ID?":"820000000",
         "ALWAYS_AAA.JPG":"AAA.jpg",
         "BOSS_SOUNTRACK":"bf049_raid_boss.mp3",

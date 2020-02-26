@@ -8478,6 +8478,42 @@
         "SP_CAT_ID":"85006"
     },
     {
+        "DESCRIPTION":"Evie finds her own way to quell the civil unrest; Xenon has the same idea.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"18",
+        "SCENARIO_ID":"87018",
+        "SCENARIO_NAME":"Behind Mother's Back",
+        "SCENARIO_TEXT_FILE":"GQX6_Arc2_EP2_1.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"85006"
+    },
+    {
+        "DESCRIPTION":"Miriam blocks off Estia's escape, but Evie takes sides against her own mother.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"19",
+        "SCENARIO_ID":"87019",
+        "SCENARIO_NAME":"Defiance",
+        "SCENARIO_TEXT_FILE":"GQX6_Arc2_EP2_2.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"85006"
+    },
+    {
+        "DESCRIPTION":"The suffering of another life etched indelibly into a soul that can never forget its torment.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"20",
+        "SCENARIO_ID":"87020",
+        "SCENARIO_NAME":"Skin-Deep",
+        "SCENARIO_TEXT_FILE":"GQX6_Arc2_EP2_3a.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"85006"
+    },
+    {
+        "DESCRIPTION":"The tower shakes with powerful battle magicks as Elaina seeks to undo Miriam's unholy spell.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"21",
+        "SCENARIO_ID":"87021",
+        "SCENARIO_NAME":"Ripples Through Time",
+        "SCENARIO_TEXT_FILE":"GQX6_Arc2_EP2_3b.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"85006"
+    },
+    {
         "DESCRIPTION":"Welcome to an odd sort of theater - your audience awaits you with bated breath. Don't die.",
         "QUEST_MAP_NUMBER/GUIDE_ID":"97",
         "SCENARIO_ID":"88400",

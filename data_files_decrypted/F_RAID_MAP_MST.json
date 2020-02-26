@@ -367,5 +367,14 @@
         "RESOLUTION_A_EXTENSION?":"0:200",
         "RESOLUTION_B?":"1748:1234",
         "RESOLUTION_B_EXTENSION?":"0:200"
+    },
+    {
+        "IMAGE":"rc7raidmap_3.png:0:-200",
+        "MAP_IMG_AREA_NUMBER":"8708",
+        "MAP_NAME":"South West Orebus Lv 2",
+        "RESOLUTION_A?":"1580:1560",
+        "RESOLUTION_A_EXTENSION?":"0:0",
+        "RESOLUTION_B?":"1580:1560",
+        "RESOLUTION_B_EXTENSION?":"0:0"
     }
 ]

@@ -2810,5 +2810,24 @@
         "TIME_TILL_EVENT":"2100",
         "UJTR1h5r":"0",
         "ZEL":"150000"
+    },
+    {
+        "DESCRIPTION":"Careful, Summoners - we've detected a powerful new signal coming from below ground, and it is HOT. This Revenant seems to have been forged in the fires of whatever hell lies beneath this blasted earth; be careful with anything metal on your person! Gear up and get ready to go!",
+        "IMAGE":"raid_room_quest_flame_green.png",
+        "KARMA":"15000",
+        "KR6JacN8":"4",
+        "MAP_IMG_AREA_NUMBER":"8708",
+        "MAP_OPENING_TEXT_FILE":"0,0",
+        "MISSION_ID":"87123",
+        "MISSION_IDS_REQUIRED":"0",
+        "MISSION_NAME":"Dichroma Mayhem",
+        "MISSION_TEXT":"<color=242:215:145>Target<\\/color>      Dichroma Spectre",
+        "QUEST_BANNER_IMAGE":"raid_room_shadow_boss_2009",
+        "RAID_CLEAR_REWARDS?":"1:11",
+        "RC":"7",
+        "SOUNDTRACK":"bf48_raid_battle.mp3",
+        "TIME_TILL_EVENT":"1800",
+        "UJTR1h5r":"0",
+        "ZEL":"120000"
     }
 ]

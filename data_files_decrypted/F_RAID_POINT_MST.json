@@ -3862,5 +3862,113 @@
         "MISSION_SOUNDTRACK":"bf051_boss02_vari02.mp3",
         "SnNtTh51":"1395",
         "X7g8cNAI":"30"
+    },
+    {
+        "??SOME_SORT_OF_MISSION_IDS_LIST??":"1:93100,0:93101",
+        "DUNGEON_IMAGE":"dungeon_battle_80161.jpg",
+        "IS_CAMP?":"1",
+        "LOCATION_NAME":"Dehn's Forge",
+        "LOCATION_NUMBER":"1",
+        "M6C1aXfR":"1295",
+        "MAP_IMG_AREA_NUMBER":"8708",
+        "MISSION_SOUNDTRACK":"bf051_boss02_vari02.mp3",
+        "SnNtTh51":"780",
+        "X7g8cNAI":"40"
+    },
+    {
+        "??SOME_SORT_OF_MISSION_IDS_LIST??":"",
+        "DUNGEON_IMAGE":"dungeon_battle_8300104.jpg",
+        "IS_CAMP?":"0",
+        "LOCATION_NAME":"Sand Storm",
+        "LOCATION_NUMBER":"2",
+        "M6C1aXfR":"725",
+        "MAP_IMG_AREA_NUMBER":"8708",
+        "MISSION_SOUNDTRACK":"bf051_boss02_vari02.mp3",
+        "SnNtTh51":"668",
+        "X7g8cNAI":"15"
+    },
+    {
+        "??SOME_SORT_OF_MISSION_IDS_LIST??":"3:20401,0:20400",
+        "DUNGEON_IMAGE":"dungeon_battle_20400.jpg",
+        "IS_CAMP?":"0",
+        "LOCATION_NAME":"Landing Site Three",
+        "LOCATION_NUMBER":"3",
+        "M6C1aXfR":"1095",
+        "MAP_IMG_AREA_NUMBER":"8708",
+        "MISSION_SOUNDTRACK":"bf051_boss02_vari02.mp3",
+        "SnNtTh51":"244",
+        "X7g8cNAI":"30"
+    },
+    {
+        "??SOME_SORT_OF_MISSION_IDS_LIST??":"3:82400,0:82401",
+        "DUNGEON_IMAGE":"dungeon_battle_80024.jpg",
+        "IS_CAMP?":"0",
+        "LOCATION_NAME":"Pre-Uplift Ruins",
+        "LOCATION_NUMBER":"4",
+        "M6C1aXfR":"825",
+        "MAP_IMG_AREA_NUMBER":"8708",
+        "MISSION_SOUNDTRACK":"bf051_boss02_vari02.mp3",
+        "SnNtTh51":"86",
+        "X7g8cNAI":"30"
+    },
+    {
+        "??SOME_SORT_OF_MISSION_IDS_LIST??":"3:91100,1:91101,0:91102",
+        "DUNGEON_IMAGE":"dungeon_battle_80135.jpg",
+        "IS_CAMP?":"0",
+        "LOCATION_NAME":"Containment Zone",
+        "LOCATION_NUMBER":"5",
+        "M6C1aXfR":"557",
+        "MAP_IMG_AREA_NUMBER":"8708",
+        "MISSION_SOUNDTRACK":"bf051_boss02_vari02.mp3",
+        "SnNtTh51":"436",
+        "X7g8cNAI":"30"
+    },
+    {
+        "??SOME_SORT_OF_MISSION_IDS_LIST??":"1:101800,0:101801",
+        "DUNGEON_IMAGE":"dungeon_battle_101800.jpg",
+        "IS_CAMP?":"0",
+        "LOCATION_NAME":"Cyanochronal Gate",
+        "LOCATION_NUMBER":"6",
+        "M6C1aXfR":"959",
+        "MAP_IMG_AREA_NUMBER":"8708",
+        "MISSION_SOUNDTRACK":"bf051_boss02_vari02.mp3",
+        "SnNtTh51":"1226",
+        "X7g8cNAI":"30"
+    },
+    {
+        "??SOME_SORT_OF_MISSION_IDS_LIST??":"2:8000487,1:8000486",
+        "DUNGEON_IMAGE":"dungeon_battle_8300105.jpg",
+        "IS_CAMP?":"0",
+        "LOCATION_NAME":"Pillars of Silence",
+        "LOCATION_NUMBER":"7",
+        "M6C1aXfR":"197",
+        "MAP_IMG_AREA_NUMBER":"8708",
+        "MISSION_SOUNDTRACK":"bf051_boss02_vari02.mp3",
+        "SnNtTh51":"1090",
+        "X7g8cNAI":"30"
+    },
+    {
+        "??SOME_SORT_OF_MISSION_IDS_LIST??":"2:85600,1:85601,0:85602",
+        "DUNGEON_IMAGE":"dungeon_battle_80071.jpg",
+        "IS_CAMP?":"1",
+        "LOCATION_NAME":"Windshear Camp",
+        "LOCATION_NUMBER":"8",
+        "M6C1aXfR":"285",
+        "MAP_IMG_AREA_NUMBER":"8708",
+        "MISSION_SOUNDTRACK":"bf051_boss02_vari02.mp3",
+        "SnNtTh51":"684",
+        "X7g8cNAI":"30"
+    },
+    {
+        "??SOME_SORT_OF_MISSION_IDS_LIST??":"3:89400,0:89401",
+        "DUNGEON_IMAGE":"dungeon_battle_80114.jpg",
+        "IS_CAMP?":"0",
+        "LOCATION_NAME":"Othroc's Revenge",
+        "LOCATION_NUMBER":"9",
+        "M6C1aXfR":"761",
+        "MAP_IMG_AREA_NUMBER":"8708",
+        "MISSION_SOUNDTRACK":"bf051_boss02_vari02.mp3",
+        "SnNtTh51":"1126",
+        "X7g8cNAI":"30"
     }
 ]
