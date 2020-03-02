@@ -12480,26 +12480,50 @@
     },
     "18470":{
         "background image":"gacha_img_20200227GF_s1.png",
-        "desc":"From 27 Feb 7:00 PST ~ 4 Mar 6:59 PST, summon minimum 5* Global exclusive units with Omni Potential and enjoy Increased Rates are applied on Feora!",
+        "desc":"From 27 Feb 7:00 PST ~ 4 Mar 6:59 PST, summon minimum 5* Global exclusive units with Omni Potential and enjoy Increased Rates are applied on Fe\u00f2ra!",
         "door image":"gacha_rare_door.png",
         "end time":"2020-03-04 14:59:59",
         "gem cost":5,
         "name":"Gloom Summon",
         "priority":"2",
-        "short desc":"Feora is available through the Summon Gate! Get a Global Exclusive Elgif for every 10 Summons from the same gate!",
+        "short desc":"Fe\u00f2ra is available through the Summon Gate! Get a Global Exclusive Elgif for every 10 Summons from the same gate!",
         "start time":"2020-02-27 15:00:00",
         "summon button image":"gacha_rare_summons_btn1.png"
     },
     "18480":{
         "background image":"gacha_img_20200227UF_s1.png",
-        "desc":"From 27 Feb 7:00 PST ~ 4 Mar 6:59 PST, summon minimum 5* Global exclusive units with Omni Potential and enjoy Increased Rates are applied on Feora!",
+        "desc":"From 27 Feb 7:00 PST ~ 4 Mar 6:59 PST, summon minimum 5* Global exclusive units with Omni Potential and enjoy Increased Rates are applied on Fe\u00f2ra!",
         "door image":"gacha_rare_door.png",
         "end time":"2020-03-04 14:59:59",
         "gem cost":5,
         "name":"Umbrage Summon",
         "priority":"2",
-        "short desc":"Feora is available through the Summon Gate! Get a Brave Insignia token from each summon from this gate!",
+        "short desc":"Fe\u00f2ra is available through the Summon Gate! Get a Brave Insignia token from each summon from this gate!",
         "start time":"2020-02-27 15:00:00",
+        "summon button image":"gacha_rare_summons_btn1.png"
+    },
+    "18490":{
+        "background image":"gacha_img_20200302OB.png",
+        "desc":"From 2 Mar 7:00 PST ~ 13 Mar 6:59 PST, summon minimum 5* Global exclusive units with Omni Potential and enjoy Increased Rates on Galea, Wannahon and Tarok!",
+        "door image":"gacha_rare_door.png",
+        "end time":"2020-03-13 14:59:59",
+        "gem cost":5,
+        "name":"Orebus Bond Summon",
+        "priority":"2",
+        "short desc":"Galea, Wannahon and Tarok are available with Increased Rates through the Summon Gate! ",
+        "start time":"2020-03-02 15:00:00",
+        "summon button image":"gacha_rare_summons_btn1.png"
+    },
+    "18500":{
+        "background image":"gacha_img_20200302OA.png",
+        "desc":"From 2 Mar 7:00 PST ~ 13 Mar 6:59 PST, get a 100% Chance to summon Galea, Wannahon or Tarok! Get a bonus Summon Ticket on the 4th Summon and a Dual Brave Burst Token on every Summon!",
+        "door image":"gacha_rare_door.png",
+        "end time":"2020-03-13 14:59:59",
+        "gem cost":5,
+        "name":"Orebus Awaken Summon",
+        "priority":"2",
+        "short desc":"Get a 100% Chance to summon Galea, Wannahon or Tarok! Exchange DBB Potential Units from the Bazaar with the Dual Brave Burst Tokens!",
+        "start time":"2020-03-02 15:00:00",
         "summon button image":"gacha_rare_summons_btn1.png"
     }
 }
