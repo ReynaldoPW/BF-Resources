@@ -19143,6 +19143,33 @@
         "id":"7503",
         "name":"MST_LEADERSKILLS_7503_NAME"
     },
+    "750317":{
+        "desc":"MST_LEADERSKILLS_750317_DESCRIPTION",
+        "effects":[
+            {
+                "hp% buff":180,
+                "passive id":"1"
+            },
+            {
+                "dmg% for spark":250,
+                "passive id":"31"
+            },
+            {
+                "params":"50,100",
+                "passive id":"100"
+            },
+            {
+                "bc fill per turn":10,
+                "passive id":"9"
+            },
+            {
+                "params":"30",
+                "passive id":"70"
+            }
+        ],
+        "id":"750317",
+        "name":"MST_LEADERSKILLS_750317_NAME"
+    },
     "7504":{
         "desc":"MST_LEADERSKILLS_7504_DESCRIPTION",
         "effects":[

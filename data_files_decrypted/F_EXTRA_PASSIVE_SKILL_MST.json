@@ -6788,6 +6788,19 @@
     {
         "AI_PRIORITY":"0",
         "CONTRIBUTIONS_TYPE":"1",
+        "DESCRIPTION":"MST_EXTRAPASSIVESKILL_750317_DESCRIPTION",
+        "ES_ID":"750317",
+        "ES_PARAMETERS":"1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0",
+        "FILE_NAME":"0",
+        "NAME":"",
+        "PROC/PASSIVE_ID(S)":"1,2@25,2@128,2@34,1@73,1",
+        "PROC/PASSIVE_PARAMETERS":"20,20,20,0,20@100,200,100@100,5,0,0@1.5@100,100,100,100,100,100,100,100,100",
+        "RARITY":"7",
+        "outas79f":"0"
+    },
+    {
+        "AI_PRIORITY":"0",
+        "CONTRIBUTIONS_TYPE":"1",
         "DESCRIPTION":"MST_EXTRAPASSIVESKILL_760006_DESCRIPTION",
         "ES_ID":"760006",
         "ES_PARAMETERS":"1#5,5%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#5,5%0,0%0,0%0,0",
@@ -17819,6 +17832,19 @@
         "NAME":"",
         "PROC/PASSIVE_ID(S)":"2,1@50,2@128,1@106,1",
         "PROC/PASSIVE_PARAMETERS":"1,4,40,40,40,0,40@1,4,0,0,0,0,0.15@100,10,100,10@12,100,1,100,-1",
+        "RARITY":"7",
+        "outas79f":"0"
+    },
+    {
+        "AI_PRIORITY":"0",
+        "CONTRIBUTIONS_TYPE":"2",
+        "DESCRIPTION":"MST_EXTRAPASSIVESKILL_8000514_DESCRIPTION",
+        "ES_ID":"8000514",
+        "ES_PARAMETERS":"1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0",
+        "FILE_NAME":"0",
+        "NAME":"",
+        "PROC/PASSIVE_ID(S)":"2,1@50,2@128,1@106,1",
+        "PROC/PASSIVE_PARAMETERS":"2,3,40,40,40,0,40@2,3,0,0,0,0,0.15@100,10,100,10@12,100,1,100,-1",
         "RARITY":"7",
         "outas79f":"0"
     },

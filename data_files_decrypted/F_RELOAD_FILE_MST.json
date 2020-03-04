@@ -2030,5 +2030,9 @@
     {
         "RELOAD_FILES":"unit_ills_battle_810837.png,unit_ills_battle_810838.png,unit_ills_battle_820677.png,unit_ills_battle_820678.png,unit_ills_battle_820848.png,unit_ills_battle_830838.png",
         "RELOAD_ID":"3080"
+    },
+    {
+        "RELOAD_FILES":"layout_mytown_sphere_mix.csv",
+        "RELOAD_ID":"3081"
     }
 ]

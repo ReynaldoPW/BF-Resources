@@ -27415,7 +27415,7 @@
         "desc":"MST_SPHERES_818918_SHORTDESCRIPTION",
         "effects":[
             {
-                "params":"0,0,0,0,100,100,0,0,0,0",
+                "params":"100,100,0,0,100,100,0,0,0,0",
                 "proc id":"53"
             },
             {
@@ -27434,7 +27434,7 @@
         "max equip":1,
         "max stack":1,
         "name":"MST_SPHERES_818918_NAME",
-        "rarity":6,
+        "rarity":3,
         "sale caution":"true",
         "sale price":10000,
         "sphere type":"SPHERE_TYPE_NAME_1",
@@ -37050,7 +37050,7 @@
         "from raid":"false",
         "guide id":"819275",
         "id":"819275",
-        "lore":"MST_SPHERES_819275_LONGDESCRIPTION",
+        "lore":"A cane owned by Alphie, one of the twelve candidates sent to the realm of humans as part of a competition.<br><br> Always ready to lend a hand (or hoof), Goat made up for his small size with a big heart. Friend to those who look past his raggedly appearance, he does all he can to bring joy with the little things in life\u2014be it a simple mended boot for an orphan child, or a timely fix on a broken axle for an accident-prone journeyman.<br><br> After all, who else was capable of walking up a nearly vertical cliff?",
         "max equip":1,
         "max stack":1,
         "name":"MST_SPHERES_819275_NAME",
@@ -37093,7 +37093,7 @@
         "from raid":"false",
         "guide id":"819276",
         "id":"819276",
-        "lore":"MST_SPHERES_819276_LONGDESCRIPTION",
+        "lore":"A cane topper fashioned after an alpine goat sporting fantastic golden horns. Especially prominent on a certain elfin mountaineer's staff, this topper has become almost synonymous with Alphie, the celestial goat.<br><br> Legend has it that a hunter, seeking the creature's head, lost his way in the vallery in pursuit of his quarry. Just then, two narrow streaks of light cut through the dusk, and led the man safely home to his family.<br><br> As the mist cleared with the dawn, the man realised the truth of his savior\u2014the same golden-horned goat. Thereafter, the man laid down his hunting arms forever.",
         "max equip":1,
         "max stack":1,
         "name":"MST_SPHERES_819276_NAME",
@@ -37661,6 +37661,76 @@
         "sphere type":"SPHERE_TYPE_NAME_7",
         "target":"none",
         "thumbnail":"sphere_thum_818894.png",
+        "type":"sphere"
+    },
+    "819311":{
+        "desc":"MST_SPHERES_819311_SHORTDESCRIPTION",
+        "effects":[
+            {
+                "params":"2,3,55,55,55,0,55",
+                "proc id":"2"
+            },
+            {
+                "params":"2,3,0,0,0,0,3",
+                "proc id":"50"
+            },
+            {
+                "params":"200",
+                "proc id":"70"
+            },
+            {
+                "params":"2,3,0,0,0,0,10",
+                "proc id":"62"
+            }
+        ],
+        "from raid":"false",
+        "guide id":"819311",
+        "id":"819311",
+        "lore":"A brilliant medal featuring a mane of emerald and sapphire jewels. It brims with the strength of nature itself, invoking the roaring seas and rumbling earth. Grants its bearer great power over Water and Earth.",
+        "max equip":1,
+        "max stack":1,
+        "name":"MST_SPHERES_819311_NAME",
+        "rarity":7,
+        "sale caution":"true",
+        "sale price":30000,
+        "sphere type":"SPHERE_TYPE_NAME_14",
+        "target":"none",
+        "thumbnail":"sphere_thum_819311.png",
+        "type":"sphere"
+    },
+    "819312":{
+        "desc":"MST_SPHERES_819312_SHORTDESCRIPTION",
+        "effects":[
+            {
+                "params":"2,3,50,50,50,0,50",
+                "proc id":"2"
+            },
+            {
+                "params":"2,3,0,0,0,0,2.5",
+                "proc id":"50"
+            },
+            {
+                "params":"200",
+                "proc id":"70"
+            },
+            {
+                "params":"2,3,0,0,0,0,10",
+                "proc id":"62"
+            }
+        ],
+        "from raid":"false",
+        "guide id":"819312",
+        "id":"819312",
+        "lore":"A golden medal set with emeralds and sapphires. It thrums not only with the strength of the sea-dwelling spirits, but those of the earth as well. Grants its bearer power over Water and Earth.",
+        "max equip":1,
+        "max stack":1,
+        "name":"MST_SPHERES_819312_NAME",
+        "rarity":7,
+        "sale caution":"true",
+        "sale price":30000,
+        "sphere type":"SPHERE_TYPE_NAME_14",
+        "target":"none",
+        "thumbnail":"sphere_thum_819312.png",
         "type":"sphere"
     },
     "819901":{

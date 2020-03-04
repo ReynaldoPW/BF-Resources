@@ -22825,6 +22825,50 @@
         "yRlCNyvk":"Add to BB\\/SBB (50% damage reduction for 3 turns)"
     },
     {
+        "2Smu5Mtq":"100",
+        "9PsmH7tz":"1010700078",
+        "D9wXQI2V":"2",
+        "G5wFDad6":"10",
+        "hjAy9St3":"92",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010700078",
+        "yRlCNyvk":"Negates ignore Def"
+    },
+    {
+        "2Smu5Mtq":"200000",
+        "9PsmH7tz":"1010700079",
+        "D9wXQI2V":"3",
+        "G5wFDad6":"15",
+        "hjAy9St3":"143",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010700079",
+        "yRlCNyvk":"Raises Atk parameter limits to 200k"
+    },
+    {
+        "2Smu5Mtq":"0,1,0",
+        "9PsmH7tz":"1010700080",
+        "D9wXQI2V":"2",
+        "G5wFDad6":"10",
+        "hjAy9St3":"18",
+        "jeR2rN3V":"2",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010700080",
+        "yRlCNyvk":"Allows BB's damage reduction effect to last for additional 1 turn"
+    },
+    {
+        "2Smu5Mtq":"58,40&100&2&0,2,2,0,1,1,0",
+        "9PsmH7tz":"1010700081",
+        "D9wXQI2V":"5",
+        "G5wFDad6":"25",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010700081",
+        "yRlCNyvk":"Add to BB\\/SBB (2 turns spark vulnerability [40%] infliction)"
+    },
+    {
         "2Smu5Mtq":"100,0,0,0,0,0",
         "9PsmH7tz":"1000000057",
         "D9wXQI2V":"3",

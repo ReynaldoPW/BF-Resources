@@ -12525,5 +12525,41 @@
         "short desc":"Get a 100% Chance to summon Galea, Wannahon or Tarok! Exchange DBB Potential Units from the Bazaar with the Dual Brave Burst Tokens!",
         "start time":"2020-03-02 15:00:00",
         "summon button image":"gacha_rare_summons_btn1.png"
+    },
+    "18510":{
+        "background image":"gacha_img_20200304HS.png",
+        "desc":"From 4 Mar 7:00 PST ~ 1 Apr 6:59 PST, use your DBB Origin Heroes Selector Ticket to summon one of the Original DBB Heroes! Remember, this ticket is only valid till 1st Apr, so dont miss this chance to strengthen you squad!",
+        "door image":"gacha_rare_door.png",
+        "end time":"2020-04-01 14:59:59",
+        "gem cost":999,
+        "name":"DBB Origin Selector",
+        "priority":"2",
+        "short desc":"Here is your chance to unleash the bonded power of your squad! Summon any one of the units from our DBB Origin Heroes!",
+        "start time":"2020-03-04 15:00:00",
+        "summon button image":"gacha_rare_summons_btn1.png"
+    },
+    "18520":{
+        "background image":"gacha_img_20200304SD.png",
+        "desc":"From 4 Mar 7:00 PST ~ 1 Apr 6:59 PST, summon minimum 5* Global exclusive units with Omni Potential and enjoy Increased Rates with each summon on past Spring exclusive units!",
+        "door image":"gacha_rare_door.png",
+        "end time":"2020-04-01 14:59:59",
+        "gem cost":5,
+        "name":"Spring Daily Summon",
+        "priority":"2",
+        "short desc":"Past Spring exclusive units is available through the Summon Gate!",
+        "start time":"2020-03-04 15:00:00",
+        "summon button image":"gacha_rare_summons_btn1.png"
+    },
+    "18530":{
+        "background image":"gacha_img_20200304O_s1.png",
+        "desc":"From 4 Mar 7:00 PST ~ 18 Mar 6:59 PST, summon minimum 5* Global exclusive units with Omni Potential and enjoy Increased Rates with each summon on Odin up to the 8th Summon!",
+        "door image":"gacha_rare_door.png",
+        "end time":"2020-03-18 14:59:59",
+        "gem cost":5,
+        "name":"World Heroes Summon",
+        "priority":"2",
+        "short desc":"Odin is available through the Summon Gate! Get a Global Exclusive Elgif for every 10 Summons from the same gate!",
+        "start time":"2020-03-04 15:00:00",
+        "summon button image":"gacha_rare_summons_btn1.png"
     }
 }

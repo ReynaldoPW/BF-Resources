@@ -7686,7 +7686,7 @@
         "THUMBNAIL":""
     },
     {
-        "0u1nvMeS":"80017000",
+        "0u1nvMeS":"99",
         "3hPeI1RV":"0",
         "DESCRIPTION":"",
         "DUNGEON_ID":"800169",
@@ -7716,6 +7716,24 @@
         "MISSION_IDS_REQUIRED":"0",
         "QUEST_ALWAYS_EMPTY":"",
         "QUEST_BANNER_IMAGE":"sp_quest_banner_800170.png",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"1",
+        "QUEST_ZONE_MAP_NUMBER":"99",
+        "SnNtTh51":"300",
+        "THUMBNAIL":""
+    },
+    {
+        "0u1nvMeS":"99",
+        "3hPeI1RV":"100",
+        "DESCRIPTION":"",
+        "DUNGEON_ID":"800180",
+        "DUNGEON_IMAGE":"dungeon_battle_80055.jpg",
+        "DUNGEON_NAME":"Treasure Paradise",
+        "M6C1aXfR":"300",
+        "MAP_OPENING_TEXT_FILE":"0,0",
+        "MISSION_AREA":"800180",
+        "MISSION_IDS_REQUIRED":"0",
+        "QUEST_ALWAYS_EMPTY":"",
+        "QUEST_BANNER_IMAGE":"sp_quest_banner_800180_1.png",
         "QUEST_MAP_NUMBER/GUIDE_ID":"1",
         "QUEST_ZONE_MAP_NUMBER":"99",
         "SnNtTh51":"300",
@@ -10532,7 +10550,7 @@
     {
         "0u1nvMeS":"99",
         "3hPeI1RV":"4",
-        "DESCRIPTION":"Betrayal leaves a bitter taste in Miriam's mouth, as the Shade's words come to pass.",
+        "DESCRIPTION":"All hail Queen Miriam, ruler of Elysia for thirteen glorious years!",
         "DUNGEON_ID":"5008010",
         "DUNGEON_IMAGE":"dungeon_battle_10100.jpg",
         "DUNGEON_NAME":"The Echoing Void",

@@ -8514,6 +8514,42 @@
         "SP_CAT_ID":"85006"
     },
     {
+        "DESCRIPTION":"Elaina tends to Estia reeling from her nightmarish ordeal, while Miriam and Evie are taken to a familiar phantom landscape.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"22",
+        "SCENARIO_ID":"87022",
+        "SCENARIO_NAME":"Shattered Ordeal",
+        "SCENARIO_TEXT_FILE":"GQX6_Arc2_EP3_1.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"85006"
+    },
+    {
+        "DESCRIPTION":"Miriam reveals her prophetic visions -- a chance to defy fate and to save her only daughter at the cost of Evie's freedom.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"23",
+        "SCENARIO_ID":"87023",
+        "SCENARIO_NAME":"Twisted Salvation",
+        "SCENARIO_TEXT_FILE":"GQX6_Arc2_EP3_2.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"85006"
+    },
+    {
+        "DESCRIPTION":"Amidst the snow-touched steppes of Eiros, mother and daughter find themselves at a point of no return.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"24",
+        "SCENARIO_ID":"87024",
+        "SCENARIO_NAME":"Halcyon Days",
+        "SCENARIO_TEXT_FILE":"GQX6_Arc2_EP3_3a.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"85006"
+    },
+    {
+        "DESCRIPTION":"Evie takes up the crown as the last monarch of House Valen, but there are some things not even time can erase.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"25",
+        "SCENARIO_ID":"87025",
+        "SCENARIO_NAME":"Unbowed Legacy",
+        "SCENARIO_TEXT_FILE":"GQX6_Arc2_EP3_3b.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"85006"
+    },
+    {
         "DESCRIPTION":"Welcome to an odd sort of theater - your audience awaits you with bated breath. Don't die.",
         "QUEST_MAP_NUMBER/GUIDE_ID":"97",
         "SCENARIO_ID":"88400",

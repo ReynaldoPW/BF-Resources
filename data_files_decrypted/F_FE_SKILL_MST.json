@@ -22827,6 +22827,50 @@
     {
         "DESCRIPTION":"",
         "EFFECT_AREA*":"1",
+        "LEVEL":"2",
+        "PROC/PASSIVE_ID(S)":"92",
+        "PROC/PASSIVE_PARAMETERS":"100",
+        "SP_ID":"1010700078",
+        "SP_NAME":"Negates ignore Def",
+        "SP_NEED_BP":"10",
+        "SP_SERIES":"1010700078"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
+        "LEVEL":"3",
+        "PROC/PASSIVE_ID(S)":"143",
+        "PROC/PASSIVE_PARAMETERS":"200000",
+        "SP_ID":"1010700079",
+        "SP_NAME":"Raises Atk parameter limits to 200k",
+        "SP_NEED_BP":"15",
+        "SP_SERIES":"1010700079"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"2",
+        "LEVEL":"2",
+        "PROC/PASSIVE_ID(S)":"18",
+        "PROC/PASSIVE_PARAMETERS":"0,1,0",
+        "SP_ID":"1010700080",
+        "SP_NAME":"Allows BB's damage reduction effect to last for additional 1 turn",
+        "SP_NEED_BP":"10",
+        "SP_SERIES":"1010700080"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
+        "LEVEL":"5",
+        "PROC/PASSIVE_ID(S)":"66",
+        "PROC/PASSIVE_PARAMETERS":"58,40&100&2&0,2,2,0,1,1,0",
+        "SP_ID":"1010700081",
+        "SP_NAME":"Add to BB\\/SBB (2 turns spark vulnerability [40%] infliction)",
+        "SP_NEED_BP":"25",
+        "SP_SERIES":"1010700081"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
         "LEVEL":"3",
         "PROC/PASSIVE_ID(S)":"31",
         "PROC/PASSIVE_PARAMETERS":"100,0,0,0,0,0",
