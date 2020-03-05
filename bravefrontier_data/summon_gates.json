@@ -12420,7 +12420,7 @@
     },
     "18420":{
         "background image":"gacha_img_20200221RHS.png",
-        "desc":"From 21 Feb 7:00 PST ~ 9 Mar 6:59 PST, , use your Raid Heroes Selector Ticket to summon one of the Orebus Raid Heroes! Remember, this ticket is only valid till 9th Mar, so dont miss this chance to strengthen you squad!",
+        "desc":"From 21 Feb 7:00 PST ~ 9 Mar 6:59 PST, , use your Raid Heroes Selector Ticket to summon one of the Orebus Raid Heroes! Remember, this ticket is only valid till 9th Mar, so dont miss this chance to strengthen your squad!",
         "door image":"gacha_rare_door.png",
         "end time":"2020-03-09 14:59:59",
         "gem cost":999,
@@ -12528,7 +12528,7 @@
     },
     "18510":{
         "background image":"gacha_img_20200304HS.png",
-        "desc":"From 4 Mar 7:00 PST ~ 1 Apr 6:59 PST, use your DBB Origin Heroes Selector Ticket to summon one of the Original DBB Heroes! Remember, this ticket is only valid till 1st Apr, so dont miss this chance to strengthen you squad!",
+        "desc":"From 4 Mar 7:00 PST ~ 1 Apr 6:59 PST, use your DBB Origin Heroes Selector Ticket to summon one of the Original DBB Heroes! Remember, this ticket is only valid till 1st Apr, so dont miss this chance to strengthen your squad!",
         "door image":"gacha_rare_door.png",
         "end time":"2020-04-01 14:59:59",
         "gem cost":999,
@@ -12560,6 +12560,18 @@
         "priority":"2",
         "short desc":"Odin is available through the Summon Gate! Get a Global Exclusive Elgif for every 10 Summons from the same gate!",
         "start time":"2020-03-04 15:00:00",
+        "summon button image":"gacha_rare_summons_btn1.png"
+    },
+    "18540":{
+        "background image":"gacha_img_20200305WU_s1.png",
+        "desc":"From 5 Mar 7:00 PST ~ 11 Mar 6:59 PST, summon minimum 5* Global exclusive units with Omni Potential and enjoy Increased Rates with each summon on Frigg and Yggdrasil!",
+        "door image":"gacha_rare_door.png",
+        "end time":"2020-03-11 14:59:59",
+        "gem cost":5,
+        "name":"World Unite Summon",
+        "priority":"2",
+        "short desc":"Frigg and Yggdrasil is are available through the Summon Gate! Get a Earth & Dark DBB Mystery Chest for every 7 Summons from the same gate!",
+        "start time":"2020-03-05 15:00:00",
         "summon button image":"gacha_rare_summons_btn1.png"
     }
 }
