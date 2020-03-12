@@ -16678,13 +16678,13 @@
     {
         "DESCRIPTION":"",
         "EFFECT_AREA*":"1",
-        "LEVEL":"5",
+        "LEVEL":"4",
         "PROC/PASSIVE_ID(S)":"80",
-        "PROC/PASSIVE_PARAMETERS":"36,25,-1,50000,1,0,0,0,0,0",
+        "PROC/PASSIVE_PARAMETERS":"36,25,100,50000,1",
         "SP_ID":"1000010044",
-        "SP_NAME":"Slightly reduces damage for 1 turn when damage dealt has exceeded certain amount",
-        "SP_NEED_BP":"30",
-        "SP_SERIES":"1000020039"
+        "SP_NAME":"Reduce DMG+ (25%) after DMG Dealt > 50k (SELF) 1Turn",
+        "SP_NEED_BP":"20",
+        "SP_SERIES":"1000010044"
     },
     {
         "DESCRIPTION":"",
@@ -22871,6 +22871,50 @@
     {
         "DESCRIPTION":"",
         "EFFECT_AREA*":"1",
+        "LEVEL":"2",
+        "PROC/PASSIVE_ID(S)":"11",
+        "PROC/PASSIVE_PARAMETERS":"100,0,0,0,50,1",
+        "SP_ID":"1011000000",
+        "SP_NAME":"100% boost to Atk when HP is over 50%",
+        "SP_NEED_BP":"10",
+        "SP_SERIES":"1011000000"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
+        "LEVEL":"5",
+        "PROC/PASSIVE_ID(S)":"66",
+        "PROC/PASSIVE_PARAMETERS":"10007,100&2&0&20,1,2,0,1,0,0",
+        "SP_ID":"1011000002",
+        "SP_NAME":"Add to BB (Probable [20%] evasion for 2 turns)",
+        "SP_NEED_BP":"25",
+        "SP_SERIES":"1011000002"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"4@4@4@4",
+        "LEVEL":"5",
+        "PROC/PASSIVE_ID(S)":"23@26@5@9",
+        "PROC/PASSIVE_PARAMETERS":"0,0,0,0,0,0,1,0@0,0,0,0,0,0,0,1,0@0,0,0,0,0,1,0@0,0,0,0,0,0,0,1,0",
+        "SP_ID":"1011000003",
+        "SP_NAME":"Allows UBB effects to last for one more turn",
+        "SP_NEED_BP":"25",
+        "SP_SERIES":"1011000003"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"2",
+        "LEVEL":"6",
+        "PROC/PASSIVE_ID(S)":"31",
+        "PROC/PASSIVE_PARAMETERS":"300,0",
+        "SP_ID":"1011000004",
+        "SP_NAME":"Enhances BB's boost to BB gauge effect",
+        "SP_NEED_BP":"30",
+        "SP_SERIES":"1011000004"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
         "LEVEL":"3",
         "PROC/PASSIVE_ID(S)":"31",
         "PROC/PASSIVE_PARAMETERS":"100,0,0,0,0,0",
@@ -27410,6 +27454,61 @@
         "SP_NAME":"170% spark damage",
         "SP_NEED_BP":"15",
         "SP_SERIES":"1010700016"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
+        "LEVEL":"3",
+        "PROC/PASSIVE_ID(S)":"14",
+        "PROC/PASSIVE_PARAMETERS":"25,30",
+        "SP_ID":"1100000488",
+        "SP_NAME":"Probable [30%] 25% damage reduction",
+        "SP_NEED_BP":"20",
+        "SP_SERIES":"1100000488"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
+        "LEVEL":"4",
+        "PROC/PASSIVE_ID(S)":"66",
+        "PROC/PASSIVE_PARAMETERS":"10016,0.75&3&0&5,1,2,0,0,1,0",
+        "SP_ID":"1100000489",
+        "SP_NAME":"Add to SBB (boosts critical damage [75%] (Light) for 3 turns)",
+        "SP_NEED_BP":"20",
+        "SP_SERIES":"1100000489"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
+        "LEVEL":"4",
+        "PROC/PASSIVE_ID(S)":"66",
+        "PROC/PASSIVE_PARAMETERS":"47,200&500&0&200&0&0&0&0,2,1,2,0,1,0",
+        "SP_ID":"1100000490",
+        "SP_NAME":"Add to SBB (22 combo Light attack [200-500%] on single foe (damage relative to remaining HP))",
+        "SP_NEED_BP":"25",
+        "SP_SERIES":"1100000490"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"2",
+        "LEVEL":"3",
+        "PROC/PASSIVE_ID(S)":"10007",
+        "PROC/PASSIVE_PARAMETERS":"0,0,0,15",
+        "SP_ID":"1100000491",
+        "SP_NAME":"Enhances BB's probable [+15%] evasion for self for 2 turns effect",
+        "SP_NEED_BP":"15",
+        "SP_SERIES":"1100000491"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"4@4@4@4",
+        "LEVEL":"3",
+        "PROC/PASSIVE_ID(S)":"19@55@54@88",
+        "PROC/PASSIVE_PARAMETERS":"0,1,0@0,0,0,0,0,0,0,1,0@0,1,0@0,0,0,0,0,0,1,0",
+        "SP_ID":"1100000492",
+        "SP_NAME":"Allows UBB's effects to last additional 1 turn",
+        "SP_NEED_BP":"15",
+        "SP_SERIES":"1100000492"
     },
     {
         "DESCRIPTION":"",

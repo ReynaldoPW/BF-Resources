@@ -3822,6 +3822,32 @@
         "REWARD_TYPE*":"4"
     },
     {
+        "64hAvkZX":"1",
+        "ELGIF_REWARD*":"0",
+        "MISSION_ID":"5008010",
+        "PRESENT_AMOUNT":"15",
+        "REQUIREMENT_PARAMETER":"8631",
+        "REQUIREMENT_TYPE*":"2",
+        "REWARD_CONDITION":"Episode 7 Complete",
+        "REWARD_CONDITION_DESCRIPTION":"Episode 7 Complete",
+        "REWARD_ID":"8616",
+        "REWARD_ITEM_ID":"800907",
+        "REWARD_TYPE*":"4"
+    },
+    {
+        "64hAvkZX":"1",
+        "ELGIF_REWARD*":"0",
+        "MISSION_ID":"5008010",
+        "PRESENT_AMOUNT":"2",
+        "REQUIREMENT_PARAMETER":"8656",
+        "REQUIREMENT_TYPE*":"2",
+        "REWARD_CONDITION":"Episode 7 Hard Mode Complete",
+        "REWARD_CONDITION_DESCRIPTION":"Episode 7 Hard Mode Complete",
+        "REWARD_ID":"8617",
+        "REWARD_ITEM_ID":"0",
+        "REWARD_TYPE*":"8"
+    },
+    {
         "64hAvkZX":"0",
         "ELGIF_REWARD*":"0",
         "MISSION_ID":"5008010",

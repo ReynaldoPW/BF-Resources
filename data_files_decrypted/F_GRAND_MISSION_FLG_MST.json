@@ -10387,6 +10387,33 @@
     },
     {
         "AI_CHANCE":"2",
+        "DESCRIPTION":"Episode 7 Clear",
+        "MISSION_ID":"5008010",
+        "REQUIREMENT_ID":"8631",
+        "REQUIREMENT_RARITY*":"3",
+        "Ufm6c7RA":"1",
+        "ky1xsH0h":"1"
+    },
+    {
+        "AI_CHANCE":"0",
+        "DESCRIPTION":"Episode 8 Clear",
+        "MISSION_ID":"5008010",
+        "REQUIREMENT_ID":"8632",
+        "REQUIREMENT_RARITY*":"3",
+        "Ufm6c7RA":"0",
+        "ky1xsH0h":"1"
+    },
+    {
+        "AI_CHANCE":"0",
+        "DESCRIPTION":"Episode 9 Clear",
+        "MISSION_ID":"5008010",
+        "REQUIREMENT_ID":"8633",
+        "REQUIREMENT_RARITY*":"3",
+        "Ufm6c7RA":"0",
+        "ky1xsH0h":"1"
+    },
+    {
+        "AI_CHANCE":"2",
         "DESCRIPTION":"Episode 1 Hard Mode Clear",
         "MISSION_ID":"5008010",
         "REQUIREMENT_ID":"8650",
@@ -10437,6 +10464,33 @@
         "REQUIREMENT_ID":"8655",
         "REQUIREMENT_RARITY*":"1",
         "Ufm6c7RA":"1",
+        "ky1xsH0h":"1"
+    },
+    {
+        "AI_CHANCE":"2",
+        "DESCRIPTION":"Episode 7 Hard Mode Clear",
+        "MISSION_ID":"5008010",
+        "REQUIREMENT_ID":"8656",
+        "REQUIREMENT_RARITY*":"1",
+        "Ufm6c7RA":"1",
+        "ky1xsH0h":"1"
+    },
+    {
+        "AI_CHANCE":"0",
+        "DESCRIPTION":"Episode 8 Hard Mode Clear",
+        "MISSION_ID":"5008010",
+        "REQUIREMENT_ID":"8657",
+        "REQUIREMENT_RARITY*":"1",
+        "Ufm6c7RA":"0",
+        "ky1xsH0h":"1"
+    },
+    {
+        "AI_CHANCE":"0",
+        "DESCRIPTION":"Episode 9 Hard Mode Clear",
+        "MISSION_ID":"5008010",
+        "REQUIREMENT_ID":"8658",
+        "REQUIREMENT_RARITY*":"1",
+        "Ufm6c7RA":"0",
         "ky1xsH0h":"1"
     },
     {
@@ -10723,6 +10777,60 @@
         "DESCRIPTION":"Special flag for Gates to Court",
         "MISSION_ID":"5008010",
         "REQUIREMENT_ID":"86311",
+        "REQUIREMENT_RARITY*":"0",
+        "Ufm6c7RA":"0",
+        "ky1xsH0h":"2"
+    },
+    {
+        "AI_CHANCE":"0",
+        "DESCRIPTION":"Hidden Facility",
+        "MISSION_ID":"5008010",
+        "REQUIREMENT_ID":"86312",
+        "REQUIREMENT_RARITY*":"0",
+        "Ufm6c7RA":"0",
+        "ky1xsH0h":"2"
+    },
+    {
+        "AI_CHANCE":"0",
+        "DESCRIPTION":"Tinkering Labs",
+        "MISSION_ID":"5008010",
+        "REQUIREMENT_ID":"86313",
+        "REQUIREMENT_RARITY*":"0",
+        "Ufm6c7RA":"0",
+        "ky1xsH0h":"2"
+    },
+    {
+        "AI_CHANCE":"0",
+        "DESCRIPTION":"Link Between Worlds",
+        "MISSION_ID":"5008010",
+        "REQUIREMENT_ID":"86314",
+        "REQUIREMENT_RARITY*":"0",
+        "Ufm6c7RA":"0",
+        "ky1xsH0h":"2"
+    },
+    {
+        "AI_CHANCE":"0",
+        "DESCRIPTION":"Archon's Fortress",
+        "MISSION_ID":"5008010",
+        "REQUIREMENT_ID":"86315",
+        "REQUIREMENT_RARITY*":"0",
+        "Ufm6c7RA":"0",
+        "ky1xsH0h":"2"
+    },
+    {
+        "AI_CHANCE":"0",
+        "DESCRIPTION":"Victory Peak",
+        "MISSION_ID":"5008010",
+        "REQUIREMENT_ID":"86316",
+        "REQUIREMENT_RARITY*":"0",
+        "Ufm6c7RA":"0",
+        "ky1xsH0h":"2"
+    },
+    {
+        "AI_CHANCE":"0",
+        "DESCRIPTION":"Workers' Pride",
+        "MISSION_ID":"5008010",
+        "REQUIREMENT_ID":"86317",
         "REQUIREMENT_RARITY*":"0",
         "Ufm6c7RA":"0",
         "ky1xsH0h":"2"

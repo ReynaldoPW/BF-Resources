@@ -1,6 +1,6 @@
 [
     {
-        "d2RFtP8T":"392",
+        "d2RFtP8T":"393",
         "moWQ30GH":"M_DEFINE_MST"
     },
     {
@@ -76,7 +76,7 @@
         "moWQ30GH":"M_NPC_MST"
     },
     {
-        "d2RFtP8T":"1508",
+        "d2RFtP8T":"1509",
         "moWQ30GH":"M_GACHA_EFFECT_MST"
     },
     {
@@ -128,7 +128,7 @@
         "moWQ30GH":"F_AREA_MST"
     },
     {
-        "d2RFtP8T":"687",
+        "d2RFtP8T":"689",
         "moWQ30GH":"F_DUNGEON_MST"
     },
     {
@@ -140,11 +140,11 @@
         "moWQ30GH":"F_RAID_MAP_MST"
     },
     {
-        "d2RFtP8T":"54",
+        "d2RFtP8T":"55",
         "moWQ30GH":"F_RAID_POINT_MST"
     },
     {
-        "d2RFtP8T":"53",
+        "d2RFtP8T":"54",
         "moWQ30GH":"F_RAID_USER_ROUTE_MST"
     },
     {
@@ -156,11 +156,11 @@
         "moWQ30GH":"F_RAID_BOSS_MST"
     },
     {
-        "d2RFtP8T":"384",
+        "d2RFtP8T":"389",
         "moWQ30GH":"F_RAID_MISSION_MST"
     },
     {
-        "d2RFtP8T":"49",
+        "d2RFtP8T":"50",
         "moWQ30GH":"F_RAID_BATTLE_GROUP_MST"
     },
     {
@@ -172,7 +172,7 @@
         "moWQ30GH":"F_RAID_RC_MST"
     },
     {
-        "d2RFtP8T":"73",
+        "d2RFtP8T":"74",
         "moWQ30GH":"F_RAID_MISSION_POINT_MST"
     },
     {
@@ -192,7 +192,7 @@
         "moWQ30GH":"F_RAID_BOSS_PARTS_MST"
     },
     {
-        "d2RFtP8T":"65",
+        "d2RFtP8T":"66",
         "moWQ30GH":"F_RAID_MISSION_BOSS_MST"
     },
     {
@@ -200,7 +200,7 @@
         "moWQ30GH":"F_SCENARIO_CATEGORY_MST"
     },
     {
-        "d2RFtP8T":"218",
+        "d2RFtP8T":"222",
         "moWQ30GH":"F_SCENARIO_MST"
     },
     {
@@ -240,7 +240,7 @@
         "moWQ30GH":"F_MISSION_NPC_UNIT_MST"
     },
     {
-        "d2RFtP8T":"101",
+        "d2RFtP8T":"102",
         "moWQ30GH":"F_GRAND_MISSION_MST"
     },
     {
@@ -248,23 +248,23 @@
         "moWQ30GH":"F_GRAND_MISSION_END_CND_MST"
     },
     {
-        "d2RFtP8T":"77",
+        "d2RFtP8T":"78",
         "moWQ30GH":"F_GRAND_MISSION_FLG_MST"
     },
     {
-        "d2RFtP8T":"92",
+        "d2RFtP8T":"93",
         "moWQ30GH":"F_GRAND_MISSION_REWARD_MST"
     },
     {
-        "d2RFtP8T":"58",
+        "d2RFtP8T":"59",
         "moWQ30GH":"F_GRAND_MISSION_MAP_MST"
     },
     {
-        "d2RFtP8T":"72",
+        "d2RFtP8T":"73",
         "moWQ30GH":"F_GRAND_MISSION_SPOT_MST"
     },
     {
-        "d2RFtP8T":"73",
+        "d2RFtP8T":"74",
         "moWQ30GH":"F_GRAND_MISSION_ROUTE_MST"
     },
     {
@@ -276,7 +276,7 @@
         "moWQ30GH":"F_GRAND_MISSION_TREASURE_MST"
     },
     {
-        "d2RFtP8T":"131",
+        "d2RFtP8T":"132",
         "moWQ30GH":"F_GRAND_MISSION_EVENT_MST"
     },
     {
@@ -308,15 +308,15 @@
         "moWQ30GH":"F_COLOSSEUM_SUPPORT_MST"
     },
     {
-        "d2RFtP8T":"344",
+        "d2RFtP8T":"348",
         "moWQ30GH":"F_UNIT_FE_CATEGORY_MST"
     },
     {
-        "d2RFtP8T":"394",
+        "d2RFtP8T":"398",
         "moWQ30GH":"F_UNIT_FE_SKILL_MST"
     },
     {
-        "d2RFtP8T":"410",
+        "d2RFtP8T":"413",
         "moWQ30GH":"F_FE_SKILL_MST"
     },
     {
@@ -428,11 +428,11 @@
         "moWQ30GH":"F_PARTICLE"
     },
     {
-        "d2RFtP8T":"855",
+        "d2RFtP8T":"861",
         "moWQ30GH":"F_UNIT_MST"
     },
     {
-        "d2RFtP8T":"543",
+        "d2RFtP8T":"544",
         "moWQ30GH":"F_UNIT_COMMENT_MST"
     },
     {
@@ -448,7 +448,7 @@
         "moWQ30GH":"F_UNIT_EXT_MST"
     },
     {
-        "d2RFtP8T":"602",
+        "d2RFtP8T":"607",
         "moWQ30GH":"F_UNIT_CGS_MST"
     },
     {
@@ -456,27 +456,27 @@
         "moWQ30GH":"F_UNIT_TYPE_MST"
     },
     {
-        "d2RFtP8T":"851",
+        "d2RFtP8T":"852",
         "moWQ30GH":"F_MISSION_MST"
     },
     {
-        "d2RFtP8T":"1178",
+        "d2RFtP8T":"1184",
         "moWQ30GH":"F_SKILL_MST"
     },
     {
-        "d2RFtP8T":"1136",
+        "d2RFtP8T":"1142",
         "moWQ30GH":"F_SKILL_LEVEL_MST"
     },
     {
-        "d2RFtP8T":"540",
+        "d2RFtP8T":"543",
         "moWQ30GH":"F_EXTRA_PASSIVE_SKILL_MST"
     },
     {
-        "d2RFtP8T":"2780",
+        "d2RFtP8T":"2784",
         "moWQ30GH":"F_RESOURCE_MST"
     },
     {
-        "d2RFtP8T":"825",
+        "d2RFtP8T":"827",
         "moWQ30GH":"F_ITEM_MST"
     },
     {
@@ -484,15 +484,15 @@
         "moWQ30GH":"F_RECIPE_MST"
     },
     {
-        "d2RFtP8T":"411",
+        "d2RFtP8T":"412",
         "moWQ30GH":"F_EFFECT_MST"
     },
     {
-        "d2RFtP8T":"431",
+        "d2RFtP8T":"432",
         "moWQ30GH":"F_EFFECT_GROUP_MST"
     },
     {
-        "d2RFtP8T":"571",
+        "d2RFtP8T":"574",
         "moWQ30GH":"F_LEADER_SKILL_MST"
     },
     {

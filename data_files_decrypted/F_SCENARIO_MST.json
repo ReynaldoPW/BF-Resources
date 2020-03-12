@@ -8338,7 +8338,7 @@
         "QUEST_MAP_NUMBER/GUIDE_ID":"2",
         "SCENARIO_ID":"87002",
         "SCENARIO_NAME":"Frontal Assault",
-        "SCENARIO_TEXT_FILE":"GQX6_Arc1_EP1_1.txt",
+        "SCENARIO_TEXT_FILE":"X6_Arc1_Ep1_1.txt",
         "SOUNDTRACK_FILE":"",
         "SP_CAT_ID":"85006"
     },
@@ -8347,7 +8347,7 @@
         "QUEST_MAP_NUMBER/GUIDE_ID":"3",
         "SCENARIO_ID":"87003",
         "SCENARIO_NAME":"Hearts of Steel",
-        "SCENARIO_TEXT_FILE":"GQX6_Arc1_EP1_2.txt",
+        "SCENARIO_TEXT_FILE":"X6_Arc1_Ep1_2.txt",
         "SOUNDTRACK_FILE":"",
         "SP_CAT_ID":"85006"
     },
@@ -8356,7 +8356,7 @@
         "QUEST_MAP_NUMBER/GUIDE_ID":"4",
         "SCENARIO_ID":"87004",
         "SCENARIO_NAME":"Against the Tides",
-        "SCENARIO_TEXT_FILE":"GQX6_Arc1_EP1_3a.txt",
+        "SCENARIO_TEXT_FILE":"X6_Arc1_Ep1_3a.txt",
         "SOUNDTRACK_FILE":"",
         "SP_CAT_ID":"85006"
     },
@@ -8365,7 +8365,7 @@
         "QUEST_MAP_NUMBER/GUIDE_ID":"5",
         "SCENARIO_ID":"87005",
         "SCENARIO_NAME":"Swept Away",
-        "SCENARIO_TEXT_FILE":"GQX6_Arc1_EP1_3b.txt",
+        "SCENARIO_TEXT_FILE":"X6_Arc1_Ep1_3b.txt",
         "SOUNDTRACK_FILE":"",
         "SP_CAT_ID":"85006"
     },
@@ -8374,7 +8374,7 @@
         "QUEST_MAP_NUMBER/GUIDE_ID":"6",
         "SCENARIO_ID":"87006",
         "SCENARIO_NAME":"Right to Rule",
-        "SCENARIO_TEXT_FILE":"GQX6_Arc1_EP2_1.txt",
+        "SCENARIO_TEXT_FILE":"X6_Arc1_Ep2_1.txt",
         "SOUNDTRACK_FILE":"",
         "SP_CAT_ID":"85006"
     },
@@ -8383,7 +8383,7 @@
         "QUEST_MAP_NUMBER/GUIDE_ID":"7",
         "SCENARIO_ID":"87007",
         "SCENARIO_NAME":"Courting Death",
-        "SCENARIO_TEXT_FILE":"GQX6_Arc1_EP2_2.txt",
+        "SCENARIO_TEXT_FILE":"X6_Arc1_Ep2_2.txt",
         "SOUNDTRACK_FILE":"",
         "SP_CAT_ID":"85006"
     },
@@ -8392,7 +8392,7 @@
         "QUEST_MAP_NUMBER/GUIDE_ID":"8",
         "SCENARIO_ID":"87008",
         "SCENARIO_NAME":"One to Rule",
-        "SCENARIO_TEXT_FILE":"GQX6_Arc1_EP2_3a.txt",
+        "SCENARIO_TEXT_FILE":"X6_Arc1_Ep2_3a.txt",
         "SOUNDTRACK_FILE":"",
         "SP_CAT_ID":"85006"
     },
@@ -8401,7 +8401,7 @@
         "QUEST_MAP_NUMBER/GUIDE_ID":"9",
         "SCENARIO_ID":"87009",
         "SCENARIO_NAME":"A New Era",
-        "SCENARIO_TEXT_FILE":"GQX6_Arc1_EP2_3b.txt",
+        "SCENARIO_TEXT_FILE":"X6_Arc1_Ep2_3b.txt",
         "SOUNDTRACK_FILE":"",
         "SP_CAT_ID":"85006"
     },
@@ -8410,7 +8410,7 @@
         "QUEST_MAP_NUMBER/GUIDE_ID":"10",
         "SCENARIO_ID":"87010",
         "SCENARIO_NAME":"Unyielding Faith",
-        "SCENARIO_TEXT_FILE":"GQX6_Arc1_EP3_1.txt",
+        "SCENARIO_TEXT_FILE":"X6_Arc1_Ep3_1.txt",
         "SOUNDTRACK_FILE":"",
         "SP_CAT_ID":"85006"
     },
@@ -8419,7 +8419,7 @@
         "QUEST_MAP_NUMBER/GUIDE_ID":"11",
         "SCENARIO_ID":"87011",
         "SCENARIO_NAME":"Schism and Sorrow",
-        "SCENARIO_TEXT_FILE":"GQX6_Arc1_EP3_2.txt",
+        "SCENARIO_TEXT_FILE":"X6_Arc1_Ep3_2.txt",
         "SOUNDTRACK_FILE":"",
         "SP_CAT_ID":"85006"
     },
@@ -8428,7 +8428,7 @@
         "QUEST_MAP_NUMBER/GUIDE_ID":"12",
         "SCENARIO_ID":"87012",
         "SCENARIO_NAME":"Ill Omens",
-        "SCENARIO_TEXT_FILE":"GQX6_Arc1_EP3_3a.txt",
+        "SCENARIO_TEXT_FILE":"X6_Arc1_Ep3_3a.txt",
         "SOUNDTRACK_FILE":"",
         "SP_CAT_ID":"85006"
     },
@@ -8437,7 +8437,7 @@
         "QUEST_MAP_NUMBER/GUIDE_ID":"13",
         "SCENARIO_ID":"87013",
         "SCENARIO_NAME":"A Queen Is Born",
-        "SCENARIO_TEXT_FILE":"GQX6_Arc1_EP3_3b.txt",
+        "SCENARIO_TEXT_FILE":"X6_Arc1_Ep3_3b.txt",
         "SOUNDTRACK_FILE":"",
         "SP_CAT_ID":"85006"
     },
@@ -8446,7 +8446,7 @@
         "QUEST_MAP_NUMBER/GUIDE_ID":"14",
         "SCENARIO_ID":"87014",
         "SCENARIO_NAME":"Upheaval",
-        "SCENARIO_TEXT_FILE":"GQX6_Arc2_EP1_1.txt",
+        "SCENARIO_TEXT_FILE":"X6_Arc2_Ep1_1.txt",
         "SOUNDTRACK_FILE":"",
         "SP_CAT_ID":"85006"
     },
@@ -8455,7 +8455,7 @@
         "QUEST_MAP_NUMBER/GUIDE_ID":"15",
         "SCENARIO_ID":"87015",
         "SCENARIO_NAME":"Grandt",
-        "SCENARIO_TEXT_FILE":"GQX6_Arc2_EP1_2.txt",
+        "SCENARIO_TEXT_FILE":"X6_Arc2_Ep1_2.txt",
         "SOUNDTRACK_FILE":"",
         "SP_CAT_ID":"85006"
     },
@@ -8464,7 +8464,7 @@
         "QUEST_MAP_NUMBER/GUIDE_ID":"16",
         "SCENARIO_ID":"87016",
         "SCENARIO_NAME":"The Red Audience",
-        "SCENARIO_TEXT_FILE":"GQX6_Arc2_EP1_3a.txt",
+        "SCENARIO_TEXT_FILE":"X6_Arc2_Ep1_3a.txt",
         "SOUNDTRACK_FILE":"",
         "SP_CAT_ID":"85006"
     },
@@ -8473,7 +8473,7 @@
         "QUEST_MAP_NUMBER/GUIDE_ID":"17",
         "SCENARIO_ID":"87017",
         "SCENARIO_NAME":"An Iron Fist",
-        "SCENARIO_TEXT_FILE":"GQX6_Arc2_EP1_3b.txt",
+        "SCENARIO_TEXT_FILE":"X6_Arc2_Ep1_3b.txt",
         "SOUNDTRACK_FILE":"",
         "SP_CAT_ID":"85006"
     },
@@ -8482,7 +8482,7 @@
         "QUEST_MAP_NUMBER/GUIDE_ID":"18",
         "SCENARIO_ID":"87018",
         "SCENARIO_NAME":"Behind Mother's Back",
-        "SCENARIO_TEXT_FILE":"GQX6_Arc2_EP2_1.txt",
+        "SCENARIO_TEXT_FILE":"X6_Arc2_Ep2_1.txt",
         "SOUNDTRACK_FILE":"",
         "SP_CAT_ID":"85006"
     },
@@ -8491,7 +8491,7 @@
         "QUEST_MAP_NUMBER/GUIDE_ID":"19",
         "SCENARIO_ID":"87019",
         "SCENARIO_NAME":"Defiance",
-        "SCENARIO_TEXT_FILE":"GQX6_Arc2_EP2_2.txt",
+        "SCENARIO_TEXT_FILE":"X6_Arc2_Ep2_2.txt",
         "SOUNDTRACK_FILE":"",
         "SP_CAT_ID":"85006"
     },
@@ -8500,7 +8500,7 @@
         "QUEST_MAP_NUMBER/GUIDE_ID":"20",
         "SCENARIO_ID":"87020",
         "SCENARIO_NAME":"Skin-Deep",
-        "SCENARIO_TEXT_FILE":"GQX6_Arc2_EP2_3a.txt",
+        "SCENARIO_TEXT_FILE":"X6_Arc2_Ep2_3a.txt",
         "SOUNDTRACK_FILE":"",
         "SP_CAT_ID":"85006"
     },
@@ -8509,7 +8509,7 @@
         "QUEST_MAP_NUMBER/GUIDE_ID":"21",
         "SCENARIO_ID":"87021",
         "SCENARIO_NAME":"Ripples Through Time",
-        "SCENARIO_TEXT_FILE":"GQX6_Arc2_EP2_3b.txt",
+        "SCENARIO_TEXT_FILE":"X6_Arc2_Ep2_3b.txt",
         "SOUNDTRACK_FILE":"",
         "SP_CAT_ID":"85006"
     },
@@ -8518,7 +8518,7 @@
         "QUEST_MAP_NUMBER/GUIDE_ID":"22",
         "SCENARIO_ID":"87022",
         "SCENARIO_NAME":"Shattered Ordeal",
-        "SCENARIO_TEXT_FILE":"GQX6_Arc2_EP3_1.txt",
+        "SCENARIO_TEXT_FILE":"X6_Arc2_Ep3_1.txt",
         "SOUNDTRACK_FILE":"",
         "SP_CAT_ID":"85006"
     },
@@ -8527,7 +8527,7 @@
         "QUEST_MAP_NUMBER/GUIDE_ID":"23",
         "SCENARIO_ID":"87023",
         "SCENARIO_NAME":"Twisted Salvation",
-        "SCENARIO_TEXT_FILE":"GQX6_Arc2_EP3_2.txt",
+        "SCENARIO_TEXT_FILE":"X6_Arc2_Ep3_2.txt",
         "SOUNDTRACK_FILE":"",
         "SP_CAT_ID":"85006"
     },
@@ -8536,7 +8536,7 @@
         "QUEST_MAP_NUMBER/GUIDE_ID":"24",
         "SCENARIO_ID":"87024",
         "SCENARIO_NAME":"Halcyon Days",
-        "SCENARIO_TEXT_FILE":"GQX6_Arc2_EP3_3a.txt",
+        "SCENARIO_TEXT_FILE":"X6_Arc2_Ep3_3a.txt",
         "SOUNDTRACK_FILE":"",
         "SP_CAT_ID":"85006"
     },
@@ -8545,7 +8545,43 @@
         "QUEST_MAP_NUMBER/GUIDE_ID":"25",
         "SCENARIO_ID":"87025",
         "SCENARIO_NAME":"Unbowed Legacy",
-        "SCENARIO_TEXT_FILE":"GQX6_Arc2_EP3_3b.txt",
+        "SCENARIO_TEXT_FILE":"X6_Arc2_Ep3_3b.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"85006"
+    },
+    {
+        "DESCRIPTION":"An unlikely alliance with the doppelganger of a world-destroying madman was probably last on your bucket list.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"26",
+        "SCENARIO_ID":"87026",
+        "SCENARIO_NAME":"Back to the Pit",
+        "SCENARIO_TEXT_FILE":"X6_Arc3_Ep1_1.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"85006"
+    },
+    {
+        "DESCRIPTION":"If you can't hit them from the front, disable them from the back.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"27",
+        "SCENARIO_ID":"87027",
+        "SCENARIO_NAME":"Operation Gremlin",
+        "SCENARIO_TEXT_FILE":"X6_Arc3_Ep1_2.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"85006"
+    },
+    {
+        "DESCRIPTION":"Loyalty is a double-edged sword, stained with good intentions.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"28",
+        "SCENARIO_ID":"87028",
+        "SCENARIO_NAME":"Whistleblower",
+        "SCENARIO_TEXT_FILE":"X6_Arc3_Ep1_3a.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"85006"
+    },
+    {
+        "DESCRIPTION":"The Sentinel knew full well what disobeying his orders meant, but there is no price too high for a death on one's own terms.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"29",
+        "SCENARIO_ID":"87029",
+        "SCENARIO_NAME":"Escape",
+        "SCENARIO_TEXT_FILE":"X6_Arc3_Ep1_3b.txt",
         "SOUNDTRACK_FILE":"",
         "SP_CAT_ID":"85006"
     },

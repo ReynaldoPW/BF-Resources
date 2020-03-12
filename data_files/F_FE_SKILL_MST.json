@@ -16676,15 +16676,15 @@
         "yRlCNyvk":"50% boost to Atk when HP is over 50%"
     },
     {
-        "2Smu5Mtq":"36,25,-1,50000,1,0,0,0,0,0",
-        "9PsmH7tz":"1000020039",
-        "D9wXQI2V":"5",
-        "G5wFDad6":"30",
+        "2Smu5Mtq":"36,25,100,50000,1",
+        "9PsmH7tz":"1000010044",
+        "D9wXQI2V":"4",
+        "G5wFDad6":"20",
         "hjAy9St3":"80",
         "jeR2rN3V":"1",
         "qp37xTDh":"",
         "ri6D9yBi":"1000010044",
-        "yRlCNyvk":"Slightly reduces damage for 1 turn when damage dealt has exceeded certain amount"
+        "yRlCNyvk":"Reduce DMG+ (25%) after DMG Dealt > 50k (SELF) 1Turn"
     },
     {
         "2Smu5Mtq":"0,0,50,0,0,0,0,3,0,0",
@@ -22869,6 +22869,50 @@
         "yRlCNyvk":"Add to BB\\/SBB (2 turns spark vulnerability [40%] infliction)"
     },
     {
+        "2Smu5Mtq":"100,0,0,0,50,1",
+        "9PsmH7tz":"1011000000",
+        "D9wXQI2V":"2",
+        "G5wFDad6":"10",
+        "hjAy9St3":"11",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1011000000",
+        "yRlCNyvk":"100% boost to Atk when HP is over 50%"
+    },
+    {
+        "2Smu5Mtq":"10007,100&2&0&20,1,2,0,1,0,0",
+        "9PsmH7tz":"1011000002",
+        "D9wXQI2V":"5",
+        "G5wFDad6":"25",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1011000002",
+        "yRlCNyvk":"Add to BB (Probable [20%] evasion for 2 turns)"
+    },
+    {
+        "2Smu5Mtq":"0,0,0,0,0,0,1,0@0,0,0,0,0,0,0,1,0@0,0,0,0,0,1,0@0,0,0,0,0,0,0,1,0",
+        "9PsmH7tz":"1011000003",
+        "D9wXQI2V":"5",
+        "G5wFDad6":"25",
+        "hjAy9St3":"23@26@5@9",
+        "jeR2rN3V":"4@4@4@4",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1011000003",
+        "yRlCNyvk":"Allows UBB effects to last for one more turn"
+    },
+    {
+        "2Smu5Mtq":"300,0",
+        "9PsmH7tz":"1011000004",
+        "D9wXQI2V":"6",
+        "G5wFDad6":"30",
+        "hjAy9St3":"31",
+        "jeR2rN3V":"2",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1011000004",
+        "yRlCNyvk":"Enhances BB's boost to BB gauge effect"
+    },
+    {
         "2Smu5Mtq":"100,0,0,0,0,0",
         "9PsmH7tz":"1000000057",
         "D9wXQI2V":"3",
@@ -27410,6 +27454,61 @@
         "qp37xTDh":"",
         "ri6D9yBi":"1100000487",
         "yRlCNyvk":"170% spark damage"
+    },
+    {
+        "2Smu5Mtq":"25,30",
+        "9PsmH7tz":"1100000488",
+        "D9wXQI2V":"3",
+        "G5wFDad6":"20",
+        "hjAy9St3":"14",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1100000488",
+        "yRlCNyvk":"Probable [30%] 25% damage reduction"
+    },
+    {
+        "2Smu5Mtq":"10016,0.75&3&0&5,1,2,0,0,1,0",
+        "9PsmH7tz":"1100000489",
+        "D9wXQI2V":"4",
+        "G5wFDad6":"20",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1100000489",
+        "yRlCNyvk":"Add to SBB (boosts critical damage [75%] (Light) for 3 turns)"
+    },
+    {
+        "2Smu5Mtq":"47,200&500&0&200&0&0&0&0,2,1,2,0,1,0",
+        "9PsmH7tz":"1100000490",
+        "D9wXQI2V":"4",
+        "G5wFDad6":"25",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1100000490",
+        "yRlCNyvk":"Add to SBB (22 combo Light attack [200-500%] on single foe (damage relative to remaining HP))"
+    },
+    {
+        "2Smu5Mtq":"0,0,0,15",
+        "9PsmH7tz":"1100000491",
+        "D9wXQI2V":"3",
+        "G5wFDad6":"15",
+        "hjAy9St3":"10007",
+        "jeR2rN3V":"2",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1100000491",
+        "yRlCNyvk":"Enhances BB's probable [+15%] evasion for self for 2 turns effect"
+    },
+    {
+        "2Smu5Mtq":"0,1,0@0,0,0,0,0,0,0,1,0@0,1,0@0,0,0,0,0,0,1,0",
+        "9PsmH7tz":"1100000492",
+        "D9wXQI2V":"3",
+        "G5wFDad6":"15",
+        "hjAy9St3":"19@55@54@88",
+        "jeR2rN3V":"4@4@4@4",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1100000492",
+        "yRlCNyvk":"Allows UBB's effects to last additional 1 turn"
     },
     {
         "2Smu5Mtq":"0,0,30,0,30",
