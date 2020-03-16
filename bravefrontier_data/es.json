@@ -27621,6 +27621,40 @@
         "name":"MST_EXTRAPASSIVESKILL_850788_NAME",
         "rarity":7
     },
+    "850798":{
+        "conditions":"1#3,819297%6,2%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0",
+        "desc":"MST_EXTRAPASSIVESKILL_850798_DESCRIPTION",
+        "effects":[
+            {
+                "dmg% for spark":100,
+                "passive id":"31"
+            },
+            {
+                "elemental weakness dmg%":20,
+                "elements":[
+                    "light"
+                ],
+                "passive id":"50"
+            },
+            {
+                "ignore def%":100,
+                "passive id":"29"
+            },
+            {
+                "passive id":"49",
+                "reduced bc used chance%":100,
+                "reduced bc used% high":50,
+                "reduced bc used% low":30
+            },
+            {
+                "params":"1,2,50,50,0",
+                "passive id":"69"
+            }
+        ],
+        "id":"850798",
+        "name":"MST_EXTRAPASSIVESKILL_850798_NAME",
+        "rarity":7
+    },
     "850808":{
         "conditions":"1#1,819284%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0",
         "desc":"MST_EXTRAPASSIVESKILL_850808_DESCRIPTION",
@@ -28169,20 +28203,39 @@
         "rarity":1
     },
     "860258":{
-        "conditions":"1#1,818914%0,0%0,0@1#1,818914%0,0%0,0@1#0,0%0,0%0,0@1#0,0%0,0%0,0@1#0,0%0,0%0,0",
+        "conditions":"2#3,818914%6,1%0,0%0,0@2#3,818914%6,1%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0",
         "desc":"MST_EXTRAPASSIVESKILL_860258_DESCRIPTION",
         "effects":[
             {
-                "atk% buff":30,
-                "def% buff":30,
-                "hp% buff":30,
+                "atk% buff":40,
+                "def% buff":40,
+                "hp% buff":40,
                 "passive id":"1",
-                "rec% buff":30
+                "rec% buff":40
             },
             {
                 "extra hits":2,
                 "extra hits dmg%":30,
                 "passive id":"37"
+            },
+            {
+                "passive id":"48",
+                "reduced bc cost%":25
+            },
+            {
+                "crit dmg%":20,
+                "passive id":"34"
+            },
+            {
+                "params":"0,2,40,40,0",
+                "passive id":"69"
+            },
+            {
+                "atk% buff":20,
+                "def% buff":20,
+                "hp% buff":20,
+                "passive id":"1",
+                "rec% buff":20
             }
         ],
         "id":"860258",

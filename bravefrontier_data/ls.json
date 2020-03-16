@@ -24427,13 +24427,14 @@
         "desc":"MST_LEADERSKILLS_801274_DESCRIPTION",
         "effects":[
             {
-                "atk% buff":100,
-                "hp% buff":40,
+                "atk% buff":150,
+                "crit% buff":30,
+                "hp% buff":100,
                 "passive id":"1"
             },
             {
                 "extra hits":1,
-                "extra hits dmg%":-50,
+                "extra hits dmg%":-25,
                 "passive id":"37"
             },
             {
@@ -24443,8 +24444,12 @@
                 "passive id":"47"
             },
             {
-                "params":"40,120,-1,15,2",
+                "params":"40,200,-1,15,2",
                 "passive id":"86"
+            },
+            {
+                "params":"-30,30",
+                "passive id":"96"
             }
         ],
         "id":"801274",
@@ -33273,6 +33278,39 @@
         ],
         "id":"850788",
         "name":"MST_LEADERSKILLS_850788_NAME"
+    },
+    "850798":{
+        "desc":"MST_LEADERSKILLS_850798_DESCRIPTION",
+        "effects":[
+            {
+                "atk% buff":200,
+                "crit% buff":30,
+                "def% buff":140,
+                "hp% buff":140,
+                "passive id":"2"
+            },
+            {
+                "elemental weakness dmg%":250,
+                "elements":[
+                    "light"
+                ],
+                "passive id":"50"
+            },
+            {
+                "crit dmg%":250,
+                "passive id":"34"
+            },
+            {
+                "passive id":"48",
+                "reduced bc cost%":30
+            },
+            {
+                "passive id":"43",
+                "take 1 dmg%":20
+            }
+        ],
+        "id":"850798",
+        "name":"MST_LEADERSKILLS_850798_NAME"
     },
     "850808":{
         "desc":"MST_LEADERSKILLS_850808_DESCRIPTION",
