@@ -2034,5 +2034,17 @@
     {
         "RELOAD_FILES":"layout_mytown_sphere_mix.csv",
         "RELOAD_ID":"3081"
+    },
+    {
+        "RELOAD_FILES":"unit_anime_840827.png,unit_ills_full_840827.png,unit_cgg_840827.csv,unit_idle_cgs_840827.csv,unit_atk_cgs_840827.csv,unit_move_cgs_840827.csv,unit_ills_thum_840827.png,unit_ills_battle_840827.png",
+        "RELOAD_ID":"3082"
+    },
+    {
+        "RELOAD_FILES":"unit_anime_840828.png,unit_ills_full_840828.png,unit_cgg_840828.csv,unit_idle_cgs_840828.csv,unit_atk_cgs_840828.csv,unit_move_cgs_840828.csv,unit_ills_thum_840828.png,unit_ills_battle_840828.png",
+        "RELOAD_ID":"3083"
+    },
+    {
+        "RELOAD_FILES":"colorful_ticket_event_icon.png",
+        "RELOAD_ID":"3084"
     }
 ]

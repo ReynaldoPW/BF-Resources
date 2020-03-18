@@ -8586,6 +8586,42 @@
         "SP_CAT_ID":"85006"
     },
     {
+        "DESCRIPTION":"The young demigod Avyn works with the Armorer in the shadows against the oppressive machines.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"30",
+        "SCENARIO_ID":"87030",
+        "SCENARIO_NAME":"Renegade",
+        "SCENARIO_TEXT_FILE":"X6_Arc3_Ep2_1.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"85006"
+    },
+    {
+        "DESCRIPTION":"A burst of interference draws both wanted and unwanted attention.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"31",
+        "SCENARIO_ID":"87031",
+        "SCENARIO_NAME":"Unexpected Reunion",
+        "SCENARIO_TEXT_FILE":"X6_Arc3_Ep2_2.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"85006"
+    },
+    {
+        "DESCRIPTION":"While you contemplate the situation you're in, Andaria?now Strategos?offers Avyn a pardon from her renegade activities.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"32",
+        "SCENARIO_ID":"87032",
+        "SCENARIO_NAME":"Live and Let Live",
+        "SCENARIO_TEXT_FILE":"X6_Arc3_Ep2_3a.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"85006"
+    },
+    {
+        "DESCRIPTION":"Taken into custody by the Praetor, there is little you can do for the moment as the Tinkerer is taken away.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"33",
+        "SCENARIO_ID":"87033",
+        "SCENARIO_NAME":"In a Bind",
+        "SCENARIO_TEXT_FILE":"X6_Arc3_Ep2_3b.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"85006"
+    },
+    {
         "DESCRIPTION":"Welcome to an odd sort of theater - your audience awaits you with bated breath. Don't die.",
         "QUEST_MAP_NUMBER/GUIDE_ID":"97",
         "SCENARIO_ID":"88400",
