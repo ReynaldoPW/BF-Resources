@@ -37105,6 +37105,88 @@
         "thumbnail":"sphere_thum_819276.png",
         "type":"sphere"
     },
+    "819277":{
+        "desc":"MST_SPHERES_819277_SHORTDESCRIPTION",
+        "effects":[
+            {
+                "params":"4,0,55,55,55,0,55",
+                "proc id":"2"
+            },
+            {
+                "params":"1000",
+                "proc id":"9"
+            },
+            {
+                "params":"400,600,100",
+                "proc id":"101"
+            },
+            {
+                "params":"100,0,0,0,0,0",
+                "proc id":"31"
+            },
+            {
+                "params":"50,75,100",
+                "proc id":"26"
+            }
+        ],
+        "from raid":"false",
+        "guide id":"819277",
+        "id":"819277",
+        "lore":"The favored prop of Ukie, one of twelve celestial creatures sent to the earthly realm to compete for the prized position of Emperor Yu's assistant.<br><br>Excitable (some say overly so) Monkey was a troublemaker and trickster both. It was as hard to predict her next line of thought as it was to catch her. Indeed, jumping to conclusions could even be considered a skill; when she witnessed lavishly dressed humans mock-fighting one another, Monkey seized this single tonfa immediately and started swinging away.",
+        "max equip":1,
+        "max stack":1,
+        "name":"MST_SPHERES_819277_NAME",
+        "rarity":6,
+        "sale caution":"true",
+        "sale price":30000,
+        "sphere type":"SPHERE_TYPE_NAME_9",
+        "target":"none",
+        "thumbnail":"sphere_thum_819277.png",
+        "type":"sphere"
+    },
+    "819278":{
+        "desc":"MST_SPHERES_819278_SHORTDESCRIPTION",
+        "effects":[
+            {
+                "params":"4,0,65,65,65,0,65",
+                "proc id":"2"
+            },
+            {
+                "params":"1200",
+                "proc id":"9"
+            },
+            {
+                "params":"400,600,100",
+                "proc id":"101"
+            },
+            {
+                "params":"125,0,0,0,0,0",
+                "proc id":"31"
+            },
+            {
+                "params":"75,75,100",
+                "proc id":"26"
+            },
+            {
+                "params":"20",
+                "proc id":"43"
+            }
+        ],
+        "from raid":"false",
+        "guide id":"819278",
+        "id":"819278",
+        "lore":"Fashioned after a legendary weapon wielded by an indomitable sage, the striking golden bands on these tonfas draw the audience's eye to its every movement, easily making it the star of any show. Ukie proudly spins these as she duels her fellow actors (not too gently, even) on stage, reenacting the legend of the Great Sage.<br><br>Though these tonfas are merely replicas, they seem to take on a life of their own in the deft hands of Ukie. The strength and cunning of the Sage lives on in spirit through epic performance and daredevil stunts; some even wonder if Ukie may be a descendent...",
+        "max equip":1,
+        "max stack":1,
+        "name":"MST_SPHERES_819278_NAME",
+        "rarity":7,
+        "sale caution":"true",
+        "sale price":30000,
+        "sphere type":"SPHERE_TYPE_NAME_9",
+        "target":"none",
+        "thumbnail":"sphere_thum_819278.png",
+        "type":"sphere"
+    },
     "819284":{
         "desc":"MST_SPHERES_819284_SHORTDESCRIPTION",
         "effects":[
@@ -37624,6 +37706,45 @@
         "thumbnail":"sphere_thum_819296.png",
         "type":"sphere"
     },
+    "819297":{
+        "desc":"MST_SPHERES_819297_SHORTDESCRIPTION",
+        "effects":[
+            {
+                "params":"50,0,0,30,50",
+                "proc id":"1"
+            },
+            {
+                "params":"1.75",
+                "proc id":"34"
+            },
+            {
+                "params":"5,0,0,0,0,0,1",
+                "proc id":"50"
+            },
+            {
+                "params":"100,200,100",
+                "proc id":"47"
+            },
+            {
+                "params":"20",
+                "proc id":"43"
+            }
+        ],
+        "from raid":"false",
+        "guide id":"819297",
+        "id":"819297",
+        "lore":"A circlet wreathed in fine silver and accented with gold leaf, proof of a warrior's achievements in the Echo of Athensphere. This one, with its unique centerpiece reminiscent of divine edged wings, belongs to the young demigod Avyn.<br><br>Despite her status as a boundary-traversing demigod, Avyn's spirit remained empathetic to the common people. She insisted that she earn her place among the warriors as they did, refusing to use her powers during the trials. It is due to her grit and determination that the people ultimately rallied behind her during the upheaval.",
+        "max equip":1,
+        "max stack":1,
+        "name":"MST_SPHERES_819297_NAME",
+        "rarity":7,
+        "sale caution":"true",
+        "sale price":30000,
+        "sphere type":"SPHERE_TYPE_NAME_2",
+        "target":"none",
+        "thumbnail":"sphere_thum_819297.png",
+        "type":"sphere"
+    },
     "819299":{
         "desc":"MST_SPHERES_819299_SHORTDESCRIPTION",
         "effects":[
@@ -37661,6 +37782,45 @@
         "sphere type":"SPHERE_TYPE_NAME_7",
         "target":"none",
         "thumbnail":"sphere_thum_818894.png",
+        "type":"sphere"
+    },
+    "819301":{
+        "desc":"MST_SPHERES_819301_SHORTDESCRIPTION",
+        "effects":[
+            {
+                "params":"40,0,0,0,40",
+                "proc id":"1"
+            },
+            {
+                "params":"0,100,0,0,0,0,0",
+                "proc id":"46"
+            },
+            {
+                "params":"2,1,0,0,0,0,0,100",
+                "proc id":"37"
+            },
+            {
+                "params":"100,20,100,20",
+                "proc id":"128"
+            },
+            {
+                "params":"20,30",
+                "proc id":"14"
+            }
+        ],
+        "from raid":"false",
+        "guide id":"819301",
+        "id":"819301",
+        "lore":"A well-worn cape of unknown origin. One of the relics excavated from the Frontier Spire, this cape has the distinct aura of a legendary hero from a faraway land.<br><br>This relic possesses a great deal of beneficial effects, a boon for Summoners conducting surveys of the Frontier Spire or other tasks. As much as the Akras Summoner's Hall would relish studying it in greater detail, it was eventually decided that Summoners should continue using it in the field, if only to better understand its powers.",
+        "max equip":1,
+        "max stack":1,
+        "name":"MST_SPHERES_819301_NAME",
+        "rarity":7,
+        "sale caution":"true",
+        "sale price":30000,
+        "sphere type":"SPHERE_TYPE_NAME_1",
+        "target":"none",
+        "thumbnail":"sphere_thum_5_5.png",
         "type":"sphere"
     },
     "819311":{
@@ -37731,6 +37891,53 @@
         "sphere type":"SPHERE_TYPE_NAME_14",
         "target":"none",
         "thumbnail":"sphere_thum_819312.png",
+        "type":"sphere"
+    },
+    "819319":{
+        "desc":"MST_SPHERES_819319_SHORTDESCRIPTION",
+        "effects":[
+            {
+                "params":"65,65,65,0,65",
+                "proc id":"1"
+            },
+            {
+                "params":"77,50$50",
+                "proc id":"107"
+            },
+            {
+                "params":"58,10",
+                "proc id":"107"
+            },
+            {
+                "params":"127,100$10",
+                "proc id":"107"
+            },
+            {
+                "params":"48,10",
+                "proc id":"107"
+            },
+            {
+                "params":"8,5",
+                "proc id":"107"
+            },
+            {
+                "params":"53,100$100$100$100$100$100$0$0$0$0",
+                "proc id":"107"
+            }
+        ],
+        "from raid":"false",
+        "guide id":"819319",
+        "id":"819319",
+        "lore":"An unremarkable relic excavated from the deepest parts of the Frontier Spire. Its mundane nature was later confirmed by the fact that wielding it seems to provide no tangible benefit. Despite the initial findings, some researchers in the Summoners' Hall continued to examine this \"useless\" trinket for any sort of secret it might have. During one such scientific jaunt, a certain child prodigy and his assistant found\u2014quite by accident\u2014that while the relic does little for its user, all allies near them report an increase in prowess. With this new breakthrough, the Summoners' Hall decided to allow this relic to be brought into the field in order to better understand its effects upon the user's allies.",
+        "max equip":1,
+        "max stack":1,
+        "name":"MST_SPHERES_819319_NAME",
+        "rarity":7,
+        "sale caution":"true",
+        "sale price":100000,
+        "sphere type":"SPHERE_TYPE_NAME_14",
+        "target":"none",
+        "thumbnail":"sphere_thum_828001.png",
         "type":"sphere"
     },
     "819901":{

@@ -22679,7 +22679,7 @@
         "rarity":1
     },
     "830048":{
-        "conditions":"1#0,0%0,0%0,0@1#0,0%0,0%0,0@1#0,0%0,0%0,0@1#0,0%0,0%0,0@1#0,0%0,0%0,0@1#0,0%0,0%0,0",
+        "conditions":"1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0",
         "desc":"MST_EXTRAPASSIVESKILL_830048_DESCRIPTION",
         "effects":[
             {
@@ -22694,7 +22694,7 @@
                 "passive id":"66"
             },
             {
-                "params":"130000",
+                "params":"180000",
                 "passive id":"143"
             }
         ],
@@ -25897,6 +25897,61 @@
         ],
         "id":"840808",
         "name":"MST_EXTRAPASSIVESKILL_840808_NAME",
+        "rarity":7
+    },
+    "840827":{
+        "conditions":"1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0",
+        "desc":"MST_EXTRAPASSIVESKILL_840827_DESCRIPTION",
+        "effects":[
+            {
+                "crit dmg%":15,
+                "passive id":"34"
+            },
+            {
+                "params":"112,-30,-1,10,1",
+                "passive id":"114"
+            },
+            {
+                "passive id":"43",
+                "take 1 dmg%":10
+            },
+            {
+                "dmg% for spark":100,
+                "passive id":"31"
+            }
+        ],
+        "id":"840827",
+        "name":"MST_EXTRAPASSIVESKILL_840827_NAME",
+        "rarity":7
+    },
+    "840828":{
+        "conditions":"1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0",
+        "desc":"MST_EXTRAPASSIVESKILL_840828_DESCRIPTION",
+        "effects":[
+            {
+                "atk% buff":50,
+                "crit% buff":15,
+                "passive id":"1"
+            },
+            {
+                "crit dmg%":25,
+                "passive id":"34"
+            },
+            {
+                "params":"112,-30,-1,10,1",
+                "passive id":"114"
+            },
+            {
+                "passive id":"43",
+                "take 1 dmg%":20
+            },
+            {
+                "dmg% for spark":100,
+                "passive id":"31"
+            }
+        ],
+        "id":"840828",
+        "name":"MST_EXTRAPASSIVESKILL_840828_NAME",
         "rarity":7
     },
     "840848":{
@@ -30106,6 +30161,54 @@
         "id":"8900003",
         "name":"MST_EXTRAPASSIVESKILL_8900003_NAME",
         "rarity":7
+    },
+    "8900006":{
+        "conditions":"1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0",
+        "desc":"MST_EXTRAPASSIVESKILL_8900006_DESCRIPTION",
+        "effects":[
+            {
+                "atk% buff":40,
+                "crit% buff":30,
+                "def% buff":40,
+                "elements buffed":[
+                    "water"
+                ],
+                "hp% buff":40,
+                "passive id":"2",
+                "rec% buff":40
+            },
+            {
+                "params":"25",
+                "passive id":"58"
+            },
+            {
+                "params":"2,4,0,0,0,0,10",
+                "passive id":"62"
+            },
+            {
+                "elemental weakness dmg%":100,
+                "elements":[
+                    "fire",
+                    "water"
+                ],
+                "passive id":"50"
+            },
+            {
+                "elemental weakness dmg%":30,
+                "elements":[
+                    "fire",
+                    "water"
+                ],
+                "passive id":"50"
+            },
+            {
+                "params":"120,120,120",
+                "passive id":"64"
+            }
+        ],
+        "id":"8900006",
+        "name":"MST_EXTRAPASSIVESKILL_8900006_NAME",
+        "rarity":8
     },
     "8910287":{
         "conditions":"1#0,0%0,0%0,0@1#0,0%0,0%0,0@1#0,0%0,0%0,0@1#0,0%0,0%0,0@1#0,0%0,0%0,0@1#0,0%0,0%0,0",

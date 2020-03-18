@@ -28755,7 +28755,7 @@
         "desc":"MST_LEADERSKILLS_830048_DESCRIPTION",
         "effects":[
             {
-                "atk% buff":150,
+                "atk% buff":200,
                 "def% buff":80,
                 "hp% buff":80,
                 "passive id":"2"
@@ -28765,7 +28765,7 @@
                 "passive id":"62"
             },
             {
-                "params":"0,0,50,50,30,0",
+                "params":"0,0,50,50,35,0",
                 "passive id":"110"
             },
             {
@@ -28775,7 +28775,7 @@
                 "passive id":"26"
             },
             {
-                "params":"65,40",
+                "params":"100,50",
                 "passive id":"112"
             }
         ],
@@ -31720,6 +31720,72 @@
         ],
         "id":"840808",
         "name":"MST_LEADERSKILLS_840808_NAME"
+    },
+    "840827":{
+        "desc":"MST_LEADERSKILLS_840827_DESCRIPTION",
+        "effects":[
+            {
+                "atk% buff":120,
+                "crit% buff":30,
+                "def% buff":100,
+                "hp% buff":120,
+                "passive id":"2"
+            },
+            {
+                "params":"4,2,0,0,0,0,10",
+                "passive id":"62"
+            },
+            {
+                "extra hits":1,
+                "extra hits dmg%":-20,
+                "passive id":"37"
+            },
+            {
+                "params":"-50,40",
+                "passive id":"96"
+            },
+            {
+                "params":"800,1000,100",
+                "passive id":"65"
+            }
+        ],
+        "id":"840827",
+        "name":"MST_LEADERSKILLS_840827_NAME"
+    },
+    "840828":{
+        "desc":"MST_LEADERSKILLS_840828_DESCRIPTION",
+        "effects":[
+            {
+                "atk% buff":150,
+                "crit% buff":30,
+                "def% buff":120,
+                "hp% buff":150,
+                "passive id":"2"
+            },
+            {
+                "params":"4,2,0,0,0,0,20",
+                "passive id":"62"
+            },
+            {
+                "extra hits":1,
+                "extra hits dmg%":-20,
+                "passive id":"37"
+            },
+            {
+                "params":"-50,40",
+                "passive id":"96"
+            },
+            {
+                "params":"135,80",
+                "passive id":"112"
+            },
+            {
+                "params":"1000,1200,100",
+                "passive id":"65"
+            }
+        ],
+        "id":"840828",
+        "name":"MST_LEADERSKILLS_840828_NAME"
     },
     "840848":{
         "desc":"MST_LEADERSKILLS_840848_DESCRIPTION",
