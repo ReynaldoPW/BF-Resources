@@ -12681,5 +12681,29 @@
         "short desc":"Summon 2 units with Increased Rates on Kassia with option to Resummon 1!",
         "start time":"2020-03-18 15:00:00",
         "summon button image":"gacha_rare_summons_btn1.png"
+    },
+    "18640":{
+        "background image":"gacha_img_20200319HB.png",
+        "desc":"From 19 Mar 7:00 PST ~ 26 Mar 6:59 PST, summon minimum 5* Global exclusive units with Omni Potential and enjoy Increased Rates on  S'eljah, Sero-Anya and Lydia!",
+        "door image":"gacha_rare_door.png",
+        "end time":"2020-03-26 14:59:59",
+        "gem cost":5,
+        "name":"Heroes Bond Summon",
+        "priority":"2",
+        "short desc":"S'eljah, Sero-Anya and Lydia are available with Increased Rates through the Summon Gate! ",
+        "start time":"2020-03-19 15:00:00",
+        "summon button image":"gacha_rare_summons_btn1.png"
+    },
+    "18650":{
+        "background image":"gacha_img_20200319HA.png",
+        "desc":"From 19 Mar 7:00 PST ~ 26 Mar 6:59 PST, get a 100% Chance to summon S'eljah, Sero-Anya or Lydia! Get a bonus Summon Ticket on the 4th Summon and a Dual Brave Burst Token on every Summon!",
+        "door image":"gacha_rare_door.png",
+        "end time":"2020-03-26 14:59:59",
+        "gem cost":5,
+        "name":"Heroes Awaken Summon",
+        "priority":"2",
+        "short desc":"Get a 100% Chance to summon S'eljah, Sero-Anya or Lydia! Exchange DBB Potential Units from the Bazaar with the Dual Brave Burst Tokens!",
+        "start time":"2020-03-19 15:00:00",
+        "summon button image":"gacha_rare_summons_btn1.png"
     }
 }
