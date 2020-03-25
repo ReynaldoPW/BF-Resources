@@ -27621,6 +27621,72 @@
         "yRlCNyvk":"Allows UBB's effects to last additional 1 turn"
     },
     {
+        "2Smu5Mtq":"1,50,-1,20,2@3,50,-1,20,2",
+        "9PsmH7tz":"1100000493",
+        "D9wXQI2V":"2",
+        "G5wFDad6":"10",
+        "hjAy9St3":"86@86",
+        "jeR2rN3V":"1@1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1100000493",
+        "yRlCNyvk":"50% Atk, Def for 2 turns when sparks dealt is over 20 times"
+    },
+    {
+        "2Smu5Mtq":"31,1500&0,1,2,0,1,0,0",
+        "9PsmH7tz":"1100000494",
+        "D9wXQI2V":"3",
+        "G5wFDad6":"15",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1100000494",
+        "yRlCNyvk":"Add to BB (fills BB gauge [15BC])"
+    },
+    {
+        "2Smu5Mtq":"200,500,100",
+        "9PsmH7tz":"1100000495",
+        "D9wXQI2V":"2",
+        "G5wFDad6":"10",
+        "hjAy9St3":"47",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1100000495",
+        "yRlCNyvk":"spark damage fills BB gauge [2-5 BC]"
+    },
+    {
+        "2Smu5Mtq":"0,0,2,0",
+        "9PsmH7tz":"1100000496",
+        "D9wXQI2V":"3",
+        "G5wFDad6":"15",
+        "hjAy9St3":"58",
+        "jeR2rN3V":"2",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1100000496",
+        "yRlCNyvk":"Allows BB's spark vulnerability infliction effect to last additional 2 turns"
+    },
+    {
+        "2Smu5Mtq":"10019,60&147&0&0&0&0&0&0&0&100,1,1,0,1,0,0",
+        "9PsmH7tz":"1100000497",
+        "D9wXQI2V":"3",
+        "G5wFDad6":"15",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1100000497",
+        "yRlCNyvk":"Add to BB (purges LS\\/ES lock from random ally)"
+    },
+    {
+        "2Smu5Mtq":"47,200&500&0&200&0&0&0&0,2,2,2,0,1,0",
+        "9PsmH7tz":"1100000498",
+        "D9wXQI2V":"3",
+        "G5wFDad6":"25",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1100000498",
+        "yRlCNyvk":"Add to SBB (16 combo Earth attack on all foes (damage relative to remaining HP))"
+    },
+    {
         "2Smu5Mtq":"0,0,30,0,30",
         "9PsmH7tz":"1100000113",
         "D9wXQI2V":"1",

@@ -9348,7 +9348,7 @@
     },
     "15850":{
         "background image":"gacha_img_20191211L_3G.png",
-        "desc":"From 08 Jan 0:00 PST to 15 Jan 0:00 PST, summon 7* units from Kulyuk to Ewan and Regil to Roglizer Batch at the discounted cost of 3 Gems!",
+        "desc":"From 25 Mar 0:00 PST to 01 Apr 0:00 PST, summon 7* units from Kulyuk to Ewan and Regil to Roglizer Batch at the discounted cost of 3 Gems!",
         "door image":"gacha_rare_door.png",
         "end time":"2022-11-28 14:59:59",
         "gem cost":3,
@@ -12704,6 +12704,18 @@
         "priority":"2",
         "short desc":"Get a 100% Chance to summon S'eljah, Sero-Anya or Lydia! Exchange DBB Potential Units from the Bazaar with the Dual Brave Burst Tokens!",
         "start time":"2020-03-19 15:00:00",
+        "summon button image":"gacha_rare_summons_btn1.png"
+    },
+    "18660":{
+        "background image":"gacha_img_20200325NS_s1.png",
+        "desc":"From 25 Mar 7:00 PST ~ 8 Apr 6:59 PST, summon minimum 5* Global exclusive units with Omni Potential and enjoy Increased Rates with each summon on Sasha up to the 8th Summon!",
+        "door image":"gacha_rare_door.png",
+        "end time":"2020-04-08 14:59:59",
+        "gem cost":5,
+        "name":"Heroes Across Time",
+        "priority":"2",
+        "short desc":"Sasha is available through the Summon Gate! Get a Global Exclusive Elgif for every 10 Summons from the same gate!",
+        "start time":"2020-03-25 15:00:00",
         "summon button image":"gacha_rare_summons_btn1.png"
     }
 }

@@ -27622,6 +27622,72 @@
     },
     {
         "DESCRIPTION":"",
+        "EFFECT_AREA*":"1@1",
+        "LEVEL":"2",
+        "PROC/PASSIVE_ID(S)":"86@86",
+        "PROC/PASSIVE_PARAMETERS":"1,50,-1,20,2@3,50,-1,20,2",
+        "SP_ID":"1100000493",
+        "SP_NAME":"50% Atk, Def for 2 turns when sparks dealt is over 20 times",
+        "SP_NEED_BP":"10",
+        "SP_SERIES":"1100000493"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
+        "LEVEL":"3",
+        "PROC/PASSIVE_ID(S)":"66",
+        "PROC/PASSIVE_PARAMETERS":"31,1500&0,1,2,0,1,0,0",
+        "SP_ID":"1100000494",
+        "SP_NAME":"Add to BB (fills BB gauge [15BC])",
+        "SP_NEED_BP":"15",
+        "SP_SERIES":"1100000494"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
+        "LEVEL":"2",
+        "PROC/PASSIVE_ID(S)":"47",
+        "PROC/PASSIVE_PARAMETERS":"200,500,100",
+        "SP_ID":"1100000495",
+        "SP_NAME":"spark damage fills BB gauge [2-5 BC]",
+        "SP_NEED_BP":"10",
+        "SP_SERIES":"1100000495"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"2",
+        "LEVEL":"3",
+        "PROC/PASSIVE_ID(S)":"58",
+        "PROC/PASSIVE_PARAMETERS":"0,0,2,0",
+        "SP_ID":"1100000496",
+        "SP_NAME":"Allows BB's spark vulnerability infliction effect to last additional 2 turns",
+        "SP_NEED_BP":"15",
+        "SP_SERIES":"1100000496"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
+        "LEVEL":"3",
+        "PROC/PASSIVE_ID(S)":"66",
+        "PROC/PASSIVE_PARAMETERS":"10019,60&147&0&0&0&0&0&0&0&100,1,1,0,1,0,0",
+        "SP_ID":"1100000497",
+        "SP_NAME":"Add to BB (purges LS\\/ES lock from random ally)",
+        "SP_NEED_BP":"15",
+        "SP_SERIES":"1100000497"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
+        "LEVEL":"3",
+        "PROC/PASSIVE_ID(S)":"66",
+        "PROC/PASSIVE_PARAMETERS":"47,200&500&0&200&0&0&0&0,2,2,2,0,1,0",
+        "SP_ID":"1100000498",
+        "SP_NAME":"Add to SBB (16 combo Earth attack on all foes (damage relative to remaining HP))",
+        "SP_NEED_BP":"25",
+        "SP_SERIES":"1100000498"
+    },
+    {
+        "DESCRIPTION":"",
         "EFFECT_AREA*":"1",
         "LEVEL":"1",
         "PROC/PASSIVE_ID(S)":"1",

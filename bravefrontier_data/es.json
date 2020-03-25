@@ -24391,6 +24391,38 @@
         "name":"MST_EXTRAPASSIVESKILL_830838_NAME",
         "rarity":7
     },
+    "830858":{
+        "conditions":"1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0",
+        "desc":"MST_EXTRAPASSIVESKILL_830858_DESCRIPTION",
+        "effects":[
+            {
+                "dmg% for spark":25,
+                "passive id":"31"
+            },
+            {
+                "crit dmg%":25,
+                "passive id":"34"
+            },
+            {
+                "atk% buff":30,
+                "def% buff":30,
+                "hp% buff":30,
+                "passive id":"1",
+                "rec% buff":30
+            },
+            {
+                "passive id":"48",
+                "reduced bc cost%":30
+            },
+            {
+                "passive id":"43",
+                "take 1 dmg%":15
+            }
+        ],
+        "id":"830858",
+        "name":"MST_EXTRAPASSIVESKILL_830858_NAME",
+        "rarity":7
+    },
     "830900":{
         "conditions":"1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0",
         "desc":"MST_EXTRAPASSIVESKILL_830900_DESCRIPTION",
@@ -30160,6 +30192,70 @@
         ],
         "id":"8900003",
         "name":"MST_EXTRAPASSIVESKILL_8900003_NAME",
+        "rarity":7
+    },
+    "8900004":{
+        "conditions":"1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0",
+        "desc":"MST_EXTRAPASSIVESKILL_8900004_DESCRIPTION",
+        "effects":[
+            {
+                "atk% buff":100,
+                "crit% buff":30,
+                "passive id":"1"
+            },
+            {
+                "dmg% for spark":100,
+                "passive id":"31"
+            },
+            {
+                "elemental weakness dmg%":100,
+                "elements":[
+                    "fire",
+                    "water",
+                    "earth",
+                    "thunder",
+                    "light",
+                    "dark"
+                ],
+                "passive id":"50"
+            },
+            {
+                "crit dmg%":100,
+                "passive id":"34"
+            },
+            {
+                "params":"200000",
+                "passive id":"143"
+            }
+        ],
+        "id":"8900004",
+        "name":"MST_EXTRAPASSIVESKILL_8900004_NAME",
+        "rarity":8
+    },
+    "8900005":{
+        "conditions":"1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0",
+        "desc":"MST_EXTRAPASSIVESKILL_8900005_DESCRIPTION",
+        "effects":[
+            {
+                "atk% buff":75,
+                "crit% buff":30,
+                "passive id":"1"
+            },
+            {
+                "dmg% for spark":50,
+                "passive id":"31"
+            },
+            {
+                "crit dmg%":100,
+                "passive id":"34"
+            },
+            {
+                "params":"180000",
+                "passive id":"143"
+            }
+        ],
+        "id":"8900005",
+        "name":"MST_EXTRAPASSIVESKILL_8900005_NAME",
         "rarity":7
     },
     "8900006":{

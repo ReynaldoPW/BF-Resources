@@ -7723,6 +7723,24 @@
     },
     {
         "0u1nvMeS":"99",
+        "3hPeI1RV":"0",
+        "DESCRIPTION":"",
+        "DUNGEON_ID":"800171",
+        "DUNGEON_IMAGE":"dungeon_battle_80056.jpg",
+        "DUNGEON_NAME":"The Illusionist",
+        "M6C1aXfR":"300",
+        "MAP_OPENING_TEXT_FILE":"0,0",
+        "MISSION_AREA":"800171",
+        "MISSION_IDS_REQUIRED":"0",
+        "QUEST_ALWAYS_EMPTY":"",
+        "QUEST_BANNER_IMAGE":"sp_quest_banner_800171.png",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"1",
+        "QUEST_ZONE_MAP_NUMBER":"99",
+        "SnNtTh51":"300",
+        "THUMBNAIL":""
+    },
+    {
+        "0u1nvMeS":"99",
         "3hPeI1RV":"100",
         "DESCRIPTION":"",
         "DUNGEON_ID":"800180",
@@ -10568,7 +10586,7 @@
     {
         "0u1nvMeS":"99",
         "3hPeI1RV":"4",
-        "DESCRIPTION":"It is a dark time for the Rebellion. The Archon is determined to crush all resistance to his rule.",
+        "DESCRIPTION":"Avyn executes a daring raid into the heart of Athensphere to rescue her friends, but little does she know of the Archon's secret project.",
         "DUNGEON_ID":"5008010",
         "DUNGEON_IMAGE":"dungeon_battle_10100.jpg",
         "DUNGEON_NAME":"The Echoing Void",

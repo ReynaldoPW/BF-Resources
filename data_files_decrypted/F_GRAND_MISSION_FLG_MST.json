@@ -10404,16 +10404,16 @@
         "ky1xsH0h":"1"
     },
     {
-        "AI_CHANCE":"0",
+        "AI_CHANCE":"2",
         "DESCRIPTION":"Episode 9 Clear",
         "MISSION_ID":"5008010",
         "REQUIREMENT_ID":"8633",
         "REQUIREMENT_RARITY*":"3",
-        "Ufm6c7RA":"0",
+        "Ufm6c7RA":"1",
         "ky1xsH0h":"1"
     },
     {
-        "AI_CHANCE":"2",
+        "AI_CHANCE":"6",
         "DESCRIPTION":"Episode 1 Hard Mode Clear",
         "MISSION_ID":"5008010",
         "REQUIREMENT_ID":"8650",
@@ -10422,7 +10422,7 @@
         "ky1xsH0h":"1"
     },
     {
-        "AI_CHANCE":"2",
+        "AI_CHANCE":"6",
         "DESCRIPTION":"Episode 2 Hard Mode Clear",
         "MISSION_ID":"5008010",
         "REQUIREMENT_ID":"8651",
@@ -10431,7 +10431,7 @@
         "ky1xsH0h":"1"
     },
     {
-        "AI_CHANCE":"2",
+        "AI_CHANCE":"6",
         "DESCRIPTION":"Episode 3 Hard Mode Clear",
         "MISSION_ID":"5008010",
         "REQUIREMENT_ID":"8652",
@@ -10440,7 +10440,7 @@
         "ky1xsH0h":"1"
     },
     {
-        "AI_CHANCE":"2",
+        "AI_CHANCE":"6",
         "DESCRIPTION":"Episode 4 Hard Mode Clear",
         "MISSION_ID":"5008010",
         "REQUIREMENT_ID":"8653",
@@ -10449,7 +10449,7 @@
         "ky1xsH0h":"1"
     },
     {
-        "AI_CHANCE":"2",
+        "AI_CHANCE":"6",
         "DESCRIPTION":"Episode 5 Hard Mode Clear",
         "MISSION_ID":"5008010",
         "REQUIREMENT_ID":"8654",
@@ -10458,7 +10458,7 @@
         "ky1xsH0h":"1"
     },
     {
-        "AI_CHANCE":"2",
+        "AI_CHANCE":"6",
         "DESCRIPTION":"Episode 6 Hard Mode Clear",
         "MISSION_ID":"5008010",
         "REQUIREMENT_ID":"8655",
@@ -10467,7 +10467,7 @@
         "ky1xsH0h":"1"
     },
     {
-        "AI_CHANCE":"2",
+        "AI_CHANCE":"6",
         "DESCRIPTION":"Episode 7 Hard Mode Clear",
         "MISSION_ID":"5008010",
         "REQUIREMENT_ID":"8656",
@@ -10476,7 +10476,7 @@
         "ky1xsH0h":"1"
     },
     {
-        "AI_CHANCE":"2",
+        "AI_CHANCE":"6",
         "DESCRIPTION":"Episode 8 Hard Mode Clear",
         "MISSION_ID":"5008010",
         "REQUIREMENT_ID":"8657",
@@ -10485,12 +10485,12 @@
         "ky1xsH0h":"1"
     },
     {
-        "AI_CHANCE":"0",
+        "AI_CHANCE":"6",
         "DESCRIPTION":"Episode 9 Hard Mode Clear",
         "MISSION_ID":"5008010",
         "REQUIREMENT_ID":"8658",
         "REQUIREMENT_RARITY*":"1",
-        "Ufm6c7RA":"0",
+        "Ufm6c7RA":"1",
         "ky1xsH0h":"1"
     },
     {
@@ -10831,6 +10831,42 @@
         "DESCRIPTION":"Workers' Pride",
         "MISSION_ID":"5008010",
         "REQUIREMENT_ID":"86317",
+        "REQUIREMENT_RARITY*":"0",
+        "Ufm6c7RA":"0",
+        "ky1xsH0h":"2"
+    },
+    {
+        "AI_CHANCE":"0",
+        "DESCRIPTION":" ",
+        "MISSION_ID":"5008010",
+        "REQUIREMENT_ID":"86318",
+        "REQUIREMENT_RARITY*":"0",
+        "Ufm6c7RA":"0",
+        "ky1xsH0h":"2"
+    },
+    {
+        "AI_CHANCE":"0",
+        "DESCRIPTION":" ",
+        "MISSION_ID":"5008010",
+        "REQUIREMENT_ID":"86319",
+        "REQUIREMENT_RARITY*":"0",
+        "Ufm6c7RA":"0",
+        "ky1xsH0h":"2"
+    },
+    {
+        "AI_CHANCE":"0",
+        "DESCRIPTION":" ",
+        "MISSION_ID":"5008010",
+        "REQUIREMENT_ID":"86320",
+        "REQUIREMENT_RARITY*":"0",
+        "Ufm6c7RA":"0",
+        "ky1xsH0h":"2"
+    },
+    {
+        "AI_CHANCE":"0",
+        "DESCRIPTION":" ",
+        "MISSION_ID":"5008010",
+        "REQUIREMENT_ID":"86321",
         "REQUIREMENT_RARITY*":"0",
         "Ufm6c7RA":"0",
         "ky1xsH0h":"2"

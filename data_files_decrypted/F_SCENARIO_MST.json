@@ -8622,6 +8622,42 @@
         "SP_CAT_ID":"85006"
     },
     {
+        "DESCRIPTION":"With Avyn's timely assistance, you go in search of the Armorer as the clock begins ticking down.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"34",
+        "SCENARIO_ID":"87034",
+        "SCENARIO_NAME":"Prison Break",
+        "SCENARIO_TEXT_FILE":"X6_Arc3_Ep3_1.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"85006"
+    },
+    {
+        "DESCRIPTION":"Stronger still are those who do not falter before insurmountable odds.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"35",
+        "SCENARIO_ID":"87035",
+        "SCENARIO_NAME":"Red Titan",
+        "SCENARIO_TEXT_FILE":"X6_Arc3_Ep3_2.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"85006"
+    },
+    {
+        "DESCRIPTION":"Timelines collide as you face the poorly made replica of a mad genius in a battle of reversed roles.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"36",
+        "SCENARIO_ID":"87036",
+        "SCENARIO_NAME":"Seeing Double",
+        "SCENARIO_TEXT_FILE":"X6_Arc3_Ep3_3a.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"85006"
+    },
+    {
+        "DESCRIPTION":"An unexpected twist forces you to revise your understanding of a certain faceless entity.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"37",
+        "SCENARIO_ID":"87037",
+        "SCENARIO_NAME":"Another Side",
+        "SCENARIO_TEXT_FILE":"X6_Arc3_Ep3_3b.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"85006"
+    },
+    {
         "DESCRIPTION":"Welcome to an odd sort of theater - your audience awaits you with bated breath. Don't die.",
         "QUEST_MAP_NUMBER/GUIDE_ID":"97",
         "SCENARIO_ID":"88400",
@@ -10306,10 +10342,19 @@
     },
     {
         "DESCRIPTION":"History of the Warmonger, Zaad.",
-        "QUEST_MAP_NUMBER/GUIDE_ID":"2",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"3",
         "SCENARIO_ID":"10001303",
         "SCENARIO_NAME":"The Warmonger",
         "SCENARIO_TEXT_FILE":"BF2_03_Zaad.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"100013"
+    },
+    {
+        "DESCRIPTION":"History of the Illusionist, Melfel.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"4",
+        "SCENARIO_ID":"10001304",
+        "SCENARIO_NAME":"The Illusionist",
+        "SCENARIO_TEXT_FILE":"BF2_04_Melfel.txt",
         "SOUNDTRACK_FILE":"",
         "SP_CAT_ID":"100013"
     },

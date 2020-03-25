@@ -30336,6 +30336,38 @@
         "id":"830838",
         "name":"MST_LEADERSKILLS_830838_NAME"
     },
+    "830858":{
+        "desc":"MST_LEADERSKILLS_830858_DESCRIPTION",
+        "effects":[
+            {
+                "atk% buff":140,
+                "def% buff":140,
+                "hp% buff":140,
+                "passive id":"1",
+                "rec% buff":140
+            },
+            {
+                "dmg% for spark":250,
+                "passive id":"31"
+            },
+            {
+                "params":"50,100",
+                "passive id":"100"
+            },
+            {
+                "bc fill on spark high":3,
+                "bc fill on spark low":3,
+                "bc fill on spark%":300,
+                "passive id":"47"
+            },
+            {
+                "passive id":"43",
+                "take 1 dmg%":20
+            }
+        ],
+        "id":"830858",
+        "name":"MST_LEADERSKILLS_830858_NAME"
+    },
     "830900":{
         "desc":"MST_LEADERSKILLS_830900_DESCRIPTION",
         "effects":[
