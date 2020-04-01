@@ -12753,5 +12753,29 @@
         "short desc":"Armaiti is available through the Summon Gate! Get a Brave Insignia token from each summon from this gate!",
         "start time":"2020-03-27 15:00:00",
         "summon button image":"gacha_rare_summons_btn1.png"
+    },
+    "18700":{
+        "background image":"gacha_img_20200401R_s1.png",
+        "desc":"From 1 Apr 7:00 PST ~ 15 Apr 6:59 PST, summon minimum 5? Global exclusive units with Omni Potential and enjoy Increased Rates with each summon on Roy up to the 8th Summon!",
+        "door image":"gacha_rare_door.png",
+        "end time":"2020-04-15 14:59:59",
+        "gem cost":5,
+        "name":"Heroes Across Time",
+        "priority":"2",
+        "short desc":"Roy is available through the Summon Gate! Get a Global Exclusive Elgif for every 10 Summons from the same gate!",
+        "start time":"2020-04-01 15:00:00",
+        "summon button image":"gacha_rare_summons_btn1.png"
+    },
+    "18710":{
+        "background image":"gacha_img_20200401ED.png",
+        "desc":"From 1 Apr 7:00 PST ~ 19 Apr 6:59 PST, summon minimum 5? Global exclusive units with Omni Potential and enjoy Increased Rates with each summon on past Easter exclusive units!",
+        "door image":"gacha_rare_door.png",
+        "end time":"2020-04-19 14:59:59",
+        "gem cost":5,
+        "name":"Easter Daily Summon",
+        "priority":"2",
+        "short desc":"Past Easter exclusive units is available through the Summon Gate!",
+        "start time":"2020-04-01 15:00:00",
+        "summon button image":"gacha_rare_summons_btn1.png"
     }
 }
