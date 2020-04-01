@@ -2046,5 +2046,9 @@
     {
         "RELOAD_FILES":"colorful_ticket_event_icon.png",
         "RELOAD_ID":"3084"
+    },
+    {
+        "RELOAD_FILES":"bfeaster2020_login_banner.png,bfeaster2020_login_icon_day1.png,bfeaster2020_login_icon_day2.png,bfeaster2020_login_icon_day3.png,bfeaster2020_login_icon_day4.png,bfeaster2020_login_icon_day5.png,bfeaster2020_login_icon_day6.png,bfeaster2020_login_icon_day7.png,bfeaster2020_login_icon_day8.png,bfeaster2020_login_icon_day9.png,bfeaster2020_login_icon_day10.png,bfeaster2020_login_icon_day11.png,bfeaster2020_login_icon_day12.png",
+        "RELOAD_ID":"3085"
     }
 ]

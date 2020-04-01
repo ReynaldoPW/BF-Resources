@@ -128,7 +128,7 @@
         "moWQ30GH":"F_AREA_MST"
     },
     {
-        "d2RFtP8T":"697",
+        "d2RFtP8T":"702",
         "moWQ30GH":"F_DUNGEON_MST"
     },
     {
@@ -220,11 +220,11 @@
         "moWQ30GH":"F_CHRONOLOGY_WORD_MST"
     },
     {
-        "d2RFtP8T":"339",
+        "d2RFtP8T":"354",
         "moWQ30GH":"F_FROGATE_MST"
     },
     {
-        "d2RFtP8T":"144",
+        "d2RFtP8T":"153",
         "moWQ30GH":"F_FROGATE_REWARD_MST"
     },
     {
@@ -280,7 +280,7 @@
         "moWQ30GH":"F_GRAND_MISSION_EVENT_MST"
     },
     {
-        "d2RFtP8T":"491",
+        "d2RFtP8T":"497",
         "moWQ30GH":"F_ACHIEVEMENT_SUBJECT_MST"
     },
     {
@@ -308,15 +308,15 @@
         "moWQ30GH":"F_COLOSSEUM_SUPPORT_MST"
     },
     {
-        "d2RFtP8T":"353",
+        "d2RFtP8T":"356",
         "moWQ30GH":"F_UNIT_FE_CATEGORY_MST"
     },
     {
-        "d2RFtP8T":"404",
+        "d2RFtP8T":"407",
         "moWQ30GH":"F_UNIT_FE_SKILL_MST"
     },
     {
-        "d2RFtP8T":"419",
+        "d2RFtP8T":"422",
         "moWQ30GH":"F_FE_SKILL_MST"
     },
     {
@@ -428,11 +428,11 @@
         "moWQ30GH":"F_PARTICLE"
     },
     {
-        "d2RFtP8T":"864",
+        "d2RFtP8T":"866",
         "moWQ30GH":"F_UNIT_MST"
     },
     {
-        "d2RFtP8T":"546",
+        "d2RFtP8T":"548",
         "moWQ30GH":"F_UNIT_COMMENT_MST"
     },
     {
@@ -448,7 +448,7 @@
         "moWQ30GH":"F_UNIT_EXT_MST"
     },
     {
-        "d2RFtP8T":"609",
+        "d2RFtP8T":"611",
         "moWQ30GH":"F_UNIT_CGS_MST"
     },
     {
@@ -456,27 +456,27 @@
         "moWQ30GH":"F_UNIT_TYPE_MST"
     },
     {
-        "d2RFtP8T":"860",
+        "d2RFtP8T":"864",
         "moWQ30GH":"F_MISSION_MST"
     },
     {
-        "d2RFtP8T":"1205",
+        "d2RFtP8T":"1210",
         "moWQ30GH":"F_SKILL_MST"
     },
     {
-        "d2RFtP8T":"1163",
+        "d2RFtP8T":"1168",
         "moWQ30GH":"F_SKILL_LEVEL_MST"
     },
     {
-        "d2RFtP8T":"553",
+        "d2RFtP8T":"555",
         "moWQ30GH":"F_EXTRA_PASSIVE_SKILL_MST"
     },
     {
-        "d2RFtP8T":"2795",
+        "d2RFtP8T":"2802",
         "moWQ30GH":"F_RESOURCE_MST"
     },
     {
-        "d2RFtP8T":"834",
+        "d2RFtP8T":"837",
         "moWQ30GH":"F_ITEM_MST"
     },
     {
@@ -484,15 +484,15 @@
         "moWQ30GH":"F_RECIPE_MST"
     },
     {
-        "d2RFtP8T":"414",
+        "d2RFtP8T":"416",
         "moWQ30GH":"F_EFFECT_MST"
     },
     {
-        "d2RFtP8T":"434",
+        "d2RFtP8T":"436",
         "moWQ30GH":"F_EFFECT_GROUP_MST"
     },
     {
-        "d2RFtP8T":"577",
+        "d2RFtP8T":"579",
         "moWQ30GH":"F_LEADER_SKILL_MST"
     },
     {
@@ -532,7 +532,7 @@
         "moWQ30GH":"F_BANNER_INFO_MST"
     },
     {
-        "d2RFtP8T":"715",
+        "d2RFtP8T":"716",
         "moWQ30GH":"F_RELOAD_FILE_MST"
     },
     {
