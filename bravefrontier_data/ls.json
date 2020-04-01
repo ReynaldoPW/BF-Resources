@@ -26934,6 +26934,41 @@
         "id":"810838",
         "name":"MST_LEADERSKILLS_810838_NAME"
     },
+    "810858":{
+        "desc":"MST_LEADERSKILLS_810858_DESCRIPTION",
+        "effects":[
+            {
+                "atk% buff":140,
+                "def% buff":140,
+                "hp% buff":140,
+                "passive id":"1",
+                "rec% buff":140
+            },
+            {
+                "atk% extra buff based on hp":80,
+                "buff proportional to hp":"remaining",
+                "def% extra buff based on hp":80,
+                "passive id":"46"
+            },
+            {
+                "elemental weakness dmg%":250,
+                "elements":[
+                    "fire"
+                ],
+                "passive id":"50"
+            },
+            {
+                "bc fill per turn":10,
+                "passive id":"9"
+            },
+            {
+                "params":"100,15",
+                "passive id":"127"
+            }
+        ],
+        "id":"810858",
+        "name":"MST_LEADERSKILLS_810858_NAME"
+    },
     "810900":{
         "desc":"MST_LEADERSKILLS_810900_DESCRIPTION",
         "effects":[

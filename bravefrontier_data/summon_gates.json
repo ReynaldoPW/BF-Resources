@@ -9347,16 +9347,16 @@
         "summon button image":"gacha_rare_summons_btn1.png"
     },
     "15850":{
-        "background image":"gacha_img_20191211L_3G.png",
-        "desc":"From 25 Mar 0:00 PST to 01 Apr 0:00 PST, summon 7* units from Kulyuk to Ewan and Regil to Roglizer Batch at the discounted cost of 3 Gems!",
+        "background image":"gacha_img_20200401L_4G.png",
+        "desc":"From 11 Dec 0:00 PST onwards, summon 7* units from Kulyuk to Ewan and Regil to Roglizer Batch at the cost of 4 Gems!",
         "door image":"gacha_rare_door.png",
         "end time":"2022-11-28 14:59:59",
-        "gem cost":3,
-        "name":"Legendary Summon",
+        "gem cost":4,
+        "name":"Legacy Summon",
         "priority":"2",
-        "short desc":"Summon 7* units from Kulyuk to Ewan and Regil to Roglizer Batch! SUMMON AT 3 GEMS ONLY FOR A LIMITED TIME!",
+        "short desc":"Summon 7* units from Kulyuk to Ewan Batch! SUMMON NOW!",
         "start time":"2018-11-29 08:00:00",
-        "summon button image":"reducedcost_summon_btn1.png"
+        "summon button image":"gacha_rare_summons_btn1.png"
     },
     "15860":{
         "background image":"gacha_img_20181201H.png",
@@ -10920,7 +10920,7 @@
     },
     "17160":{
         "background image":"gacha_img_20190807BraveSummon_All.png",
-        "desc":"From 7 Aug 0:00 PST onwatds, summon minimum 7* units from a selected pool of 50 Global Omni Potential units that includes Vrana, Hakuzo, Saskya and Inoko!",
+        "desc":"From 7 Aug 0:00 PST onwards, summon minimum 7* units from a selected pool of 50 Global Omni Potential units that includes Vrana, Hakuzo, Saskya and Inoko!",
         "door image":"gacha_rare_door.png",
         "end time":"2099-12-30 14:59:59",
         "gem cost":5,
@@ -12732,7 +12732,7 @@
     },
     "18680":{
         "background image":"gacha_img_20200327C.png",
-        "desc":"From 27 Mar 7:00 PST ~ 1 Apr 6:59 PST, summon minimum 5* Global exclusive units with Omni Potential and enjoy Increased Rates are applied on Armaiti!",
+        "desc":"From 27 Mar 7:00 PST ~ 1 Apr 6:59 PST, summon minimum 5* Global exclusive units with Omni Potential and enjoy Increased Rates on Armaiti!",
         "door image":"gacha_rare_door.png",
         "end time":"2020-04-01 14:59:59",
         "gem cost":5,
@@ -12744,7 +12744,7 @@
     },
     "18690":{
         "background image":"gacha_img_20200327WT.png",
-        "desc":"From 27 Mar 7:00 PST ~ 1 Apr 6:59 PST, summon minimum 5* Global exclusive units with Omni Potential and enjoy Increased Rates are applied on Armaiti!",
+        "desc":"From 27 Mar 7:00 PST ~ 1 Apr 6:59 PST, summon minimum 5* Global exclusive units with Omni Potential and enjoy Increased Rates on Armaiti!",
         "door image":"gacha_rare_door.png",
         "end time":"2020-04-01 14:59:59",
         "gem cost":999,
