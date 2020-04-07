@@ -12825,5 +12825,17 @@
         "short desc":"Miriam and Evie are available with Increased Rates through the Summon Gate! ",
         "start time":"2020-04-03 15:00:00",
         "summon button image":"gacha_rare_summons_btn1.png"
+    },
+    "18760":{
+        "background image":"gacha_img_20200401SB_s1.png",
+        "desc":"From 7 Apr 0:00 PST ~ 11 Apr 6:59 PST, summon minimum 5? Global exclusive units with Omni Potential and enjoy Increased Rates are applied on Ulagan, Kassia and Utheria!",
+        "door image":"gacha_rare_door.png",
+        "end time":"2020-04-11 14:59:59",
+        "gem cost":5,
+        "name":"Second Burst Summon",
+        "priority":"2",
+        "short desc":"Ulagan, Kassia and Utheria are available through the Summon Gate!",
+        "start time":"2020-04-07 04:00:00",
+        "summon button image":"gacha_rare_summons_btn1.png"
     }
 }
