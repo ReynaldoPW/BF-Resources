@@ -2050,5 +2050,21 @@
     {
         "RELOAD_FILES":"bfeaster2020_login_banner.png,bfeaster2020_login_icon_day1.png,bfeaster2020_login_icon_day2.png,bfeaster2020_login_icon_day3.png,bfeaster2020_login_icon_day4.png,bfeaster2020_login_icon_day5.png,bfeaster2020_login_icon_day6.png,bfeaster2020_login_icon_day7.png,bfeaster2020_login_icon_day8.png,bfeaster2020_login_icon_day9.png,bfeaster2020_login_icon_day10.png,bfeaster2020_login_icon_day11.png,bfeaster2020_login_icon_day12.png",
         "RELOAD_ID":"3085"
+    },
+    {
+        "RELOAD_FILES":"layout_menu_option.csv",
+        "RELOAD_ID":"3086"
+    },
+    {
+        "RELOAD_FILES":"unit_ills_thum_840438_100.png,unit_ills_thum_810418_100.png",
+        "RELOAD_ID":"3087"
+    },
+    {
+        "RELOAD_FILES":"layout_menu_option.csv",
+        "RELOAD_ID":"3088"
+    },
+    {
+        "RELOAD_FILES":"banner_subscription_2020.png,banner_summon_Aoife_2020.png,banner_summon_Roy_2020.png,banner_dbbresources_2020.png,banner_limitedtimebundle_2020.png",
+        "RELOAD_ID":"3089"
     }
 ]

@@ -6204,9 +6204,9 @@
         "29MgiJIQ":"1",
         "AI_PRIORITY":"4",
         "MISSION_ID":"5008010",
-        "QUEST_FLAG_REQUIREMENTS":"501,86207,1:501,86000,0:501,86312,0",
+        "QUEST_FLAG_REQUIREMENTS":"501,86207,1:501,86000,0:501,86315,0",
         "REWARD_ITEM_ID":"19",
-        "TRIGGERED_QUEST_TEXT_AND_FLAG_SET":"1,X6_Arc3_Ep2_1.txt@4,8626,1,0@501,86312,1",
+        "TRIGGERED_QUEST_TEXT_AND_FLAG_SET":"1,X6_Arc3_Ep2_1.txt@4,8626,1,0@501,86315,1",
         "Wmr4xDa8":"86054"
     },
     {
@@ -6307,6 +6307,87 @@
         "REWARD_ITEM_ID":"20",
         "TRIGGERED_QUEST_TEXT_AND_FLAG_SET":"501,86316,1@4,8631,1,1@500,8658,1@501,86004,1",
         "Wmr4xDa8":"86065"
+    },
+    {
+        "29MgiJIQ":"1",
+        "AI_PRIORITY":"7",
+        "MISSION_ID":"5008010",
+        "QUEST_FLAG_REQUIREMENTS":"501,86002,0",
+        "REWARD_ITEM_ID":"22",
+        "TRIGGERED_QUEST_TEXT_AND_FLAG_SET":"501,86002,1@501,86111,1",
+        "Wmr4xDa8":"86066"
+    },
+    {
+        "29MgiJIQ":"1",
+        "AI_PRIORITY":"7",
+        "MISSION_ID":"5008010",
+        "QUEST_FLAG_REQUIREMENTS":"501,86002,1",
+        "REWARD_ITEM_ID":"3",
+        "TRIGGERED_QUEST_TEXT_AND_FLAG_SET":"501,86002,0@501,86110,0@501,86111,0",
+        "Wmr4xDa8":"86067"
+    },
+    {
+        "29MgiJIQ":"1",
+        "AI_PRIORITY":"7",
+        "MISSION_ID":"5008010",
+        "QUEST_FLAG_REQUIREMENTS":"501,86003,0:501,86111,1",
+        "REWARD_ITEM_ID":"12",
+        "TRIGGERED_QUEST_TEXT_AND_FLAG_SET":"501,86003,1@501,86209,1",
+        "Wmr4xDa8":"86068"
+    },
+    {
+        "29MgiJIQ":"1",
+        "AI_PRIORITY":"5",
+        "MISSION_ID":"5008010",
+        "QUEST_FLAG_REQUIREMENTS":"501,86209,1:501,86001,0:500,8634,1",
+        "REWARD_ITEM_ID":"12",
+        "TRIGGERED_QUEST_TEXT_AND_FLAG_SET":"501,86001,1",
+        "Wmr4xDa8":"86069"
+    },
+    {
+        "29MgiJIQ":"1",
+        "AI_PRIORITY":"4",
+        "MISSION_ID":"5008010",
+        "QUEST_FLAG_REQUIREMENTS":"501,86209,1:501,86000,0:501,86307,0",
+        "REWARD_ITEM_ID":"12",
+        "TRIGGERED_QUEST_TEXT_AND_FLAG_SET":"1,X6_Arc4_Ep1_1.txt@4,8635,1,0@501,86307,1",
+        "Wmr4xDa8":"86070"
+    },
+    {
+        "29MgiJIQ":"1",
+        "AI_PRIORITY":"7",
+        "MISSION_ID":"5008010",
+        "QUEST_FLAG_REQUIREMENTS":"501,86209,1:501,86000,0:501,86306,0",
+        "REWARD_ITEM_ID":"11",
+        "TRIGGERED_QUEST_TEXT_AND_FLAG_SET":"1,X6_Arc4_Ep1_2.txt@4,8635,1,0@501,86306,1",
+        "Wmr4xDa8":"86071"
+    },
+    {
+        "29MgiJIQ":"1",
+        "AI_PRIORITY":"7",
+        "MISSION_ID":"5008010",
+        "QUEST_FLAG_REQUIREMENTS":"501,86209,1:501,86000,1:501,86306,0",
+        "REWARD_ITEM_ID":"11",
+        "TRIGGERED_QUEST_TEXT_AND_FLAG_SET":"501,86306,1",
+        "Wmr4xDa8":"86072"
+    },
+    {
+        "29MgiJIQ":"1",
+        "AI_PRIORITY":"7",
+        "MISSION_ID":"5008010",
+        "QUEST_FLAG_REQUIREMENTS":"501,86209,1:501,86000,0:501,86308,0",
+        "REWARD_ITEM_ID":"13",
+        "TRIGGERED_QUEST_TEXT_AND_FLAG_SET":"1,X6_Arc4_Ep1_3A.txt@4,8632,1,0@501,86308,1@1,X6_Arc4_Ep1_3B.txt@500,8634,1@501,86004,1",
+        "Wmr4xDa8":"86073"
+    },
+    {
+        "29MgiJIQ":"1",
+        "AI_PRIORITY":"7",
+        "MISSION_ID":"5008010",
+        "QUEST_FLAG_REQUIREMENTS":"501,86209,1:501,86000,1:501,86308,0",
+        "REWARD_ITEM_ID":"13",
+        "TRIGGERED_QUEST_TEXT_AND_FLAG_SET":"501,86308,1@4,8633,1,1@500,8659,1@501,86004,1",
+        "Wmr4xDa8":"86074"
     },
     {
         "29MgiJIQ":"3",

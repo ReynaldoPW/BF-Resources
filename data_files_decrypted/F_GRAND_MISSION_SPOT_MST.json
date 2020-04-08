@@ -3192,10 +3192,10 @@
         "IMAGE":"",
         "LOCATIONS_NAME":"Normal Mode",
         "LOCATIONS_NUMBER":"1",
-        "M6C1aXfR":"2500",
+        "M6C1aXfR":"2875",
         "MISSION_ID":"5008010",
         "MISSION_SOUNDTRACK":"",
-        "SnNtTh51":"825"
+        "SnNtTh51":"250"
     },
     {
         "0se8qAz1":"1",
@@ -3205,10 +3205,10 @@
         "IMAGE":"",
         "LOCATIONS_NAME":"Hard Mode",
         "LOCATIONS_NUMBER":"2",
-        "M6C1aXfR":"2500",
+        "M6C1aXfR":"2875",
         "MISSION_ID":"5008010",
         "MISSION_SOUNDTRACK":"",
-        "SnNtTh51":"1025"
+        "SnNtTh51":"450"
     },
     {
         "0se8qAz1":"1",
@@ -3218,10 +3218,10 @@
         "IMAGE":"",
         "LOCATIONS_NAME":"Randall",
         "LOCATIONS_NUMBER":"3",
-        "M6C1aXfR":"2200",
+        "M6C1aXfR":"2300",
         "MISSION_ID":"5008010",
         "MISSION_SOUNDTRACK":"",
-        "SnNtTh51":"825"
+        "SnNtTh51":"850"
     },
     {
         "0se8qAz1":"1",
@@ -3231,10 +3231,10 @@
         "IMAGE":"",
         "LOCATIONS_NAME":"Other Dimension",
         "LOCATIONS_NUMBER":"4",
-        "M6C1aXfR":"1950",
+        "M6C1aXfR":"2000",
         "MISSION_ID":"5008010",
         "MISSION_SOUNDTRACK":"",
-        "SnNtTh51":"575"
+        "SnNtTh51":"600"
     },
     {
         "0se8qAz1":"1",
@@ -3244,10 +3244,10 @@
         "IMAGE":"",
         "LOCATIONS_NAME":"Elysia - Forward Camp",
         "LOCATIONS_NUMBER":"5",
-        "M6C1aXfR":"1750",
+        "M6C1aXfR":"1800",
         "MISSION_ID":"5008010",
         "MISSION_SOUNDTRACK":"",
-        "SnNtTh51":"150"
+        "SnNtTh51":"175"
     },
     {
         "0se8qAz1":"1",
@@ -3296,10 +3296,10 @@
         "IMAGE":"",
         "LOCATIONS_NAME":"Elysia - Gates of Elysia",
         "LOCATIONS_NUMBER":"9",
-        "M6C1aXfR":"1575",
+        "M6C1aXfR":"1600",
         "MISSION_ID":"5008010",
         "MISSION_SOUNDTRACK":"",
-        "SnNtTh51":"550"
+        "SnNtTh51":"575"
     },
     {
         "0se8qAz1":"1",
@@ -3312,7 +3312,7 @@
         "M6C1aXfR":"1150",
         "MISSION_ID":"5008010",
         "MISSION_SOUNDTRACK":"",
-        "SnNtTh51":"800"
+        "SnNtTh51":"825"
     },
     {
         "0se8qAz1":"1",
@@ -3322,7 +3322,7 @@
         "IMAGE":"",
         "LOCATIONS_NAME":"Time Rift",
         "LOCATIONS_NUMBER":"11",
-        "M6C1aXfR":"2250",
+        "M6C1aXfR":"2275",
         "MISSION_ID":"5008010",
         "MISSION_SOUNDTRACK":"",
         "SnNtTh51":"250"
@@ -3348,7 +3348,7 @@
         "IMAGE":"",
         "LOCATIONS_NAME":"Memory Rift",
         "LOCATIONS_NUMBER":"13",
-        "M6C1aXfR":"2500",
+        "M6C1aXfR":"2550",
         "MISSION_ID":"5008010",
         "MISSION_SOUNDTRACK":"",
         "SnNtTh51":"575"
@@ -3374,10 +3374,10 @@
         "IMAGE":"",
         "LOCATIONS_NAME":"Elysia - Hightower",
         "LOCATIONS_NUMBER":"15",
-        "M6C1aXfR":"715",
+        "M6C1aXfR":"675",
         "MISSION_ID":"5008010",
         "MISSION_SOUNDTRACK":"",
-        "SnNtTh51":"835"
+        "SnNtTh51":"850"
     },
     {
         "0se8qAz1":"1",
@@ -3387,10 +3387,10 @@
         "IMAGE":"",
         "LOCATIONS_NAME":"Underworld - Hidden Facility",
         "LOCATIONS_NUMBER":"16",
-        "M6C1aXfR":"1835",
+        "M6C1aXfR":"1725",
         "MISSION_ID":"5008010",
         "MISSION_SOUNDTRACK":"",
-        "SnNtTh51":"1109"
+        "SnNtTh51":"1050"
     },
     {
         "0se8qAz1":"1",
@@ -3400,10 +3400,10 @@
         "IMAGE":"",
         "LOCATIONS_NAME":"Underworld - Tinkering Labs",
         "LOCATIONS_NUMBER":"17",
-        "M6C1aXfR":"1450",
+        "M6C1aXfR":"1325",
         "MISSION_ID":"5008010",
         "MISSION_SOUNDTRACK":"",
-        "SnNtTh51":"1319"
+        "SnNtTh51":"1275"
     },
     {
         "0se8qAz1":"1",
@@ -3413,10 +3413,10 @@
         "IMAGE":"",
         "LOCATIONS_NAME":"Underworld - Link Between Worlds",
         "LOCATIONS_NUMBER":"18",
-        "M6C1aXfR":"1975",
+        "M6C1aXfR":"1900",
         "MISSION_ID":"5008010",
         "MISSION_SOUNDTRACK":"",
-        "SnNtTh51":"1579"
+        "SnNtTh51":"1500"
     },
     {
         "0se8qAz1":"1",
@@ -3426,7 +3426,7 @@
         "IMAGE":"",
         "LOCATIONS_NAME":"Athensphere - Archon's Fortress",
         "LOCATIONS_NUMBER":"19",
-        "M6C1aXfR":"1430",
+        "M6C1aXfR":"1300",
         "MISSION_ID":"5008010",
         "MISSION_SOUNDTRACK":"",
         "SnNtTh51":"1799"
@@ -3439,7 +3439,7 @@
         "IMAGE":"",
         "LOCATIONS_NAME":"Athensphere - Victory Peak",
         "LOCATIONS_NUMBER":"20",
-        "M6C1aXfR":"920",
+        "M6C1aXfR":"750",
         "MISSION_ID":"5008010",
         "MISSION_SOUNDTRACK":"",
         "SnNtTh51":"1769"
@@ -3452,10 +3452,23 @@
         "IMAGE":"",
         "LOCATIONS_NAME":"Athensphere - Workers' Pride",
         "LOCATIONS_NUMBER":"21",
-        "M6C1aXfR":"920",
+        "M6C1aXfR":"750",
         "MISSION_ID":"5008010",
         "MISSION_SOUNDTRACK":"",
         "SnNtTh51":"1319"
+    },
+    {
+        "0se8qAz1":"1",
+        "??SOME_SORT_OF_MISSION_IDS_LIST??":"",
+        "DUNGEON_IMAGE":"dungeon_battle_80013.jpg",
+        "FLAGS_TRIGGERED?":"",
+        "IMAGE":"",
+        "LOCATIONS_NAME":"Home Dimension",
+        "LOCATIONS_NUMBER":"22",
+        "M6C1aXfR":"2875",
+        "MISSION_ID":"5008010",
+        "MISSION_SOUNDTRACK":"",
+        "SnNtTh51":"900"
     },
     {
         "0se8qAz1":"1",

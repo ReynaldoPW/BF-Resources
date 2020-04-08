@@ -22088,6 +22088,160 @@
         "yRlCNyvk":"Allows BB effects to last an additional turn"
     },
     {
+        "2Smu5Mtq":"0,20,0,0,20",
+        "9PsmH7tz":"1010500112",
+        "D9wXQI2V":"2",
+        "G5wFDad6":"10",
+        "hjAy9St3":"1",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010500112",
+        "yRlCNyvk":"20% Def, max HP"
+    },
+    {
+        "2Smu5Mtq":"0,100,0,100,0,0,1",
+        "9PsmH7tz":"1010500113",
+        "D9wXQI2V":"4",
+        "G5wFDad6":"20",
+        "hjAy9St3":"46",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010500113",
+        "yRlCNyvk":"1-100% Atk, Def relative to HP lost"
+    },
+    {
+        "2Smu5Mtq":"10015,100&3&0&1,1,2,0,0,1,0",
+        "9PsmH7tz":"1010500114",
+        "D9wXQI2V":"4",
+        "G5wFDad6":"20",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010500114",
+        "yRlCNyvk":"Add to SBB (Boosts spark damage [100%] (Fire) for 3 turns)"
+    },
+    {
+        "2Smu5Mtq":"62,4&4000&0&100&0,1,2,0,0,1,0",
+        "9PsmH7tz":"1010500115",
+        "D9wXQI2V":"4",
+        "G5wFDad6":"20",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010500115",
+        "yRlCNyvk":"Add to SBB (Adds Fire barrier [4000 HP])"
+    },
+    {
+        "2Smu5Mtq":"45,550&550&550&3&0,1,2,0,1,1,0",
+        "9PsmH7tz":"1010500116",
+        "D9wXQI2V":"6",
+        "G5wFDad6":"30",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010500116",
+        "yRlCNyvk":"Add to BB\\/SBB (Boosts BB Atk [550%] for 3 turns)"
+    },
+    {
+        "2Smu5Mtq":"23,180&0&0&0&0&0&3&0,1,2,0,1,1,0",
+        "9PsmH7tz":"1010500117",
+        "D9wXQI2V":"6",
+        "G5wFDad6":"30",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010500117",
+        "yRlCNyvk":"Add to BB\\/SBB (Boosts spark damage [180%] for 3 turns)"
+    },
+    {
+        "2Smu5Mtq":"0,5000,0,0,0",
+        "9PsmH7tz":"1010500118",
+        "D9wXQI2V":"4",
+        "G5wFDad6":"20",
+        "hjAy9St3":"62",
+        "jeR2rN3V":"4",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010500118",
+        "yRlCNyvk":"Enhances UBB Thunder barrier [+5000 HP] effect"
+    },
+    {
+        "2Smu5Mtq":"0,0,0,0,0,1,0@0,0,0,0,0,0,0,1,0@0,1,0@0,0,0,1,0",
+        "9PsmH7tz":"1010500119",
+        "D9wXQI2V":"6",
+        "G5wFDad6":"30",
+        "hjAy9St3":"5@9@18@67",
+        "jeR2rN3V":"4@4@4@4",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010500119",
+        "yRlCNyvk":"Allows UBB's boost effects to last for 4 turns"
+    },
+    {
+        "2Smu5Mtq":"50,50,0,0,50,1",
+        "9PsmH7tz":"1010500120",
+        "D9wXQI2V":"2",
+        "G5wFDad6":"10",
+        "hjAy9St3":"11",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010500120",
+        "yRlCNyvk":"50% Atk, Def  when HP is above 50%"
+    },
+    {
+        "2Smu5Mtq":"7",
+        "9PsmH7tz":"1010500121",
+        "D9wXQI2V":"5",
+        "G5wFDad6":"25",
+        "hjAy9St3":"8",
+        "jeR2rN3V":"5",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010500121",
+        "yRlCNyvk":"Enhances LS's damage reduction effect [+7%]"
+    },
+    {
+        "2Smu5Mtq":"0,1,70,70,0",
+        "9PsmH7tz":"1010500122",
+        "D9wXQI2V":"5",
+        "G5wFDad6":"25",
+        "hjAy9St3":"69",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010500122",
+        "yRlCNyvk":"Probable [70%] 1 KO resistance"
+    },
+    {
+        "2Smu5Mtq":"11,1&80&2&80&3&80&4&80&0,2,2,0,1,1,0@11,5&80&6&80&0&0&0&0&0,2,2,0,1,1,0",
+        "9PsmH7tz":"1010500123",
+        "D9wXQI2V":"4",
+        "G5wFDad6":"20",
+        "hjAy9St3":"66@66",
+        "jeR2rN3V":"1@1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010500123",
+        "yRlCNyvk":"Add to BB\\/SBB (Probable [80%] random status ailments)"
+    },
+    {
+        "2Smu5Mtq":"58,50&30&1&0,2,2,0,1,1,0",
+        "9PsmH7tz":"1010500124",
+        "D9wXQI2V":"2",
+        "G5wFDad6":"10",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010500124",
+        "yRlCNyvk":"Add to BB\\/SBB (Probable [30%] 2 turns spark vulnerability [50%] infliction)"
+    },
+    {
+        "2Smu5Mtq":"71,50&2&100,2,2,0,1,1,0",
+        "9PsmH7tz":"1010500125",
+        "D9wXQI2V":"5",
+        "G5wFDad6":"25",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010500125",
+        "yRlCNyvk":"Add to BB\\/SBB (2 turns 50% BB gauge fill rate reduction infliction)"
+    },
+    {
         "2Smu5Mtq":"31,2000&0,1,2,0,1,0,0",
         "9PsmH7tz":"1010700010",
         "D9wXQI2V":"5",
@@ -27762,6 +27916,28 @@
         "qp37xTDh":"",
         "ri6D9yBi":"1100000498",
         "yRlCNyvk":"Add to SBB (16 combo Earth attack on all foes (damage relative to remaining HP))"
+    },
+    {
+        "2Smu5Mtq":"10016,0.75&3&0&2,1,2,0,0,1,0",
+        "9PsmH7tz":"1100000499",
+        "D9wXQI2V":"2",
+        "G5wFDad6":"15",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1100000499",
+        "yRlCNyvk":"Add to SBB (boosts critical damage [75%] (Water) for 3 turns)"
+    },
+    {
+        "2Smu5Mtq":"47,200&500&0&200&0&0&0&0,2,2,1,0,1,0",
+        "9PsmH7tz":"1100000500",
+        "D9wXQI2V":"4",
+        "G5wFDad6":"25",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1100000500",
+        "yRlCNyvk":"Add to SBB (17 combo Water attack [200-500%] on all foes (damage relative to remaining HP))"
     },
     {
         "2Smu5Mtq":"0,0,30,0,30",

@@ -754,7 +754,7 @@
     {
         "4N25Z87R":"3",
         "59b1eE6N":"1001,5000000,25000,10000000,50000,25000000,75000,50000000,100000,100000000,125000,:1002,5000000,25000,10000000,50000,25000000,75000,50000000,100000,100000000,125000,",
-        "AVAILABILITY_TIME_END":"1587542399",
+        "AVAILABILITY_TIME_END":"-62169984000",
         "AVAILABILITY_TIME_START/AMOUNT_REQUIRED":"1554105600",
         "DESCRIPTION":"The darkness stirs in Aimyhr once more. The corrupting influence of the Voidborn invaders has weakened the Vale in the North, and ominous storms threaten to drown the Eastern Fields in freezing rain.",
         "DUNGEON_ID":"8000010",

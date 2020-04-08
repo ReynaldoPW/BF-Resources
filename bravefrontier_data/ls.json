@@ -24202,9 +24202,14 @@
         "desc":"MST_LEADERSKILLS_801266_DESCRIPTION",
         "effects":[
             {
-                "atk% buff":50,
-                "hp% buff":50,
+                "atk% buff":150,
+                "hp% buff":80,
                 "passive id":"1"
+            },
+            {
+                "base elemental damage resist%":100,
+                "buffed elemental damage resist%":100,
+                "passive id":"53"
             },
             {
                 "bc fill on spark high":2,
@@ -24213,13 +24218,12 @@
                 "passive id":"47"
             },
             {
-                "base elemental damage resist%":100,
-                "buffed elemental damage resist%":100,
-                "passive id":"53"
+                "dmg% for spark":150,
+                "passive id":"31"
             },
             {
-                "params":"40,100,-1,15,2",
-                "passive id":"86"
+                "passive id":"48",
+                "reduced bc cost%":20
             }
         ],
         "id":"801266",
@@ -28515,6 +28519,39 @@
         "id":"820758",
         "name":"MST_LEADERSKILLS_820758_NAME"
     },
+    "820798":{
+        "desc":"MST_LEADERSKILLS_820798_DESCRIPTION",
+        "effects":[
+            {
+                "atk% buff":200,
+                "crit% buff":30,
+                "def% buff":140,
+                "hp% buff":140,
+                "passive id":"2"
+            },
+            {
+                "crit dmg%":250,
+                "passive id":"34"
+            },
+            {
+                "elemental weakness dmg%":250,
+                "elements":[
+                    "water"
+                ],
+                "passive id":"50"
+            },
+            {
+                "passive id":"48",
+                "reduced bc cost%":30
+            },
+            {
+                "params":"0,1,25,25,0",
+                "passive id":"69"
+            }
+        ],
+        "id":"820798",
+        "name":"MST_LEADERSKILLS_820798_NAME"
+    },
     "820808":{
         "desc":"MST_LEADERSKILLS_820808_DESCRIPTION",
         "effects":[
@@ -30906,7 +30943,7 @@
             {
                 "atk% buff":125,
                 "def% buff":50,
-                "hp% buff":80,
+                "hp% buff":100,
                 "passive id":"1"
             },
             {
@@ -30919,7 +30956,7 @@
                 "passive id":"92"
             },
             {
-                "dmg% for spark":130,
+                "dmg% for spark":150,
                 "passive id":"31"
             },
             {

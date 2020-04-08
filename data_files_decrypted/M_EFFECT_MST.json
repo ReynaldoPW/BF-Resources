@@ -41208,6 +41208,24 @@
         "EFFECT_AREA*":"3"
     },
     {
+        "1NijIP2a":"80",
+        "BATTLE_EFFECT_FILE":"effect_prt_301_1_re2.plist",
+        "BATTLE_EFFECT_ID":"8200270",
+        "EFFECT_AREA*":"3"
+    },
+    {
+        "1NijIP2a":"120",
+        "BATTLE_EFFECT_FILE":"effect_prt_1097_blue.plist",
+        "BATTLE_EFFECT_ID":"8200271",
+        "EFFECT_AREA*":"3"
+    },
+    {
+        "1NijIP2a":"80",
+        "BATTLE_EFFECT_FILE":"effect_prt_1043.plist",
+        "BATTLE_EFFECT_ID":"8200272",
+        "EFFECT_AREA*":"3"
+    },
+    {
         "1NijIP2a":"100",
         "BATTLE_EFFECT_FILE":"810507BattleEffectDimBack.sam",
         "BATTLE_EFFECT_ID":"8300001",
