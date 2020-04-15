@@ -7340,6 +7340,14 @@
         "UNIT_ID":"820848"
     },
     {
+        "PROCESS_ID":"1:unit_idle_cgs_820867.csv|2:unit_idle_cgs_830827.csv|3:unit_atk_cgs_820867.csv|4:unit_atk_cgs_820867.csv",
+        "UNIT_ID":"820867"
+    },
+    {
+        "PROCESS_ID":"1:unit_idle_cgs_820868.csv|2:unit_idle_cgs_830828.csv|3:unit_atk_cgs_820868.csv|4:unit_atk_cgs_820868.csv",
+        "UNIT_ID":"820868"
+    },
+    {
         "PROCESS_ID":"1:unit_idle_cgs_820900.csv|2:unit_idle_cgs_820900.csv|3:unit_atk_cgs_820900.csv|4:unit_atk_cgs_820900.csv",
         "UNIT_ID":"820900"
     },
@@ -8058,6 +8066,14 @@
     {
         "PROCESS_ID":"1:unit_idle_cgs_840848.csv|2:unit_idle_cgs_840848.csv|3:unit_atk_cgs_840848.csv|4:unit_atk_cgs_840848.csv",
         "UNIT_ID":"840848"
+    },
+    {
+        "PROCESS_ID":"1:unit_idle_cgs_840867.csv|2:unit_move_cgs_840867.csv|3:unit_atk_cgs_840867.csv|4:unit_atk_cgs_840867.csv",
+        "UNIT_ID":"840867"
+    },
+    {
+        "PROCESS_ID":"1:unit_idle_cgs_840868.csv|2:unit_idle_cgs_840868.csv|3:unit_atk_cgs_840868.csv|4:unit_atk_cgs_840868.csv",
+        "UNIT_ID":"840868"
     },
     {
         "PROCESS_ID":"1:unit_idle_cgs_840900.csv|2:unit_idle_cgs_840900.csv|3:unit_atk_cgs_840900.csv|4:unit_atk_cgs_840900.csv",

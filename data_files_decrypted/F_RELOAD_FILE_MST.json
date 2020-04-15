@@ -2066,5 +2066,9 @@
     {
         "RELOAD_FILES":"banner_subscription_2020.png,banner_summon_Aoife_2020.png,banner_summon_Roy_2020.png,banner_dbbresources_2020.png,banner_limitedtimebundle_2020.png",
         "RELOAD_ID":"3089"
+    },
+    {
+        "RELOAD_FILES":"Loading.sam",
+        "RELOAD_ID":"3090"
     }
 ]

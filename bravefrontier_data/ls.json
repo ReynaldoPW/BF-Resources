@@ -28744,6 +28744,66 @@
         "id":"820848",
         "name":"MST_LEADERSKILLS_820848_NAME"
     },
+    "820867":{
+        "desc":"MST_LEADERSKILLS_820867_DESCRIPTION",
+        "effects":[
+            {
+                "atk% buff":100,
+                "def% buff":120,
+                "hp% buff":120,
+                "passive id":"1",
+                "rec% buff":100
+            },
+            {
+                "dmg% for spark":150,
+                "passive id":"31"
+            },
+            {
+                "params":"20",
+                "passive id":"70"
+            },
+            {
+                "bc fill on spark high":2,
+                "bc fill on spark low":2,
+                "bc fill on spark%":200,
+                "passive id":"47"
+            }
+        ],
+        "id":"820867",
+        "name":"MST_LEADERSKILLS_820867_NAME"
+    },
+    "820868":{
+        "desc":"MST_LEADERSKILLS_820868_DESCRIPTION",
+        "effects":[
+            {
+                "atk% buff":120,
+                "def% buff":150,
+                "hp% buff":150,
+                "passive id":"1",
+                "rec% buff":120
+            },
+            {
+                "dmg% for spark":250,
+                "passive id":"31"
+            },
+            {
+                "params":"36,20,-1,5000,1",
+                "passive id":"78"
+            },
+            {
+                "params":"30",
+                "passive id":"70"
+            },
+            {
+                "bc fill on spark high":3,
+                "bc fill on spark low":3,
+                "bc fill on spark%":300,
+                "passive id":"47"
+            }
+        ],
+        "id":"820868",
+        "name":"MST_LEADERSKILLS_820868_NAME"
+    },
     "820900":{
         "desc":"MST_LEADERSKILLS_820900_DESCRIPTION",
         "effects":[
@@ -31920,6 +31980,77 @@
         ],
         "id":"840848",
         "name":"MST_LEADERSKILLS_840848_NAME"
+    },
+    "840867":{
+        "desc":"MST_LEADERSKILLS_840867_DESCRIPTION",
+        "effects":[
+            {
+                "atk% buff":150,
+                "crit% buff":30,
+                "hp% buff":100,
+                "passive id":"1"
+            },
+            {
+                "elemental weakness dmg%":200,
+                "elements":[
+                    "thunder",
+                    "earth"
+                ],
+                "passive id":"50"
+            },
+            {
+                "bc fill when attacked chance%":100,
+                "bc fill when attacked high":9,
+                "bc fill when attacked low":5,
+                "passive id":"25"
+            },
+            {
+                "params":"50,80",
+                "passive id":"100"
+            }
+        ],
+        "id":"840867",
+        "name":"MST_LEADERSKILLS_840867_NAME"
+    },
+    "840868":{
+        "desc":"MST_LEADERSKILLS_840868_DESCRIPTION",
+        "effects":[
+            {
+                "atk% buff":200,
+                "crit% buff":30,
+                "hp% buff":150,
+                "passive id":"1"
+            },
+            {
+                "elemental weakness dmg%":300,
+                "elements":[
+                    "thunder",
+                    "earth"
+                ],
+                "passive id":"50"
+            },
+            {
+                "bc fill when attacked chance%":100,
+                "bc fill when attacked high":9,
+                "bc fill when attacked low":6,
+                "passive id":"25"
+            },
+            {
+                "params":"60,100",
+                "passive id":"100"
+            },
+            {
+                "base crit chance resist%":100,
+                "base crit dmg resist%":100,
+                "base elemental damage resist%":100,
+                "buffed crit chance resist%":100,
+                "buffed crit dmg resist%":100,
+                "buffed elemental damage resist%":100,
+                "passive id":"53"
+            }
+        ],
+        "id":"840868",
+        "name":"MST_LEADERSKILLS_840868_NAME"
     },
     "840900":{
         "desc":"MST_LEADERSKILLS_840900_DESCRIPTION",

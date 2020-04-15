@@ -22244,6 +22244,61 @@
     {
         "DESCRIPTION":"",
         "EFFECT_AREA*":"1",
+        "LEVEL":"2",
+        "PROC/PASSIVE_ID(S)":"34",
+        "PROC/PASSIVE_PARAMETERS":"2",
+        "SP_ID":"1010500126",
+        "SP_NAME":"200% critical damage",
+        "SP_NEED_BP":"10",
+        "SP_SERIES":"1010500126"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
+        "LEVEL":"2",
+        "PROC/PASSIVE_ID(S)":"143",
+        "PROC/PASSIVE_PARAMETERS":"220000",
+        "SP_ID":"1010500127",
+        "SP_NAME":"Raises Atk parameter limits to 220k",
+        "SP_NEED_BP":"10",
+        "SP_SERIES":"1010500127"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
+        "LEVEL":"3",
+        "PROC/PASSIVE_ID(S)":"66",
+        "PROC/PASSIVE_PARAMETERS":"85,25&30&50&3&0,1,2,0,1,0,0",
+        "SP_ID":"1010500128",
+        "SP_NAME":"Add to BB (Damage taken may [50%] restore HP [25-30% damage] for 3 turns)",
+        "SP_NEED_BP":"15",
+        "SP_SERIES":"1010500128"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
+        "LEVEL":"5",
+        "PROC/PASSIVE_ID(S)":"66",
+        "PROC/PASSIVE_PARAMETERS":"70002,100&3&0&0&0&0&0&0&0,3,1,0,0,1,0",
+        "SP_ID":"1010500130",
+        "SP_NAME":"Add to SBB (Activates own BB\\/SBB\\/UBB twice for 3 turns)",
+        "SP_NEED_BP":"25",
+        "SP_SERIES":"1010500130"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
+        "LEVEL":"5",
+        "PROC/PASSIVE_ID(S)":"66",
+        "PROC/PASSIVE_PARAMETERS":"47,300&550&0&200&0&0&0&0,2,2,0,0,1,0",
+        "SP_ID":"1010500131",
+        "SP_NAME":"Add to SBB (34 combo Thunder attack [300-550%] on all foes (damage relative to remaining HP))",
+        "SP_NEED_BP":"25",
+        "SP_SERIES":"1010500131"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
         "LEVEL":"5",
         "PROC/PASSIVE_ID(S)":"66",
         "PROC/PASSIVE_PARAMETERS":"31,2000&0,1,2,0,1,0,0",
@@ -22992,12 +23047,12 @@
     {
         "DESCRIPTION":"",
         "EFFECT_AREA*":"1",
-        "LEVEL":"3",
+        "LEVEL":"2",
         "PROC/PASSIVE_ID(S)":"143",
         "PROC/PASSIVE_PARAMETERS":"200000",
         "SP_ID":"1010700079",
         "SP_NAME":"Raises Atk parameter limits to 200k",
-        "SP_NEED_BP":"15",
+        "SP_NEED_BP":"10",
         "SP_SERIES":"1010700079"
     },
     {
@@ -23153,6 +23208,50 @@
         "SP_NAME":"25% reduction to BB activation cost",
         "SP_NEED_BP":"25",
         "SP_SERIES":"1010800035"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
+        "LEVEL":"3",
+        "PROC/PASSIVE_ID(S)":"107",
+        "PROC/PASSIVE_PARAMETERS":"101,500$600$100",
+        "SP_ID":"1010800036",
+        "SP_NAME":"Add to LS (spark damage restores HP [500-600])",
+        "SP_NEED_BP":"20",
+        "SP_SERIES":"1010800036"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
+        "LEVEL":"4",
+        "PROC/PASSIVE_ID(S)":"66",
+        "PROC/PASSIVE_PARAMETERS":"62,2&7000&0&100&0,1,2,0,1,1,0",
+        "SP_ID":"1010800037",
+        "SP_NAME":"Add to BB\\/SBB (adds Water barrier [7000 HP])",
+        "SP_NEED_BP":"15",
+        "SP_SERIES":"1010800037"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1@1",
+        "LEVEL":"5",
+        "PROC/PASSIVE_ID(S)":"66@66",
+        "PROC/PASSIVE_PARAMETERS":"132,40&40&75&75&3&160,2,2,0,0,1,0@58,40&75&2&160,2,2,0,0,1,0",
+        "SP_ID":"1010800038",
+        "SP_NAME":"Add to SBB (probable [75%] 3 turns critical, elemental and spark vulnerability [40%] infliction)",
+        "SP_NEED_BP":"25",
+        "SP_SERIES":"1010800038"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1@1",
+        "LEVEL":"4",
+        "PROC/PASSIVE_ID(S)":"66@66",
+        "PROC/PASSIVE_PARAMETERS":"10019,60&147&71&0&0&0&0&0&0&80,1,1,0,1,0,0@10019,60&147&71&0&0&0&0&0&0&100,1,2,0,0,0,1",
+        "SP_ID":"1010800039",
+        "SP_NAME":"Add to BB (may [80%] purge LS\\/ES\\/DoT from random ally) and add to UBB (purges LS\\/ES\\/DoT from all allies)",
+        "SP_NEED_BP":"35",
+        "SP_SERIES":"1010800039"
     },
     {
         "DESCRIPTION":"",

@@ -7340,6 +7340,14 @@
         "pn16CNah":"820848"
     },
     {
+        "Kn51uR4Y":"1:unit_idle_cgs_820867.csv|2:unit_idle_cgs_830827.csv|3:unit_atk_cgs_820867.csv|4:unit_atk_cgs_820867.csv",
+        "pn16CNah":"820867"
+    },
+    {
+        "Kn51uR4Y":"1:unit_idle_cgs_820868.csv|2:unit_idle_cgs_830828.csv|3:unit_atk_cgs_820868.csv|4:unit_atk_cgs_820868.csv",
+        "pn16CNah":"820868"
+    },
+    {
         "Kn51uR4Y":"1:unit_idle_cgs_820900.csv|2:unit_idle_cgs_820900.csv|3:unit_atk_cgs_820900.csv|4:unit_atk_cgs_820900.csv",
         "pn16CNah":"820900"
     },
@@ -8058,6 +8066,14 @@
     {
         "Kn51uR4Y":"1:unit_idle_cgs_840848.csv|2:unit_idle_cgs_840848.csv|3:unit_atk_cgs_840848.csv|4:unit_atk_cgs_840848.csv",
         "pn16CNah":"840848"
+    },
+    {
+        "Kn51uR4Y":"1:unit_idle_cgs_840867.csv|2:unit_move_cgs_840867.csv|3:unit_atk_cgs_840867.csv|4:unit_atk_cgs_840867.csv",
+        "pn16CNah":"840867"
+    },
+    {
+        "Kn51uR4Y":"1:unit_idle_cgs_840868.csv|2:unit_idle_cgs_840868.csv|3:unit_atk_cgs_840868.csv|4:unit_atk_cgs_840868.csv",
+        "pn16CNah":"840868"
     },
     {
         "Kn51uR4Y":"1:unit_idle_cgs_840900.csv|2:unit_idle_cgs_840900.csv|3:unit_atk_cgs_840900.csv|4:unit_atk_cgs_840900.csv",

@@ -712,5 +712,12 @@
         "SCENARIO_SUPERSECTION*":"70000",
         "SP_CAT_ID":"100014",
         "SP_CAT_NAME":"The Fiend Zone"
+    },
+    {
+        "DESCRIPTION":"Join Vash and friends in their adventure across Grand Gaia!",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"27",
+        "SCENARIO_SUPERSECTION*":"70000",
+        "SP_CAT_ID":"100015",
+        "SP_CAT_NAME":"Trigun Collaboration"
     }
 ]

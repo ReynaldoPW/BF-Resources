@@ -22242,6 +22242,61 @@
         "yRlCNyvk":"Add to BB\\/SBB (2 turns 50% BB gauge fill rate reduction infliction)"
     },
     {
+        "2Smu5Mtq":"2",
+        "9PsmH7tz":"1010500126",
+        "D9wXQI2V":"2",
+        "G5wFDad6":"10",
+        "hjAy9St3":"34",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010500126",
+        "yRlCNyvk":"200% critical damage"
+    },
+    {
+        "2Smu5Mtq":"220000",
+        "9PsmH7tz":"1010500127",
+        "D9wXQI2V":"2",
+        "G5wFDad6":"10",
+        "hjAy9St3":"143",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010500127",
+        "yRlCNyvk":"Raises Atk parameter limits to 220k"
+    },
+    {
+        "2Smu5Mtq":"85,25&30&50&3&0,1,2,0,1,0,0",
+        "9PsmH7tz":"1010500128",
+        "D9wXQI2V":"3",
+        "G5wFDad6":"15",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010500128",
+        "yRlCNyvk":"Add to BB (Damage taken may [50%] restore HP [25-30% damage] for 3 turns)"
+    },
+    {
+        "2Smu5Mtq":"70002,100&3&0&0&0&0&0&0&0,3,1,0,0,1,0",
+        "9PsmH7tz":"1010500130",
+        "D9wXQI2V":"5",
+        "G5wFDad6":"25",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010500130",
+        "yRlCNyvk":"Add to SBB (Activates own BB\\/SBB\\/UBB twice for 3 turns)"
+    },
+    {
+        "2Smu5Mtq":"47,300&550&0&200&0&0&0&0,2,2,0,0,1,0",
+        "9PsmH7tz":"1010500131",
+        "D9wXQI2V":"5",
+        "G5wFDad6":"25",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010500131",
+        "yRlCNyvk":"Add to SBB (34 combo Thunder attack [300-550%] on all foes (damage relative to remaining HP))"
+    },
+    {
         "2Smu5Mtq":"31,2000&0,1,2,0,1,0,0",
         "9PsmH7tz":"1010700010",
         "D9wXQI2V":"5",
@@ -22992,8 +23047,8 @@
     {
         "2Smu5Mtq":"200000",
         "9PsmH7tz":"1010700079",
-        "D9wXQI2V":"3",
-        "G5wFDad6":"15",
+        "D9wXQI2V":"2",
+        "G5wFDad6":"10",
         "hjAy9St3":"143",
         "jeR2rN3V":"1",
         "qp37xTDh":"",
@@ -23153,6 +23208,50 @@
         "qp37xTDh":"",
         "ri6D9yBi":"1010800035",
         "yRlCNyvk":"25% reduction to BB activation cost"
+    },
+    {
+        "2Smu5Mtq":"101,500$600$100",
+        "9PsmH7tz":"1010800036",
+        "D9wXQI2V":"3",
+        "G5wFDad6":"20",
+        "hjAy9St3":"107",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010800036",
+        "yRlCNyvk":"Add to LS (spark damage restores HP [500-600])"
+    },
+    {
+        "2Smu5Mtq":"62,2&7000&0&100&0,1,2,0,1,1,0",
+        "9PsmH7tz":"1010800037",
+        "D9wXQI2V":"4",
+        "G5wFDad6":"15",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010800037",
+        "yRlCNyvk":"Add to BB\\/SBB (adds Water barrier [7000 HP])"
+    },
+    {
+        "2Smu5Mtq":"132,40&40&75&75&3&160,2,2,0,0,1,0@58,40&75&2&160,2,2,0,0,1,0",
+        "9PsmH7tz":"1010800038",
+        "D9wXQI2V":"5",
+        "G5wFDad6":"25",
+        "hjAy9St3":"66@66",
+        "jeR2rN3V":"1@1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010800038",
+        "yRlCNyvk":"Add to SBB (probable [75%] 3 turns critical, elemental and spark vulnerability [40%] infliction)"
+    },
+    {
+        "2Smu5Mtq":"10019,60&147&71&0&0&0&0&0&0&80,1,1,0,1,0,0@10019,60&147&71&0&0&0&0&0&0&100,1,2,0,0,0,1",
+        "9PsmH7tz":"1010800039",
+        "D9wXQI2V":"4",
+        "G5wFDad6":"35",
+        "hjAy9St3":"66@66",
+        "jeR2rN3V":"1@1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010800039",
+        "yRlCNyvk":"Add to BB (may [80%] purge LS\\/ES\\/DoT from random ally) and add to UBB (purges LS\\/ES\\/DoT from all allies)"
     },
     {
         "2Smu5Mtq":"100,100,100,100,100,100,100,100,100",

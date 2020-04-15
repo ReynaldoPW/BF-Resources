@@ -2534,5 +2534,29 @@
         "ROUTE_END_LOCATION?":"13",
         "ROUTE_ID":"86032",
         "ROUTE_START_LOCATION?":"11"
+    },
+    {
+        "FLAGS_TRIGGERED?":"8634:1,86003:0@0",
+        "LOCATIONS_UNLOCKED?":"0",
+        "MISSION_ID":"5008010",
+        "ROUTE_END_LOCATION?":"23",
+        "ROUTE_ID":"86033",
+        "ROUTE_START_LOCATION?":"22"
+    },
+    {
+        "FLAGS_TRIGGERED?":"86210:1@0",
+        "LOCATIONS_UNLOCKED?":"0",
+        "MISSION_ID":"5008010",
+        "ROUTE_END_LOCATION?":"24",
+        "ROUTE_ID":"86034",
+        "ROUTE_START_LOCATION?":"23"
+    },
+    {
+        "FLAGS_TRIGGERED?":"86210:1@0",
+        "LOCATIONS_UNLOCKED?":"0",
+        "MISSION_ID":"5008010",
+        "ROUTE_END_LOCATION?":"25",
+        "ROUTE_ID":"86035",
+        "ROUTE_START_LOCATION?":"24"
     }
 ]

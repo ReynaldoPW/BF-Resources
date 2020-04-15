@@ -15171,8 +15171,8 @@
         "desc":"MST_EXTRAPASSIVESKILL_500100_DESCRIPTION",
         "effects":[
             {
-                "params":"",
-                "passive id":""
+                "params":"30,30,30",
+                "passive id":"64"
             }
         ],
         "id":"500100",
@@ -15184,8 +15184,8 @@
         "desc":"MST_EXTRAPASSIVESKILL_500101_DESCRIPTION",
         "effects":[
             {
-                "params":"",
-                "passive id":""
+                "params":"50,50,50",
+                "passive id":"64"
             }
         ],
         "id":"500101",
@@ -15197,8 +15197,12 @@
         "desc":"MST_EXTRAPASSIVESKILL_500102_DESCRIPTION",
         "effects":[
             {
-                "params":"",
-                "passive id":""
+                "params":"70,70,70",
+                "passive id":"64"
+            },
+            {
+                "params":"50,50,50,50,50,50,50,50,50",
+                "passive id":"73"
             }
         ],
         "id":"500102",
@@ -15210,8 +15214,16 @@
         "desc":"MST_EXTRAPASSIVESKILL_500103_DESCRIPTION",
         "effects":[
             {
-                "params":"",
-                "passive id":""
+                "params":"100,100,100",
+                "passive id":"64"
+            },
+            {
+                "params":"100,100,100,100,100,100,100,100,100",
+                "passive id":"73"
+            },
+            {
+                "passive id":"48",
+                "reduced bc cost%":5
             }
         ],
         "id":"500103",
@@ -15223,8 +15235,12 @@
         "desc":"MST_EXTRAPASSIVESKILL_500200_DESCRIPTION",
         "effects":[
             {
-                "params":"",
-                "passive id":""
+                "bc fill per turn":3,
+                "passive id":"9"
+            },
+            {
+                "params":"0,1",
+                "passive id":"72"
             }
         ],
         "id":"500200",
@@ -15236,8 +15252,12 @@
         "desc":"MST_EXTRAPASSIVESKILL_500201_DESCRIPTION",
         "effects":[
             {
-                "params":"",
-                "passive id":""
+                "bc fill per turn":5,
+                "passive id":"9"
+            },
+            {
+                "params":"0,1",
+                "passive id":"72"
             }
         ],
         "id":"500201",
@@ -15249,8 +15269,16 @@
         "desc":"MST_EXTRAPASSIVESKILL_500202_DESCRIPTION",
         "effects":[
             {
-                "params":"",
-                "passive id":""
+                "bc fill per turn":7,
+                "passive id":"9"
+            },
+            {
+                "params":"25",
+                "passive id":"70"
+            },
+            {
+                "params":"0,1",
+                "passive id":"72"
             }
         ],
         "id":"500202",
@@ -15262,8 +15290,23 @@
         "desc":"MST_EXTRAPASSIVESKILL_500203_DESCRIPTION",
         "effects":[
             {
-                "params":"",
-                "passive id":""
+                "bc fill per turn":10,
+                "passive id":"9"
+            },
+            {
+                "params":"50",
+                "passive id":"70"
+            },
+            {
+                "atk% buff":10,
+                "def% buff":10,
+                "hp% buff":10,
+                "passive id":"1",
+                "rec% buff":10
+            },
+            {
+                "params":"0,1",
+                "passive id":"72"
             }
         ],
         "id":"500203",
@@ -15275,8 +15318,8 @@
         "desc":"MST_EXTRAPASSIVESKILL_500300_DESCRIPTION",
         "effects":[
             {
-                "params":"",
-                "passive id":""
+                "crit dmg%":10,
+                "passive id":"34"
             }
         ],
         "id":"500300",
@@ -15288,8 +15331,8 @@
         "desc":"MST_EXTRAPASSIVESKILL_500301_DESCRIPTION",
         "effects":[
             {
-                "params":"",
-                "passive id":""
+                "crit dmg%":20,
+                "passive id":"34"
             }
         ],
         "id":"500301",
@@ -15301,8 +15344,20 @@
         "desc":"MST_EXTRAPASSIVESKILL_500302_DESCRIPTION",
         "effects":[
             {
-                "params":"",
-                "passive id":""
+                "crit dmg%":30,
+                "passive id":"34"
+            },
+            {
+                "elemental weakness dmg%":10,
+                "elements":[
+                    "fire",
+                    "water",
+                    "earth",
+                    "thunder",
+                    "light",
+                    "dark"
+                ],
+                "passive id":"50"
             }
         ],
         "id":"500302",
@@ -15314,8 +15369,24 @@
         "desc":"MST_EXTRAPASSIVESKILL_500303_DESCRIPTION",
         "effects":[
             {
-                "params":"",
-                "passive id":""
+                "crit dmg%":50,
+                "passive id":"34"
+            },
+            {
+                "elemental weakness dmg%":15,
+                "elements":[
+                    "fire",
+                    "water",
+                    "earth",
+                    "thunder",
+                    "light",
+                    "dark"
+                ],
+                "passive id":"50"
+            },
+            {
+                "crit% buff":15,
+                "passive id":"1"
             }
         ],
         "id":"500303",
@@ -15327,8 +15398,8 @@
         "desc":"MST_EXTRAPASSIVESKILL_500400_DESCRIPTION",
         "effects":[
             {
-                "params":"",
-                "passive id":""
+                "miti%":1,
+                "passive id":"8"
             }
         ],
         "id":"500400",
@@ -15340,8 +15411,8 @@
         "desc":"MST_EXTRAPASSIVESKILL_500401_DESCRIPTION",
         "effects":[
             {
-                "params":"",
-                "passive id":""
+                "miti%":2,
+                "passive id":"8"
             }
         ],
         "id":"500401",
@@ -15353,8 +15424,12 @@
         "desc":"MST_EXTRAPASSIVESKILL_500402_DESCRIPTION",
         "effects":[
             {
-                "params":"",
-                "passive id":""
+                "miti%":3,
+                "passive id":"8"
+            },
+            {
+                "params":"1,2,3,4,5,6,50,1",
+                "passive id":"63"
             }
         ],
         "id":"500402",
@@ -15366,8 +15441,16 @@
         "desc":"MST_EXTRAPASSIVESKILL_500403_DESCRIPTION",
         "effects":[
             {
-                "params":"",
-                "passive id":""
+                "miti%":5,
+                "passive id":"8"
+            },
+            {
+                "params":"1,2,3,4,5,6,50,2",
+                "passive id":"63"
+            },
+            {
+                "params":"100,15",
+                "passive id":"127"
             }
         ],
         "id":"500403",
@@ -15379,8 +15462,10 @@
         "desc":"MST_EXTRAPASSIVESKILL_500500_DESCRIPTION",
         "effects":[
             {
-                "params":"",
-                "passive id":""
+                "passive id":"33",
+                "rec% added":210.0,
+                "turn heal high":2000,
+                "turn heal low":2000
             }
         ],
         "id":"500500",
@@ -15392,8 +15477,10 @@
         "desc":"MST_EXTRAPASSIVESKILL_500501_DESCRIPTION",
         "effects":[
             {
-                "params":"",
-                "passive id":""
+                "passive id":"33",
+                "rec% added":260.0,
+                "turn heal high":2500,
+                "turn heal low":2500
             }
         ],
         "id":"500501",
@@ -15405,8 +15492,13 @@
         "desc":"MST_EXTRAPASSIVESKILL_500502_DESCRIPTION",
         "effects":[
             {
-                "params":"",
-                "passive id":""
+                "passive id":"33",
+                "rec% added":310.0,
+                "turn heal high":3000,
+                "turn heal low":3000
+            },
+            {
+                "passive id":"55"
             }
         ],
         "id":"500502",
@@ -15418,8 +15510,19 @@
         "desc":"MST_EXTRAPASSIVESKILL_500503_DESCRIPTION",
         "effects":[
             {
-                "params":"",
-                "passive id":""
+                "passive id":"33",
+                "rec% added":410.0,
+                "turn heal high":4000,
+                "turn heal low":4000
+            },
+            {
+                "passive id":"55"
+            },
+            {
+                "dmg% to hp% when attacked chance%":30,
+                "dmg% to hp% when attacked high":25,
+                "dmg% to hp% when attacked low":20,
+                "passive id":"24"
             }
         ],
         "id":"500503",
@@ -15431,8 +15534,16 @@
         "desc":"MST_EXTRAPASSIVESKILL_500600_DESCRIPTION",
         "effects":[
             {
-                "params":"",
-                "passive id":""
+                "bc fill per turn":3,
+                "passive id":"9"
+            },
+            {
+                "miti%":1,
+                "passive id":"8"
+            },
+            {
+                "params":"0,1",
+                "passive id":"72"
             }
         ],
         "id":"500600",
@@ -15444,8 +15555,16 @@
         "desc":"MST_EXTRAPASSIVESKILL_500601_DESCRIPTION",
         "effects":[
             {
-                "params":"",
-                "passive id":""
+                "bc fill per turn":5,
+                "passive id":"9"
+            },
+            {
+                "miti%":2,
+                "passive id":"8"
+            },
+            {
+                "params":"0,1",
+                "passive id":"72"
             }
         ],
         "id":"500601",
@@ -15457,8 +15576,31 @@
         "desc":"MST_EXTRAPASSIVESKILL_500602_DESCRIPTION",
         "effects":[
             {
-                "params":"",
-                "passive id":""
+                "bc fill per turn":7,
+                "passive id":"9"
+            },
+            {
+                "miti%":3,
+                "passive id":"8"
+            },
+            {
+                "elemental weakness dmg%":10,
+                "elements":[
+                    "fire",
+                    "water",
+                    "earth",
+                    "thunder",
+                    "light",
+                    "dark"
+                ],
+                "passive id":"50"
+            },
+            {
+                "passive id":"55"
+            },
+            {
+                "params":"0,1",
+                "passive id":"72"
             }
         ],
         "id":"500602",
@@ -15470,8 +15612,35 @@
         "desc":"MST_EXTRAPASSIVESKILL_500603_DESCRIPTION",
         "effects":[
             {
-                "params":"",
-                "passive id":""
+                "bc fill per turn":10,
+                "passive id":"9"
+            },
+            {
+                "miti%":5,
+                "passive id":"8"
+            },
+            {
+                "elemental weakness dmg%":15,
+                "elements":[
+                    "fire",
+                    "water",
+                    "earth",
+                    "thunder",
+                    "light",
+                    "dark"
+                ],
+                "passive id":"50"
+            },
+            {
+                "passive id":"55"
+            },
+            {
+                "dmg% for spark":15,
+                "passive id":"31"
+            },
+            {
+                "params":"0,1",
+                "passive id":"72"
             }
         ],
         "id":"500603",
@@ -23023,6 +23192,66 @@
         "name":"MST_EXTRAPASSIVESKILL_820848_NAME",
         "rarity":7
     },
+    "820867":{
+        "conditions":"1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0",
+        "desc":"MST_EXTRAPASSIVESKILL_820867_DESCRIPTION",
+        "effects":[
+            {
+                "dmg% for spark":100,
+                "passive id":"31"
+            },
+            {
+                "atk% buff":20,
+                "def% buff":20,
+                "hp% buff":20,
+                "passive id":"1",
+                "rec% buff":20
+            },
+            {
+                "params":"100,100,100,100,100,100,100,100,100",
+                "passive id":"73"
+            },
+            {
+                "params":"38,1&2&3&4&5&6&7&8&9,1,2,0,1,1,0",
+                "passive id":"66"
+            }
+        ],
+        "id":"820867",
+        "name":"MST_EXTRAPASSIVESKILL_820867_NAME",
+        "rarity":7
+    },
+    "820868":{
+        "conditions":"1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0",
+        "desc":"MST_EXTRAPASSIVESKILL_820868_DESCRIPTION",
+        "effects":[
+            {
+                "crit dmg%":25,
+                "passive id":"34"
+            },
+            {
+                "dmg% for spark":100,
+                "passive id":"31"
+            },
+            {
+                "atk% buff":30,
+                "def% buff":30,
+                "hp% buff":30,
+                "passive id":"1",
+                "rec% buff":30
+            },
+            {
+                "params":"100,100,100,100,100,100,100,100,100",
+                "passive id":"73"
+            },
+            {
+                "params":"38,1&2&3&4&5&6&7&8&9,1,2,0,1,1,0",
+                "passive id":"66"
+            }
+        ],
+        "id":"820868",
+        "name":"MST_EXTRAPASSIVESKILL_820868_NAME",
+        "rarity":8
+    },
     "820900":{
         "conditions":"1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0",
         "desc":"MST_EXTRAPASSIVESKILL_820900_DESCRIPTION",
@@ -26426,6 +26655,80 @@
         ],
         "id":"840848",
         "name":"MST_EXTRAPASSIVESKILL_840848_NAME",
+        "rarity":7
+    },
+    "840867":{
+        "conditions":"2#3,819313%3,819316%6,13%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0",
+        "desc":"MST_EXTRAPASSIVESKILL_840867_DESCRIPTION",
+        "effects":[
+            {
+                "passive id":"33",
+                "rec% added":410.0,
+                "turn heal high":4000,
+                "turn heal low":4000
+            },
+            {
+                "params":"100,100,100,100,100,100,100,100,100",
+                "passive id":"73"
+            },
+            {
+                "elemental weakness dmg%":20,
+                "elements":[
+                    "thunder"
+                ],
+                "passive id":"50"
+            },
+            {
+                "atk% buff":20,
+                "def% buff":20,
+                "hp% buff":20,
+                "passive id":"1",
+                "rec% buff":20
+            }
+        ],
+        "id":"840867",
+        "name":"MST_EXTRAPASSIVESKILL_840867_NAME",
+        "rarity":7
+    },
+    "840868":{
+        "conditions":"2#3,819313%3,819316%6,13%0,0@1#1,819316%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0",
+        "desc":"MST_EXTRAPASSIVESKILL_840868_DESCRIPTION",
+        "effects":[
+            {
+                "passive id":"33",
+                "rec% added":510.0,
+                "turn heal high":5000,
+                "turn heal low":5000
+            },
+            {
+                "params":"0,2,60,60,0",
+                "passive id":"69"
+            },
+            {
+                "elemental weakness dmg%":25,
+                "elements":[
+                    "thunder"
+                ],
+                "passive id":"50"
+            },
+            {
+                "dmg% for spark":25,
+                "passive id":"31"
+            },
+            {
+                "atk% buff":30,
+                "def% buff":30,
+                "hp% buff":30,
+                "passive id":"1",
+                "rec% buff":30
+            },
+            {
+                "params":"100,100,100,100,100,100,100,100,100",
+                "passive id":"73"
+            }
+        ],
+        "id":"840868",
+        "name":"MST_EXTRAPASSIVESKILL_840868_NAME",
         "rarity":7
     },
     "840900":{
@@ -30714,6 +31017,102 @@
         ],
         "id":"8900006",
         "name":"MST_EXTRAPASSIVESKILL_8900006_NAME",
+        "rarity":8
+    },
+    "8900010":{
+        "conditions":"1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0",
+        "desc":"MST_EXTRAPASSIVESKILL_8900010_DESCRIPTION",
+        "effects":[
+            {
+                "atk% buff":40,
+                "def% buff":40,
+                "hp% buff":40,
+                "passive id":"1",
+                "rec% buff":40
+            },
+            {
+                "bc fill per turn":8,
+                "passive id":"9"
+            },
+            {
+                "extra hits":2,
+                "passive id":"37"
+            },
+            {
+                "params":"0,10",
+                "passive id":"96"
+            }
+        ],
+        "id":"8900010",
+        "name":"MST_EXTRAPASSIVESKILL_8900010_NAME",
+        "rarity":6
+    },
+    "8900011":{
+        "conditions":"1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0",
+        "desc":"MST_EXTRAPASSIVESKILL_8900011_DESCRIPTION",
+        "effects":[
+            {
+                "params":"100,100,100,100,100,100,100,100,100",
+                "passive id":"73"
+            },
+            {
+                "params":"100,15",
+                "passive id":"127"
+            },
+            {
+                "bc fill when attacked chance%":100,
+                "bc fill when attacked high":4,
+                "bc fill when attacked low":1,
+                "passive id":"25"
+            },
+            {
+                "passive id":"33",
+                "rec% added":410.0,
+                "turn heal high":4000,
+                "turn heal low":4000
+            },
+            {
+                "params":"0,1,30,30,0",
+                "passive id":"69"
+            }
+        ],
+        "id":"8900011",
+        "name":"MST_EXTRAPASSIVESKILL_8900011_NAME",
+        "rarity":7
+    },
+    "8900012":{
+        "conditions":"1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0",
+        "desc":"MST_EXTRAPASSIVESKILL_8900012_DESCRIPTION",
+        "effects":[
+            {
+                "atk% buff":120,
+                "passive id":"1"
+            },
+            {
+                "dmg% for spark":150,
+                "passive id":"31"
+            },
+            {
+                "bc fill on spark high":2,
+                "bc fill on spark low":2,
+                "bc fill on spark%":200,
+                "passive id":"47"
+            },
+            {
+                "ignore def%":100,
+                "passive id":"29"
+            },
+            {
+                "params":"40,125",
+                "passive id":"100"
+            },
+            {
+                "params":"210000",
+                "passive id":"143"
+            }
+        ],
+        "id":"8900012",
+        "name":"MST_EXTRAPASSIVESKILL_8900012_NAME",
         "rarity":8
     },
     "8910287":{

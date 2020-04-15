@@ -8658,6 +8658,78 @@
         "SP_CAT_ID":"85006"
     },
     {
+        "DESCRIPTION":"Once again you find yourself brought before the Queen in Cobalt, in a place between wake and sleep.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"38",
+        "SCENARIO_ID":"87038",
+        "SCENARIO_NAME":"Visions in Dust",
+        "SCENARIO_TEXT_FILE":"X6_Arc4_Ep1_1.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"85006"
+    },
+    {
+        "DESCRIPTION":"With Giselle's help, you entreat the aid of otherworldly demons...but are you prepared for the consequences?",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"39",
+        "SCENARIO_ID":"87039",
+        "SCENARIO_NAME":"A Fox's Tail",
+        "SCENARIO_TEXT_FILE":"X6_Arc4_Ep1_2.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"85006"
+    },
+    {
+        "DESCRIPTION":"The fox -- Hakuzo -- considers your request carefully, but it is not a simple matter to deal with demons.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"40",
+        "SCENARIO_ID":"87040",
+        "SCENARIO_NAME":"Choice Words",
+        "SCENARIO_TEXT_FILE":"X6_Arc4_Ep1_3A.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"85006"
+    },
+    {
+        "DESCRIPTION":"The deal is struck, and you find yourself upon that dream-shore at last.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"41",
+        "SCENARIO_ID":"87041",
+        "SCENARIO_NAME":"A Deal is a Deal",
+        "SCENARIO_TEXT_FILE":"X6_Arc4_Ep1_3B.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"85006"
+    },
+    {
+        "DESCRIPTION":"Contacting the dead is one thing -- the restless dead, another.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"42",
+        "SCENARIO_ID":"87042",
+        "SCENARIO_NAME":"Communion",
+        "SCENARIO_TEXT_FILE":"X6_Arc4_Ep2_1.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"85006"
+    },
+    {
+        "DESCRIPTION":"A fleeting calvacade of fragmented memories flood your senses as you surrender to the song.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"43",
+        "SCENARIO_ID":"87043",
+        "SCENARIO_NAME":"What Remains",
+        "SCENARIO_TEXT_FILE":"X6_Arc4_Ep2_2.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"85006"
+    },
+    {
+        "DESCRIPTION":"Hakuzo suspects his old acquaintance has drowned even herself in her sorrows.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"44",
+        "SCENARIO_ID":"87044",
+        "SCENARIO_NAME":"Drowned Truths",
+        "SCENARIO_TEXT_FILE":"X6_Arc4_Ep2_3A.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"85006"
+    },
+    {
+        "DESCRIPTION":"For whom does the seal-maiden sing -- the ghosts of the past, or the regret of a love that cannot be?",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"45",
+        "SCENARIO_ID":"87045",
+        "SCENARIO_NAME":"A Song for Dust",
+        "SCENARIO_TEXT_FILE":"X6_Arc4_Ep2_3B.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"85006"
+    },
+    {
         "DESCRIPTION":"Welcome to an odd sort of theater - your audience awaits you with bated breath. Don't die.",
         "QUEST_MAP_NUMBER/GUIDE_ID":"97",
         "SCENARIO_ID":"88400",
@@ -10357,6 +10429,33 @@
         "SCENARIO_TEXT_FILE":"BF2_04_Melfel.txt",
         "SOUNDTRACK_FILE":"",
         "SP_CAT_ID":"100013"
+    },
+    {
+        "DESCRIPTION":"Two worlds collide as a happy celebration brings adventure to some lucky souls! Who are they? Find out!",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"1",
+        "SCENARIO_ID":"100001501",
+        "SCENARIO_NAME":"Parallel Festivals",
+        "SCENARIO_TEXT_FILE":"Trigun2020_M1.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"100015"
+    },
+    {
+        "DESCRIPTION":"Look, bandits! Here to crash the party, it would seem. Or are they the entertainment?",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"2",
+        "SCENARIO_ID":"100001502",
+        "SCENARIO_NAME":"A Band-it Party (S)",
+        "SCENARIO_TEXT_FILE":"Trigun2020_M2_A.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"100015"
+    },
+    {
+        "DESCRIPTION":"Look, bandits! Here to crash the party, it would seem. Or are they the entertainment?",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"3",
+        "SCENARIO_ID":"100001503",
+        "SCENARIO_NAME":"A Band-it Party (E)",
+        "SCENARIO_TEXT_FILE":"Trigun2020_M2_B.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"100015"
     },
     {
         "DESCRIPTION":"Aesys breaks through the undead siege of the city to offer aid to its divine-touched protectors.",

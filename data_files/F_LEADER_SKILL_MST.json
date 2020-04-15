@@ -10703,6 +10703,20 @@
         "qp37xTDh":"MST_LEADERSKILLS_820848_DESCRIPTION"
     },
     {
+        "2Smu5Mtq":"100,120,100,0,120@150,0,0,0,0,0@20@200,300,100",
+        "dJPf9a5v":"Bernardelli Insurance Agents",
+        "hjAy9St3":"1@31@70@47",
+        "oS3kTZ2W":"820867",
+        "qp37xTDh":"MST_LEADERSKILLS_820867_DESCRIPTION"
+    },
+    {
+        "2Smu5Mtq":"120,150,120,0,150@250,0,0,0,0,0@36,20,-1,5000,1@30@300,400,100",
+        "dJPf9a5v":"Friends of a Typhoon",
+        "hjAy9St3":"1@31@78@70@47",
+        "oS3kTZ2W":"820868",
+        "qp37xTDh":"MST_LEADERSKILLS_820868_DESCRIPTION"
+    },
+    {
         "2Smu5Mtq":"0,0,0,0,100@100,100,100,100,100,100@200,300,100@2,0,0,0,0,0,1.75@1,0,0,0,0,0,15",
         "dJPf9a5v":"Algor Aura",
         "hjAy9St3":"1@4@47@50@62",
@@ -11408,6 +11422,20 @@
         "hjAy9St3":"2@48@101@70@78",
         "oS3kTZ2W":"840848",
         "qp37xTDh":"MST_LEADERSKILLS_840848_DESCRIPTION"
+    },
+    {
+        "2Smu5Mtq":"150,0,0,30,100@4,3,0,0,0,0,2@500,900,100@50,80",
+        "dJPf9a5v":"Wanted Hero",
+        "hjAy9St3":"1@50@25@100",
+        "oS3kTZ2W":"840867",
+        "qp37xTDh":"MST_LEADERSKILLS_820878_DESCRIPTION"
+    },
+    {
+        "2Smu5Mtq":"200,0,0,30,150@4,3,0,0,0,0,3@600,900,100@60,100@100,100,100,100,100,100,0,0,0,0",
+        "dJPf9a5v":"Humanoid Typhoon",
+        "hjAy9St3":"1@50@25@100@53",
+        "oS3kTZ2W":"840868",
+        "qp37xTDh":"MST_LEADERSKILLS_820878_DESCRIPTION"
     },
     {
         "2Smu5Mtq":"0,0,0,0,100@100,100,100,100,100,100@200,300,100@4,0,0,0,0,0,1.75@2,0,0,0,0,0,15",
