@@ -22279,7 +22279,7 @@
         "EFFECT_AREA*":"1",
         "LEVEL":"5",
         "PROC/PASSIVE_ID(S)":"66",
-        "PROC/PASSIVE_PARAMETERS":"70002,100&3&0&0&0&0&0&0&0,3,1,0,0,1,0",
+        "PROC/PASSIVE_PARAMETERS":"70002,1&3&0&0&0&0&0&0&0,3,1,0,0,1,0",
         "SP_ID":"1010500130",
         "SP_NAME":"Add to SBB (Activates own BB\\/SBB\\/UBB twice for 3 turns)",
         "SP_NEED_BP":"25",
