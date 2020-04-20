@@ -240,7 +240,7 @@
         "moWQ30GH":"F_MISSION_NPC_UNIT_MST"
     },
     {
-        "d2RFtP8T":"106",
+        "d2RFtP8T":"107",
         "moWQ30GH":"F_GRAND_MISSION_MST"
     },
     {
