@@ -11088,6 +11088,20 @@
         "qp37xTDh":"MST_LEADERSKILLS_830808_DESCRIPTION"
     },
     {
+        "2Smu5Mtq":"120,120,0,30,120@3,4,0,0,0,0,2@350,350,350@3,4,5,6,0,0,10",
+        "dJPf9a5v":"Wandering Priest",
+        "hjAy9St3":"1@50@64@62",
+        "oS3kTZ2W":"830867",
+        "qp37xTDh":"MST_LEADERSKILLS_830867_DESCRIPTION"
+    },
+    {
+        "2Smu5Mtq":"150,150,0,30,150@3,4,0,0,0,0,3@400,400,400@3,4,5,6,0,0,15@0,1,25,25,0",
+        "dJPf9a5v":"Man With A Mission",
+        "hjAy9St3":"1@50@64@62@69",
+        "oS3kTZ2W":"830868",
+        "qp37xTDh":"MST_LEADERSKILLS_830868_DESCRIPTION"
+    },
+    {
         "2Smu5Mtq":"0,0,0,0,100@100,100,100,100,100,100@200,300,100@3,0,0,0,0,0,1.75@4,0,0,0,0,0,15",
         "dJPf9a5v":"Terra Aura",
         "hjAy9St3":"1@4@47@50@62",
@@ -11435,6 +11449,13 @@
         "dJPf9a5v":"Humanoid Typhoon",
         "hjAy9St3":"1@50@25@100@53",
         "oS3kTZ2W":"840868",
+        "qp37xTDh":"MST_LEADERSKILLS_820878_DESCRIPTION"
+    },
+    {
+        "2Smu5Mtq":"150,0,0,30,120@200,0,0,0,0,0,50,1@1,2,3,4,5,6,2@25,25,50@100,100,100,100,100,100,0,0,0,0",
+        "dJPf9a5v":"Merciless Killer",
+        "hjAy9St3":"1@104@50@24@53",
+        "oS3kTZ2W":"840878",
         "qp37xTDh":"MST_LEADERSKILLS_820878_DESCRIPTION"
     },
     {
@@ -12206,6 +12227,20 @@
         "hjAy9St3":"1@112@37@96@80",
         "oS3kTZ2W":"860838",
         "qp37xTDh":"MST_LEADERSKILLS_860838_DESCRIPTION"
+    },
+    {
+        "2Smu5Mtq":"6,0,120,100,0,30,120@2.5@500,900,100@36,15,-1,5000,1",
+        "dJPf9a5v":"Master of Puppets",
+        "hjAy9St3":"2@34@25@78",
+        "oS3kTZ2W":"860867",
+        "qp37xTDh":"MST_LEADERSKILLS_860867_DESCRIPTION"
+    },
+    {
+        "2Smu5Mtq":"6,0,150,120,0,30,150@3@600,1000,100@15@36,20,-1,5000,1",
+        "dJPf9a5v":"Gung-Ho-Guns' Lord",
+        "hjAy9St3":"2@34@25@8@78",
+        "oS3kTZ2W":"860868",
+        "qp37xTDh":"MST_LEADERSKILLS_860868_DESCRIPTION"
     },
     {
         "2Smu5Mtq":"0,0,0,0,100@100,100,100,100,100,100@200,300,100@6,0,0,0,0,0,1.75@5,0,0,0,0,0,15",

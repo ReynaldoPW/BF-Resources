@@ -8730,6 +8730,42 @@
         "SP_CAT_ID":"85006"
     },
     {
+        "DESCRIPTION":"Few things are felt more strongly than the heart-wrenching clutch of loss.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"46",
+        "SCENARIO_ID":"87046",
+        "SCENARIO_NAME":"A Memory of Loss",
+        "SCENARIO_TEXT_FILE":"X6_Arc4_Ep3_1.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"85006"
+    },
+    {
+        "DESCRIPTION":"When ghosts cry, only the wind bears witness to their suffering.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"47",
+        "SCENARIO_ID":"87047",
+        "SCENARIO_NAME":"A Memory of Pain",
+        "SCENARIO_TEXT_FILE":"X6_Arc4_Ep3_2.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"85006"
+    },
+    {
+        "DESCRIPTION":"The first and only mistake Aoife would ever make was to love a human.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"48",
+        "SCENARIO_ID":"87048",
+        "SCENARIO_NAME":"A Memory of Regret",
+        "SCENARIO_TEXT_FILE":"X6_Arc4_Ep3_3A.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"85006"
+    },
+    {
+        "DESCRIPTION":"Freed from her eternal stasis, time moves again for Aoife and her Pactbound.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"49",
+        "SCENARIO_ID":"87049",
+        "SCENARIO_NAME":"A Memory of Love",
+        "SCENARIO_TEXT_FILE":"X6_Arc4_Ep3_3B.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"85006"
+    },
+    {
         "DESCRIPTION":"Welcome to an odd sort of theater - your audience awaits you with bated breath. Don't die.",
         "QUEST_MAP_NUMBER/GUIDE_ID":"97",
         "SCENARIO_ID":"88400",
@@ -10454,6 +10490,42 @@
         "SCENARIO_ID":"100001503",
         "SCENARIO_NAME":"A Band-it Party (E)",
         "SCENARIO_TEXT_FILE":"Trigun2020_M2_B.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"100015"
+    },
+    {
+        "DESCRIPTION":"Uh-oh! The bandits brought friends?... lots of them! Can you keep up?",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"4",
+        "SCENARIO_ID":"100001504",
+        "SCENARIO_NAME":"Bandits, Bandits Everywhere (S)",
+        "SCENARIO_TEXT_FILE":"Trigun2020_M3_A.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"100015"
+    },
+    {
+        "DESCRIPTION":"Uh-oh! The bandits brought friends?... lots of them! Can you keep up?",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"5",
+        "SCENARIO_ID":"100001505",
+        "SCENARIO_NAME":"Bandits, Bandits Everywhere (E)",
+        "SCENARIO_TEXT_FILE":"Trigun2020_M3_B.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"100015"
+    },
+    {
+        "DESCRIPTION":"A steely-eyed villain is prepared to bring our heroes to the brink of despair. Will you succumb?",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"6",
+        "SCENARIO_ID":"100001506",
+        "SCENARIO_NAME":"Meeting Legato (S)",
+        "SCENARIO_TEXT_FILE":"Trigun2020_M4_A.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"100015"
+    },
+    {
+        "DESCRIPTION":"A steely-eyed villain is prepared to bring our heroes to the brink of despair. Will you succumb?",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"7",
+        "SCENARIO_ID":"100001507",
+        "SCENARIO_NAME":"Meeting Legato (E)",
+        "SCENARIO_TEXT_FILE":"Trigun2020_M4_B.txt",
         "SOUNDTRACK_FILE":"",
         "SP_CAT_ID":"100015"
     },

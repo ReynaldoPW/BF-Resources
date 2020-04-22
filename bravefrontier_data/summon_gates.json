@@ -12902,7 +12902,7 @@
         "background image":"gacha_img_20200415TB_s1.png",
         "desc":"From 15 Apr 7:00 PST ~ 6 May 6:59 PST, summon minimum 5* Regil to Roglizer and Global exclusive units with Omni Potential, and stand a chance to summon Vash and Meryl & MIlly! Collect your free daily Bounty Ticket and summon now!",
         "door image":"gacha_rare_door.png",
-        "end time":"2020-05-06 14:59:59",
+        "end time":"2020-04-22 14:59:59",
         "gem cost":5,
         "name":"Trigun Bounty Summon",
         "priority":"2",
@@ -12944,6 +12944,42 @@
         "priority":"2",
         "short desc":"Vash and Meryl & Milly is available through the Summon Gate! Get a Global Exclusive Elgif and a [Random] Mystery Frog for every 10 Summons from the same gate!",
         "start time":"2020-04-15 15:00:00",
+        "summon button image":"gacha_rare_summons_btn1.png"
+    },
+    "18860":{
+        "background image":"gacha_img_20200422G.png",
+        "desc":"From 22 Apr 7:00 PST ~ 30 Apr 6:59 PST, summon minimum 5* Global exclusive units with Omni Potential and enjoy Increased Rates with each summon on Wolfwood and Legato!",
+        "door image":"gacha_rare_door.png",
+        "end time":"2020-04-30 14:59:59",
+        "gem cost":5,
+        "name":"Gunfighters Summon II",
+        "priority":"2",
+        "short desc":"Wolfwood and Legato is available through the Summon Gate!",
+        "start time":"2020-04-22 15:00:00",
+        "summon button image":"gacha_rare_summons_btn1.png"
+    },
+    "18870":{
+        "background image":"gacha_img_20200422TGR.png",
+        "desc":"From 22 Apr 7:00 PST ~ 29 Apr 6:59 PST, summon minimum 5* Global exclusive units with Omni Potential and enjoy Increased Rates on Wolfwood and Legato!",
+        "door image":"gacha_rare_door.png",
+        "end time":"2020-04-29 14:59:59",
+        "gem cost":5,
+        "name":"Trigun Gem Resummon II",
+        "priority":"2",
+        "short desc":"Summon 2 units with Increased Rates on Wolfwood and Legato with option to Resummon 1!",
+        "start time":"2020-04-22 15:00:00",
+        "summon button image":"gacha_rare_summons_btn1.png"
+    },
+    "18880":{
+        "background image":"gacha_img_20200422T_s1.png",
+        "desc":"From 22 Apr 7:00 PST ~ 29 Apr 6:59 PST, summon minimum 5* Global exclusive units with Omni Potential and enjoy Increased Rates with each summon on Wolfwood and Legato up to the 6th Summon and guaranteed one of them on Step 35 and 50!",
+        "door image":"gacha_rare_door.png",
+        "end time":"2020-04-29 14:59:59",
+        "gem cost":5,
+        "name":"Trigun Summon II",
+        "priority":"2",
+        "short desc":"Wolfwood and Legato is available through the Summon Gate! Get a Global Exclusive Elgif and a [Random] Mystery Frog for every 10 Summons from the same gate!",
+        "start time":"2020-04-22 15:00:00",
         "summon button image":"gacha_rare_summons_btn1.png"
     }
 }

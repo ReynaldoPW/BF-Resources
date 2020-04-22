@@ -3958,5 +3958,25 @@
         "UNIT_ID":"820868",
         "UNIT_OD_STATS":"100,100,100,0,",
         "UNIT_TYPE_ID":"1"
+    },
+    {
+        "ATK":"8451",
+        "BB_ID":"830868",
+        "DEF":"6544",
+        "ES_ID":"830868",
+        "HONOR_POINTS_OBTAINED":"10",
+        "HP":"18657",
+        "LEADER_SKILL_ID":"830868",
+        "LEVEL":"150",
+        "NPC_NAME":"Nicholas D. Wolfwood",
+        "QUEST_USUALLY_EMPTY_BUT_CHECK**":"830172003",
+        "REC":"5647",
+        "SBB_ID":"1830868",
+        "SPHERE_1_EQUIPPED_ID":"0",
+        "SPHERE_2_EQUIPPED_ID":"0",
+        "UBB_ID":"2830868",
+        "UNIT_ID":"830868",
+        "UNIT_OD_STATS":"100,100,100,0,",
+        "UNIT_TYPE_ID":"1"
     }
 ]

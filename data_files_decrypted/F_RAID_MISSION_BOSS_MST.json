@@ -2311,5 +2311,41 @@
         "RAID_BOSS_NUMBER":"87085",
         "g9EcMPR6":"1",
         "i5r7Vjkq":"4"
+    },
+    {
+        "E0yfb8eK":"3",
+        "MISSION_ID":"88000",
+        "P6uVAa3m":"1:0:0,1:0:0,1:0:0",
+        "RAID_BOSS_ID?":"88000",
+        "RAID_BOSS_NUMBER":"88000",
+        "g9EcMPR6":"1",
+        "i5r7Vjkq":"3"
+    },
+    {
+        "E0yfb8eK":"3",
+        "MISSION_ID":"88001",
+        "P6uVAa3m":"1:0:0,1:0:0,1:0:0",
+        "RAID_BOSS_ID?":"88001",
+        "RAID_BOSS_NUMBER":"88001",
+        "g9EcMPR6":"1",
+        "i5r7Vjkq":"3"
+    },
+    {
+        "E0yfb8eK":"4",
+        "MISSION_ID":"88002",
+        "P6uVAa3m":"1:0:0,1:0:0,1:0:0",
+        "RAID_BOSS_ID?":"88002",
+        "RAID_BOSS_NUMBER":"88002",
+        "g9EcMPR6":"1",
+        "i5r7Vjkq":"4"
+    },
+    {
+        "E0yfb8eK":"4",
+        "MISSION_ID":"88003",
+        "P6uVAa3m":"1:0:0,1:0:0,1:0:0",
+        "RAID_BOSS_ID?":"88003",
+        "RAID_BOSS_NUMBER":"88003",
+        "g9EcMPR6":"1",
+        "i5r7Vjkq":"4"
     }
 ]

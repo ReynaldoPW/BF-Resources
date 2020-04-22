@@ -10431,12 +10431,12 @@
         "ky1xsH0h":"1"
     },
     {
-        "AI_CHANCE":"0",
+        "AI_CHANCE":"2",
         "DESCRIPTION":"Episode 12 Clear",
         "MISSION_ID":"5008010",
         "REQUIREMENT_ID":"8636",
         "REQUIREMENT_RARITY*":"3",
-        "Ufm6c7RA":"0",
+        "Ufm6c7RA":"1",
         "ky1xsH0h":"1"
     },
     {
@@ -10458,7 +10458,7 @@
         "ky1xsH0h":"1"
     },
     {
-        "AI_CHANCE":"6",
+        "AI_CHANCE":"7",
         "DESCRIPTION":"Episode 3 Hard Mode Clear",
         "MISSION_ID":"5008010",
         "REQUIREMENT_ID":"8652",
@@ -10485,7 +10485,7 @@
         "ky1xsH0h":"1"
     },
     {
-        "AI_CHANCE":"6",
+        "AI_CHANCE":"7",
         "DESCRIPTION":"Episode 6 Hard Mode Clear",
         "MISSION_ID":"5008010",
         "REQUIREMENT_ID":"8655",
@@ -10512,7 +10512,7 @@
         "ky1xsH0h":"1"
     },
     {
-        "AI_CHANCE":"6",
+        "AI_CHANCE":"7",
         "DESCRIPTION":"Episode 9 Hard Mode Clear",
         "MISSION_ID":"5008010",
         "REQUIREMENT_ID":"8658",
@@ -10539,21 +10539,21 @@
         "ky1xsH0h":"1"
     },
     {
-        "AI_CHANCE":"0",
+        "AI_CHANCE":"7",
         "DESCRIPTION":"Episode 12 Hard Mode Clear",
         "MISSION_ID":"5008010",
         "REQUIREMENT_ID":"8661",
         "REQUIREMENT_RARITY*":"1",
-        "Ufm6c7RA":"0",
+        "Ufm6c7RA":"1",
         "ky1xsH0h":"1"
     },
     {
-        "AI_CHANCE":"1",
+        "AI_CHANCE":"0",
         "DESCRIPTION":"More episodes coming soon!",
         "MISSION_ID":"5008010",
         "REQUIREMENT_ID":"8699",
         "REQUIREMENT_RARITY*":"1",
-        "Ufm6c7RA":"1",
+        "Ufm6c7RA":"0",
         "ky1xsH0h":"1"
     },
     {
@@ -10966,6 +10966,24 @@
         "DESCRIPTION":"Eyinhel - Leagues-Deep",
         "MISSION_ID":"5008010",
         "REQUIREMENT_ID":"86326",
+        "REQUIREMENT_RARITY*":"0",
+        "Ufm6c7RA":"0",
+        "ky1xsH0h":"2"
+    },
+    {
+        "AI_CHANCE":"0",
+        "DESCRIPTION":" ",
+        "MISSION_ID":"5008010",
+        "REQUIREMENT_ID":"86327",
+        "REQUIREMENT_RARITY*":"0",
+        "Ufm6c7RA":"0",
+        "ky1xsH0h":"2"
+    },
+    {
+        "AI_CHANCE":"0",
+        "DESCRIPTION":" ",
+        "MISSION_ID":"5008010",
+        "REQUIREMENT_ID":"86328",
         "REQUIREMENT_RARITY*":"0",
         "Ufm6c7RA":"0",
         "ky1xsH0h":"2"

@@ -6453,6 +6453,69 @@
         "yu18xScw":"7"
     },
     {
+        "29MgiJIQ":"1",
+        "85HpkjZW":"501,86003,1@501,86211,1",
+        "TdDHf59J":"26",
+        "Wmr4xDa8":"86082",
+        "duN7tx0R":"501,86003,0:501,86111,1",
+        "j28VNcUW":"5008010",
+        "yu18xScw":"7"
+    },
+    {
+        "29MgiJIQ":"1",
+        "85HpkjZW":"501,86001,1",
+        "TdDHf59J":"26",
+        "Wmr4xDa8":"86083",
+        "duN7tx0R":"501,86211,1:501,86001,0:500,8636,1",
+        "j28VNcUW":"5008010",
+        "yu18xScw":"5"
+    },
+    {
+        "29MgiJIQ":"1",
+        "85HpkjZW":"1,X6_Arc4_Ep3_1.txt@4,8635,1,0@501,86325,1",
+        "TdDHf59J":"26",
+        "Wmr4xDa8":"86084",
+        "duN7tx0R":"501,86211,1:501,86000,0:501,86325,0",
+        "j28VNcUW":"5008010",
+        "yu18xScw":"4"
+    },
+    {
+        "29MgiJIQ":"1",
+        "85HpkjZW":"1,X6_Arc4_Ep3_2.txt@4,8634,1,0@501,86324,1",
+        "TdDHf59J":"25",
+        "Wmr4xDa8":"86085",
+        "duN7tx0R":"501,86211,1:501,86000,0:501,86324,0",
+        "j28VNcUW":"5008010",
+        "yu18xScw":"7"
+    },
+    {
+        "29MgiJIQ":"1",
+        "85HpkjZW":"501,86324,1",
+        "TdDHf59J":"25",
+        "Wmr4xDa8":"86086",
+        "duN7tx0R":"501,86211,1:501,86000,1:501,86324,0",
+        "j28VNcUW":"5008010",
+        "yu18xScw":"7"
+    },
+    {
+        "29MgiJIQ":"1",
+        "85HpkjZW":"1,X6_Arc4_Ep3_3A.txt@4,8638,1,0@501,86326,1@1,X6_Arc4_Ep3_3B.txt@500,8636,1@501,86004,1",
+        "TdDHf59J":"27",
+        "Wmr4xDa8":"86087",
+        "duN7tx0R":"501,86211,1:501,86000,0:501,86326,0",
+        "j28VNcUW":"5008010",
+        "yu18xScw":"7"
+    },
+    {
+        "29MgiJIQ":"1",
+        "85HpkjZW":"501,86326,1@4,8639,1,1@500,8661,1@501,86004,1",
+        "TdDHf59J":"27",
+        "Wmr4xDa8":"86088",
+        "duN7tx0R":"501,86211,1:501,86000,1:501,86326,0",
+        "j28VNcUW":"5008010",
+        "yu18xScw":"7"
+    },
+    {
         "29MgiJIQ":"3",
         "85HpkjZW":"501,86318,1@202,thumb_chara80034_1.png,MST_GRANDMISSION_EVENT_5008010_1_SCRIPT,12@202,thumb_chara80035_0.png,MST_GRANDMISSION_EVENT_5008010_2_SCRIPT,12",
         "TdDHf59J":"8631",
@@ -6512,6 +6575,60 @@
         "TdDHf59J":"8631",
         "Wmr4xDa8":"86506",
         "duN7tx0R":"501,86318,1:203,0:201,8500392,100,0:501,86321,0",
+        "j28VNcUW":"5008010",
+        "yu18xScw":"10"
+    },
+    {
+        "29MgiJIQ":"3",
+        "85HpkjZW":"501,86327,1@203,8500428@203,8500429",
+        "TdDHf59J":"8638",
+        "Wmr4xDa8":"86507",
+        "duN7tx0R":"501,86327,0:203,0:201,8500428,100,0",
+        "j28VNcUW":"5008010",
+        "yu18xScw":"10"
+    },
+    {
+        "29MgiJIQ":"3",
+        "85HpkjZW":"202,thum_navi_chara80179_4.png,MST_GRANDMISSION_EVENT_5008010_19_SCRIPT,12@202,thum_navi_chara80179_2.png,MST_GRANDMISSION_EVENT_5008010_20_SCRIPT,12@501,86328,1@202,thum_navi_chara80179_3.png,MST_GRANDMISSION_EVENT_5008010_14_SCRIPT,12@202,thum_navi_chara80179_0.png,MST_GRANDMISSION_EVENT_5008010_15_SCRIPT,12@202,thum_navi_chara80179_2.png,MST_GRANDMISSION_EVENT_5008010_16_SCRIPT,12",
+        "TdDHf59J":"8638",
+        "Wmr4xDa8":"86508",
+        "duN7tx0R":"206,2,1,88500528:501,86328,0",
+        "j28VNcUW":"5008010",
+        "yu18xScw":"10"
+    },
+    {
+        "29MgiJIQ":"3",
+        "85HpkjZW":"202,thum_navi_chara80179_1.png,MST_GRANDMISSION_EVENT_5008010_17_SCRIPT,12@202,thum_navi_chara80179_1.png,MST_GRANDMISSION_EVENT_5008010_18_SCRIPT,12@204,",
+        "TdDHf59J":"8638",
+        "Wmr4xDa8":"86509",
+        "duN7tx0R":"206,2,1,88500533",
+        "j28VNcUW":"5008010",
+        "yu18xScw":"10"
+    },
+    {
+        "29MgiJIQ":"3",
+        "85HpkjZW":"501,86327,1@203,8500424@203,8500425",
+        "TdDHf59J":"8639",
+        "Wmr4xDa8":"86510",
+        "duN7tx0R":"501,86327,0:203,0:201,8500424,100,0",
+        "j28VNcUW":"5008010",
+        "yu18xScw":"10"
+    },
+    {
+        "29MgiJIQ":"3",
+        "85HpkjZW":"202,thum_navi_chara80179_4.png,MST_GRANDMISSION_EVENT_5008010_19_SCRIPT,12@202,thum_navi_chara80179_2.png,MST_GRANDMISSION_EVENT_5008010_20_SCRIPT,12@501,86328,1@202,thum_navi_chara80179_3.png,MST_GRANDMISSION_EVENT_5008010_14_SCRIPT,12@202,thum_navi_chara80179_0.png,MST_GRANDMISSION_EVENT_5008010_15_SCRIPT,12@202,thum_navi_chara80179_2.png,MST_GRANDMISSION_EVENT_5008010_16_SCRIPT,12",
+        "TdDHf59J":"8639",
+        "Wmr4xDa8":"86511",
+        "duN7tx0R":"206,2,1,88500528:501,86328,0",
+        "j28VNcUW":"5008010",
+        "yu18xScw":"10"
+    },
+    {
+        "29MgiJIQ":"3",
+        "85HpkjZW":"202,thum_navi_chara80179_1.png,MST_GRANDMISSION_EVENT_5008010_17_SCRIPT,12@202,thum_navi_chara80179_1.png,MST_GRANDMISSION_EVENT_5008010_18_SCRIPT,12@204,",
+        "TdDHf59J":"8639",
+        "Wmr4xDa8":"86512",
+        "duN7tx0R":"206,2,1,88500533",
         "j28VNcUW":"5008010",
         "yu18xScw":"10"
     },

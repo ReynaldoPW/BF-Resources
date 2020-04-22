@@ -23133,6 +23133,50 @@
         "yRlCNyvk":"Add to BB\\/SBB (boosts spark damage [180%] for 3 turns)"
     },
     {
+        "2Smu5Mtq":"62,6&7000&0&100&0,1,2,0,1,1,0",
+        "9PsmH7tz":"1010700087",
+        "D9wXQI2V":"3",
+        "G5wFDad6":"15",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010700087",
+        "yRlCNyvk":"Add to BB\\/SBB (Adds Dark barrier [7000HP])"
+    },
+    {
+        "2Smu5Mtq":"47,300&550&0&200&0&0&0&0,2,2,0,0,1,0",
+        "9PsmH7tz":"1010700088",
+        "D9wXQI2V":"5",
+        "G5wFDad6":"25",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010700088",
+        "yRlCNyvk":"Add to SBB (34 combo Dark attack [300-550%] on all foes (damage relative to remaining HP))"
+    },
+    {
+        "2Smu5Mtq":"126,25&3&0,1,2,0,1,0,0@126,100&4&0,1,2,0,0,0,1",
+        "9PsmH7tz":"1010700089",
+        "D9wXQI2V":"3",
+        "G5wFDad6":"15",
+        "hjAy9St3":"66@66",
+        "jeR2rN3V":"1@1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010700089",
+        "yRlCNyvk":"Add to BB (25% DoT reduction for 3 turns), UBB (100% DoT reduction for 4 turns)"
+    },
+    {
+        "2Smu5Mtq":"8,0&35&0,1,2,0,1,0,0@8,0&60&0,1,2,0,0,0,1",
+        "9PsmH7tz":"1010700090",
+        "D9wXQI2V":"5",
+        "G5wFDad6":"25",
+        "hjAy9St3":"66@66",
+        "jeR2rN3V":"1@1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010700090",
+        "yRlCNyvk":"Add to BB (boosts max HP [35%]), UBB (boosts max HP [60%])"
+    },
+    {
         "2Smu5Mtq":"0,130,0,0,130",
         "9PsmH7tz":"1010800029",
         "D9wXQI2V":"4",
@@ -23254,6 +23298,50 @@
         "yRlCNyvk":"Add to BB (may [80%] purge LS\\/ES\\/DoT from random ally) and add to UBB (purges LS\\/ES\\/DoT from all allies)"
     },
     {
+        "2Smu5Mtq":"34,2.5",
+        "9PsmH7tz":"1010800040",
+        "D9wXQI2V":"4",
+        "G5wFDad6":"25",
+        "hjAy9St3":"107",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010800040",
+        "yRlCNyvk":"Add to LS (250% critical damage)"
+    },
+    {
+        "2Smu5Mtq":"9,0&1&-60&40&2&-60&40&2&0,2,2,0,0,1,0",
+        "9PsmH7tz":"1010800041",
+        "D9wXQI2V":"3",
+        "G5wFDad6":"20",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010800041",
+        "yRlCNyvk":"Add to SBB (Probable [40%] 2 turns Atk, Def reduction [60%] infliction)"
+    },
+    {
+        "2Smu5Mtq":"47,300&550&0&200&60&0&0&0,2,2,0,0,1,0",
+        "9PsmH7tz":"1010800042",
+        "D9wXQI2V":"5",
+        "G5wFDad6":"30",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010800042",
+        "yRlCNyvk":"Add to SBB (19 combo Earth attack [300-550%] on all foes (damage relative to remaining HP, boosts own critical rate [60%]))"
+    },
+    {
+        "2Smu5Mtq":"140,140,0,0,140",
+        "9PsmH7tz":"1010800043",
+        "D9wXQI2V":"3",
+        "G5wFDad6":"15",
+        "hjAy9St3":"1",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010800043",
+        "yRlCNyvk":"140% Atk, Def, max HP"
+    },
+    {
         "2Smu5Mtq":"100,100,100,100,100,100,100,100,100",
         "9PsmH7tz":"1010900001",
         "D9wXQI2V":"3",
@@ -23351,6 +23439,72 @@
         "qp37xTDh":"",
         "ri6D9yBi":"1011000004",
         "yRlCNyvk":"Enhances BB's boost to BB gauge effect"
+    },
+    {
+        "2Smu5Mtq":"30,0,0,0,30",
+        "9PsmH7tz":"1010500132",
+        "D9wXQI2V":"2",
+        "G5wFDad6":"10",
+        "hjAy9St3":"1",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1011000005",
+        "yRlCNyvk":"30% Atk, max HP"
+    },
+    {
+        "2Smu5Mtq":"100,0,0,0,0,0",
+        "9PsmH7tz":"1010500133",
+        "D9wXQI2V":"4",
+        "G5wFDad6":"20",
+        "hjAy9St3":"78",
+        "jeR2rN3V":"2",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1011000006",
+        "yRlCNyvk":"Enhances BB's boost to own Atk [+100%] effect"
+    },
+    {
+        "2Smu5Mtq":"0,10,0,0,0,0",
+        "9PsmH7tz":"1010500134",
+        "D9wXQI2V":"3",
+        "G5wFDad6":"15",
+        "hjAy9St3":"24",
+        "jeR2rN3V":"3",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1011000007",
+        "yRlCNyvk":"Enhances SBB's boosts Atk relative to Def effect [+10%]"
+    },
+    {
+        "2Smu5Mtq":"58,30&100&2&0,2,2,0,1,1,0",
+        "9PsmH7tz":"1010500135",
+        "D9wXQI2V":"5",
+        "G5wFDad6":"25",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1011000008",
+        "yRlCNyvk":"Add to BB\\/SBB (2 turns spark vulnerability [30%] infliction)"
+    },
+    {
+        "2Smu5Mtq":"65,200&3&0,1,2,0,0,1,0",
+        "9PsmH7tz":"1010500136",
+        "D9wXQI2V":"4",
+        "G5wFDad6":"20",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1011000009",
+        "yRlCNyvk":"Add to SBB (boosts damage against status afflicted foes [200%] for 3 turns)"
+    },
+    {
+        "2Smu5Mtq":"5,0&450&450&450&0&3&0,1,2,0,0,0,1",
+        "9PsmH7tz":"1010500137",
+        "D9wXQI2V":"6",
+        "G5wFDad6":"30",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1011000010",
+        "yRlCNyvk":"Add to UBB (boosts 450% Atk, Def, Rec for 3 turns)"
     },
     {
         "2Smu5Mtq":"100,0,0,0,0,0",

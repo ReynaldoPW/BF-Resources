@@ -376,5 +376,14 @@
         "RESOLUTION_A_EXTENSION?":"0:0",
         "RESOLUTION_B?":"1580:1560",
         "RESOLUTION_B_EXTENSION?":"0:0"
+    },
+    {
+        "IMAGE":"raid_map_trigun_01.jpg:0:0,raid_map_trigun_02.jpg:0:733,raid_map_trigun_03.jpg:1011:0,raid_map_trigun_04.jpg:1011:733",
+        "MAP_IMG_AREA_NUMBER":"8709",
+        "MAP_NAME":"Desert",
+        "RESOLUTION_A?":"2022:1100",
+        "RESOLUTION_A_EXTENSION?":"0:0",
+        "RESOLUTION_B?":"2022:1100",
+        "RESOLUTION_B_EXTENSION?":"0:200"
     }
 ]

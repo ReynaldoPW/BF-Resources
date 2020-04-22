@@ -23135,6 +23135,50 @@
     {
         "DESCRIPTION":"",
         "EFFECT_AREA*":"1",
+        "LEVEL":"3",
+        "PROC/PASSIVE_ID(S)":"66",
+        "PROC/PASSIVE_PARAMETERS":"62,6&7000&0&100&0,1,2,0,1,1,0",
+        "SP_ID":"1010700087",
+        "SP_NAME":"Add to BB\\/SBB (Adds Dark barrier [7000HP])",
+        "SP_NEED_BP":"15",
+        "SP_SERIES":"1010700087"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
+        "LEVEL":"5",
+        "PROC/PASSIVE_ID(S)":"66",
+        "PROC/PASSIVE_PARAMETERS":"47,300&550&0&200&0&0&0&0,2,2,0,0,1,0",
+        "SP_ID":"1010700088",
+        "SP_NAME":"Add to SBB (34 combo Dark attack [300-550%] on all foes (damage relative to remaining HP))",
+        "SP_NEED_BP":"25",
+        "SP_SERIES":"1010700088"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1@1",
+        "LEVEL":"3",
+        "PROC/PASSIVE_ID(S)":"66@66",
+        "PROC/PASSIVE_PARAMETERS":"126,25&3&0,1,2,0,1,0,0@126,100&4&0,1,2,0,0,0,1",
+        "SP_ID":"1010700089",
+        "SP_NAME":"Add to BB (25% DoT reduction for 3 turns), UBB (100% DoT reduction for 4 turns)",
+        "SP_NEED_BP":"15",
+        "SP_SERIES":"1010700089"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1@1",
+        "LEVEL":"5",
+        "PROC/PASSIVE_ID(S)":"66@66",
+        "PROC/PASSIVE_PARAMETERS":"8,0&35&0,1,2,0,1,0,0@8,0&60&0,1,2,0,0,0,1",
+        "SP_ID":"1010700090",
+        "SP_NAME":"Add to BB (boosts max HP [35%]), UBB (boosts max HP [60%])",
+        "SP_NEED_BP":"25",
+        "SP_SERIES":"1010700090"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
         "LEVEL":"4",
         "PROC/PASSIVE_ID(S)":"1",
         "PROC/PASSIVE_PARAMETERS":"0,130,0,0,130",
@@ -23256,6 +23300,50 @@
     {
         "DESCRIPTION":"",
         "EFFECT_AREA*":"1",
+        "LEVEL":"4",
+        "PROC/PASSIVE_ID(S)":"107",
+        "PROC/PASSIVE_PARAMETERS":"34,2.5",
+        "SP_ID":"1010800040",
+        "SP_NAME":"Add to LS (250% critical damage)",
+        "SP_NEED_BP":"25",
+        "SP_SERIES":"1010800040"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
+        "LEVEL":"3",
+        "PROC/PASSIVE_ID(S)":"66",
+        "PROC/PASSIVE_PARAMETERS":"9,0&1&-60&40&2&-60&40&2&0,2,2,0,0,1,0",
+        "SP_ID":"1010800041",
+        "SP_NAME":"Add to SBB (Probable [40%] 2 turns Atk, Def reduction [60%] infliction)",
+        "SP_NEED_BP":"20",
+        "SP_SERIES":"1010800041"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
+        "LEVEL":"5",
+        "PROC/PASSIVE_ID(S)":"66",
+        "PROC/PASSIVE_PARAMETERS":"47,300&550&0&200&60&0&0&0,2,2,0,0,1,0",
+        "SP_ID":"1010800042",
+        "SP_NAME":"Add to SBB (19 combo Earth attack [300-550%] on all foes (damage relative to remaining HP, boosts own critical rate [60%]))",
+        "SP_NEED_BP":"30",
+        "SP_SERIES":"1010800042"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
+        "LEVEL":"3",
+        "PROC/PASSIVE_ID(S)":"1",
+        "PROC/PASSIVE_PARAMETERS":"140,140,0,0,140",
+        "SP_ID":"1010800043",
+        "SP_NAME":"140% Atk, Def, max HP",
+        "SP_NEED_BP":"15",
+        "SP_SERIES":"1010800043"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
         "LEVEL":"3",
         "PROC/PASSIVE_ID(S)":"73",
         "PROC/PASSIVE_PARAMETERS":"100,100,100,100,100,100,100,100,100",
@@ -23351,6 +23439,72 @@
         "SP_NAME":"Enhances BB's boost to BB gauge effect",
         "SP_NEED_BP":"30",
         "SP_SERIES":"1011000004"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
+        "LEVEL":"2",
+        "PROC/PASSIVE_ID(S)":"1",
+        "PROC/PASSIVE_PARAMETERS":"30,0,0,0,30",
+        "SP_ID":"1011000005",
+        "SP_NAME":"30% Atk, max HP",
+        "SP_NEED_BP":"10",
+        "SP_SERIES":"1010500132"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"2",
+        "LEVEL":"4",
+        "PROC/PASSIVE_ID(S)":"78",
+        "PROC/PASSIVE_PARAMETERS":"100,0,0,0,0,0",
+        "SP_ID":"1011000006",
+        "SP_NAME":"Enhances BB's boost to own Atk [+100%] effect",
+        "SP_NEED_BP":"20",
+        "SP_SERIES":"1010500133"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"3",
+        "LEVEL":"3",
+        "PROC/PASSIVE_ID(S)":"24",
+        "PROC/PASSIVE_PARAMETERS":"0,10,0,0,0,0",
+        "SP_ID":"1011000007",
+        "SP_NAME":"Enhances SBB's boosts Atk relative to Def effect [+10%]",
+        "SP_NEED_BP":"15",
+        "SP_SERIES":"1010500134"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
+        "LEVEL":"5",
+        "PROC/PASSIVE_ID(S)":"66",
+        "PROC/PASSIVE_PARAMETERS":"58,30&100&2&0,2,2,0,1,1,0",
+        "SP_ID":"1011000008",
+        "SP_NAME":"Add to BB\\/SBB (2 turns spark vulnerability [30%] infliction)",
+        "SP_NEED_BP":"25",
+        "SP_SERIES":"1010500135"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
+        "LEVEL":"4",
+        "PROC/PASSIVE_ID(S)":"66",
+        "PROC/PASSIVE_PARAMETERS":"65,200&3&0,1,2,0,0,1,0",
+        "SP_ID":"1011000009",
+        "SP_NAME":"Add to SBB (boosts damage against status afflicted foes [200%] for 3 turns)",
+        "SP_NEED_BP":"20",
+        "SP_SERIES":"1010500136"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
+        "LEVEL":"6",
+        "PROC/PASSIVE_ID(S)":"66",
+        "PROC/PASSIVE_PARAMETERS":"5,0&450&450&450&0&3&0,1,2,0,0,0,1",
+        "SP_ID":"1011000010",
+        "SP_NAME":"Add to UBB (boosts 450% Atk, Def, Rec for 3 turns)",
+        "SP_NEED_BP":"30",
+        "SP_SERIES":"1010500137"
     },
     {
         "DESCRIPTION":"",

@@ -3970,5 +3970,53 @@
         "MISSION_SOUNDTRACK":"bf051_boss02_vari02.mp3",
         "SnNtTh51":"1126",
         "X7g8cNAI":"30"
+    },
+    {
+        "??SOME_SORT_OF_MISSION_IDS_LIST??":"",
+        "DUNGEON_IMAGE":"dungeon_battle_80161.jpg",
+        "IS_CAMP?":"1",
+        "LOCATION_NAME":"Camp",
+        "LOCATION_NUMBER":"1",
+        "M6C1aXfR":"630",
+        "MAP_IMG_AREA_NUMBER":"8709",
+        "MISSION_SOUNDTRACK":"bf051_boss02_vari02.mp3",
+        "SnNtTh51":"1250",
+        "X7g8cNAI":"30"
+    },
+    {
+        "??SOME_SORT_OF_MISSION_IDS_LIST??":"3:20100,0:20101",
+        "DUNGEON_IMAGE":"dungeon_battle_20100.jpg",
+        "IS_CAMP?":"0",
+        "LOCATION_NAME":"Sinkhole",
+        "LOCATION_NUMBER":"2",
+        "M6C1aXfR":"550",
+        "MAP_IMG_AREA_NUMBER":"8709",
+        "MISSION_SOUNDTRACK":"bf051_boss02_vari02.mp3",
+        "SnNtTh51":"960",
+        "X7g8cNAI":"30"
+    },
+    {
+        "??SOME_SORT_OF_MISSION_IDS_LIST??":"1:50500",
+        "DUNGEON_IMAGE":"dungeon_battle_50700.jpg",
+        "IS_CAMP?":"0",
+        "LOCATION_NAME":"Village",
+        "LOCATION_NUMBER":"3",
+        "M6C1aXfR":"550",
+        "MAP_IMG_AREA_NUMBER":"8709",
+        "MISSION_SOUNDTRACK":"bf051_boss02_vari02.mp3",
+        "SnNtTh51":"225",
+        "X7g8cNAI":"30"
+    },
+    {
+        "??SOME_SORT_OF_MISSION_IDS_LIST??":"1:50500",
+        "DUNGEON_IMAGE":"dungeon_battle_50500.jpg",
+        "IS_CAMP?":"0",
+        "LOCATION_NAME":"Castle",
+        "LOCATION_NUMBER":"4",
+        "M6C1aXfR":"775",
+        "MAP_IMG_AREA_NUMBER":"8709",
+        "MISSION_SOUNDTRACK":"bf051_boss02_vari02.mp3",
+        "SnNtTh51":"735",
+        "X7g8cNAI":"30"
     }
 ]
