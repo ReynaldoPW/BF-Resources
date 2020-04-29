@@ -10530,6 +10530,42 @@
         "SP_CAT_ID":"100015"
     },
     {
+        "DESCRIPTION":"What a shock! Can you put an end to Knives' nefarious plans?",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"8",
+        "SCENARIO_ID":"100001508",
+        "SCENARIO_NAME":"An Electrifying Appearance (S)",
+        "SCENARIO_TEXT_FILE":"Trigun2020_M5_A.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"100015"
+    },
+    {
+        "DESCRIPTION":"What a shock! Can you put an end to Knives' nefarious plans?",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"9",
+        "SCENARIO_ID":"100001509",
+        "SCENARIO_NAME":"An Electrifying Appearance (E)",
+        "SCENARIO_TEXT_FILE":"Trigun2020_M5_B.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"100015"
+    },
+    {
+        "DESCRIPTION":"It's time for the electrifying climax! Go for it and blow them away!",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"10",
+        "SCENARIO_ID":"100001510",
+        "SCENARIO_NAME":"A Thunderous Ending (S)",
+        "SCENARIO_TEXT_FILE":"Trigun2020_M6_A.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"100015"
+    },
+    {
+        "DESCRIPTION":"It's time for the electrifying climax! Go for it and blow them away!",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"11",
+        "SCENARIO_ID":"100001511",
+        "SCENARIO_NAME":"A Thunderous Ending (E)",
+        "SCENARIO_TEXT_FILE":"Trigun2020_M6_B.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"100015"
+    },
+    {
         "DESCRIPTION":"Aesys breaks through the undead siege of the city to offer aid to its divine-touched protectors.",
         "QUEST_MAP_NUMBER/GUIDE_ID":"1",
         "SCENARIO_ID":"100010001",

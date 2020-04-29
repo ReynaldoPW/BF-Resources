@@ -12186,7 +12186,7 @@
     },
     "1111":{
         "desc":"MST_FROGATE1111_DESC",
-        "end time":"-62169984000",
+        "end time":"1585728000",
         "id":"1111",
         "name":"MST_FROGATE1111_NAME",
         "restrictions":"2:1:8,@0",
@@ -12677,6 +12677,500 @@
             }
         ],
         "start time":"1559808000"
+    },
+    "1112":{
+        "desc":"MST_FROGATE1112_DESC",
+        "end time":"-62169984000",
+        "id":"1112",
+        "name":"MST_FROGATE1112_NAME",
+        "restrictions":"2:1:8,@0",
+        "rewards":[
+            {
+                "elgif reward":"0",
+                "id":"11100",
+                "quantity":50,
+                "requirement":{
+                    "amount":1,
+                    "type":"points"
+                },
+                "reward id":"8",
+                "reward type":"8004"
+            },
+            {
+                "elgif reward":"0",
+                "id":"11101",
+                "quantity":100,
+                "requirement":{
+                    "amount":250000,
+                    "type":"points"
+                },
+                "reward id":"8",
+                "reward type":"8004"
+            },
+            {
+                "elgif reward":"0",
+                "id":"11102",
+                "quantity":100,
+                "requirement":{
+                    "amount":500000,
+                    "type":"points"
+                },
+                "reward id":"8",
+                "reward type":"8004"
+            },
+            {
+                "elgif reward":"0",
+                "id":"11103",
+                "quantity":150,
+                "requirement":{
+                    "amount":1000000,
+                    "type":"points"
+                },
+                "reward id":"8",
+                "reward type":"8004"
+            },
+            {
+                "elgif reward":"0",
+                "id":"11104",
+                "quantity":150,
+                "requirement":{
+                    "amount":1500000,
+                    "type":"points"
+                },
+                "reward id":"8",
+                "reward type":"8004"
+            },
+            {
+                "elgif reward":"0",
+                "id":"11105",
+                "quantity":150,
+                "requirement":{
+                    "amount":2000000,
+                    "type":"points"
+                },
+                "reward id":"8",
+                "reward type":"8004"
+            },
+            {
+                "elgif reward":"0",
+                "id":"11106",
+                "quantity":200,
+                "requirement":{
+                    "amount":3000000,
+                    "type":"points"
+                },
+                "reward id":"8",
+                "reward type":"8004"
+            },
+            {
+                "elgif reward":"1:1",
+                "id":"11107",
+                "quantity":3,
+                "requirement":{
+                    "amount":1,
+                    "type":"floors"
+                },
+                "reward id":"750004",
+                "reward type":"6"
+            },
+            {
+                "elgif reward":"1:1",
+                "id":"11108",
+                "quantity":10,
+                "requirement":{
+                    "amount":1,
+                    "type":"floors"
+                },
+                "reward id":"50612",
+                "reward type":"6"
+            },
+            {
+                "elgif reward":"1:1",
+                "id":"11109",
+                "quantity":5,
+                "requirement":{
+                    "amount":2,
+                    "type":"floors"
+                },
+                "reward id":"750003",
+                "reward type":"6"
+            },
+            {
+                "elgif reward":"1:0",
+                "id":"11110",
+                "quantity":10,
+                "requirement":{
+                    "amount":3,
+                    "type":"floors"
+                },
+                "reward id":"800908",
+                "reward type":"4"
+            },
+            {
+                "elgif reward":"1:0",
+                "id":"11111",
+                "quantity":20,
+                "requirement":{
+                    "amount":3,
+                    "type":"floors"
+                },
+                "reward id":"800907",
+                "reward type":"4"
+            },
+            {
+                "elgif reward":"1:0",
+                "id":"11112",
+                "quantity":1,
+                "requirement":{
+                    "amount":3,
+                    "type":"floors"
+                },
+                "reward id":"880244",
+                "reward type":"4"
+            },
+            {
+                "elgif reward":"1:0",
+                "id":"11113",
+                "quantity":20,
+                "requirement":{
+                    "amount":4,
+                    "type":"floors"
+                },
+                "reward id":"800908",
+                "reward type":"4"
+            },
+            {
+                "elgif reward":"1:0",
+                "id":"11114",
+                "quantity":40,
+                "requirement":{
+                    "amount":4,
+                    "type":"floors"
+                },
+                "reward id":"800907",
+                "reward type":"4"
+            },
+            {
+                "elgif reward":"1:0",
+                "id":"11115",
+                "quantity":2,
+                "requirement":{
+                    "amount":4,
+                    "type":"floors"
+                },
+                "reward id":"880244",
+                "reward type":"4"
+            },
+            {
+                "elgif reward":"1:1",
+                "id":"11116",
+                "quantity":1,
+                "requirement":{
+                    "amount":4,
+                    "type":"floors"
+                },
+                "reward id":"820628",
+                "reward type":"6"
+            },
+            {
+                "elgif reward":"0",
+                "id":"111201",
+                "quantity":100,
+                "requirement":{
+                    "amount":5000000,
+                    "type":"points"
+                },
+                "reward id":"8",
+                "reward type":"8004"
+            },
+            {
+                "elgif reward":"0",
+                "id":"111202",
+                "quantity":500,
+                "requirement":{
+                    "amount":5000000,
+                    "type":"points"
+                },
+                "reward id":"0",
+                "reward type":"8002"
+            },
+            {
+                "elgif reward":"0",
+                "id":"111203",
+                "quantity":100,
+                "requirement":{
+                    "amount":5000000,
+                    "type":"points"
+                },
+                "reward id":"8112",
+                "reward type":"8004"
+            },
+            {
+                "elgif reward":"0",
+                "id":"111204",
+                "quantity":100,
+                "requirement":{
+                    "amount":7500000,
+                    "type":"points"
+                },
+                "reward id":"8",
+                "reward type":"8004"
+            },
+            {
+                "elgif reward":"0",
+                "id":"111205",
+                "quantity":500,
+                "requirement":{
+                    "amount":7500000,
+                    "type":"points"
+                },
+                "reward id":"0",
+                "reward type":"8002"
+            },
+            {
+                "elgif reward":"0",
+                "id":"111206",
+                "quantity":100,
+                "requirement":{
+                    "amount":7500000,
+                    "type":"points"
+                },
+                "reward id":"8112",
+                "reward type":"8004"
+            },
+            {
+                "elgif reward":"0",
+                "id":"111207",
+                "quantity":100,
+                "requirement":{
+                    "amount":10000000,
+                    "type":"points"
+                },
+                "reward id":"8",
+                "reward type":"8004"
+            },
+            {
+                "elgif reward":"0",
+                "id":"111208",
+                "quantity":500,
+                "requirement":{
+                    "amount":10000000,
+                    "type":"points"
+                },
+                "reward id":"0",
+                "reward type":"8002"
+            },
+            {
+                "elgif reward":"0",
+                "id":"111209",
+                "quantity":100,
+                "requirement":{
+                    "amount":10000000,
+                    "type":"points"
+                },
+                "reward id":"8112",
+                "reward type":"8004"
+            },
+            {
+                "elgif reward":"0",
+                "id":"111210",
+                "quantity":150,
+                "requirement":{
+                    "amount":20000000,
+                    "type":"points"
+                },
+                "reward id":"8",
+                "reward type":"8004"
+            },
+            {
+                "elgif reward":"0",
+                "id":"111211",
+                "quantity":750,
+                "requirement":{
+                    "amount":20000000,
+                    "type":"points"
+                },
+                "reward id":"0",
+                "reward type":"8002"
+            },
+            {
+                "elgif reward":"0",
+                "id":"111212",
+                "quantity":150,
+                "requirement":{
+                    "amount":20000000,
+                    "type":"points"
+                },
+                "reward id":"8112",
+                "reward type":"8004"
+            },
+            {
+                "elgif reward":"0",
+                "id":"111213",
+                "quantity":150,
+                "requirement":{
+                    "amount":30000000,
+                    "type":"points"
+                },
+                "reward id":"8",
+                "reward type":"8004"
+            },
+            {
+                "elgif reward":"0",
+                "id":"111214",
+                "quantity":750,
+                "requirement":{
+                    "amount":30000000,
+                    "type":"points"
+                },
+                "reward id":"0",
+                "reward type":"8002"
+            },
+            {
+                "elgif reward":"0",
+                "id":"111215",
+                "quantity":150,
+                "requirement":{
+                    "amount":30000000,
+                    "type":"points"
+                },
+                "reward id":"8112",
+                "reward type":"8004"
+            },
+            {
+                "elgif reward":"0",
+                "id":"111216",
+                "quantity":150,
+                "requirement":{
+                    "amount":40000000,
+                    "type":"points"
+                },
+                "reward id":"8",
+                "reward type":"8004"
+            },
+            {
+                "elgif reward":"0",
+                "id":"111217",
+                "quantity":750,
+                "requirement":{
+                    "amount":40000000,
+                    "type":"points"
+                },
+                "reward id":"0",
+                "reward type":"8002"
+            },
+            {
+                "elgif reward":"0",
+                "id":"111218",
+                "quantity":200,
+                "requirement":{
+                    "amount":40000000,
+                    "type":"points"
+                },
+                "reward id":"8112",
+                "reward type":"8004"
+            },
+            {
+                "elgif reward":"0",
+                "id":"111219",
+                "quantity":150,
+                "requirement":{
+                    "amount":50000000,
+                    "type":"points"
+                },
+                "reward id":"8",
+                "reward type":"8004"
+            },
+            {
+                "elgif reward":"0",
+                "id":"111220",
+                "quantity":750,
+                "requirement":{
+                    "amount":50000000,
+                    "type":"points"
+                },
+                "reward id":"0",
+                "reward type":"8002"
+            },
+            {
+                "elgif reward":"0",
+                "id":"111221",
+                "quantity":200,
+                "requirement":{
+                    "amount":50000000,
+                    "type":"points"
+                },
+                "reward id":"8112",
+                "reward type":"8004"
+            },
+            {
+                "elgif reward":"0",
+                "id":"111222",
+                "quantity":300,
+                "requirement":{
+                    "amount":60000000,
+                    "type":"points"
+                },
+                "reward id":"8",
+                "reward type":"8004"
+            },
+            {
+                "elgif reward":"0",
+                "id":"111223",
+                "quantity":1500,
+                "requirement":{
+                    "amount":60000000,
+                    "type":"points"
+                },
+                "reward id":"0",
+                "reward type":"8002"
+            },
+            {
+                "elgif reward":"0",
+                "id":"111224",
+                "quantity":200,
+                "requirement":{
+                    "amount":60000000,
+                    "type":"points"
+                },
+                "reward id":"8112",
+                "reward type":"8004"
+            },
+            {
+                "elgif reward":"0",
+                "id":"111225",
+                "quantity":300,
+                "requirement":{
+                    "amount":75000000,
+                    "type":"points"
+                },
+                "reward id":"8",
+                "reward type":"8004"
+            },
+            {
+                "elgif reward":"0",
+                "id":"111226",
+                "quantity":1500,
+                "requirement":{
+                    "amount":75000000,
+                    "type":"points"
+                },
+                "reward id":"0",
+                "reward type":"8002"
+            },
+            {
+                "elgif reward":"0",
+                "id":"111227",
+                "quantity":300,
+                "requirement":{
+                    "amount":75000000,
+                    "type":"points"
+                },
+                "reward id":"8112",
+                "reward type":"8004"
+            }
+        ],
+        "start time":"1554105600"
     },
     "12":{
         "desc":"MST_FROGATE12_DESC",
@@ -13698,6 +14192,1630 @@
                 },
                 "reward id":"50792",
                 "reward type":"6"
+            }
+        ],
+        "start time":"-62169984000"
+    },
+    "200001":{
+        "desc":"MST_FROGATE200001_DESC",
+        "end time":"1588751999",
+        "id":"200001",
+        "name":"MST_FROGATE200001_NAME",
+        "restrictions":"@0",
+        "rewards":[
+            {
+                "elgif reward":"1:0:8900012",
+                "id":"200129",
+                "quantity":1,
+                "requirement":{
+                    "amount":1,
+                    "type":"floors"
+                },
+                "reward id":"50792",
+                "reward type":"6"
+            },
+            {
+                "elgif reward":"1:0",
+                "id":"200130",
+                "quantity":1,
+                "requirement":{
+                    "amount":1,
+                    "type":"floors"
+                },
+                "reward id":"1",
+                "reward type":"8000"
+            },
+            {
+                "elgif reward":"0",
+                "id":"200131",
+                "quantity":5,
+                "requirement":{
+                    "amount":1,
+                    "type":"floors"
+                },
+                "reward id":"0",
+                "reward type":"8"
+            },
+            {
+                "elgif reward":"1:0",
+                "id":"200134",
+                "quantity":8,
+                "requirement":{
+                    "amount":1,
+                    "type":"floors"
+                },
+                "reward id":"67",
+                "reward type":"8001"
+            }
+        ],
+        "start time":"1556524800"
+    },
+    "200002":{
+        "desc":"MST_FROGATE200002_DESC",
+        "end time":"1588751999",
+        "id":"200002",
+        "name":"MST_FROGATE200002_NAME",
+        "restrictions":"@0",
+        "rewards":[
+            {
+                "elgif reward":"0",
+                "id":"200124",
+                "quantity":330000,
+                "requirement":{
+                    "amount":1,
+                    "type":"floors"
+                },
+                "reward id":"0",
+                "reward type":"3"
+            },
+            {
+                "elgif reward":"1:0:0",
+                "id":"200125",
+                "quantity":1,
+                "requirement":{
+                    "amount":1,
+                    "type":"floors"
+                },
+                "reward id":"750003",
+                "reward type":"6"
+            },
+            {
+                "elgif reward":"0",
+                "id":"200126",
+                "quantity":1,
+                "requirement":{
+                    "amount":1,
+                    "type":"floors"
+                },
+                "reward id":"880244",
+                "reward type":"4"
+            },
+            {
+                "elgif reward":"1:0:0",
+                "id":"200127",
+                "quantity":2,
+                "requirement":{
+                    "amount":1,
+                    "type":"floors"
+                },
+                "reward id":"87502601",
+                "reward type":"6"
+            },
+            {
+                "elgif reward":"1:0:0",
+                "id":"200128",
+                "quantity":2,
+                "requirement":{
+                    "amount":1,
+                    "type":"floors"
+                },
+                "reward id":"87602601",
+                "reward type":"6"
+            }
+        ],
+        "start time":"1556524800"
+    },
+    "200003":{
+        "desc":"MST_FROGATE200003_DESC",
+        "end time":"1588751999",
+        "id":"200003",
+        "name":"MST_FROGATE200003_NAME",
+        "restrictions":"@0",
+        "rewards":[
+            {
+                "elgif reward":"0",
+                "id":"200119",
+                "quantity":310000,
+                "requirement":{
+                    "amount":1,
+                    "type":"floors"
+                },
+                "reward id":"0",
+                "reward type":"3"
+            },
+            {
+                "elgif reward":"1:0:0",
+                "id":"200120",
+                "quantity":1,
+                "requirement":{
+                    "amount":1,
+                    "type":"floors"
+                },
+                "reward id":"750003",
+                "reward type":"6"
+            },
+            {
+                "elgif reward":"0",
+                "id":"200121",
+                "quantity":1,
+                "requirement":{
+                    "amount":1,
+                    "type":"floors"
+                },
+                "reward id":"880244",
+                "reward type":"4"
+            },
+            {
+                "elgif reward":"1:0:0",
+                "id":"200122",
+                "quantity":2,
+                "requirement":{
+                    "amount":1,
+                    "type":"floors"
+                },
+                "reward id":"87302601",
+                "reward type":"6"
+            },
+            {
+                "elgif reward":"1:0:0",
+                "id":"200123",
+                "quantity":2,
+                "requirement":{
+                    "amount":1,
+                    "type":"floors"
+                },
+                "reward id":"87402601",
+                "reward type":"6"
+            }
+        ],
+        "start time":"1556524800"
+    },
+    "200004":{
+        "desc":"MST_FROGATE200004_DESC",
+        "end time":"1588751999",
+        "id":"200004",
+        "name":"MST_FROGATE200004_NAME",
+        "restrictions":"@0",
+        "rewards":[
+            {
+                "elgif reward":"0",
+                "id":"200114",
+                "quantity":290000,
+                "requirement":{
+                    "amount":1,
+                    "type":"floors"
+                },
+                "reward id":"0",
+                "reward type":"3"
+            },
+            {
+                "elgif reward":"1:0:0",
+                "id":"200115",
+                "quantity":1,
+                "requirement":{
+                    "amount":1,
+                    "type":"floors"
+                },
+                "reward id":"750003",
+                "reward type":"6"
+            },
+            {
+                "elgif reward":"0",
+                "id":"200116",
+                "quantity":1,
+                "requirement":{
+                    "amount":1,
+                    "type":"floors"
+                },
+                "reward id":"880244",
+                "reward type":"4"
+            },
+            {
+                "elgif reward":"1:0:0",
+                "id":"200117",
+                "quantity":2,
+                "requirement":{
+                    "amount":1,
+                    "type":"floors"
+                },
+                "reward id":"87102601",
+                "reward type":"6"
+            },
+            {
+                "elgif reward":"1:0:0",
+                "id":"200118",
+                "quantity":2,
+                "requirement":{
+                    "amount":1,
+                    "type":"floors"
+                },
+                "reward id":"87202601",
+                "reward type":"6"
+            }
+        ],
+        "start time":"1556524800"
+    },
+    "200005":{
+        "desc":"MST_FROGATE200005_DESC",
+        "end time":"1588751999",
+        "id":"200005",
+        "name":"MST_FROGATE200005_NAME",
+        "restrictions":"@0",
+        "rewards":[
+            {
+                "elgif reward":"0",
+                "id":"200103",
+                "quantity":250000,
+                "requirement":{
+                    "amount":1,
+                    "type":"floors"
+                },
+                "reward id":"0",
+                "reward type":"3"
+            },
+            {
+                "elgif reward":"1:0:0",
+                "id":"200104",
+                "quantity":1,
+                "requirement":{
+                    "amount":1,
+                    "type":"floors"
+                },
+                "reward id":"750003",
+                "reward type":"6"
+            },
+            {
+                "elgif reward":"1:0:0",
+                "id":"200105",
+                "quantity":3,
+                "requirement":{
+                    "amount":1,
+                    "type":"floors"
+                },
+                "reward id":"50612",
+                "reward type":"6"
+            },
+            {
+                "elgif reward":"0",
+                "id":"200106",
+                "quantity":15,
+                "requirement":{
+                    "amount":1,
+                    "type":"floors"
+                },
+                "reward id":"800907",
+                "reward type":"4"
+            },
+            {
+                "elgif reward":"0",
+                "id":"200107",
+                "quantity":15,
+                "requirement":{
+                    "amount":1,
+                    "type":"floors"
+                },
+                "reward id":"800908",
+                "reward type":"4"
+            },
+            {
+                "elgif reward":"0",
+                "id":"200108",
+                "quantity":300,
+                "requirement":{
+                    "amount":1,
+                    "type":"floors"
+                },
+                "reward id":"800901",
+                "reward type":"4"
+            },
+            {
+                "elgif reward":"0",
+                "id":"200109",
+                "quantity":300,
+                "requirement":{
+                    "amount":1,
+                    "type":"floors"
+                },
+                "reward id":"800902",
+                "reward type":"4"
+            },
+            {
+                "elgif reward":"0",
+                "id":"200110",
+                "quantity":300,
+                "requirement":{
+                    "amount":1,
+                    "type":"floors"
+                },
+                "reward id":"800903",
+                "reward type":"4"
+            },
+            {
+                "elgif reward":"0",
+                "id":"200111",
+                "quantity":300,
+                "requirement":{
+                    "amount":1,
+                    "type":"floors"
+                },
+                "reward id":"800904",
+                "reward type":"4"
+            },
+            {
+                "elgif reward":"0",
+                "id":"200112",
+                "quantity":300,
+                "requirement":{
+                    "amount":1,
+                    "type":"floors"
+                },
+                "reward id":"800905",
+                "reward type":"4"
+            },
+            {
+                "elgif reward":"0",
+                "id":"200113",
+                "quantity":300,
+                "requirement":{
+                    "amount":1,
+                    "type":"floors"
+                },
+                "reward id":"800906",
+                "reward type":"4"
+            }
+        ],
+        "start time":"1556524800"
+    },
+    "200006":{
+        "desc":"MST_FROGATE200006_DESC",
+        "end time":"1588751999",
+        "id":"200006",
+        "name":"MST_FROGATE200006_NAME",
+        "restrictions":"@0",
+        "rewards":[
+            {
+                "elgif reward":"0",
+                "id":"200095",
+                "quantity":210000,
+                "requirement":{
+                    "amount":1,
+                    "type":"floors"
+                },
+                "reward id":"0",
+                "reward type":"3"
+            },
+            {
+                "elgif reward":"0",
+                "id":"200096",
+                "quantity":220000,
+                "requirement":{
+                    "amount":2,
+                    "type":"floors"
+                },
+                "reward id":"0",
+                "reward type":"3"
+            },
+            {
+                "elgif reward":"0",
+                "id":"200097",
+                "quantity":230000,
+                "requirement":{
+                    "amount":3,
+                    "type":"floors"
+                },
+                "reward id":"0",
+                "reward type":"3"
+            },
+            {
+                "elgif reward":"1:0:0",
+                "id":"200098",
+                "quantity":1,
+                "requirement":{
+                    "amount":3,
+                    "type":"floors"
+                },
+                "reward id":"750006",
+                "reward type":"6"
+            },
+            {
+                "elgif reward":"0",
+                "id":"200099",
+                "quantity":1,
+                "requirement":{
+                    "amount":3,
+                    "type":"floors"
+                },
+                "reward id":"800017",
+                "reward type":"4"
+            },
+            {
+                "elgif reward":"1:0:0",
+                "id":"200100",
+                "quantity":1,
+                "requirement":{
+                    "amount":3,
+                    "type":"floors"
+                },
+                "reward id":"750003",
+                "reward type":"6"
+            },
+            {
+                "elgif reward":"1:0:8900011",
+                "id":"200101",
+                "quantity":1,
+                "requirement":{
+                    "amount":3,
+                    "type":"floors"
+                },
+                "reward id":"50792",
+                "reward type":"6"
+            },
+            {
+                "elgif reward":"0",
+                "id":"200102",
+                "quantity":4,
+                "requirement":{
+                    "amount":3,
+                    "type":"floors"
+                },
+                "reward id":"0",
+                "reward type":"8"
+            },
+            {
+                "elgif reward":"1:0",
+                "id":"200133",
+                "quantity":6,
+                "requirement":{
+                    "amount":3,
+                    "type":"floors"
+                },
+                "reward id":"67",
+                "reward type":"8001"
+            }
+        ],
+        "start time":"1587542400"
+    },
+    "200007":{
+        "desc":"MST_FROGATE200007_DESC",
+        "end time":"1588751999",
+        "id":"200007",
+        "name":"MST_FROGATE200007_NAME",
+        "restrictions":"@0",
+        "rewards":[
+            {
+                "elgif reward":"0",
+                "id":"200089",
+                "quantity":170000,
+                "requirement":{
+                    "amount":1,
+                    "type":"floors"
+                },
+                "reward id":"0",
+                "reward type":"3"
+            },
+            {
+                "elgif reward":"0",
+                "id":"200090",
+                "quantity":180000,
+                "requirement":{
+                    "amount":2,
+                    "type":"floors"
+                },
+                "reward id":"0",
+                "reward type":"3"
+            },
+            {
+                "elgif reward":"0",
+                "id":"200091",
+                "quantity":190000,
+                "requirement":{
+                    "amount":3,
+                    "type":"floors"
+                },
+                "reward id":"0",
+                "reward type":"3"
+            },
+            {
+                "elgif reward":"1:0:0",
+                "id":"200092",
+                "quantity":1,
+                "requirement":{
+                    "amount":3,
+                    "type":"floors"
+                },
+                "reward id":"750004",
+                "reward type":"6"
+            },
+            {
+                "elgif reward":"1:0:0",
+                "id":"200093",
+                "quantity":1,
+                "requirement":{
+                    "amount":3,
+                    "type":"floors"
+                },
+                "reward id":"750006",
+                "reward type":"6"
+            },
+            {
+                "elgif reward":"1:0:0",
+                "id":"200094",
+                "quantity":1,
+                "requirement":{
+                    "amount":3,
+                    "type":"floors"
+                },
+                "reward id":"750003",
+                "reward type":"6"
+            }
+        ],
+        "start time":"1587542400"
+    },
+    "200008":{
+        "desc":"MST_FROGATE200008_DESC",
+        "end time":"1588751999",
+        "id":"200008",
+        "name":"MST_FROGATE200008_NAME",
+        "restrictions":"@0",
+        "rewards":[
+            {
+                "elgif reward":"0",
+                "id":"200079",
+                "quantity":130000,
+                "requirement":{
+                    "amount":1,
+                    "type":"floors"
+                },
+                "reward id":"0",
+                "reward type":"3"
+            },
+            {
+                "elgif reward":"0",
+                "id":"200080",
+                "quantity":140000,
+                "requirement":{
+                    "amount":2,
+                    "type":"floors"
+                },
+                "reward id":"0",
+                "reward type":"3"
+            },
+            {
+                "elgif reward":"0",
+                "id":"200081",
+                "quantity":150000,
+                "requirement":{
+                    "amount":3,
+                    "type":"floors"
+                },
+                "reward id":"0",
+                "reward type":"3"
+            },
+            {
+                "elgif reward":"1:0:0",
+                "id":"200082",
+                "quantity":1,
+                "requirement":{
+                    "amount":3,
+                    "type":"floors"
+                },
+                "reward id":"750006",
+                "reward type":"6"
+            },
+            {
+                "elgif reward":"0",
+                "id":"200083",
+                "quantity":200,
+                "requirement":{
+                    "amount":3,
+                    "type":"floors"
+                },
+                "reward id":"800901",
+                "reward type":"4"
+            },
+            {
+                "elgif reward":"0",
+                "id":"200084",
+                "quantity":200,
+                "requirement":{
+                    "amount":3,
+                    "type":"floors"
+                },
+                "reward id":"800902",
+                "reward type":"4"
+            },
+            {
+                "elgif reward":"0",
+                "id":"200085",
+                "quantity":200,
+                "requirement":{
+                    "amount":3,
+                    "type":"floors"
+                },
+                "reward id":"800903",
+                "reward type":"4"
+            },
+            {
+                "elgif reward":"0",
+                "id":"200086",
+                "quantity":200,
+                "requirement":{
+                    "amount":3,
+                    "type":"floors"
+                },
+                "reward id":"800904",
+                "reward type":"4"
+            },
+            {
+                "elgif reward":"0",
+                "id":"200087",
+                "quantity":200,
+                "requirement":{
+                    "amount":3,
+                    "type":"floors"
+                },
+                "reward id":"800905",
+                "reward type":"4"
+            },
+            {
+                "elgif reward":"0",
+                "id":"200088",
+                "quantity":200,
+                "requirement":{
+                    "amount":3,
+                    "type":"floors"
+                },
+                "reward id":"800906",
+                "reward type":"4"
+            }
+        ],
+        "start time":"1587542400"
+    },
+    "200009":{
+        "desc":"MST_FROGATE200009_DESC",
+        "end time":"1588751999",
+        "id":"200009",
+        "name":"MST_FROGATE200009_NAME",
+        "restrictions":"@0",
+        "rewards":[
+            {
+                "elgif reward":"0",
+                "id":"200071",
+                "quantity":99000,
+                "requirement":{
+                    "amount":1,
+                    "type":"floors"
+                },
+                "reward id":"0",
+                "reward type":"3"
+            },
+            {
+                "elgif reward":"0",
+                "id":"200072",
+                "quantity":100000,
+                "requirement":{
+                    "amount":2,
+                    "type":"floors"
+                },
+                "reward id":"0",
+                "reward type":"3"
+            },
+            {
+                "elgif reward":"0",
+                "id":"200073",
+                "quantity":110000,
+                "requirement":{
+                    "amount":3,
+                    "type":"floors"
+                },
+                "reward id":"0",
+                "reward type":"3"
+            },
+            {
+                "elgif reward":"1:0:0",
+                "id":"200074",
+                "quantity":1,
+                "requirement":{
+                    "amount":3,
+                    "type":"floors"
+                },
+                "reward id":"750006",
+                "reward type":"6"
+            },
+            {
+                "elgif reward":"1:0:0",
+                "id":"200075",
+                "quantity":1,
+                "requirement":{
+                    "amount":3,
+                    "type":"floors"
+                },
+                "reward id":"750003",
+                "reward type":"6"
+            },
+            {
+                "elgif reward":"0",
+                "id":"200076",
+                "quantity":10,
+                "requirement":{
+                    "amount":3,
+                    "type":"floors"
+                },
+                "reward id":"800907",
+                "reward type":"4"
+            },
+            {
+                "elgif reward":"0",
+                "id":"200077",
+                "quantity":10,
+                "requirement":{
+                    "amount":3,
+                    "type":"floors"
+                },
+                "reward id":"800908",
+                "reward type":"4"
+            },
+            {
+                "elgif reward":"0",
+                "id":"200078",
+                "quantity":1,
+                "requirement":{
+                    "amount":3,
+                    "type":"floors"
+                },
+                "reward id":"800017",
+                "reward type":"4"
+            }
+        ],
+        "start time":"1587542400"
+    },
+    "200010":{
+        "desc":"MST_FROGATE200010_DESC",
+        "end time":"1588751999",
+        "id":"200010",
+        "name":"MST_FROGATE200010_NAME",
+        "restrictions":"@0",
+        "rewards":[
+            {
+                "elgif reward":"0",
+                "id":"200065",
+                "quantity":95000,
+                "requirement":{
+                    "amount":1,
+                    "type":"floors"
+                },
+                "reward id":"0",
+                "reward type":"3"
+            },
+            {
+                "elgif reward":"0",
+                "id":"200066",
+                "quantity":96000,
+                "requirement":{
+                    "amount":2,
+                    "type":"floors"
+                },
+                "reward id":"0",
+                "reward type":"3"
+            },
+            {
+                "elgif reward":"0",
+                "id":"200067",
+                "quantity":97000,
+                "requirement":{
+                    "amount":3,
+                    "type":"floors"
+                },
+                "reward id":"0",
+                "reward type":"3"
+            },
+            {
+                "elgif reward":"1:0:0",
+                "id":"200068",
+                "quantity":1,
+                "requirement":{
+                    "amount":3,
+                    "type":"floors"
+                },
+                "reward id":"750004",
+                "reward type":"6"
+            },
+            {
+                "elgif reward":"1:0:0",
+                "id":"200069",
+                "quantity":1,
+                "requirement":{
+                    "amount":3,
+                    "type":"floors"
+                },
+                "reward id":"750006",
+                "reward type":"6"
+            },
+            {
+                "elgif reward":"1:0:0",
+                "id":"200070",
+                "quantity":1,
+                "requirement":{
+                    "amount":3,
+                    "type":"floors"
+                },
+                "reward id":"750003",
+                "reward type":"6"
+            }
+        ],
+        "start time":"1587542400"
+    },
+    "200011":{
+        "desc":"MST_FROGATE200011_DESC",
+        "end time":"1588751999",
+        "id":"200011",
+        "name":"MST_FROGATE200011_NAME",
+        "restrictions":"@0",
+        "rewards":[
+            {
+                "elgif reward":"0",
+                "id":"200050",
+                "quantity":91000,
+                "requirement":{
+                    "amount":1,
+                    "type":"floors"
+                },
+                "reward id":"0",
+                "reward type":"3"
+            },
+            {
+                "elgif reward":"0",
+                "id":"200051",
+                "quantity":92000,
+                "requirement":{
+                    "amount":2,
+                    "type":"floors"
+                },
+                "reward id":"0",
+                "reward type":"3"
+            },
+            {
+                "elgif reward":"0",
+                "id":"200052",
+                "quantity":93000,
+                "requirement":{
+                    "amount":3,
+                    "type":"floors"
+                },
+                "reward id":"0",
+                "reward type":"3"
+            },
+            {
+                "elgif reward":"0",
+                "id":"200053",
+                "quantity":94000,
+                "requirement":{
+                    "amount":4,
+                    "type":"floors"
+                },
+                "reward id":"0",
+                "reward type":"3"
+            },
+            {
+                "elgif reward":"0",
+                "id":"200054",
+                "quantity":94000,
+                "requirement":{
+                    "amount":5,
+                    "type":"floors"
+                },
+                "reward id":"0",
+                "reward type":"3"
+            },
+            {
+                "elgif reward":"1:0:0",
+                "id":"200055",
+                "quantity":1,
+                "requirement":{
+                    "amount":5,
+                    "type":"floors"
+                },
+                "reward id":"750006",
+                "reward type":"6"
+            },
+            {
+                "elgif reward":"0",
+                "id":"200056",
+                "quantity":1,
+                "requirement":{
+                    "amount":5,
+                    "type":"floors"
+                },
+                "reward id":"800017",
+                "reward type":"4"
+            },
+            {
+                "elgif reward":"0",
+                "id":"200057",
+                "quantity":200,
+                "requirement":{
+                    "amount":5,
+                    "type":"floors"
+                },
+                "reward id":"800901",
+                "reward type":"4"
+            },
+            {
+                "elgif reward":"0",
+                "id":"200058",
+                "quantity":200,
+                "requirement":{
+                    "amount":5,
+                    "type":"floors"
+                },
+                "reward id":"800902",
+                "reward type":"4"
+            },
+            {
+                "elgif reward":"0",
+                "id":"200059",
+                "quantity":200,
+                "requirement":{
+                    "amount":5,
+                    "type":"floors"
+                },
+                "reward id":"800903",
+                "reward type":"4"
+            },
+            {
+                "elgif reward":"0",
+                "id":"200060",
+                "quantity":200,
+                "requirement":{
+                    "amount":5,
+                    "type":"floors"
+                },
+                "reward id":"800904",
+                "reward type":"4"
+            },
+            {
+                "elgif reward":"0",
+                "id":"200061",
+                "quantity":200,
+                "requirement":{
+                    "amount":5,
+                    "type":"floors"
+                },
+                "reward id":"800905",
+                "reward type":"4"
+            },
+            {
+                "elgif reward":"0",
+                "id":"200062",
+                "quantity":200,
+                "requirement":{
+                    "amount":5,
+                    "type":"floors"
+                },
+                "reward id":"800906",
+                "reward type":"4"
+            },
+            {
+                "elgif reward":"1:0:8900010",
+                "id":"200063",
+                "quantity":1,
+                "requirement":{
+                    "amount":5,
+                    "type":"floors"
+                },
+                "reward id":"50792",
+                "reward type":"6"
+            },
+            {
+                "elgif reward":"0",
+                "id":"200064",
+                "quantity":3,
+                "requirement":{
+                    "amount":5,
+                    "type":"floors"
+                },
+                "reward id":"0",
+                "reward type":"8"
+            },
+            {
+                "elgif reward":"1:0",
+                "id":"200132",
+                "quantity":4,
+                "requirement":{
+                    "amount":5,
+                    "type":"floors"
+                },
+                "reward id":"67",
+                "reward type":"8001"
+            }
+        ],
+        "start time":"-62169984000"
+    },
+    "200012":{
+        "desc":"MST_FROGATE200012_DESC",
+        "end time":"1588751999",
+        "id":"200012",
+        "name":"MST_FROGATE200012_NAME",
+        "restrictions":"@0",
+        "rewards":[
+            {
+                "elgif reward":"0",
+                "id":"200041",
+                "quantity":87000,
+                "requirement":{
+                    "amount":1,
+                    "type":"floors"
+                },
+                "reward id":"0",
+                "reward type":"3"
+            },
+            {
+                "elgif reward":"0",
+                "id":"200042",
+                "quantity":88000,
+                "requirement":{
+                    "amount":2,
+                    "type":"floors"
+                },
+                "reward id":"0",
+                "reward type":"3"
+            },
+            {
+                "elgif reward":"0",
+                "id":"200043",
+                "quantity":89000,
+                "requirement":{
+                    "amount":3,
+                    "type":"floors"
+                },
+                "reward id":"0",
+                "reward type":"3"
+            },
+            {
+                "elgif reward":"0",
+                "id":"200044",
+                "quantity":90000,
+                "requirement":{
+                    "amount":4,
+                    "type":"floors"
+                },
+                "reward id":"0",
+                "reward type":"3"
+            },
+            {
+                "elgif reward":"0",
+                "id":"200045",
+                "quantity":90000,
+                "requirement":{
+                    "amount":5,
+                    "type":"floors"
+                },
+                "reward id":"0",
+                "reward type":"3"
+            },
+            {
+                "elgif reward":"1:0:0",
+                "id":"200046",
+                "quantity":1,
+                "requirement":{
+                    "amount":5,
+                    "type":"floors"
+                },
+                "reward id":"750004",
+                "reward type":"6"
+            },
+            {
+                "elgif reward":"1:0:0",
+                "id":"200047",
+                "quantity":1,
+                "requirement":{
+                    "amount":5,
+                    "type":"floors"
+                },
+                "reward id":"750006",
+                "reward type":"6"
+            },
+            {
+                "elgif reward":"1:0:0",
+                "id":"200048",
+                "quantity":1,
+                "requirement":{
+                    "amount":5,
+                    "type":"floors"
+                },
+                "reward id":"750003",
+                "reward type":"6"
+            },
+            {
+                "elgif reward":"1:0:0",
+                "id":"200049",
+                "quantity":2,
+                "requirement":{
+                    "amount":5,
+                    "type":"floors"
+                },
+                "reward id":"50612",
+                "reward type":"6"
+            }
+        ],
+        "start time":"-62169984000"
+    },
+    "200013":{
+        "desc":"MST_FROGATE200013_DESC",
+        "end time":"1588751999",
+        "id":"200013",
+        "name":"MST_FROGATE200013_NAME",
+        "restrictions":"@0",
+        "rewards":[
+            {
+                "elgif reward":"0",
+                "id":"200023",
+                "quantity":78000,
+                "requirement":{
+                    "amount":1,
+                    "type":"floors"
+                },
+                "reward id":"0",
+                "reward type":"3"
+            },
+            {
+                "elgif reward":"0",
+                "id":"200024",
+                "quantity":79000,
+                "requirement":{
+                    "amount":2,
+                    "type":"floors"
+                },
+                "reward id":"0",
+                "reward type":"3"
+            },
+            {
+                "elgif reward":"0",
+                "id":"200025",
+                "quantity":80000,
+                "requirement":{
+                    "amount":3,
+                    "type":"floors"
+                },
+                "reward id":"0",
+                "reward type":"3"
+            },
+            {
+                "elgif reward":"0",
+                "id":"200026",
+                "quantity":81000,
+                "requirement":{
+                    "amount":4,
+                    "type":"floors"
+                },
+                "reward id":"0",
+                "reward type":"3"
+            },
+            {
+                "elgif reward":"0",
+                "id":"200027",
+                "quantity":82000,
+                "requirement":{
+                    "amount":5,
+                    "type":"floors"
+                },
+                "reward id":"0",
+                "reward type":"3"
+            },
+            {
+                "elgif reward":"1:0:0",
+                "id":"200028",
+                "quantity":2,
+                "requirement":{
+                    "amount":5,
+                    "type":"floors"
+                },
+                "reward id":"20302",
+                "reward type":"6"
+            },
+            {
+                "elgif reward":"1:0:0",
+                "id":"200029",
+                "quantity":1,
+                "requirement":{
+                    "amount":5,
+                    "type":"floors"
+                },
+                "reward id":"750004",
+                "reward type":"6"
+            },
+            {
+                "elgif reward":"1:0:0",
+                "id":"200030",
+                "quantity":3,
+                "requirement":{
+                    "amount":5,
+                    "type":"floors"
+                },
+                "reward id":"50612",
+                "reward type":"6"
+            },
+            {
+                "elgif reward":"1:0:0",
+                "id":"200031",
+                "quantity":1,
+                "requirement":{
+                    "amount":5,
+                    "type":"floors"
+                },
+                "reward id":"750006",
+                "reward type":"6"
+            },
+            {
+                "elgif reward":"0",
+                "id":"200032",
+                "quantity":10,
+                "requirement":{
+                    "amount":5,
+                    "type":"floors"
+                },
+                "reward id":"800907",
+                "reward type":"4"
+            },
+            {
+                "elgif reward":"0",
+                "id":"200033",
+                "quantity":10,
+                "requirement":{
+                    "amount":5,
+                    "type":"floors"
+                },
+                "reward id":"800908",
+                "reward type":"4"
+            },
+            {
+                "elgif reward":"0",
+                "id":"200034",
+                "quantity":1,
+                "requirement":{
+                    "amount":5,
+                    "type":"floors"
+                },
+                "reward id":"800017",
+                "reward type":"4"
+            },
+            {
+                "elgif reward":"0",
+                "id":"200035",
+                "quantity":100,
+                "requirement":{
+                    "amount":5,
+                    "type":"floors"
+                },
+                "reward id":"800901",
+                "reward type":"4"
+            },
+            {
+                "elgif reward":"0",
+                "id":"200036",
+                "quantity":100,
+                "requirement":{
+                    "amount":5,
+                    "type":"floors"
+                },
+                "reward id":"800902",
+                "reward type":"4"
+            },
+            {
+                "elgif reward":"0",
+                "id":"200037",
+                "quantity":100,
+                "requirement":{
+                    "amount":5,
+                    "type":"floors"
+                },
+                "reward id":"800903",
+                "reward type":"4"
+            },
+            {
+                "elgif reward":"0",
+                "id":"200038",
+                "quantity":100,
+                "requirement":{
+                    "amount":5,
+                    "type":"floors"
+                },
+                "reward id":"800904",
+                "reward type":"4"
+            },
+            {
+                "elgif reward":"0",
+                "id":"200039",
+                "quantity":100,
+                "requirement":{
+                    "amount":5,
+                    "type":"floors"
+                },
+                "reward id":"800905",
+                "reward type":"4"
+            },
+            {
+                "elgif reward":"0",
+                "id":"200040",
+                "quantity":100,
+                "requirement":{
+                    "amount":5,
+                    "type":"floors"
+                },
+                "reward id":"800906",
+                "reward type":"4"
+            }
+        ],
+        "start time":"-62169984000"
+    },
+    "200014":{
+        "desc":"MST_FROGATE200014_DESC",
+        "end time":"1588751999",
+        "id":"200014",
+        "name":"MST_FROGATE200014_NAME",
+        "restrictions":"@0",
+        "rewards":[
+            {
+                "elgif reward":"0",
+                "id":"200011",
+                "quantity":69000,
+                "requirement":{
+                    "amount":1,
+                    "type":"floors"
+                },
+                "reward id":"0",
+                "reward type":"3"
+            },
+            {
+                "elgif reward":"0",
+                "id":"200012",
+                "quantity":70000,
+                "requirement":{
+                    "amount":2,
+                    "type":"floors"
+                },
+                "reward id":"0",
+                "reward type":"3"
+            },
+            {
+                "elgif reward":"0",
+                "id":"200013",
+                "quantity":71000,
+                "requirement":{
+                    "amount":3,
+                    "type":"floors"
+                },
+                "reward id":"0",
+                "reward type":"3"
+            },
+            {
+                "elgif reward":"0",
+                "id":"200014",
+                "quantity":72000,
+                "requirement":{
+                    "amount":4,
+                    "type":"floors"
+                },
+                "reward id":"0",
+                "reward type":"3"
+            },
+            {
+                "elgif reward":"0",
+                "id":"200015",
+                "quantity":73000,
+                "requirement":{
+                    "amount":5,
+                    "type":"floors"
+                },
+                "reward id":"0",
+                "reward type":"3"
+            },
+            {
+                "elgif reward":"1:0:0",
+                "id":"200016",
+                "quantity":2,
+                "requirement":{
+                    "amount":5,
+                    "type":"floors"
+                },
+                "reward id":"20302",
+                "reward type":"6"
+            },
+            {
+                "elgif reward":"1:0:0",
+                "id":"200017",
+                "quantity":1,
+                "requirement":{
+                    "amount":5,
+                    "type":"floors"
+                },
+                "reward id":"750004",
+                "reward type":"6"
+            },
+            {
+                "elgif reward":"1:0:0",
+                "id":"200018",
+                "quantity":2,
+                "requirement":{
+                    "amount":5,
+                    "type":"floors"
+                },
+                "reward id":"50612",
+                "reward type":"6"
+            },
+            {
+                "elgif reward":"1:0:0",
+                "id":"200019",
+                "quantity":1,
+                "requirement":{
+                    "amount":5,
+                    "type":"floors"
+                },
+                "reward id":"750006",
+                "reward type":"6"
+            },
+            {
+                "elgif reward":"0",
+                "id":"200020",
+                "quantity":10,
+                "requirement":{
+                    "amount":5,
+                    "type":"floors"
+                },
+                "reward id":"800907",
+                "reward type":"4"
+            },
+            {
+                "elgif reward":"0",
+                "id":"200021",
+                "quantity":10,
+                "requirement":{
+                    "amount":5,
+                    "type":"floors"
+                },
+                "reward id":"800908",
+                "reward type":"4"
+            },
+            {
+                "elgif reward":"0",
+                "id":"200022",
+                "quantity":1,
+                "requirement":{
+                    "amount":5,
+                    "type":"floors"
+                },
+                "reward id":"800017",
+                "reward type":"4"
+            }
+        ],
+        "start time":"-62169984000"
+    },
+    "200015":{
+        "desc":"MST_FROGATE200015_DESC",
+        "end time":"1588751999",
+        "id":"200015",
+        "name":"MST_FROGATE200015_NAME",
+        "restrictions":"@0",
+        "rewards":[
+            {
+                "elgif reward":"0",
+                "id":"200001",
+                "quantity":80000,
+                "requirement":{
+                    "amount":1,
+                    "type":"floors"
+                },
+                "reward id":"0",
+                "reward type":"3"
+            },
+            {
+                "elgif reward":"0",
+                "id":"200002",
+                "quantity":81000,
+                "requirement":{
+                    "amount":2,
+                    "type":"floors"
+                },
+                "reward id":"0",
+                "reward type":"3"
+            },
+            {
+                "elgif reward":"0",
+                "id":"200003",
+                "quantity":82000,
+                "requirement":{
+                    "amount":3,
+                    "type":"floors"
+                },
+                "reward id":"0",
+                "reward type":"3"
+            },
+            {
+                "elgif reward":"0",
+                "id":"200004",
+                "quantity":83000,
+                "requirement":{
+                    "amount":4,
+                    "type":"floors"
+                },
+                "reward id":"0",
+                "reward type":"3"
+            },
+            {
+                "elgif reward":"0",
+                "id":"200005",
+                "quantity":84000,
+                "requirement":{
+                    "amount":5,
+                    "type":"floors"
+                },
+                "reward id":"0",
+                "reward type":"3"
+            },
+            {
+                "elgif reward":"1:0:0",
+                "id":"200006",
+                "quantity":2,
+                "requirement":{
+                    "amount":5,
+                    "type":"floors"
+                },
+                "reward id":"20302",
+                "reward type":"6"
+            },
+            {
+                "elgif reward":"1:0:0",
+                "id":"200007",
+                "quantity":1,
+                "requirement":{
+                    "amount":5,
+                    "type":"floors"
+                },
+                "reward id":"750004",
+                "reward type":"6"
+            },
+            {
+                "elgif reward":"1:0:0",
+                "id":"200008",
+                "quantity":2,
+                "requirement":{
+                    "amount":5,
+                    "type":"floors"
+                },
+                "reward id":"50612",
+                "reward type":"6"
+            },
+            {
+                "elgif reward":"1:0:0",
+                "id":"200009",
+                "quantity":1,
+                "requirement":{
+                    "amount":5,
+                    "type":"floors"
+                },
+                "reward id":"750006",
+                "reward type":"6"
+            },
+            {
+                "elgif reward":"0",
+                "id":"200010",
+                "quantity":1,
+                "requirement":{
+                    "amount":5,
+                    "type":"floors"
+                },
+                "reward id":"800017",
+                "reward type":"5"
             }
         ],
         "start time":"-62169984000"

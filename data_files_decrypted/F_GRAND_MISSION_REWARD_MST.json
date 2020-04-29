@@ -4018,16 +4018,16 @@
     },
     {
         "64hAvkZX":"1",
-        "ELGIF_REWARD*":"1:0",
+        "ELGIF_REWARD*":"0",
         "MISSION_ID":"5008010",
-        "PRESENT_AMOUNT":"1",
+        "PRESENT_AMOUNT":"3",
         "REQUIREMENT_PARAMETER":"8661",
         "REQUIREMENT_TYPE*":"2",
         "REWARD_CONDITION":"Episode 12 Hard Mode Complete",
         "REWARD_CONDITION_DESCRIPTION":"Episode 12 Hard Mode Complete",
         "REWARD_ID":"8631",
-        "REWARD_ITEM_ID":"880244",
-        "REWARD_TYPE*":"4"
+        "REWARD_ITEM_ID":"0",
+        "REWARD_TYPE*":"8"
     },
     {
         "64hAvkZX":"0",
