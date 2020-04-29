@@ -1,1 +1,389 @@
-null
+[
+    {
+        "IMAGE":"raid_map000_01.jpg:0:0,raid_map000_02.jpg:0:960,raid_map000_03.jpg:640:0,raid_map000_04.jpg:640:960",
+        "MAP_IMG_AREA_NUMBER":"1",
+        "MAP_NAME":"Moize Plains Lv. 1",
+        "RESOLUTION_A?":"1280:1440",
+        "RESOLUTION_A_EXTENSION?":"0:0",
+        "RESOLUTION_B?":"1280:1440",
+        "RESOLUTION_B_EXTENSION?":"540:380"
+    },
+    {
+        "IMAGE":"raid_map000_01.jpg:0:0,raid_map000_02.jpg:0:960,raid_map000_03.jpg:640:0,raid_map000_04.jpg:640:960",
+        "MAP_IMG_AREA_NUMBER":"2",
+        "MAP_NAME":"Moize Plains Lv. 2",
+        "RESOLUTION_A?":"1280:1440",
+        "RESOLUTION_A_EXTENSION?":"0:0",
+        "RESOLUTION_B?":"1280:1440",
+        "RESOLUTION_B_EXTENSION?":"0:450"
+    },
+    {
+        "IMAGE":"raid_map000_01.jpg:0:0,raid_map000_02.jpg:0:960,raid_map000_03.jpg:640:0,raid_map000_04.jpg:640:960",
+        "MAP_IMG_AREA_NUMBER":"3",
+        "MAP_NAME":"Moize Plains Lv. 3",
+        "RESOLUTION_A?":"1280:1440",
+        "RESOLUTION_A_EXTENSION?":"0:0",
+        "RESOLUTION_B?":"1280:1440",
+        "RESOLUTION_B_EXTENSION?":"0:0"
+    },
+    {
+        "IMAGE":"raid_map001_01.jpg:0:0,raid_map001_02.jpg:0:960,raid_map001_03.jpg:640:0,raid_map001_04.jpg:640:960",
+        "MAP_IMG_AREA_NUMBER":"4",
+        "MAP_NAME":"Mt. Ziland Lv. 1",
+        "RESOLUTION_A?":"1280:1440",
+        "RESOLUTION_A_EXTENSION?":"0:0",
+        "RESOLUTION_B?":"1280:1440",
+        "RESOLUTION_B_EXTENSION?":"540:380"
+    },
+    {
+        "IMAGE":"raid_map001_01.jpg:0:0,raid_map001_02.jpg:0:960,raid_map001_03.jpg:640:0,raid_map001_04.jpg:640:960",
+        "MAP_IMG_AREA_NUMBER":"5",
+        "MAP_NAME":"Mt. Ziland Lv. 2",
+        "RESOLUTION_A?":"1280:1440",
+        "RESOLUTION_A_EXTENSION?":"0:0",
+        "RESOLUTION_B?":"1280:1440",
+        "RESOLUTION_B_EXTENSION?":"0:450"
+    },
+    {
+        "IMAGE":"raid_map001_01.jpg:0:0,raid_map001_02.jpg:0:960,raid_map001_03.jpg:640:0,raid_map001_04.jpg:640:960",
+        "MAP_IMG_AREA_NUMBER":"6",
+        "MAP_NAME":"Mt. Ziland Lv. 3",
+        "RESOLUTION_A?":"1280:1440",
+        "RESOLUTION_A_EXTENSION?":"0:0",
+        "RESOLUTION_B?":"1280:1440",
+        "RESOLUTION_B_EXTENSION?":"0:0"
+    },
+    {
+        "IMAGE":"raid_map002_01.jpg:0:0,raid_map002_02.jpg:0:960,raid_map002_03.jpg:640:0,raid_map002_04.jpg:640:960",
+        "MAP_IMG_AREA_NUMBER":"7",
+        "MAP_NAME":"Sedoria Swamp Lv. 1",
+        "RESOLUTION_A?":"1280:1440",
+        "RESOLUTION_A_EXTENSION?":"0:0",
+        "RESOLUTION_B?":"740:1440",
+        "RESOLUTION_B_EXTENSION?":"0:450"
+    },
+    {
+        "IMAGE":"raid_map002_01.jpg:0:0,raid_map002_02.jpg:0:960,raid_map002_03.jpg:640:0,raid_map002_04.jpg:640:960",
+        "MAP_IMG_AREA_NUMBER":"8",
+        "MAP_NAME":"Sedoria Swamp Lv. 2",
+        "RESOLUTION_A?":"1280:1440",
+        "RESOLUTION_A_EXTENSION?":"0:0",
+        "RESOLUTION_B?":"1280:1440",
+        "RESOLUTION_B_EXTENSION?":"0:450"
+    },
+    {
+        "IMAGE":"raid_map002_01.jpg:0:0,raid_map002_02.jpg:0:960,raid_map002_03.jpg:640:0,raid_map002_04.jpg:640:960",
+        "MAP_IMG_AREA_NUMBER":"9",
+        "MAP_NAME":"Sedoria Swamp Lv. 2",
+        "RESOLUTION_A?":"1280:1440",
+        "RESOLUTION_A_EXTENSION?":"0:0",
+        "RESOLUTION_B?":"1280:1440",
+        "RESOLUTION_B_EXTENSION?":"0:0"
+    },
+    {
+        "IMAGE":"raid_map003_01.jpg:0:0,raid_map003_02.jpg:0:960,raid_map003_03.jpg:640:0,raid_map003_04.jpg:640:960",
+        "MAP_IMG_AREA_NUMBER":"10",
+        "MAP_NAME":"Sedoria Swamp Lv. 1",
+        "RESOLUTION_A?":"1280:1440",
+        "RESOLUTION_A_EXTENSION?":"0:0",
+        "RESOLUTION_B?":"740:1440",
+        "RESOLUTION_B_EXTENSION?":"0:450"
+    },
+    {
+        "IMAGE":"raid_map003_01.jpg:0:0,raid_map003_02.jpg:0:960,raid_map003_03.jpg:640:0,raid_map003_04.jpg:640:960",
+        "MAP_IMG_AREA_NUMBER":"11",
+        "MAP_NAME":"Sedoria Swamp Lv. 2",
+        "RESOLUTION_A?":"1280:1440",
+        "RESOLUTION_A_EXTENSION?":"0:0",
+        "RESOLUTION_B?":"1280:1440",
+        "RESOLUTION_B_EXTENSION?":"0:450"
+    },
+    {
+        "IMAGE":"raid_map003_01.jpg:0:0,raid_map003_02.jpg:0:960,raid_map003_03.jpg:640:0,raid_map003_04.jpg:640:960",
+        "MAP_IMG_AREA_NUMBER":"12",
+        "MAP_NAME":"Sedoria Swamp Lv. 2",
+        "RESOLUTION_A?":"1280:1440",
+        "RESOLUTION_A_EXTENSION?":"0:0",
+        "RESOLUTION_B?":"1280:1440",
+        "RESOLUTION_B_EXTENSION?":"0:0"
+    },
+    {
+        "IMAGE":"raid_map004_01.jpg:0:0,raid_map004_02.jpg:0:960,raid_map004_03.jpg:640:0,raid_map004_04.jpg:640:960",
+        "MAP_IMG_AREA_NUMBER":"13",
+        "MAP_NAME":"Mount Dahm Lv. 1",
+        "RESOLUTION_A?":"1280:1440",
+        "RESOLUTION_A_EXTENSION?":"0:0",
+        "RESOLUTION_B?":"1280:1440",
+        "RESOLUTION_B_EXTENSION?":"0:300"
+    },
+    {
+        "IMAGE":"raid_map004_01.jpg:0:0,raid_map004_02.jpg:0:960,raid_map004_03.jpg:640:0,raid_map004_04.jpg:640:960",
+        "MAP_IMG_AREA_NUMBER":"14",
+        "MAP_NAME":"Mount Dahm Lv. 2",
+        "RESOLUTION_A?":"1280:1440",
+        "RESOLUTION_A_EXTENSION?":"0:0",
+        "RESOLUTION_B?":"1280:1440",
+        "RESOLUTION_B_EXTENSION?":"0:0"
+    },
+    {
+        "IMAGE":"raid_map000_01.jpg:0:0,raid_map000_02.jpg:0:960,raid_map000_03.jpg:640:0,raid_map000_04.jpg:640:960",
+        "MAP_IMG_AREA_NUMBER":"101",
+        "MAP_NAME":"Moize Plains Ex. 1",
+        "RESOLUTION_A?":"1280:1440",
+        "RESOLUTION_A_EXTENSION?":"0:0",
+        "RESOLUTION_B?":"1280:1440",
+        "RESOLUTION_B_EXTENSION?":"540:300"
+    },
+    {
+        "IMAGE":"raid_map003_01.jpg:0:0,raid_map003_02.jpg:0:960,raid_map003_03.jpg:640:0,raid_map003_04.jpg:640:960",
+        "MAP_IMG_AREA_NUMBER":"102",
+        "MAP_NAME":"Sedoria Swamp Ex. 1",
+        "RESOLUTION_A?":"1280:1440",
+        "RESOLUTION_A_EXTENSION?":"0:0",
+        "RESOLUTION_B?":"740:1440",
+        "RESOLUTION_B_EXTENSION?":"0:650"
+    },
+    {
+        "IMAGE":"raid_map003_01.jpg:0:0,raid_map003_02.jpg:0:960,raid_map003_03.jpg:640:0,raid_map003_04.jpg:640:960",
+        "MAP_IMG_AREA_NUMBER":"103",
+        "MAP_NAME":"Sedoria Swamp Ex. 2",
+        "RESOLUTION_A?":"1280:1440",
+        "RESOLUTION_A_EXTENSION?":"0:0",
+        "RESOLUTION_B?":"740:1440",
+        "RESOLUTION_B_EXTENSION?":"0:550"
+    },
+    {
+        "IMAGE":"raid_map003_01.jpg:0:0,raid_map003_02.jpg:0:960,raid_map003_03.jpg:640:0,raid_map003_04.jpg:640:960",
+        "MAP_IMG_AREA_NUMBER":"104",
+        "MAP_NAME":"Sedoria Swamp Ex. 3",
+        "RESOLUTION_A?":"1280:1440",
+        "RESOLUTION_A_EXTENSION?":"0:0",
+        "RESOLUTION_B?":"740:1440",
+        "RESOLUTION_B_EXTENSION?":"0:450"
+    },
+    {
+        "IMAGE":"raid_map001_01.jpg:0:0,raid_map001_02.jpg:0:960,raid_map001_03.jpg:640:0,raid_map001_04.jpg:640:960",
+        "MAP_IMG_AREA_NUMBER":"111",
+        "MAP_NAME":"Mt. Ziland Lv. 1",
+        "RESOLUTION_A?":"1280:1440",
+        "RESOLUTION_A_EXTENSION?":"0:0",
+        "RESOLUTION_B?":"1280:1440",
+        "RESOLUTION_B_EXTENSION?":"430:650"
+    },
+    {
+        "IMAGE":"raid_map001_01.jpg:0:0,raid_map001_02.jpg:0:960,raid_map001_03.jpg:640:0,raid_map001_04.jpg:640:960",
+        "MAP_IMG_AREA_NUMBER":"112",
+        "MAP_NAME":"Mt. Ziland Lv. 2",
+        "RESOLUTION_A?":"1280:1440",
+        "RESOLUTION_A_EXTENSION?":"0:0",
+        "RESOLUTION_B?":"1280:1440",
+        "RESOLUTION_B_EXTENSION?":"0:450"
+    },
+    {
+        "IMAGE":"raid_map001_01.jpg:0:0,raid_map001_02.jpg:0:960,raid_map001_03.jpg:640:0,raid_map001_04.jpg:640:960",
+        "MAP_IMG_AREA_NUMBER":"113",
+        "MAP_NAME":"Mt. Ziland Lv. 3",
+        "RESOLUTION_A?":"1280:1440",
+        "RESOLUTION_A_EXTENSION?":"0:0",
+        "RESOLUTION_B?":"1280:1440",
+        "RESOLUTION_B_EXTENSION?":"0:0"
+    },
+    {
+        "IMAGE":"raid_map801_01.jpg:0:0,raid_map801_02.jpg:0:960,raid_map801_03.jpg:640:0,raid_map801_04.jpg:640:960",
+        "MAP_IMG_AREA_NUMBER":"8001",
+        "MAP_NAME":"Elysia Lv1",
+        "RESOLUTION_A?":"1280:1440",
+        "RESOLUTION_A_EXTENSION?":"0:0",
+        "RESOLUTION_B?":"1280:1440",
+        "RESOLUTION_B_EXTENSION?":"320:800"
+    },
+    {
+        "IMAGE":"raid_map801_01.jpg:0:0,raid_map801_02.jpg:0:960,raid_map801_03.jpg:640:0,raid_map801_04.jpg:640:960",
+        "MAP_IMG_AREA_NUMBER":"8002",
+        "MAP_NAME":"Elysia Lv2",
+        "RESOLUTION_A?":"1280:1440",
+        "RESOLUTION_A_EXTENSION?":"0:0",
+        "RESOLUTION_B?":"840:1440",
+        "RESOLUTION_B_EXTENSION?":"0:470"
+    },
+    {
+        "IMAGE":"raid_map801_01.jpg:0:0,raid_map801_02.jpg:0:960,raid_map801_03.jpg:640:0,raid_map801_04.jpg:640:960",
+        "MAP_IMG_AREA_NUMBER":"8003",
+        "MAP_NAME":"Elysia Lv3",
+        "RESOLUTION_A?":"1280:1440",
+        "RESOLUTION_A_EXTENSION?":"0:0",
+        "RESOLUTION_B?":"1280:1440",
+        "RESOLUTION_B_EXTENSION?":"0:470"
+    },
+    {
+        "IMAGE":"raid_map801_01.jpg:0:0,raid_map801_02.jpg:0:960,raid_map801_03.jpg:640:0,raid_map801_04.jpg:640:960",
+        "MAP_IMG_AREA_NUMBER":"8004",
+        "MAP_NAME":"Elysia Lv4",
+        "RESOLUTION_A?":"1280:1440",
+        "RESOLUTION_A_EXTENSION?":"0:0",
+        "RESOLUTION_B?":"1280:1440",
+        "RESOLUTION_B_EXTENSION?":"0:0"
+    },
+    {
+        "IMAGE":"raid_map803_01.jpg:0:0,raid_map803_02.jpg:0:960,raid_map803_03.jpg:640:0,raid_map803_04.jpg:640:960",
+        "MAP_IMG_AREA_NUMBER":"8011",
+        "MAP_NAME":"Athensphere Lv1",
+        "RESOLUTION_A?":"1280:1440",
+        "RESOLUTION_A_EXTENSION?":"0:0",
+        "RESOLUTION_B?":"1280:1440",
+        "RESOLUTION_B_EXTENSION?":"0:0"
+    },
+    {
+        "IMAGE":"raid_map802_01.jpg:0:0,raid_map802_02.jpg:0:960,raid_map802_03.jpg:640:0,raid_map802_04.jpg:640:960",
+        "MAP_IMG_AREA_NUMBER":"8012",
+        "MAP_NAME":"Athensphere Lv2",
+        "RESOLUTION_A?":"1280:1440",
+        "RESOLUTION_A_EXTENSION?":"0:0",
+        "RESOLUTION_B?":"1280:1440",
+        "RESOLUTION_B_EXTENSION?":"0:0"
+    },
+    {
+        "IMAGE":"raid_map804_01.jpg:0:0,raid_map804_02.jpg:0:960,raid_map804_03.jpg:640:0,raid_map804_04.jpg:640:960",
+        "MAP_IMG_AREA_NUMBER":"8021",
+        "MAP_NAME":"Eneroth Lv1",
+        "RESOLUTION_A?":"1280:1440",
+        "RESOLUTION_A_EXTENSION?":"0:0",
+        "RESOLUTION_B?":"1280:1440",
+        "RESOLUTION_B_EXTENSION?":"0:0"
+    },
+    {
+        "IMAGE":"raid_map804_01.jpg:0:0,raid_map804_02.jpg:0:960,raid_map804_03.jpg:640:0,raid_map804_04.jpg:640:960",
+        "MAP_IMG_AREA_NUMBER":"8022",
+        "MAP_NAME":"Eneroth Lv2",
+        "RESOLUTION_A?":"1280:1440",
+        "RESOLUTION_A_EXTENSION?":"0:0",
+        "RESOLUTION_B?":"1280:1440",
+        "RESOLUTION_B_EXTENSION?":"0:0"
+    },
+    {
+        "IMAGE":"raid_map805_01.jpg:0:0,raid_map805_02.jpg:0:960,raid_map805_03.jpg:640:0,raid_map805_04.jpg:640:960",
+        "MAP_IMG_AREA_NUMBER":"8031",
+        "MAP_NAME":"Baldemar Lv1",
+        "RESOLUTION_A?":"1280:1440",
+        "RESOLUTION_A_EXTENSION?":"0:0",
+        "RESOLUTION_B?":"1280:1440",
+        "RESOLUTION_B_EXTENSION?":"0:0"
+    },
+    {
+        "IMAGE":"raid_map805_01.jpg:0:0,raid_map805_02.jpg:0:960,raid_map805_03.jpg:640:0,raid_map805_04.jpg:640:960",
+        "MAP_IMG_AREA_NUMBER":"8032",
+        "MAP_NAME":"Baldemar Lv2",
+        "RESOLUTION_A?":"1280:1440",
+        "RESOLUTION_A_EXTENSION?":"0:0",
+        "RESOLUTION_B?":"1280:1440",
+        "RESOLUTION_B_EXTENSION?":"0:0"
+    },
+    {
+        "IMAGE":"raid_map806_01.jpg:0:0,raid_map806_02.jpg:0:960,raid_map806_03.jpg:640:0,raid_map806_04.jpg:640:960",
+        "MAP_IMG_AREA_NUMBER":"8041",
+        "MAP_NAME":"Calados Lv1",
+        "RESOLUTION_A?":"1280:1440",
+        "RESOLUTION_A_EXTENSION?":"0:0",
+        "RESOLUTION_B?":"1280:1440",
+        "RESOLUTION_B_EXTENSION?":"0:0"
+    },
+    {
+        "IMAGE":"raid_map807_01.jpg:0:0,raid_map807_02.jpg:0:960,raid_map807_03.jpg:640:0,raid_map807_04.jpg:640:960",
+        "MAP_IMG_AREA_NUMBER":"8051",
+        "MAP_NAME":"Gunegarth Lv1",
+        "RESOLUTION_A?":"1280:1440",
+        "RESOLUTION_A_EXTENSION?":"0:0",
+        "RESOLUTION_B?":"1280:1440",
+        "RESOLUTION_B_EXTENSION?":"0:0"
+    },
+    {
+        "IMAGE":"rc7raidmap_1.png:0:-200",
+        "MAP_IMG_AREA_NUMBER":"8700",
+        "MAP_NAME":"North West Orebus",
+        "RESOLUTION_A?":"1748:1234",
+        "RESOLUTION_A_EXTENSION?":"0:200",
+        "RESOLUTION_B?":"1748:1234",
+        "RESOLUTION_B_EXTENSION?":"0:200"
+    },
+    {
+        "IMAGE":"rc7raidmap_2.png:0:-200",
+        "MAP_IMG_AREA_NUMBER":"8701",
+        "MAP_NAME":"North East Orebus",
+        "RESOLUTION_A?":"1562:1522",
+        "RESOLUTION_A_EXTENSION?":"0:200",
+        "RESOLUTION_B?":"1562:1522",
+        "RESOLUTION_B_EXTENSION?":"0:200"
+    },
+    {
+        "IMAGE":"rc7raidmap_3.png:0:-200",
+        "MAP_IMG_AREA_NUMBER":"8702",
+        "MAP_NAME":"South West Orebus",
+        "RESOLUTION_A?":"1580:1560",
+        "RESOLUTION_A_EXTENSION?":"0:0",
+        "RESOLUTION_B?":"1580:1560",
+        "RESOLUTION_B_EXTENSION?":"0:0"
+    },
+    {
+        "IMAGE":"rc7raidmap_4.png:0:-200",
+        "MAP_IMG_AREA_NUMBER":"8703",
+        "MAP_NAME":"South East Orebus",
+        "RESOLUTION_A?":"1574:1618",
+        "RESOLUTION_A_EXTENSION?":"0:0",
+        "RESOLUTION_B?":"1574:1618",
+        "RESOLUTION_B_EXTENSION?":"0:0"
+    },
+    {
+        "IMAGE":"rc7raidmap_5.png:0:-200",
+        "MAP_IMG_AREA_NUMBER":"8704",
+        "MAP_NAME":"Central Orebus",
+        "RESOLUTION_A?":"1795:1149",
+        "RESOLUTION_A_EXTENSION?":"0:0",
+        "RESOLUTION_B?":"1795:1149",
+        "RESOLUTION_B_EXTENSION?":"0:0"
+    },
+    {
+        "IMAGE":"rc7raidmap_6.png:0:-200",
+        "MAP_IMG_AREA_NUMBER":"8705",
+        "MAP_NAME":"South Orebus",
+        "RESOLUTION_A?":"1998:1134",
+        "RESOLUTION_A_EXTENSION?":"0:0",
+        "RESOLUTION_B?":"1998:1134",
+        "RESOLUTION_B_EXTENSION?":"0:0"
+    },
+    {
+        "IMAGE":"rc7raidmap_1.png:0:-200",
+        "MAP_IMG_AREA_NUMBER":"8706",
+        "MAP_NAME":"North West Orebus Lv 2 ",
+        "RESOLUTION_A?":"1748:1234",
+        "RESOLUTION_A_EXTENSION?":"0:200",
+        "RESOLUTION_B?":"1748:1234",
+        "RESOLUTION_B_EXTENSION?":"0:200"
+    },
+    {
+        "IMAGE":"rc7raidmap_1.png:0:-200",
+        "MAP_IMG_AREA_NUMBER":"8707",
+        "MAP_NAME":"North West Orebus Lv 2",
+        "RESOLUTION_A?":"1748:1234",
+        "RESOLUTION_A_EXTENSION?":"0:200",
+        "RESOLUTION_B?":"1748:1234",
+        "RESOLUTION_B_EXTENSION?":"0:200"
+    },
+    {
+        "IMAGE":"rc7raidmap_3.png:0:-200",
+        "MAP_IMG_AREA_NUMBER":"8708",
+        "MAP_NAME":"South West Orebus Lv 2",
+        "RESOLUTION_A?":"1580:1560",
+        "RESOLUTION_A_EXTENSION?":"0:0",
+        "RESOLUTION_B?":"1580:1560",
+        "RESOLUTION_B_EXTENSION?":"0:0"
+    },
+    {
+        "IMAGE":"raid_map_trigun_01.jpg:0:0,raid_map_trigun_02.jpg:0:733,raid_map_trigun_03.jpg:1011:0,raid_map_trigun_04.jpg:1011:733",
+        "MAP_IMG_AREA_NUMBER":"8709",
+        "MAP_NAME":"Desert",
+        "RESOLUTION_A?":"2022:1100",
+        "RESOLUTION_A_EXTENSION?":"0:0",
+        "RESOLUTION_B?":"2022:1100",
+        "RESOLUTION_B_EXTENSION?":"0:200"
+    }
+]

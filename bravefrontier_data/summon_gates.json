@@ -12981,5 +12981,65 @@
         "short desc":"Wolfwood and Legato is available through the Summon Gate! Get a Global Exclusive Elgif and a [Random] Mystery Frog for every 10 Summons from the same gate!",
         "start time":"2020-04-22 15:00:00",
         "summon button image":"gacha_rare_summons_btn1.png"
+    },
+    "18890":{
+        "background image":"gacha_img_20200429TBII_s1.png",
+        "desc":"From 29 Apr 7:00 PST ~ 6 May 6:59 PST, summon minimum 5* Global exclusive units with Omni Potential and enjoy Increasing Rates with each summon on Wolfwood and Legato up till Step 8!",
+        "door image":"gacha_rare_door.png",
+        "end time":"2020-05-06 14:59:59",
+        "gem cost":5,
+        "name":"Trigun Bond Summon II",
+        "priority":"2",
+        "short desc":"Wolfwood and Legato is available through the Summon Gate!",
+        "start time":"2020-04-29 15:00:00",
+        "summon button image":"gacha_rare_summons_btn1.png"
+    },
+    "18900":{
+        "background image":"gacha_img_20200429TBI_s1.png",
+        "desc":"From 29 Apr 7:00 PST ~ 6 May 6:59 PST, summon minimum 5* Global exclusive units with Omni Potential and enjoy Increasing Rates with each summon on Vash and Meryl & MIlly up till Step 8!",
+        "door image":"gacha_rare_door.png",
+        "end time":"2020-05-06 14:59:59",
+        "gem cost":5,
+        "name":"Trigun Bond Summon I",
+        "priority":"2",
+        "short desc":"Vash and Meryl & MIlly is available through the Summon Gate!",
+        "start time":"2020-04-29 15:00:00",
+        "summon button image":"gacha_rare_summons_btn1.png"
+    },
+    "18910":{
+        "background image":"gacha_img_20200429TAII.png",
+        "desc":"From 29 Apr 7:00 PST ~ 6 May 6:59 PST, get a 100% Chance to summon Wolfwood or Legato! Get a bonus of 4 Dual Brave Burst Token on every Summon!",
+        "door image":"gacha_rare_door.png",
+        "end time":"2020-05-06 14:59:59",
+        "gem cost":5,
+        "name":"Trigun Awaken Summon II",
+        "priority":"2",
+        "short desc":"Get a 100% Chance to summon Wolfwood or Legato! Exchange DBB Potential Units from the Bazaar with the Dual Brave Burst Tokens!",
+        "start time":"2020-04-29 15:00:00",
+        "summon button image":"gacha_rare_summons_btn1.png"
+    },
+    "18920":{
+        "background image":"gacha_img_20200429TAI.png",
+        "desc":"From 29 Apr 7:00 PST ~ 6 May 6:59 PST, get a 100% Chance to summon Vash or Meryl & MIlly! Get a bonus of 4 Dual Brave Burst Token on every Summon!",
+        "door image":"gacha_rare_door.png",
+        "end time":"2020-05-06 14:59:59",
+        "gem cost":5,
+        "name":"Trigun Awaken Summon I",
+        "priority":"2",
+        "short desc":"Get a 100% Chance to summon Vash or Meryl & MIlly! Exchange DBB Potential Units from the Bazaar with the Dual Brave Burst Tokens!",
+        "start time":"2020-04-29 15:00:00",
+        "summon button image":"gacha_rare_summons_btn1.png"
+    },
+    "18930":{
+        "background image":"gacha_img_20200429TS_s1.png",
+        "desc":"From 29 Apr 7:00 PST ~ 6 May 6:59 PST, summon minimum 5* Global exclusive units with Omni Potential and enjoy Increased Rates with each summon on Vash, Meryl & MIlly, Wolfwood and Legato and guaranteed one of them on Step 6!",
+        "door image":"gacha_rare_door.png",
+        "end time":"2020-05-06 14:59:59",
+        "gem cost":5,
+        "name":"Trigun Summon Special Summon",
+        "priority":"2",
+        "short desc":"Vash, Meryl & MIlly, Wolfwood and Legato is available through the Summon Gate!",
+        "start time":"2020-04-29 15:00:00",
+        "summon button image":"gacha_rare_summons_btn1.png"
     }
 }
