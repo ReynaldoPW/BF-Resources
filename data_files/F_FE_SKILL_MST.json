@@ -28193,6 +28193,138 @@
         "yRlCNyvk":"Add to SBB (17 combo Water attack [200-500%] on all foes (damage relative to remaining HP))"
     },
     {
+        "2Smu5Mtq":"31,2.5",
+        "9PsmH7tz":"1100000501",
+        "D9wXQI2V":"5",
+        "G5wFDad6":"45",
+        "hjAy9St3":"107",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1100000501",
+        "yRlCNyvk":"Add to LS (250% spark damage)"
+    },
+    {
+        "2Smu5Mtq":"34,2.5",
+        "9PsmH7tz":"1100000502",
+        "D9wXQI2V":"5",
+        "G5wFDad6":"45",
+        "hjAy9St3":"107",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1100000502",
+        "yRlCNyvk":"Add to LS (250% critical damage)"
+    },
+    {
+        "2Smu5Mtq":"50,1$2$3$4$5$6$2.5",
+        "9PsmH7tz":"1100000503",
+        "D9wXQI2V":"5",
+        "G5wFDad6":"45",
+        "hjAy9St3":"107",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1100000503",
+        "yRlCNyvk":"Add to LS (250% all elemental damage)"
+    },
+    {
+        "2Smu5Mtq":"93,100&100&100&100&0&0&3&0,1,2,0,1,0,0",
+        "9PsmH7tz":"1100000504",
+        "D9wXQI2V":"3",
+        "G5wFDad6":"15",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1100000504",
+        "yRlCNyvk":"Add to BB (100% critical and elemental damage reduction for 3 turns)"
+    },
+    {
+        "2Smu5Mtq":"17,100&100&100&100&100&100&3&80,1,2,0,1,0,0@73,100&100&100&3&80,1,2,0,1,0,0",
+        "9PsmH7tz":"1100000505",
+        "D9wXQI2V":"4",
+        "G5wFDad6":"15",
+        "hjAy9St3":"66@66",
+        "jeR2rN3V":"1@1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1100000505",
+        "yRlCNyvk":"Add to BB (Removes and negates all status ailments and Atk, Def, Rec reduction for 3 turns)"
+    },
+    {
+        "2Smu5Mtq":"43,14,3,1,0,1,1,0",
+        "9PsmH7tz":"1100000506",
+        "D9wXQI2V":"6",
+        "G5wFDad6":"25",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1100000506",
+        "yRlCNyvk":"Add to BB\\/SBB (fills OD gauge [14%])"
+    },
+    {
+        "2Smu5Mtq":"62,5&7000&0&100&80,1,2,0,1,1,0",
+        "9PsmH7tz":"1100000507",
+        "D9wXQI2V":"5",
+        "G5wFDad6":"15",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1100000507",
+        "yRlCNyvk":"Add to BB\\/SBB (Light barrier [7000 HP])"
+    },
+    {
+        "2Smu5Mtq":"23,250&0&0&0&0&0&3&80,1,2,0,0,1,0",
+        "9PsmH7tz":"1100000508",
+        "D9wXQI2V":"5",
+        "G5wFDad6":"25",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1100000508",
+        "yRlCNyvk":"Add to SBB (boosts spark damage [220%] for 3 turns)"
+    },
+    {
+        "2Smu5Mtq":"54,1.5&3&80,1,2,0,0,1,0",
+        "9PsmH7tz":"1100000509",
+        "D9wXQI2V":"4",
+        "G5wFDad6":"25",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1100000509",
+        "yRlCNyvk":"Add to SBB (boosts critical damage [150%] for 3 turns)"
+    },
+    {
+        "2Smu5Mtq":"55,1&2&3&4&5&6&2.5&3&80,1,2,0,0,1,0",
+        "9PsmH7tz":"1100000510",
+        "D9wXQI2V":"5",
+        "G5wFDad6":"25",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1100000510",
+        "yRlCNyvk":"Add to SBB (boosts all elemental damage [250%] for 3 turns)"
+    },
+    {
+        "2Smu5Mtq":"39,1&2&3&4&5&6&15&3&0,1,2,0,1,1,0",
+        "9PsmH7tz":"1100000511",
+        "D9wXQI2V":"5",
+        "G5wFDad6":"15",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1100000511",
+        "yRlCNyvk":"Add to BB\\/SBB (15% damage reduction from all element types for 3 turns)"
+    },
+    {
+        "2Smu5Mtq":"23,350&0&0&0&0&0&4&80,1,2,0,0,0,1@54,3.5&4&80,1,2,0,0,0,1@55,1&2&3&4&5&6&3.5&4&80,1,2,0,0,0,1",
+        "9PsmH7tz":"1100000512",
+        "D9wXQI2V":"6",
+        "G5wFDad6":"50",
+        "hjAy9St3":"66@66@66",
+        "jeR2rN3V":"1@1@1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1100000512",
+        "yRlCNyvk":"Add to UBB (boosts spark damage [350%], critical damage [350%], all elemental damage [350%] for 4 turns)"
+    },
+    {
         "2Smu5Mtq":"0,0,30,0,30",
         "9PsmH7tz":"1100000113",
         "D9wXQI2V":"1",

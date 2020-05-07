@@ -28594,6 +28594,34 @@
         "name":"MST_EXTRAPASSIVESKILL_850808_NAME",
         "rarity":7
     },
+    "850858":{
+        "conditions":"1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0",
+        "desc":"MST_EXTRAPASSIVESKILL_850858_DESCRIPTION",
+        "effects":[
+            {
+                "passive id":"48",
+                "reduced bc cost%":10
+            },
+            {
+                "miti%":5,
+                "passive id":"8"
+            },
+            {
+                "dmg% for spark":120,
+                "passive id":"31"
+            },
+            {
+                "params":"100,100,100,100,100,100,100,100,100",
+                "passive id":"73"
+            },
+            {
+                "passive id":"55"
+            }
+        ],
+        "id":"850858",
+        "name":"MST_EXTRAPASSIVESKILL_850858_NAME",
+        "rarity":7
+    },
     "850900":{
         "conditions":"1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0",
         "desc":"MST_EXTRAPASSIVESKILL_850900_DESCRIPTION",

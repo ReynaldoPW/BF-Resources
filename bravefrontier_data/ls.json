@@ -33760,6 +33760,38 @@
         "id":"850808",
         "name":"MST_LEADERSKILLS_850808_NAME"
     },
+    "850858":{
+        "desc":"MST_LEADERSKILLS_850858_DESCRIPTION",
+        "effects":[
+            {
+                "atk% buff":150,
+                "def% buff":150,
+                "hp% buff":150,
+                "passive id":"1",
+                "rec% buff":150
+            },
+            {
+                "params":"400,400,400",
+                "passive id":"64"
+            },
+            {
+                "bc fill when attacked chance%":100,
+                "bc fill when attacked high":10,
+                "bc fill when attacked low":6,
+                "passive id":"25"
+            },
+            {
+                "miti%":15,
+                "passive id":"8"
+            },
+            {
+                "params":"0,1,25,25,0",
+                "passive id":"69"
+            }
+        ],
+        "id":"850858",
+        "name":"MST_LEADERSKILLS_850858_NAME"
+    },
     "850900":{
         "desc":"MST_LEADERSKILLS_850900_DESCRIPTION",
         "effects":[

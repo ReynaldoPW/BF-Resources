@@ -5151,6 +5151,46 @@
     },
     {
         "ELGIF_REWARD*":"0",
+        "FRONTIER_GATE_ID":"1052",
+        "Ga6qSJr0":"2",
+        "PRESENT_AMOUNT":"500",
+        "REQUIREMENT_PARAMETER":"1",
+        "REWARD_ID":"1050000",
+        "REWARD_ITEM_ID":"8",
+        "REWARD_TYPE*":"8004"
+    },
+    {
+        "ELGIF_REWARD*":"0",
+        "FRONTIER_GATE_ID":"1052",
+        "Ga6qSJr0":"2",
+        "PRESENT_AMOUNT":"1000",
+        "REQUIREMENT_PARAMETER":"1500000",
+        "REWARD_ID":"1050001",
+        "REWARD_ITEM_ID":"8",
+        "REWARD_TYPE*":"8004"
+    },
+    {
+        "ELGIF_REWARD*":"0",
+        "FRONTIER_GATE_ID":"1052",
+        "Ga6qSJr0":"2",
+        "PRESENT_AMOUNT":"2000",
+        "REQUIREMENT_PARAMETER":"2500000",
+        "REWARD_ID":"1050002",
+        "REWARD_ITEM_ID":"8",
+        "REWARD_TYPE*":"8004"
+    },
+    {
+        "ELGIF_REWARD*":"0",
+        "FRONTIER_GATE_ID":"1052",
+        "Ga6qSJr0":"2",
+        "PRESENT_AMOUNT":"3000",
+        "REQUIREMENT_PARAMETER":"3750000",
+        "REWARD_ID":"1050003",
+        "REWARD_ITEM_ID":"8",
+        "REWARD_TYPE*":"8004"
+    },
+    {
+        "ELGIF_REWARD*":"0",
         "FRONTIER_GATE_ID":"1061",
         "Ga6qSJr0":"2",
         "PRESENT_AMOUNT":"250",
@@ -5807,6 +5847,46 @@
         "REQUIREMENT_PARAMETER":"75000000",
         "REWARD_ID":"106227",
         "REWARD_ITEM_ID":"8062",
+        "REWARD_TYPE*":"8004"
+    },
+    {
+        "ELGIF_REWARD*":"0",
+        "FRONTIER_GATE_ID":"1062",
+        "Ga6qSJr0":"2",
+        "PRESENT_AMOUNT":"500",
+        "REQUIREMENT_PARAMETER":"1",
+        "REWARD_ID":"1060001",
+        "REWARD_ITEM_ID":"8",
+        "REWARD_TYPE*":"8004"
+    },
+    {
+        "ELGIF_REWARD*":"0",
+        "FRONTIER_GATE_ID":"1062",
+        "Ga6qSJr0":"2",
+        "PRESENT_AMOUNT":"1000",
+        "REQUIREMENT_PARAMETER":"1000000",
+        "REWARD_ID":"1060002",
+        "REWARD_ITEM_ID":"8",
+        "REWARD_TYPE*":"8004"
+    },
+    {
+        "ELGIF_REWARD*":"0",
+        "FRONTIER_GATE_ID":"1062",
+        "Ga6qSJr0":"2",
+        "PRESENT_AMOUNT":"2000",
+        "REQUIREMENT_PARAMETER":"2000000",
+        "REWARD_ID":"1060003",
+        "REWARD_ITEM_ID":"8",
+        "REWARD_TYPE*":"8004"
+    },
+    {
+        "ELGIF_REWARD*":"0",
+        "FRONTIER_GATE_ID":"1062",
+        "Ga6qSJr0":"2",
+        "PRESENT_AMOUNT":"3000",
+        "REQUIREMENT_PARAMETER":"3000000",
+        "REWARD_ID":"1060004",
+        "REWARD_ITEM_ID":"8",
         "REWARD_TYPE*":"8004"
     },
     {
@@ -6557,6 +6637,46 @@
         "REQUIREMENT_PARAMETER":"75000000",
         "REWARD_ID":"107238",
         "REWARD_ITEM_ID":"8072",
+        "REWARD_TYPE*":"8004"
+    },
+    {
+        "ELGIF_REWARD*":"0",
+        "FRONTIER_GATE_ID":"1072",
+        "Ga6qSJr0":"2",
+        "PRESENT_AMOUNT":"500",
+        "REQUIREMENT_PARAMETER":"1",
+        "REWARD_ID":"1070000",
+        "REWARD_ITEM_ID":"8",
+        "REWARD_TYPE*":"8004"
+    },
+    {
+        "ELGIF_REWARD*":"0",
+        "FRONTIER_GATE_ID":"1072",
+        "Ga6qSJr0":"2",
+        "PRESENT_AMOUNT":"1000",
+        "REQUIREMENT_PARAMETER":"750000",
+        "REWARD_ID":"1070001",
+        "REWARD_ITEM_ID":"8",
+        "REWARD_TYPE*":"8004"
+    },
+    {
+        "ELGIF_REWARD*":"0",
+        "FRONTIER_GATE_ID":"1072",
+        "Ga6qSJr0":"2",
+        "PRESENT_AMOUNT":"2000",
+        "REQUIREMENT_PARAMETER":"1250000",
+        "REWARD_ID":"1070002",
+        "REWARD_ITEM_ID":"8",
+        "REWARD_TYPE*":"8004"
+    },
+    {
+        "ELGIF_REWARD*":"0",
+        "FRONTIER_GATE_ID":"1072",
+        "Ga6qSJr0":"2",
+        "PRESENT_AMOUNT":"3000",
+        "REQUIREMENT_PARAMETER":"1750000",
+        "REWARD_ID":"1070003",
+        "REWARD_ITEM_ID":"8",
         "REWARD_TYPE*":"8004"
     },
     {
@@ -7461,6 +7581,46 @@
     },
     {
         "ELGIF_REWARD*":"0",
+        "FRONTIER_GATE_ID":"1082",
+        "Ga6qSJr0":"2",
+        "PRESENT_AMOUNT":"500",
+        "REQUIREMENT_PARAMETER":"1",
+        "REWARD_ID":"1080000",
+        "REWARD_ITEM_ID":"8",
+        "REWARD_TYPE*":"8004"
+    },
+    {
+        "ELGIF_REWARD*":"0",
+        "FRONTIER_GATE_ID":"1082",
+        "Ga6qSJr0":"2",
+        "PRESENT_AMOUNT":"1000",
+        "REQUIREMENT_PARAMETER":"600000",
+        "REWARD_ID":"1080001",
+        "REWARD_ITEM_ID":"8",
+        "REWARD_TYPE*":"8004"
+    },
+    {
+        "ELGIF_REWARD*":"0",
+        "FRONTIER_GATE_ID":"1082",
+        "Ga6qSJr0":"2",
+        "PRESENT_AMOUNT":"2000",
+        "REQUIREMENT_PARAMETER":"1500000",
+        "REWARD_ID":"1080002",
+        "REWARD_ITEM_ID":"8",
+        "REWARD_TYPE*":"8004"
+    },
+    {
+        "ELGIF_REWARD*":"0",
+        "FRONTIER_GATE_ID":"1082",
+        "Ga6qSJr0":"2",
+        "PRESENT_AMOUNT":"3000",
+        "REQUIREMENT_PARAMETER":"2500000",
+        "REWARD_ID":"1080003",
+        "REWARD_ITEM_ID":"8",
+        "REWARD_TYPE*":"8004"
+    },
+    {
+        "ELGIF_REWARD*":"0",
         "FRONTIER_GATE_ID":"1091",
         "Ga6qSJr0":"2",
         "PRESENT_AMOUNT":"50",
@@ -8337,6 +8497,46 @@
         "REQUIREMENT_PARAMETER":"75000000",
         "REWARD_ID":"109227",
         "REWARD_ITEM_ID":"8092",
+        "REWARD_TYPE*":"8004"
+    },
+    {
+        "ELGIF_REWARD*":"0",
+        "FRONTIER_GATE_ID":"1092",
+        "Ga6qSJr0":"2",
+        "PRESENT_AMOUNT":"500",
+        "REQUIREMENT_PARAMETER":"1",
+        "REWARD_ID":"1090000",
+        "REWARD_ITEM_ID":"8",
+        "REWARD_TYPE*":"8004"
+    },
+    {
+        "ELGIF_REWARD*":"0",
+        "FRONTIER_GATE_ID":"1092",
+        "Ga6qSJr0":"2",
+        "PRESENT_AMOUNT":"1000",
+        "REQUIREMENT_PARAMETER":"850000",
+        "REWARD_ID":"1090001",
+        "REWARD_ITEM_ID":"8",
+        "REWARD_TYPE*":"8004"
+    },
+    {
+        "ELGIF_REWARD*":"0",
+        "FRONTIER_GATE_ID":"1092",
+        "Ga6qSJr0":"2",
+        "PRESENT_AMOUNT":"2000",
+        "REQUIREMENT_PARAMETER":"2000000",
+        "REWARD_ID":"1090002",
+        "REWARD_ITEM_ID":"8",
+        "REWARD_TYPE*":"8004"
+    },
+    {
+        "ELGIF_REWARD*":"0",
+        "FRONTIER_GATE_ID":"1092",
+        "Ga6qSJr0":"2",
+        "PRESENT_AMOUNT":"3000",
+        "REQUIREMENT_PARAMETER":"3000000",
+        "REWARD_ID":"1090003",
+        "REWARD_ITEM_ID":"8",
         "REWARD_TYPE*":"8004"
     },
     {
@@ -9221,6 +9421,46 @@
     },
     {
         "ELGIF_REWARD*":"0",
+        "FRONTIER_GATE_ID":"1102",
+        "Ga6qSJr0":"2",
+        "PRESENT_AMOUNT":"500",
+        "REQUIREMENT_PARAMETER":"1",
+        "REWARD_ID":"1100000",
+        "REWARD_ITEM_ID":"8",
+        "REWARD_TYPE*":"8004"
+    },
+    {
+        "ELGIF_REWARD*":"0",
+        "FRONTIER_GATE_ID":"1102",
+        "Ga6qSJr0":"2",
+        "PRESENT_AMOUNT":"1000",
+        "REQUIREMENT_PARAMETER":"750000",
+        "REWARD_ID":"1100001",
+        "REWARD_ITEM_ID":"8",
+        "REWARD_TYPE*":"8004"
+    },
+    {
+        "ELGIF_REWARD*":"0",
+        "FRONTIER_GATE_ID":"1102",
+        "Ga6qSJr0":"2",
+        "PRESENT_AMOUNT":"2000",
+        "REQUIREMENT_PARAMETER":"1500000",
+        "REWARD_ID":"1100002",
+        "REWARD_ITEM_ID":"8",
+        "REWARD_TYPE*":"8004"
+    },
+    {
+        "ELGIF_REWARD*":"0",
+        "FRONTIER_GATE_ID":"1102",
+        "Ga6qSJr0":"2",
+        "PRESENT_AMOUNT":"3000",
+        "REQUIREMENT_PARAMETER":"2500000",
+        "REWARD_ID":"1100003",
+        "REWARD_ITEM_ID":"8",
+        "REWARD_TYPE*":"8004"
+    },
+    {
+        "ELGIF_REWARD*":"0",
         "FRONTIER_GATE_ID":"1111",
         "Ga6qSJr0":"2",
         "PRESENT_AMOUNT":"100",
@@ -10097,6 +10337,46 @@
         "REQUIREMENT_PARAMETER":"75000000",
         "REWARD_ID":"111227",
         "REWARD_ITEM_ID":"8112",
+        "REWARD_TYPE*":"8004"
+    },
+    {
+        "ELGIF_REWARD*":"0",
+        "FRONTIER_GATE_ID":"1112",
+        "Ga6qSJr0":"2",
+        "PRESENT_AMOUNT":"500",
+        "REQUIREMENT_PARAMETER":"1",
+        "REWARD_ID":"1110000",
+        "REWARD_ITEM_ID":"8",
+        "REWARD_TYPE*":"8004"
+    },
+    {
+        "ELGIF_REWARD*":"0",
+        "FRONTIER_GATE_ID":"1112",
+        "Ga6qSJr0":"2",
+        "PRESENT_AMOUNT":"1000",
+        "REQUIREMENT_PARAMETER":"750000",
+        "REWARD_ID":"1110001",
+        "REWARD_ITEM_ID":"8",
+        "REWARD_TYPE*":"8004"
+    },
+    {
+        "ELGIF_REWARD*":"0",
+        "FRONTIER_GATE_ID":"1112",
+        "Ga6qSJr0":"2",
+        "PRESENT_AMOUNT":"2000",
+        "REQUIREMENT_PARAMETER":"1500000",
+        "REWARD_ID":"1110002",
+        "REWARD_ITEM_ID":"8",
+        "REWARD_TYPE*":"8004"
+    },
+    {
+        "ELGIF_REWARD*":"0",
+        "FRONTIER_GATE_ID":"1112",
+        "Ga6qSJr0":"2",
+        "PRESENT_AMOUNT":"3000",
+        "REQUIREMENT_PARAMETER":"2500000",
+        "REWARD_ID":"1110003",
+        "REWARD_ITEM_ID":"8",
         "REWARD_TYPE*":"8004"
     },
     {
