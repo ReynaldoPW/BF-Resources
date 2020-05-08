@@ -224,9 +224,9 @@
         "AVAILABILITY_TIME_START/AMOUNT_REQUIRED":"2020-05-04 00:00:00",
         "DESCRIPTION":"Increased chance to obtain Zeis, Ravea, Dessit, Durumn, Ceulfan, Savei, Global Exclusive Elgifs & Spheres from this Mystery Chest",
         "EXCHANGE_HALL_COST":"1500",
-        "EXCHANGE_HALL_ITEM*":"9000:323:1:chest_large_gold_thum.png",
+        "EXCHANGE_HALL_ITEM*":"9000:288:1:chest_large_gold_thum.png",
         "EXCHANGE_HALL_ITEM_ID":"85",
-        "EXCHANGE_HALL_LIMIT":"3",
+        "EXCHANGE_HALL_LIMIT":"10",
         "EXCHANGE_HALL_NAME":"Premium Prism Mystery Chest",
         "ra4iFR6T":""
     },
@@ -235,9 +235,9 @@
         "AVAILABILITY_TIME_START/AMOUNT_REQUIRED":"2020-05-06 00:00:00",
         "DESCRIPTION":"Increased chance to obtain Ceulfan, Savei, Global Exclusive Elgifs & Spheres from this Mystery Chest",
         "EXCHANGE_HALL_COST":"1500",
-        "EXCHANGE_HALL_ITEM*":"9000:288:1:chest_large_gold_thum.png",
+        "EXCHANGE_HALL_ITEM*":"9000:323:1:chest_large_gold_thum.png",
         "EXCHANGE_HALL_ITEM_ID":"8000",
-        "EXCHANGE_HALL_LIMIT":"10",
+        "EXCHANGE_HALL_LIMIT":"3",
         "EXCHANGE_HALL_NAME":"Premium Elemental Mystery Chest (Light & Dark)",
         "ra4iFR6T":""
     },

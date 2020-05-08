@@ -472,7 +472,7 @@
         "moWQ30GH":"F_EXTRA_PASSIVE_SKILL_MST"
     },
     {
-        "d2RFtP8T":"2848",
+        "d2RFtP8T":"2851",
         "moWQ30GH":"F_RESOURCE_MST"
     },
     {
@@ -612,7 +612,7 @@
         "moWQ30GH":"F_GUILD_INFO_MST"
     },
     {
-        "d2RFtP8T":"219",
+        "d2RFtP8T":"221",
         "moWQ30GH":"F_GUILD_POINT_EXCHANGE_MST"
     },
     {
