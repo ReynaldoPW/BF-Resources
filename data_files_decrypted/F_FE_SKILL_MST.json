@@ -23179,6 +23179,72 @@
     {
         "DESCRIPTION":"",
         "EFFECT_AREA*":"1",
+        "LEVEL":"2",
+        "PROC/PASSIVE_ID(S)":"46",
+        "PROC/PASSIVE_PARAMETERS":"0,100,0,100,0,0,0",
+        "SP_ID":"1010700091",
+        "SP_NAME":"1-100% Atk, Def relative to remaining HP",
+        "SP_NEED_BP":"10",
+        "SP_SERIES":"1010700091"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
+        "LEVEL":"2",
+        "PROC/PASSIVE_ID(S)":"127",
+        "PROC/PASSIVE_PARAMETERS":"100,25",
+        "SP_ID":"1010700092",
+        "SP_NAME":"25% DoT reduction",
+        "SP_NEED_BP":"10",
+        "SP_SERIES":"1010700092"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
+        "LEVEL":"5",
+        "PROC/PASSIVE_ID(S)":"66",
+        "PROC/PASSIVE_PARAMETERS":"10007,100&2&0&15,1,2,0,1,1,0",
+        "SP_ID":"1010700093",
+        "SP_NAME":"Add to BB\\/SBB (Probable [15%] evasion for 2 turns)",
+        "SP_NEED_BP":"25",
+        "SP_SERIES":"1010700093"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
+        "LEVEL":"5",
+        "PROC/PASSIVE_ID(S)":"66",
+        "PROC/PASSIVE_PARAMETERS":"23,200&0&0&0&0&0&3&0,1,2,0,1,1,0",
+        "SP_ID":"1010700094",
+        "SP_NAME":"Add to BB\\/SBB (Boosts Spark damage [200%] for 3 turns)",
+        "SP_NEED_BP":"35",
+        "SP_SERIES":"1010700094"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
+        "LEVEL":"5",
+        "PROC/PASSIVE_ID(S)":"66",
+        "PROC/PASSIVE_PARAMETERS":"24,4&50&50&0&3&0,1,2,0,1,1,0",
+        "SP_ID":"1010700095",
+        "SP_NAME":"Add to BB\\/SBB (Boosts Atk, Def relative to max HP [50%] for 3 turns)",
+        "SP_NEED_BP":"25",
+        "SP_SERIES":"1010700095"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
+        "LEVEL":"5",
+        "PROC/PASSIVE_ID(S)":"66",
+        "PROC/PASSIVE_PARAMETERS":"1,1200&200&0&0&0&0,2,1,0,0,1,0",
+        "SP_ID":"1010700096",
+        "SP_NAME":"Add to SBB (17 combo Thunder attack [1200%] on single foe)",
+        "SP_NEED_BP":"20",
+        "SP_SERIES":"1010700096"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
         "LEVEL":"4",
         "PROC/PASSIVE_ID(S)":"1",
         "PROC/PASSIVE_PARAMETERS":"0,130,0,0,130",

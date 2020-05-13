@@ -25394,6 +25394,41 @@
         "name":"MST_EXTRAPASSIVESKILL_840257_NAME",
         "rarity":1
     },
+    "840258":{
+        "conditions":"2#3,819320%6,1%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0",
+        "desc":"MST_EXTRAPASSIVESKILL_840258_DESCRIPTION",
+        "effects":[
+            {
+                "atk% buff":40,
+                "def% buff":40,
+                "hp% buff":40,
+                "passive id":"1",
+                "rec% buff":40
+            },
+            {
+                "params":"100,5,0,0",
+                "passive id":"128"
+            },
+            {
+                "base crit chance resist%":100,
+                "base crit dmg resist%":100,
+                "base elemental damage resist%":100,
+                "buffed crit chance resist%":100,
+                "buffed crit dmg resist%":100,
+                "buffed elemental damage resist%":100,
+                "passive id":"53"
+            },
+            {
+                "bc fill when attacked chance%":100,
+                "bc fill when attacked high":4,
+                "bc fill when attacked low":3,
+                "passive id":"25"
+            }
+        ],
+        "id":"840258",
+        "name":"MST_EXTRAPASSIVESKILL_840258_NAME",
+        "rarity":8
+    },
     "840277":{
         "conditions":"1#0,0%0,0%0,0@1#0,0%0,0%0,0@1#0,0%0,0%0,0@1#0,0%0,0%0,0@1#0,0%0,0%0,0",
         "desc":"MST_EXTRAPASSIVESKILL_840277_DESCRIPTION",

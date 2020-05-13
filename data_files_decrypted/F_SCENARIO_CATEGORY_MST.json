@@ -719,5 +719,12 @@
         "SCENARIO_SUPERSECTION*":"70000",
         "SP_CAT_ID":"100015",
         "SP_CAT_NAME":"Trigun Collaboration"
+    },
+    {
+        "DESCRIPTION":"A demigod of Athensphere comes to terms with his fate in the hands of his old gods.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"29",
+        "SCENARIO_SUPERSECTION*":"70000",
+        "SP_CAT_ID":"100016",
+        "SP_CAT_NAME":"Memoir Fragments: Deimos"
     }
 ]

@@ -2074,5 +2074,9 @@
     {
         "RELOAD_FILES":"Loading.sam",
         "RELOAD_ID":"3091"
+    },
+    {
+        "RELOAD_FILES":"Banner_NewUnit_Deimos.png",
+        "RELOAD_ID":"3092"
     }
 ]

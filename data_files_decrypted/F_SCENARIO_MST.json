@@ -10467,6 +10467,51 @@
         "SP_CAT_ID":"100013"
     },
     {
+        "DESCRIPTION":"Shadows oft follow in the wake of a demigod's decline.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"1",
+        "SCENARIO_ID":"10001601",
+        "SCENARIO_NAME":"A Sinking Feeling",
+        "SCENARIO_TEXT_FILE":"MF_Deimos_W1A.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"100016"
+    },
+    {
+        "DESCRIPTION":"As memories of the Augmentation Wars come to mind, Deimos' faith in the great spirits is shaken.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"2",
+        "SCENARIO_ID":"10001602",
+        "SCENARIO_NAME":"Scars of the Past",
+        "SCENARIO_TEXT_FILE":"MF_Deimos_W1B.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"100016"
+    },
+    {
+        "DESCRIPTION":"Can such a being as a demigod ever be seen as an individual and not the instrument of wills not their own?",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"3",
+        "SCENARIO_ID":"10001603",
+        "SCENARIO_NAME":"By Design",
+        "SCENARIO_TEXT_FILE":"MF_Deimos_W2A.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"100016"
+    },
+    {
+        "DESCRIPTION":"Merely a jest of fate, or will eternal faith carry one beyond these sacrilegious truths?",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"4",
+        "SCENARIO_ID":"10001604",
+        "SCENARIO_NAME":"Faith and Fallacy",
+        "SCENARIO_TEXT_FILE":"MF_Deimos_W2B.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"100016"
+    },
+    {
+        "DESCRIPTION":"For as long as a demigod still stands, no enemy shall pass through the gates. For the Golden City!",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"5",
+        "SCENARIO_ID":"10001605",
+        "SCENARIO_NAME":"Echo of Calamity",
+        "SCENARIO_TEXT_FILE":"MF_Deimos_W2C.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"100016"
+    },
+    {
         "DESCRIPTION":"Two worlds collide as a happy celebration brings adventure to some lucky souls! Who are they? Find out!",
         "QUEST_MAP_NUMBER/GUIDE_ID":"1",
         "SCENARIO_ID":"100001501",
