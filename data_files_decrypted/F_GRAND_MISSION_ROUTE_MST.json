@@ -2582,5 +2582,21 @@
         "ROUTE_END_LOCATION?":"27",
         "ROUTE_ID":"86038",
         "ROUTE_START_LOCATION?":"25"
+    },
+    {
+        "FLAGS_TRIGGERED?":"87001:0@0",
+        "LOCATIONS_UNLOCKED?":"0",
+        "MISSION_ID":"5008011",
+        "ROUTE_END_LOCATION?":"2",
+        "ROUTE_ID":"87000",
+        "ROUTE_START_LOCATION?":"1"
+    },
+    {
+        "FLAGS_TRIGGERED?":"87100:1@0",
+        "LOCATIONS_UNLOCKED?":"0",
+        "MISSION_ID":"5008011",
+        "ROUTE_END_LOCATION?":"3",
+        "ROUTE_ID":"87001",
+        "ROUTE_START_LOCATION?":"2"
     }
 ]

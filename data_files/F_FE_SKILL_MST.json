@@ -23573,6 +23573,17 @@
         "yRlCNyvk":"Add to UBB (boosts 450% Atk, Def, Rec for 3 turns)"
     },
     {
+        "2Smu5Mtq":"58,40&100&2&0,2,2,0,1,1,0",
+        "9PsmH7tz":"1011000011",
+        "D9wXQI2V":"4",
+        "G5wFDad6":"20",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1011000011",
+        "yRlCNyvk":"Add to BB\\/SBB (3 turns spark vulnerability [40%] infliction)"
+    },
+    {
         "2Smu5Mtq":"100,0,0,0,0,0",
         "9PsmH7tz":"1000000057",
         "D9wXQI2V":"3",
@@ -28389,6 +28400,61 @@
         "qp37xTDh":"",
         "ri6D9yBi":"1100000512",
         "yRlCNyvk":"Add to UBB (boosts spark damage [350%], critical damage [350%], all elemental damage [350%] for 4 turns)"
+    },
+    {
+        "2Smu5Mtq":"67,300&400&100&3&0,1,2,0,1,0,0",
+        "9PsmH7tz":"1100000513",
+        "D9wXQI2V":"5",
+        "G5wFDad6":"20",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1100000513",
+        "yRlCNyvk":"Add to BB (spark damage fills BB gauge [3-4 BC] for 3 turns)"
+    },
+    {
+        "2Smu5Mtq":"87,400&500&100&3&0,1,2,0,1,0,0",
+        "9PsmH7tz":"1100000514",
+        "D9wXQI2V":"5",
+        "G5wFDad6":"20",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1100000514",
+        "yRlCNyvk":"Add to BB (spark damage restores HP [400-500 HP] for 3 turns)"
+    },
+    {
+        "2Smu5Mtq":"62,3&7000&0&100&0,1,2,0,1,1,0",
+        "9PsmH7tz":"1100000515",
+        "D9wXQI2V":"4",
+        "G5wFDad6":"10",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1100000515",
+        "yRlCNyvk":"Add to BB\\/SBB (adds Earth barrier [7000 HP])"
+    },
+    {
+        "2Smu5Mtq":"132,35&35&75&75&3&0,2,2,0,0,1,0@58,35&75&2&0,2,2,0,0,1,0",
+        "9PsmH7tz":"1100000516",
+        "D9wXQI2V":"5",
+        "G5wFDad6":"25",
+        "hjAy9St3":"66@66",
+        "jeR2rN3V":"1@1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1100000516",
+        "yRlCNyvk":"Add to SBB (probable [75%] 3 turns critical, elemental and spark vulnerability [35%] infliction)"
+    },
+    {
+        "2Smu5Mtq":"10019,60&147&71&0&0&0&0&0&0&80,1,1,0,1,0,0@10019,60&147&71&0&0&0&0&0&0&100,1,2,0,0,0,1",
+        "9PsmH7tz":"1100000517",
+        "D9wXQI2V":"5",
+        "G5wFDad6":"25",
+        "hjAy9St3":"66@66",
+        "jeR2rN3V":"1@1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1100000517",
+        "yRlCNyvk":"Add to BB (80% Chance Purge (LS Lock) 1 Random Ally \\/ 80% Chance Purge (ES Lock) 1 Random Ally \\/ 80% Chance Purge (DoT) 1 Random Ally), Add to UBB (Purge (LS Lock) ALL \\/ Purge (ES Lock) ALL \\/ Purge (DOT) ALL)"
     },
     {
         "2Smu5Mtq":"0,0,30,0,30",

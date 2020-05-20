@@ -4067,5 +4067,57 @@
         "REWARD_ID":"9999",
         "REWARD_ITEM_ID":"1",
         "REWARD_TYPE*":"12"
+    },
+    {
+        "64hAvkZX":"1",
+        "ELGIF_REWARD*":"0",
+        "MISSION_ID":"5008011",
+        "PRESENT_AMOUNT":"15",
+        "REQUIREMENT_PARAMETER":"8700",
+        "REQUIREMENT_TYPE*":"2",
+        "REWARD_CONDITION":"Episode 1 Complete",
+        "REWARD_CONDITION_DESCRIPTION":"Episode 1 Complete",
+        "REWARD_ID":"87000",
+        "REWARD_ITEM_ID":"800907",
+        "REWARD_TYPE*":"4"
+    },
+    {
+        "64hAvkZX":"1",
+        "ELGIF_REWARD*":"1:0",
+        "MISSION_ID":"5008011",
+        "PRESENT_AMOUNT":"1",
+        "REQUIREMENT_PARAMETER":"8700",
+        "REQUIREMENT_TYPE*":"2",
+        "REWARD_CONDITION":"Episode 1 Complete",
+        "REWARD_CONDITION_DESCRIPTION":"Episode 1 Complete",
+        "REWARD_ID":"87001",
+        "REWARD_ITEM_ID":"880244",
+        "REWARD_TYPE*":"4"
+    },
+    {
+        "64hAvkZX":"1",
+        "ELGIF_REWARD*":"0",
+        "MISSION_ID":"5008011",
+        "PRESENT_AMOUNT":"2",
+        "REQUIREMENT_PARAMETER":"8700",
+        "REQUIREMENT_TYPE*":"2",
+        "REWARD_CONDITION":"Episode 1 Complete",
+        "REWARD_CONDITION_DESCRIPTION":"Episode 1 Complete",
+        "REWARD_ID":"87002",
+        "REWARD_ITEM_ID":"0",
+        "REWARD_TYPE*":"8"
+    },
+    {
+        "64hAvkZX":"0",
+        "ELGIF_REWARD*":"0",
+        "MISSION_ID":"5008011",
+        "PRESENT_AMOUNT":"10000",
+        "REQUIREMENT_PARAMETER":"87000",
+        "REQUIREMENT_TYPE*":"2",
+        "REWARD_CONDITION":"Repeat Clear Bonus",
+        "REWARD_CONDITION_DESCRIPTION":"Repeat Clear Bonus",
+        "REWARD_ID":"87999",
+        "REWARD_ITEM_ID":"0",
+        "REWARD_TYPE*":"11"
     }
 ]

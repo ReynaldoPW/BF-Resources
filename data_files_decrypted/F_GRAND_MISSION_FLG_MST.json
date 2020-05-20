@@ -10989,6 +10989,348 @@
         "ky1xsH0h":"2"
     },
     {
+        "AI_CHANCE":"5",
+        "DESCRIPTION":"Episode 1 Clear",
+        "MISSION_ID":"5008011",
+        "REQUIREMENT_ID":"8700",
+        "REQUIREMENT_RARITY*":"0",
+        "Ufm6c7RA":"1",
+        "ky1xsH0h":"1"
+    },
+    {
+        "AI_CHANCE":"0",
+        "DESCRIPTION":"Episode 2 Clear",
+        "MISSION_ID":"5008011",
+        "REQUIREMENT_ID":"8701",
+        "REQUIREMENT_RARITY*":"0",
+        "Ufm6c7RA":"0",
+        "ky1xsH0h":"1"
+    },
+    {
+        "AI_CHANCE":"0",
+        "DESCRIPTION":"Episode 3 Clear",
+        "MISSION_ID":"5008011",
+        "REQUIREMENT_ID":"8702",
+        "REQUIREMENT_RARITY*":"0",
+        "Ufm6c7RA":"0",
+        "ky1xsH0h":"1"
+    },
+    {
+        "AI_CHANCE":"0",
+        "DESCRIPTION":"Episode 4 Clear",
+        "MISSION_ID":"5008011",
+        "REQUIREMENT_ID":"8703",
+        "REQUIREMENT_RARITY*":"0",
+        "Ufm6c7RA":"0",
+        "ky1xsH0h":"1"
+    },
+    {
+        "AI_CHANCE":"0",
+        "DESCRIPTION":"Episode 5 Clear",
+        "MISSION_ID":"5008011",
+        "REQUIREMENT_ID":"8704",
+        "REQUIREMENT_RARITY*":"0",
+        "Ufm6c7RA":"0",
+        "ky1xsH0h":"1"
+    },
+    {
+        "AI_CHANCE":"0",
+        "DESCRIPTION":"Episode 6 Clear",
+        "MISSION_ID":"5008011",
+        "REQUIREMENT_ID":"8705",
+        "REQUIREMENT_RARITY*":"0",
+        "Ufm6c7RA":"0",
+        "ky1xsH0h":"1"
+    },
+    {
+        "AI_CHANCE":"0",
+        "DESCRIPTION":"Episode 7 Clear",
+        "MISSION_ID":"5008011",
+        "REQUIREMENT_ID":"8706",
+        "REQUIREMENT_RARITY*":"0",
+        "Ufm6c7RA":"0",
+        "ky1xsH0h":"1"
+    },
+    {
+        "AI_CHANCE":"0",
+        "DESCRIPTION":"Episode 8 Clear",
+        "MISSION_ID":"5008011",
+        "REQUIREMENT_ID":"8707",
+        "REQUIREMENT_RARITY*":"0",
+        "Ufm6c7RA":"0",
+        "ky1xsH0h":"1"
+    },
+    {
+        "AI_CHANCE":"0",
+        "DESCRIPTION":"Episode 9 Clear",
+        "MISSION_ID":"5008011",
+        "REQUIREMENT_ID":"8708",
+        "REQUIREMENT_RARITY*":"0",
+        "Ufm6c7RA":"0",
+        "ky1xsH0h":"1"
+    },
+    {
+        "AI_CHANCE":"0",
+        "DESCRIPTION":"Episode 10 Clear",
+        "MISSION_ID":"5008011",
+        "REQUIREMENT_ID":"8709",
+        "REQUIREMENT_RARITY*":"0",
+        "Ufm6c7RA":"0",
+        "ky1xsH0h":"1"
+    },
+    {
+        "AI_CHANCE":"0",
+        "DESCRIPTION":"Episode 11 Clear",
+        "MISSION_ID":"5008011",
+        "REQUIREMENT_ID":"8710",
+        "REQUIREMENT_RARITY*":"0",
+        "Ufm6c7RA":"0",
+        "ky1xsH0h":"1"
+    },
+    {
+        "AI_CHANCE":"0",
+        "DESCRIPTION":"Episode 12 Clear",
+        "MISSION_ID":"5008011",
+        "REQUIREMENT_ID":"8711",
+        "REQUIREMENT_RARITY*":"0",
+        "Ufm6c7RA":"0",
+        "ky1xsH0h":"1"
+    },
+    {
+        "AI_CHANCE":"0",
+        "DESCRIPTION":" ",
+        "MISSION_ID":"5008011",
+        "REQUIREMENT_ID":"87000",
+        "REQUIREMENT_RARITY*":"0",
+        "Ufm6c7RA":"0",
+        "ky1xsH0h":"2"
+    },
+    {
+        "AI_CHANCE":"0",
+        "DESCRIPTION":" ",
+        "MISSION_ID":"5008011",
+        "REQUIREMENT_ID":"87001",
+        "REQUIREMENT_RARITY*":"0",
+        "Ufm6c7RA":"0",
+        "ky1xsH0h":"2"
+    },
+    {
+        "AI_CHANCE":"0",
+        "DESCRIPTION":" ",
+        "MISSION_ID":"5008011",
+        "REQUIREMENT_ID":"87100",
+        "REQUIREMENT_RARITY*":"0",
+        "Ufm6c7RA":"0",
+        "ky1xsH0h":"2"
+    },
+    {
+        "AI_CHANCE":"0",
+        "DESCRIPTION":" ",
+        "MISSION_ID":"5008011",
+        "REQUIREMENT_ID":"87101",
+        "REQUIREMENT_RARITY*":"0",
+        "Ufm6c7RA":"0",
+        "ky1xsH0h":"2"
+    },
+    {
+        "AI_CHANCE":"0",
+        "DESCRIPTION":" ",
+        "MISSION_ID":"5008011",
+        "REQUIREMENT_ID":"87102",
+        "REQUIREMENT_RARITY*":"0",
+        "Ufm6c7RA":"0",
+        "ky1xsH0h":"2"
+    },
+    {
+        "AI_CHANCE":"0",
+        "DESCRIPTION":" ",
+        "MISSION_ID":"5008011",
+        "REQUIREMENT_ID":"87103",
+        "REQUIREMENT_RARITY*":"0",
+        "Ufm6c7RA":"0",
+        "ky1xsH0h":"2"
+    },
+    {
+        "AI_CHANCE":"0",
+        "DESCRIPTION":" ",
+        "MISSION_ID":"5008011",
+        "REQUIREMENT_ID":"87104",
+        "REQUIREMENT_RARITY*":"0",
+        "Ufm6c7RA":"0",
+        "ky1xsH0h":"2"
+    },
+    {
+        "AI_CHANCE":"0",
+        "DESCRIPTION":" ",
+        "MISSION_ID":"5008011",
+        "REQUIREMENT_ID":"87105",
+        "REQUIREMENT_RARITY*":"0",
+        "Ufm6c7RA":"0",
+        "ky1xsH0h":"2"
+    },
+    {
+        "AI_CHANCE":"0",
+        "DESCRIPTION":" ",
+        "MISSION_ID":"5008011",
+        "REQUIREMENT_ID":"87106",
+        "REQUIREMENT_RARITY*":"0",
+        "Ufm6c7RA":"0",
+        "ky1xsH0h":"2"
+    },
+    {
+        "AI_CHANCE":"0",
+        "DESCRIPTION":" ",
+        "MISSION_ID":"5008011",
+        "REQUIREMENT_ID":"87107",
+        "REQUIREMENT_RARITY*":"0",
+        "Ufm6c7RA":"0",
+        "ky1xsH0h":"2"
+    },
+    {
+        "AI_CHANCE":"0",
+        "DESCRIPTION":" ",
+        "MISSION_ID":"5008011",
+        "REQUIREMENT_ID":"87108",
+        "REQUIREMENT_RARITY*":"0",
+        "Ufm6c7RA":"0",
+        "ky1xsH0h":"2"
+    },
+    {
+        "AI_CHANCE":"0",
+        "DESCRIPTION":" ",
+        "MISSION_ID":"5008011",
+        "REQUIREMENT_ID":"87109",
+        "REQUIREMENT_RARITY*":"0",
+        "Ufm6c7RA":"0",
+        "ky1xsH0h":"2"
+    },
+    {
+        "AI_CHANCE":"0",
+        "DESCRIPTION":" ",
+        "MISSION_ID":"5008011",
+        "REQUIREMENT_ID":"87110",
+        "REQUIREMENT_RARITY*":"0",
+        "Ufm6c7RA":"0",
+        "ky1xsH0h":"2"
+    },
+    {
+        "AI_CHANCE":"0",
+        "DESCRIPTION":" ",
+        "MISSION_ID":"5008011",
+        "REQUIREMENT_ID":"87111",
+        "REQUIREMENT_RARITY*":"0",
+        "Ufm6c7RA":"0",
+        "ky1xsH0h":"2"
+    },
+    {
+        "AI_CHANCE":"0",
+        "DESCRIPTION":" ",
+        "MISSION_ID":"5008011",
+        "REQUIREMENT_ID":"87112",
+        "REQUIREMENT_RARITY*":"0",
+        "Ufm6c7RA":"0",
+        "ky1xsH0h":"2"
+    },
+    {
+        "AI_CHANCE":"0",
+        "DESCRIPTION":" ",
+        "MISSION_ID":"5008011",
+        "REQUIREMENT_ID":"87200",
+        "REQUIREMENT_RARITY*":"0",
+        "Ufm6c7RA":"0",
+        "ky1xsH0h":"2"
+    },
+    {
+        "AI_CHANCE":"0",
+        "DESCRIPTION":" ",
+        "MISSION_ID":"5008011",
+        "REQUIREMENT_ID":"87201",
+        "REQUIREMENT_RARITY*":"0",
+        "Ufm6c7RA":"0",
+        "ky1xsH0h":"2"
+    },
+    {
+        "AI_CHANCE":"0",
+        "DESCRIPTION":" ",
+        "MISSION_ID":"5008011",
+        "REQUIREMENT_ID":"87202",
+        "REQUIREMENT_RARITY*":"0",
+        "Ufm6c7RA":"0",
+        "ky1xsH0h":"2"
+    },
+    {
+        "AI_CHANCE":"0",
+        "DESCRIPTION":" ",
+        "MISSION_ID":"5008011",
+        "REQUIREMENT_ID":"87203",
+        "REQUIREMENT_RARITY*":"0",
+        "Ufm6c7RA":"0",
+        "ky1xsH0h":"2"
+    },
+    {
+        "AI_CHANCE":"0",
+        "DESCRIPTION":" ",
+        "MISSION_ID":"5008011",
+        "REQUIREMENT_ID":"87204",
+        "REQUIREMENT_RARITY*":"0",
+        "Ufm6c7RA":"0",
+        "ky1xsH0h":"2"
+    },
+    {
+        "AI_CHANCE":"0",
+        "DESCRIPTION":" ",
+        "MISSION_ID":"5008011",
+        "REQUIREMENT_ID":"87205",
+        "REQUIREMENT_RARITY*":"0",
+        "Ufm6c7RA":"0",
+        "ky1xsH0h":"2"
+    },
+    {
+        "AI_CHANCE":"0",
+        "DESCRIPTION":" ",
+        "MISSION_ID":"5008011",
+        "REQUIREMENT_ID":"87206",
+        "REQUIREMENT_RARITY*":"0",
+        "Ufm6c7RA":"0",
+        "ky1xsH0h":"2"
+    },
+    {
+        "AI_CHANCE":"0",
+        "DESCRIPTION":" ",
+        "MISSION_ID":"5008011",
+        "REQUIREMENT_ID":"87207",
+        "REQUIREMENT_RARITY*":"0",
+        "Ufm6c7RA":"0",
+        "ky1xsH0h":"2"
+    },
+    {
+        "AI_CHANCE":"0",
+        "DESCRIPTION":" ",
+        "MISSION_ID":"5008011",
+        "REQUIREMENT_ID":"87208",
+        "REQUIREMENT_RARITY*":"0",
+        "Ufm6c7RA":"0",
+        "ky1xsH0h":"2"
+    },
+    {
+        "AI_CHANCE":"0",
+        "DESCRIPTION":" ",
+        "MISSION_ID":"5008011",
+        "REQUIREMENT_ID":"87209",
+        "REQUIREMENT_RARITY*":"0",
+        "Ufm6c7RA":"0",
+        "ky1xsH0h":"2"
+    },
+    {
+        "AI_CHANCE":"0",
+        "DESCRIPTION":" ",
+        "MISSION_ID":"5008011",
+        "REQUIREMENT_ID":"87210",
+        "REQUIREMENT_RARITY*":"0",
+        "Ufm6c7RA":"0",
+        "ky1xsH0h":"2"
+    },
+    {
         "AI_CHANCE":"50",
         "DESCRIPTION":"\u6765\u8a2a\u8005\u9054\u304c\u5143\u306e\u4e16\u754c\u306b\u5e30\u9084\u3057\u305f",
         "MISSION_ID":"5200000",

@@ -120,13 +120,13 @@
     },
     "100001":{
         "desc":"MST_FROGATE100001_DESC",
-        "end time":"1586332799",
+        "end time":"1591775999",
         "id":"100001",
         "name":"MST_FROGATE100001_NAME",
         "restrictions":"@0",
         "rewards":[
             {
-                "elgif reward":"1:0:0",
+                "elgif reward":"1:0:87402603",
                 "id":"100256",
                 "quantity":1,
                 "requirement":{
@@ -170,17 +170,17 @@
                 "reward type":"7"
             }
         ],
-        "start time":"1552896000"
+        "start time":"1589961600"
     },
     "100002":{
         "desc":"MST_FROGATE100002_DESC",
-        "end time":"1586332799",
+        "end time":"1591775999",
         "id":"100002",
         "name":"MST_FROGATE100002_NAME",
         "restrictions":"@0",
         "rewards":[
             {
-                "elgif reward":"1:0:8900006",
+                "elgif reward":"1:0:8900007",
                 "id":"100253",
                 "quantity":1,
                 "requirement":{
@@ -213,11 +213,11 @@
                 "reward type":"8"
             }
         ],
-        "start time":"1552896000"
+        "start time":"1589961600"
     },
     "100003":{
         "desc":"MST_FROGATE100003_DESC",
-        "end time":"1586332799",
+        "end time":"1591775999",
         "id":"100003",
         "name":"MST_FROGATE100003_NAME",
         "restrictions":"@0",
@@ -256,11 +256,11 @@
                 "reward type":"6"
             }
         ],
-        "start time":"1552896000"
+        "start time":"1589961600"
     },
     "100004":{
         "desc":"MST_FROGATE100004_DESC",
-        "end time":"1586332799",
+        "end time":"1591775999",
         "id":"100004",
         "name":"MST_FROGATE100004_NAME",
         "restrictions":"@0",
@@ -288,11 +288,11 @@
                 "reward type":"8"
             }
         ],
-        "start time":"1552896000"
+        "start time":"1589961600"
     },
     "100005":{
         "desc":"MST_FROGATE100005_DESC",
-        "end time":"1586332799",
+        "end time":"1591775999",
         "id":"100005",
         "name":"MST_FROGATE100005_NAME",
         "restrictions":"@0",
@@ -386,11 +386,11 @@
                 "reward type":"4"
             }
         ],
-        "start time":"1552896000"
+        "start time":"1589961600"
     },
     "100006":{
         "desc":"MST_FROGATE100006_DESC",
-        "end time":"1586332799",
+        "end time":"1591775999",
         "id":"100006",
         "name":"MST_FROGATE100006_NAME",
         "restrictions":"@0",
@@ -418,11 +418,11 @@
                 "reward type":"4"
             }
         ],
-        "start time":"1552896000"
+        "start time":"1589961600"
     },
     "100007":{
         "desc":"MST_FROGATE100007_DESC",
-        "end time":"1586332799",
+        "end time":"1591775999",
         "id":"100007",
         "name":"MST_FROGATE100007_NAME",
         "restrictions":"@0",
@@ -461,11 +461,11 @@
                 "reward type":"8"
             }
         ],
-        "start time":"1552896000"
+        "start time":"1589961600"
     },
     "100008":{
         "desc":"MST_FROGATE100008_DESC",
-        "end time":"1586332799",
+        "end time":"1591775999",
         "id":"100008",
         "name":"MST_FROGATE100008_NAME",
         "restrictions":"@0",
@@ -493,11 +493,11 @@
                 "reward type":"4"
             }
         ],
-        "start time":"1552896000"
+        "start time":"1589961600"
     },
     "100009":{
         "desc":"MST_FROGATE100009_DESC",
-        "end time":"1586332799",
+        "end time":"1591775999",
         "id":"100009",
         "name":"MST_FROGATE100009_NAME",
         "restrictions":"@0",
@@ -591,11 +591,11 @@
                 "reward type":"4"
             }
         ],
-        "start time":"1552896000"
+        "start time":"1589961600"
     },
     "100010":{
         "desc":"MST_FROGATE100010_DESC",
-        "end time":"1586332799",
+        "end time":"1591775999",
         "id":"100010",
         "name":"MST_FROGATE100010_NAME",
         "restrictions":"@0",
@@ -623,11 +623,11 @@
                 "reward type":"4"
             }
         ],
-        "start time":"1552896000"
+        "start time":"1589961600"
     },
     "100011":{
         "desc":"MST_FROGATE100011_DESC",
-        "end time":"1586332799",
+        "end time":"1591775999",
         "id":"100011",
         "name":"MST_FROGATE100011_NAME",
         "restrictions":"@0",
@@ -666,11 +666,11 @@
                 "reward type":"4"
             }
         ],
-        "start time":"1552896000"
+        "start time":"1589961600"
     },
     "100012":{
         "desc":"MST_FROGATE100012_DESC",
-        "end time":"1586332799",
+        "end time":"1591775999",
         "id":"100012",
         "name":"MST_FROGATE100012_NAME",
         "restrictions":"@0",
@@ -764,7 +764,7 @@
                 "reward type":"4"
             },
             {
-                "elgif reward":"1:0:8000013",
+                "elgif reward":"1:0:8000010",
                 "id":"100219",
                 "quantity":1,
                 "requirement":{
@@ -775,11 +775,11 @@
                 "reward type":"6"
             }
         ],
-        "start time":"1552896000"
+        "start time":"1589961600"
     },
     "100013":{
         "desc":"MST_FROGATE100013_DESC",
-        "end time":"1586332799",
+        "end time":"1591775999",
         "id":"100013",
         "name":"MST_FROGATE100013_NAME",
         "restrictions":"@0",
@@ -840,11 +840,11 @@
                 "reward type":"6"
             }
         ],
-        "start time":"1552896000"
+        "start time":"1589961600"
     },
     "100014":{
         "desc":"MST_FROGATE100014_DESC",
-        "end time":"1586332799",
+        "end time":"1591775999",
         "id":"100014",
         "name":"MST_FROGATE100014_NAME",
         "restrictions":"@0",
@@ -905,7 +905,7 @@
                 "reward type":"6"
             },
             {
-                "elgif reward":"1:0:8000202",
+                "elgif reward":"1:0:8000204",
                 "id":"100205",
                 "quantity":1,
                 "requirement":{
@@ -916,11 +916,11 @@
                 "reward type":"6"
             }
         ],
-        "start time":"1552896000"
+        "start time":"1589961600"
     },
     "100015":{
         "desc":"MST_FROGATE100015_DESC",
-        "end time":"1586332799",
+        "end time":"1591775999",
         "id":"100015",
         "name":"MST_FROGATE100015_NAME",
         "restrictions":"@0",
@@ -1036,11 +1036,11 @@
                 "reward type":"4"
             }
         ],
-        "start time":"1552896000"
+        "start time":"1589961600"
     },
     "100016":{
         "desc":"MST_FROGATE100016_DESC",
-        "end time":"1586332799",
+        "end time":"1591775999",
         "id":"100016",
         "name":"MST_FROGATE100016_NAME",
         "restrictions":"@0",
@@ -1064,7 +1064,7 @@
                     "amount":1,
                     "type":"floors"
                 },
-                "reward id":"819301",
+                "reward id":"819303",
                 "reward type":"7"
             },
             {
@@ -1079,11 +1079,11 @@
                 "reward type":"8"
             }
         ],
-        "start time":"1552896000"
+        "start time":"1589961600"
     },
     "100017":{
         "desc":"MST_FROGATE100017_DESC",
-        "end time":"1586332799",
+        "end time":"1591775999",
         "id":"100017",
         "name":"MST_FROGATE100017_NAME",
         "restrictions":"@0",
@@ -1155,11 +1155,11 @@
                 "reward type":"6"
             }
         ],
-        "start time":"1552896000"
+        "start time":"1589961600"
     },
     "100018":{
         "desc":"MST_FROGATE100018_DESC",
-        "end time":"1586332799",
+        "end time":"1591775999",
         "id":"100018",
         "name":"MST_FROGATE100018_NAME",
         "restrictions":"@0",
@@ -1231,11 +1231,11 @@
                 "reward type":"6"
             }
         ],
-        "start time":"1552896000"
+        "start time":"1589961600"
     },
     "100019":{
         "desc":"MST_FROGATE100019_DESC",
-        "end time":"1586332799",
+        "end time":"1591775999",
         "id":"100019",
         "name":"MST_FROGATE100019_NAME",
         "restrictions":"@0",
@@ -1296,7 +1296,7 @@
                 "reward type":"6"
             },
             {
-                "elgif reward":"1:0:8900001",
+                "elgif reward":"1:0:8900002",
                 "id":"100260",
                 "quantity":1,
                 "requirement":{
@@ -1307,11 +1307,11 @@
                 "reward type":"6"
             }
         ],
-        "start time":"1552896000"
+        "start time":"1589961600"
     },
     "100020":{
         "desc":"MST_FROGATE100020_DESC",
-        "end time":"1586332799",
+        "end time":"1591775999",
         "id":"100020",
         "name":"MST_FROGATE100020_NAME",
         "restrictions":"@0",
@@ -1493,11 +1493,11 @@
                 "reward type":"8"
             }
         ],
-        "start time":"1552896000"
+        "start time":"1589961600"
     },
     "100021":{
         "desc":"MST_FROGATE100021_DESC",
-        "end time":"1586332799",
+        "end time":"1591775999",
         "id":"100021",
         "name":"MST_FROGATE100021_NAME",
         "restrictions":"@0",
@@ -1547,7 +1547,7 @@
                 "reward type":"3"
             },
             {
-                "elgif reward":"1:0:8000803",
+                "elgif reward":"1:0:8001001",
                 "id":"100150",
                 "quantity":1,
                 "requirement":{
@@ -1591,11 +1591,11 @@
                 "reward type":"5"
             }
         ],
-        "start time":"1552896000"
+        "start time":"1589961600"
     },
     "100022":{
         "desc":"MST_FROGATE100022_DESC",
-        "end time":"1586332799",
+        "end time":"1591775999",
         "id":"100022",
         "name":"MST_FROGATE100022_NAME",
         "restrictions":"@0",
@@ -1689,11 +1689,11 @@
                 "reward type":"8"
             }
         ],
-        "start time":"1552896000"
+        "start time":"1589961600"
     },
     "100023":{
         "desc":"MST_FROGATE100023_DESC",
-        "end time":"1586332799",
+        "end time":"1591775999",
         "id":"100023",
         "name":"MST_FROGATE100023_NAME",
         "restrictions":"@0",
@@ -1831,11 +1831,11 @@
                 "reward type":"6"
             }
         ],
-        "start time":"1552896000"
+        "start time":"1589961600"
     },
     "100024":{
         "desc":"MST_FROGATE100024_DESC",
-        "end time":"1586332799",
+        "end time":"1591775999",
         "id":"100024",
         "name":"MST_FROGATE100024_NAME",
         "restrictions":"@0",
@@ -1984,11 +1984,11 @@
                 "reward type":"5"
             }
         ],
-        "start time":"1552896000"
+        "start time":"1589961600"
     },
     "100025":{
         "desc":"MST_FROGATE100025_DESC",
-        "end time":"1586332799",
+        "end time":"1591775999",
         "id":"100025",
         "name":"MST_FROGATE100025_NAME",
         "restrictions":"@0",
@@ -2126,11 +2126,11 @@
                 "reward type":"6"
             }
         ],
-        "start time":"1552896000"
+        "start time":"1589961600"
     },
     "100026":{
         "desc":"MST_FROGATE100026_DESC",
-        "end time":"1586332799",
+        "end time":"1591775999",
         "id":"100026",
         "name":"MST_FROGATE100026_NAME",
         "restrictions":"@0",
@@ -2180,7 +2180,7 @@
                 "reward type":"3"
             },
             {
-                "elgif reward":"1:0:8000102",
+                "elgif reward":"1:0:8000104",
                 "id":"100087",
                 "quantity":1,
                 "requirement":{
@@ -2334,11 +2334,11 @@
                 "reward type":"5"
             }
         ],
-        "start time":"1552896000"
+        "start time":"1589961600"
     },
     "100027":{
         "desc":"MST_FROGATE100027_DESC",
-        "end time":"1586332799",
+        "end time":"1591775999",
         "id":"100027",
         "name":"MST_FROGATE100027_NAME",
         "restrictions":"@0",
@@ -2421,11 +2421,11 @@
                 "reward type":"6"
             }
         ],
-        "start time":"1552896000"
+        "start time":"1589961600"
     },
     "100028":{
         "desc":"MST_FROGATE100028_DESC",
-        "end time":"1586332799",
+        "end time":"1591775999",
         "id":"100028",
         "name":"MST_FROGATE100028_NAME",
         "restrictions":"@0",
@@ -2772,11 +2772,11 @@
                 "reward type":"5"
             }
         ],
-        "start time":"1552896000"
+        "start time":"1589961600"
     },
     "100029":{
         "desc":"MST_FROGATE100029_DESC",
-        "end time":"1586332799",
+        "end time":"1591775999",
         "id":"100029",
         "name":"MST_FROGATE100029_NAME",
         "restrictions":"@0",
@@ -3035,11 +3035,11 @@
                 "reward type":"5"
             }
         ],
-        "start time":"1552896000"
+        "start time":"1589961600"
     },
     "100030":{
         "desc":"MST_FROGATE100030_DESC",
-        "end time":"1586332799",
+        "end time":"1591775999",
         "id":"100030",
         "name":"MST_FROGATE100030_NAME",
         "restrictions":"@0",
@@ -3276,7 +3276,7 @@
                 "reward type":"5"
             }
         ],
-        "start time":"1552896000"
+        "start time":"1589961600"
     },
     "101":{
         "desc":"MST_FROGATE101_DESC",
@@ -4772,6 +4772,50 @@
                 },
                 "reward id":"8052",
                 "reward type":"8004"
+            },
+            {
+                "elgif reward":"0",
+                "id":"1050000",
+                "quantity":500,
+                "requirement":{
+                    "amount":1,
+                    "type":"points"
+                },
+                "reward id":"8",
+                "reward type":"8004"
+            },
+            {
+                "elgif reward":"0",
+                "id":"1050001",
+                "quantity":1000,
+                "requirement":{
+                    "amount":1500000,
+                    "type":"points"
+                },
+                "reward id":"8",
+                "reward type":"8004"
+            },
+            {
+                "elgif reward":"0",
+                "id":"1050002",
+                "quantity":2000,
+                "requirement":{
+                    "amount":2500000,
+                    "type":"points"
+                },
+                "reward id":"8",
+                "reward type":"8004"
+            },
+            {
+                "elgif reward":"0",
+                "id":"1050003",
+                "quantity":3000,
+                "requirement":{
+                    "amount":3750000,
+                    "type":"points"
+                },
+                "reward id":"8",
+                "reward type":"8004"
             }
         ],
         "start time":"1562227200"
@@ -5857,6 +5901,50 @@
                     "type":"points"
                 },
                 "reward id":"8062",
+                "reward type":"8004"
+            },
+            {
+                "elgif reward":"0",
+                "id":"1060001",
+                "quantity":500,
+                "requirement":{
+                    "amount":1,
+                    "type":"points"
+                },
+                "reward id":"8",
+                "reward type":"8004"
+            },
+            {
+                "elgif reward":"0",
+                "id":"1060002",
+                "quantity":1000,
+                "requirement":{
+                    "amount":1000000,
+                    "type":"points"
+                },
+                "reward id":"8",
+                "reward type":"8004"
+            },
+            {
+                "elgif reward":"0",
+                "id":"1060003",
+                "quantity":2000,
+                "requirement":{
+                    "amount":2000000,
+                    "type":"points"
+                },
+                "reward id":"8",
+                "reward type":"8004"
+            },
+            {
+                "elgif reward":"0",
+                "id":"1060004",
+                "quantity":3000,
+                "requirement":{
+                    "amount":3000000,
+                    "type":"points"
+                },
+                "reward id":"8",
                 "reward type":"8004"
             }
         ],
@@ -7108,6 +7196,50 @@
                     "type":"points"
                 },
                 "reward id":"8072",
+                "reward type":"8004"
+            },
+            {
+                "elgif reward":"0",
+                "id":"1070000",
+                "quantity":500,
+                "requirement":{
+                    "amount":1,
+                    "type":"points"
+                },
+                "reward id":"8",
+                "reward type":"8004"
+            },
+            {
+                "elgif reward":"0",
+                "id":"1070001",
+                "quantity":1000,
+                "requirement":{
+                    "amount":750000,
+                    "type":"points"
+                },
+                "reward id":"8",
+                "reward type":"8004"
+            },
+            {
+                "elgif reward":"0",
+                "id":"1070002",
+                "quantity":2000,
+                "requirement":{
+                    "amount":1250000,
+                    "type":"points"
+                },
+                "reward id":"8",
+                "reward type":"8004"
+            },
+            {
+                "elgif reward":"0",
+                "id":"1070003",
+                "quantity":3000,
+                "requirement":{
+                    "amount":1750000,
+                    "type":"points"
+                },
+                "reward id":"8",
                 "reward type":"8004"
             }
         ],
@@ -8591,6 +8723,50 @@
                 },
                 "reward id":"8082",
                 "reward type":"8004"
+            },
+            {
+                "elgif reward":"0",
+                "id":"1080000",
+                "quantity":500,
+                "requirement":{
+                    "amount":1,
+                    "type":"points"
+                },
+                "reward id":"8",
+                "reward type":"8004"
+            },
+            {
+                "elgif reward":"0",
+                "id":"1080001",
+                "quantity":1000,
+                "requirement":{
+                    "amount":600000,
+                    "type":"points"
+                },
+                "reward id":"8",
+                "reward type":"8004"
+            },
+            {
+                "elgif reward":"0",
+                "id":"1080002",
+                "quantity":2000,
+                "requirement":{
+                    "amount":1500000,
+                    "type":"points"
+                },
+                "reward id":"8",
+                "reward type":"8004"
+            },
+            {
+                "elgif reward":"0",
+                "id":"1080003",
+                "quantity":3000,
+                "requirement":{
+                    "amount":2500000,
+                    "type":"points"
+                },
+                "reward id":"8",
+                "reward type":"8004"
             }
         ],
         "start time":"1570089600"
@@ -10039,6 +10215,50 @@
                     "type":"points"
                 },
                 "reward id":"8092",
+                "reward type":"8004"
+            },
+            {
+                "elgif reward":"0",
+                "id":"1090000",
+                "quantity":500,
+                "requirement":{
+                    "amount":1,
+                    "type":"points"
+                },
+                "reward id":"8",
+                "reward type":"8004"
+            },
+            {
+                "elgif reward":"0",
+                "id":"1090001",
+                "quantity":1000,
+                "requirement":{
+                    "amount":850000,
+                    "type":"points"
+                },
+                "reward id":"8",
+                "reward type":"8004"
+            },
+            {
+                "elgif reward":"0",
+                "id":"1090002",
+                "quantity":2000,
+                "requirement":{
+                    "amount":2000000,
+                    "type":"points"
+                },
+                "reward id":"8",
+                "reward type":"8004"
+            },
+            {
+                "elgif reward":"0",
+                "id":"1090003",
+                "quantity":3000,
+                "requirement":{
+                    "amount":3000000,
+                    "type":"points"
+                },
+                "reward id":"8",
                 "reward type":"8004"
             }
         ],
@@ -11719,6 +11939,50 @@
                 },
                 "reward id":"8102",
                 "reward type":"8004"
+            },
+            {
+                "elgif reward":"0",
+                "id":"1100000",
+                "quantity":500,
+                "requirement":{
+                    "amount":1,
+                    "type":"points"
+                },
+                "reward id":"8",
+                "reward type":"8004"
+            },
+            {
+                "elgif reward":"0",
+                "id":"1100001",
+                "quantity":1000,
+                "requirement":{
+                    "amount":750000,
+                    "type":"points"
+                },
+                "reward id":"8",
+                "reward type":"8004"
+            },
+            {
+                "elgif reward":"0",
+                "id":"1100002",
+                "quantity":2000,
+                "requirement":{
+                    "amount":1500000,
+                    "type":"points"
+                },
+                "reward id":"8",
+                "reward type":"8004"
+            },
+            {
+                "elgif reward":"0",
+                "id":"1100003",
+                "quantity":3000,
+                "requirement":{
+                    "amount":2500000,
+                    "type":"points"
+                },
+                "reward id":"8",
+                "reward type":"8004"
             }
         ],
         "start time":"1580976000"
@@ -13167,6 +13431,50 @@
                     "type":"points"
                 },
                 "reward id":"8112",
+                "reward type":"8004"
+            },
+            {
+                "elgif reward":"0",
+                "id":"1110000",
+                "quantity":500,
+                "requirement":{
+                    "amount":1,
+                    "type":"points"
+                },
+                "reward id":"8",
+                "reward type":"8004"
+            },
+            {
+                "elgif reward":"0",
+                "id":"1110001",
+                "quantity":1000,
+                "requirement":{
+                    "amount":750000,
+                    "type":"points"
+                },
+                "reward id":"8",
+                "reward type":"8004"
+            },
+            {
+                "elgif reward":"0",
+                "id":"1110002",
+                "quantity":2000,
+                "requirement":{
+                    "amount":1500000,
+                    "type":"points"
+                },
+                "reward id":"8",
+                "reward type":"8004"
+            },
+            {
+                "elgif reward":"0",
+                "id":"1110003",
+                "quantity":3000,
+                "requirement":{
+                    "amount":2500000,
+                    "type":"points"
+                },
+                "reward id":"8",
                 "reward type":"8004"
             }
         ],

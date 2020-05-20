@@ -37745,6 +37745,45 @@
         "thumbnail":"sphere_thum_819297.png",
         "type":"sphere"
     },
+    "819298":{
+        "desc":"MST_SPHERES_819298_SHORTDESCRIPTION",
+        "effects":[
+            {
+                "params":"0,0,0,0,50",
+                "proc id":"1"
+            },
+            {
+                "params":"1,2,3,4,5,6,1",
+                "proc id":"50"
+            },
+            {
+                "params":"25,30",
+                "proc id":"14"
+            },
+            {
+                "params":"20,0",
+                "proc id":"48"
+            },
+            {
+                "params":"100,100,100,100,100,100,100,100,100",
+                "proc id":"73"
+            }
+        ],
+        "from raid":"false",
+        "guide id":"819298",
+        "id":"819298",
+        "lore":"A necklace of golden pearls, featuring a large iridescent pearl prominently at the wearer's throat. This deep-sea treasure is worn by the seal-shifter Aoife, Maiden of Eyinhel.<br><br>Possessing a shapeshifter's totem grants one great power over them, and most, if not all, do not relinquish these items easily. But so taken was Aoife with her Pactbound that she presented this to them as a token of promise.<br><br>Following the tragedy, the large pearl subsequently lost its original luster, taking on a deeper, darker hue. Peer at it long enough, and streaks of red appear to cross its azure surface...",
+        "max equip":1,
+        "max stack":1,
+        "name":"MST_SPHERES_819298_NAME",
+        "rarity":7,
+        "sale caution":"true",
+        "sale price":30000,
+        "sphere type":"SPHERE_TYPE_NAME_14",
+        "target":"none",
+        "thumbnail":"sphere_thum_819298.png",
+        "type":"sphere"
+    },
     "819299":{
         "desc":"MST_SPHERES_819299_SHORTDESCRIPTION",
         "effects":[
@@ -37823,6 +37862,45 @@
         "thumbnail":"sphere_thum_5_5.png",
         "type":"sphere"
     },
+    "819303":{
+        "desc":"MST_SPHERES_819303_SHORTDESCRIPTION",
+        "effects":[
+            {
+                "params":"0,0,50,0,50",
+                "proc id":"1"
+            },
+            {
+                "params":"2500",
+                "proc id":"9"
+            },
+            {
+                "params":"25",
+                "proc id":"48"
+            },
+            {
+                "params":"100",
+                "proc id":"70"
+            },
+            {
+                "params":"0,1",
+                "proc id":"72"
+            }
+        ],
+        "from raid":"false",
+        "guide id":"819303",
+        "id":"819303",
+        "lore":"MST_SPHERES_819303_LONGDESCRIPTION",
+        "max equip":1,
+        "max stack":1,
+        "name":"MST_SPHERES_819303_NAME",
+        "rarity":7,
+        "sale caution":"true",
+        "sale price":30000,
+        "sphere type":"SPHERE_TYPE_NAME_1",
+        "target":"none",
+        "thumbnail":"ls_sphere_thum_2_8.png",
+        "type":"sphere"
+    },
     "819311":{
         "desc":"MST_SPHERES_819311_SHORTDESCRIPTION",
         "effects":[
@@ -37893,6 +37971,252 @@
         "thumbnail":"sphere_thum_819312.png",
         "type":"sphere"
     },
+    "819313":{
+        "desc":"MST_SPHERES_819313_SHORTDESCRIPTION",
+        "effects":[
+            {
+                "params":"100,0,0,30,30",
+                "proc id":"1"
+            },
+            {
+                "params":"1,2,3,4,5,6,1",
+                "proc id":"50"
+            },
+            {
+                "params":"1.25",
+                "proc id":"34"
+            },
+            {
+                "params":"125,0,0,0,0,0,50,1",
+                "proc id":"104"
+            },
+            {
+                "params":"100,100",
+                "proc id":"77"
+            }
+        ],
+        "from raid":"false",
+        "guide id":"819313",
+        "id":"819313",
+        "lore":"A silver Break Action Revolver that is Vash's weapon of choice. It has greater firepower than your ordinary revolver.<br><br>Crafted by Knives and possessing a powerful potential for destruction, this gun is able to transform into an Angel Arm by resonating with Independent Plants.",
+        "max equip":1,
+        "max stack":1,
+        "name":"MST_SPHERES_819313_NAME",
+        "rarity":7,
+        "sale caution":"true",
+        "sale price":30000,
+        "sphere type":"SPHERE_TYPE_NAME_13",
+        "target":"none",
+        "thumbnail":"sphere_thum_819313.png",
+        "type":"sphere"
+    },
+    "819314":{
+        "desc":"MST_SPHERES_819314_SHORTDESCRIPTION",
+        "effects":[
+            {
+                "params":"60,60,60,30,60",
+                "proc id":"1"
+            },
+            {
+                "params":"2,1,0,0,0,0,0,100",
+                "proc id":"37"
+            },
+            {
+                "params":"20",
+                "proc id":"43"
+            },
+            {
+                "params":"5",
+                "proc id":"8"
+            },
+            {
+                "params":"100,50",
+                "proc id":"127"
+            }
+        ],
+        "from raid":"false",
+        "guide id":"819314",
+        "id":"819314",
+        "lore":"Not one, not two, but eight Grader 2043 pistols. One of the many weapons contained in the Punisher.<br><br>A 1911-style handgun that is specially made to be used one-handed. Wolfwood stores them in the side arms of the Punisher cross, four on each side, and pulls them out two at a time in a fight.<br><br>When the pistols run out of ammunition, Wolfwood simply grabs a new pair from the Punisher.",
+        "max equip":1,
+        "max stack":1,
+        "name":"MST_SPHERES_819314_NAME",
+        "rarity":7,
+        "sale caution":"true",
+        "sale price":30000,
+        "sphere type":"SPHERE_TYPE_NAME_1",
+        "target":"none",
+        "thumbnail":"sphere_thum_819314.png",
+        "type":"sphere"
+    },
+    "819315":{
+        "desc":"MST_SPHERES_819315_SHORTDESCRIPTION",
+        "effects":[
+            {
+                "params":"100,100,100,0,50,1",
+                "proc id":"30"
+            },
+            {
+                "params":"100,100",
+                "proc id":"77"
+            },
+            {
+                "params":"150,0,0,0,0,0,0",
+                "proc id":"31"
+            },
+            {
+                "params":"200,300,100",
+                "proc id":"47"
+            },
+            {
+                "params":"36,20,-1,15,2",
+                "proc id":"86"
+            }
+        ],
+        "from raid":"false",
+        "guide id":"819315",
+        "id":"819315",
+        "lore":"A black Break Action Revolver that is Knives' weapon of choice. The twin of the Silver AGL .45, albeit of a different color.<br><br>It has a high destructive power.  It remained in the possession of Vash until Knives finally took it back to fulfill his quest to erase humanity from Gunsmoke. Similar to its twin, this gun can also transform into an Angel Arm.",
+        "max equip":1,
+        "max stack":1,
+        "name":"MST_SPHERES_819315_NAME",
+        "rarity":7,
+        "sale caution":"true",
+        "sale price":30000,
+        "sphere type":"SPHERE_TYPE_NAME_11",
+        "target":"none",
+        "thumbnail":"sphere_thum_819315.png",
+        "type":"sphere"
+    },
+    "819316":{
+        "desc":"MST_SPHERES_819316_SHORTDESCRIPTION",
+        "effects":[
+            {
+                "params":"150,0,0,30,30",
+                "proc id":"1"
+            },
+            {
+                "params":"1,2,3,4,5,6,1.25",
+                "proc id":"50"
+            },
+            {
+                "params":"1.5",
+                "proc id":"34"
+            },
+            {
+                "params":"150,0,0,0,0,0,50,1",
+                "proc id":"104"
+            },
+            {
+                "params":"100,100",
+                "proc id":"77"
+            },
+            {
+                "params":"0,200,50000",
+                "proc id":"81"
+            }
+        ],
+        "from raid":"false",
+        "guide id":"819316",
+        "id":"819316",
+        "lore":"The final form of the Silver AGL .45 after activating the catalyst hidden above the barrel.<br><br>The Angel Arm is a natural ability found in Plants like Vash and Knives. When Vash's Angel Arm was first activated, the blast was so powerful that it destroyed an entire city and left him with fragmented memories.<br><br>The power of the Angel Arm depends on the will of its user.",
+        "max equip":1,
+        "max stack":1,
+        "name":"MST_SPHERES_819316_NAME",
+        "rarity":7,
+        "sale caution":"true",
+        "sale price":30000,
+        "sphere type":"SPHERE_TYPE_NAME_13",
+        "target":"none",
+        "thumbnail":"sphere_thum_819316.png",
+        "type":"sphere"
+    },
+    "819317":{
+        "desc":"MST_SPHERES_819317_SHORTDESCRIPTION",
+        "effects":[
+            {
+                "params":"70,70,70,30,70",
+                "proc id":"1"
+            },
+            {
+                "params":"2,1,20,0,0,0,0,100",
+                "proc id":"37"
+            },
+            {
+                "params":"25",
+                "proc id":"43"
+            },
+            {
+                "params":"10",
+                "proc id":"8"
+            },
+            {
+                "params":"100,50",
+                "proc id":"127"
+            },
+            {
+                "params":"43,14,3,1,0,1,1,0",
+                "proc id":"66"
+            }
+        ],
+        "from raid":"false",
+        "guide id":"819317",
+        "id":"819317",
+        "lore":"A multi-purpose weapon. It is very heavy due to the large amount of mercy contained within.<br><br>The Punisher's main armaments are a machine gun in front, and a rocket launcher at the back. Wolfwood switches the position of the Punisher depending on the type of weapon used.<br><br>Wolfwood bears the weight of the Punisher during his final battle against his mentor\u2014the person who gave him the very weapon.",
+        "max equip":1,
+        "max stack":1,
+        "name":"MST_SPHERES_819317_NAME",
+        "rarity":7,
+        "sale caution":"true",
+        "sale price":30000,
+        "sphere type":"SPHERE_TYPE_NAME_1",
+        "target":"none",
+        "thumbnail":"sphere_thum_819317.png",
+        "type":"sphere"
+    },
+    "819318":{
+        "desc":"MST_SPHERES_819318_SHORTDESCRIPTION",
+        "effects":[
+            {
+                "params":"125,125,125,0,50,1",
+                "proc id":"30"
+            },
+            {
+                "params":"100,100",
+                "proc id":"77"
+            },
+            {
+                "params":"200,0,0,0,0,0",
+                "proc id":"31"
+            },
+            {
+                "params":"300,400,100",
+                "proc id":"47"
+            },
+            {
+                "params":"10005,-1,0,0,0,0,0,0,0,0",
+                "proc id":"11009"
+            },
+            {
+                "params":"36,25,-1,15,2",
+                "proc id":"86"
+            }
+        ],
+        "from raid":"false",
+        "guide id":"819318",
+        "id":"819318",
+        "lore":"The final form of the Dark AGL .45 after activating the catalyst hidden above the barrel.<br><br>It resembles a large cannon, with the face and wings of an angel on it, hence the name. Knives' Angel Arm was used in the fateful final battle where it was wielded with overwhelming expertise.<br><br>However, it was ultimately defeated by the power of love and peace.",
+        "max equip":1,
+        "max stack":1,
+        "name":"MST_SPHERES_819318_NAME",
+        "rarity":7,
+        "sale caution":"true",
+        "sale price":30000,
+        "sphere type":"SPHERE_TYPE_NAME_11",
+        "target":"none",
+        "thumbnail":"sphere_thum_819318.png",
+        "type":"sphere"
+    },
     "819319":{
         "desc":"MST_SPHERES_819319_SHORTDESCRIPTION",
         "effects":[
@@ -37938,6 +38262,45 @@
         "sphere type":"SPHERE_TYPE_NAME_14",
         "target":"none",
         "thumbnail":"sphere_thum_828001.png",
+        "type":"sphere"
+    },
+    "819320":{
+        "desc":"MST_SPHERES_819320_SHORTDESCRIPTION",
+        "effects":[
+            {
+                "params":"50,50,50,0,50",
+                "proc id":"1"
+            },
+            {
+                "params":"100,35",
+                "proc id":"127"
+            },
+            {
+                "params":"100,0,0,0,0,0",
+                "proc id":"31"
+            },
+            {
+                "params":"20",
+                "proc id":"58"
+            },
+            {
+                "params":"1200",
+                "proc id":"9"
+            }
+        ],
+        "from raid":"false",
+        "guide id":"819320",
+        "id":"819320",
+        "lore":"A one-handed warhammer with a snarling lion for its head. The iconic weapon of the paragon Deimos, demigod of strength. Despite its fearsome appearance, it has rarely seen bloodshed, for its wielder shuns unnecessary violence.<br><br>Where the legendary Forgebreaker, Deimos' former weapon, was built for destruction, Paragon's Roar was built for creation. Indeed, legends abound of the Golden City and their stunning metalcraft, each a tribute to the glory of the old gods. It is said that only the noblest of spirits may wield this weapon, and only to protect others.",
+        "max equip":1,
+        "max stack":1,
+        "name":"MST_SPHERES_819320_NAME",
+        "rarity":7,
+        "sale caution":"true",
+        "sale price":30000,
+        "sphere type":"SPHERE_TYPE_NAME_1",
+        "target":"none",
+        "thumbnail":"ls_sphere_thum_7_4.png",
         "type":"sphere"
     },
     "819901":{
@@ -44062,6 +44425,52 @@
         "sale price":1000,
         "target":"none",
         "thumbnail":"item_thum_20810.png",
+        "type":"material"
+    },
+    "890062":{
+        "color":"yellow",
+        "desc":"MST_ITEMS_MATERIAL_890062_SHORTDESCRIPTION",
+        "effects":[
+            {
+                "params":"",
+                "proc id":"0"
+            }
+        ],
+        "from raid":"false",
+        "guide id":"8168",
+        "id":"890062",
+        "item type":"stone",
+        "lore":"MST_ITEMS_MATERIAL_890062_LONGDESCRIPTION",
+        "max stack":99,
+        "name":"MST_ITEMS_MATERIAL_890062_NAME",
+        "rarity":3,
+        "sale caution":"false",
+        "sale price":1000,
+        "target":"none",
+        "thumbnail":"item_thum_800007.png",
+        "type":"material"
+    },
+    "890063":{
+        "color":"yellow",
+        "desc":"MST_ITEMS_MATERIAL_890063_SHORTDESCRIPTION",
+        "effects":[
+            {
+                "params":"",
+                "proc id":"0"
+            }
+        ],
+        "from raid":"false",
+        "guide id":"8168",
+        "id":"890063",
+        "item type":"stone",
+        "lore":"MST_ITEMS_MATERIAL_890063_LONGDESCRIPTION",
+        "max stack":99,
+        "name":"MST_ITEMS_MATERIAL_890063_NAME",
+        "rarity":3,
+        "sale caution":"false",
+        "sale price":1000,
+        "target":"none",
+        "thumbnail":"item_thum_91100.png",
         "type":"material"
     },
     "899998":{

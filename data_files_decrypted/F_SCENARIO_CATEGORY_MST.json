@@ -511,6 +511,13 @@
         "SP_CAT_NAME":"The Echoing Void"
     },
     {
+        "DESCRIPTION":"When the universe ends, your only solace lies in how quick it comes.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"17",
+        "SCENARIO_SUPERSECTION*":"50400",
+        "SP_CAT_ID":"85007",
+        "SP_CAT_NAME":"Liminal End"
+    },
+    {
         "DESCRIPTION":"Meet Fei and Fang, lovers who have fallen under the shadow of an evil witch!",
         "QUEST_MAP_NUMBER/GUIDE_ID":"3",
         "SCENARIO_SUPERSECTION*":"70000",

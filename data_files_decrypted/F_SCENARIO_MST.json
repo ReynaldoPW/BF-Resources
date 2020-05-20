@@ -8766,6 +8766,51 @@
         "SP_CAT_ID":"85006"
     },
     {
+        "DESCRIPTION":"An ominously coincidental disappearance spells some grave new developments in this burgeoning mystery.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"1",
+        "SCENARIO_ID":"87100",
+        "SCENARIO_NAME":"Leads Nowhere",
+        "SCENARIO_TEXT_FILE":"X7_Opening.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"85007"
+    },
+    {
+        "DESCRIPTION":"Hakuzo vanishes without any more insight on the missing Summoner, but there's only so much you can do with a demon.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"2",
+        "SCENARIO_ID":"87101",
+        "SCENARIO_NAME":"Bad Customer Service",
+        "SCENARIO_TEXT_FILE":"X7_Arc1_Ep1_1.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"85007"
+    },
+    {
+        "DESCRIPTION":"It was very much For Science, even if it means putting yourself out as bait for a space-terror.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"3",
+        "SCENARIO_ID":"87102",
+        "SCENARIO_NAME":"Hands-On Science",
+        "SCENARIO_TEXT_FILE":"X7_Arc1_Ep1_2.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"85007"
+    },
+    {
+        "DESCRIPTION":"Kranus doesn't seem that all amused with the fast-talking Giselle.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"4",
+        "SCENARIO_ID":"87103",
+        "SCENARIO_NAME":"Heart-to-Heart",
+        "SCENARIO_TEXT_FILE":"X7_Arc1_Ep1_3A.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"85007"
+    },
+    {
+        "DESCRIPTION":"Sometimes, you're not the only one in pursuit.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"5",
+        "SCENARIO_ID":"87104",
+        "SCENARIO_NAME":"Dust to Dust",
+        "SCENARIO_TEXT_FILE":"X7_Arc1_Ep1_3B.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"85007"
+    },
+    {
         "DESCRIPTION":"Welcome to an odd sort of theater - your audience awaits you with bated breath. Don't die.",
         "QUEST_MAP_NUMBER/GUIDE_ID":"97",
         "SCENARIO_ID":"88400",

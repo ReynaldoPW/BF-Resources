@@ -41226,6 +41226,42 @@
         "EFFECT_AREA*":"3"
     },
     {
+        "1NijIP2a":"30",
+        "BATTLE_EFFECT_FILE":"effect_prt_1059_green.plist",
+        "BATTLE_EFFECT_ID":"8200274",
+        "EFFECT_AREA*":"3"
+    },
+    {
+        "1NijIP2a":"40",
+        "BATTLE_EFFECT_FILE":"effect_prt_1133_green.plist",
+        "BATTLE_EFFECT_ID":"8200275",
+        "EFFECT_AREA*":"3"
+    },
+    {
+        "1NijIP2a":"70",
+        "BATTLE_EFFECT_FILE":"effect_prt_1097_green.plist",
+        "BATTLE_EFFECT_ID":"8200276",
+        "EFFECT_AREA*":"3"
+    },
+    {
+        "1NijIP2a":"80",
+        "BATTLE_EFFECT_FILE":"effect_prt_1087_purple.plist",
+        "BATTLE_EFFECT_ID":"8200277",
+        "EFFECT_AREA*":"3"
+    },
+    {
+        "1NijIP2a":"90",
+        "BATTLE_EFFECT_FILE":"effect_prt_1087_green.plist",
+        "BATTLE_EFFECT_ID":"8200279",
+        "EFFECT_AREA*":"3"
+    },
+    {
+        "1NijIP2a":"80",
+        "BATTLE_EFFECT_FILE":"effect_prt_1133_green.plist",
+        "BATTLE_EFFECT_ID":"8200280",
+        "EFFECT_AREA*":"3"
+    },
+    {
         "1NijIP2a":"100",
         "BATTLE_EFFECT_FILE":"810507BattleEffectDimBack.sam",
         "BATTLE_EFFECT_ID":"8300001",
