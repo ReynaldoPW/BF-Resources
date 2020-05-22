@@ -468,7 +468,7 @@
         "moWQ30GH":"F_SKILL_LEVEL_MST"
     },
     {
-        "d2RFtP8T":"581",
+        "d2RFtP8T":"582",
         "moWQ30GH":"F_EXTRA_PASSIVE_SKILL_MST"
     },
     {
