@@ -18969,7 +18969,7 @@
     {
         "AI_PRIORITY":"0",
         "CONTRIBUTIONS_TYPE":"2",
-        "DESCRIPTION":"40% all parameters and 30% critical rate (Light, Dark), 25% damage reduction when guarding, 10% damage reduction from Light, Dark types, 100% Light, Dark elemental damage, 35% Light, Dark elemental damage for all allies & 120% BB Atk for all allies",
+        "DESCRIPTION":"40% all parameters and 30% critical rate (Light, Dark), 25% damage reduction when guarding, 10% damage reduction from Light, Dark types, 100% Light, Dark elemental damage, 30% Light, Dark elemental damage for all allies & 120% BB Atk for all allies",
         "ES_ID":"8900008",
         "ES_PARAMETERS":"1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0",
         "FILE_NAME":"0",
