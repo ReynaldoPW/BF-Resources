@@ -37823,6 +37823,45 @@
         "thumbnail":"sphere_thum_818894.png",
         "type":"sphere"
     },
+    "819300":{
+        "desc":"MST_SPHERES_819300_SHORTDESCRIPTION",
+        "effects":[
+            {
+                "params":"0,0,0,30,30",
+                "proc id":"1"
+            },
+            {
+                "params":"0,150,0,0,0,0,1,5",
+                "proc id":"105"
+            },
+            {
+                "params":"1",
+                "proc id":"34"
+            },
+            {
+                "params":"1,0,0,0,0,0,1",
+                "proc id":"50"
+            },
+            {
+                "params":"11,2&80&3&80&4&80&0&0&0,2,2,0,1,0,0",
+                "proc id":"66"
+            }
+        ],
+        "from raid":"false",
+        "guide id":"819300",
+        "id":"819300",
+        "lore":"MST_SPHERES_819300_LONGDESCRIPTION",
+        "max equip":1,
+        "max stack":1,
+        "name":"MST_SPHERES_819300_NAME",
+        "rarity":7,
+        "sale caution":"true",
+        "sale price":30000,
+        "sphere type":"SPHERE_TYPE_NAME_2",
+        "target":"none",
+        "thumbnail":"sphere_thum_1_1.png",
+        "type":"sphere"
+    },
     "819301":{
         "desc":"MST_SPHERES_819301_SHORTDESCRIPTION",
         "effects":[
@@ -37862,6 +37901,49 @@
         "thumbnail":"sphere_thum_5_5.png",
         "type":"sphere"
     },
+    "819302":{
+        "desc":"MST_SPHERES_819302_SHORTDESCRIPTION",
+        "effects":[
+            {
+                "params":"6,0,0,45,0,0,45",
+                "proc id":"2"
+            },
+            {
+                "params":"0,1,25,25,0",
+                "proc id":"69"
+            },
+            {
+                "params":"30,30",
+                "proc id":"14"
+            },
+            {
+                "params":"100,35",
+                "proc id":"127"
+            },
+            {
+                "params":"100,100,100,100,100,100,0,0,0,0",
+                "proc id":"53"
+            },
+            {
+                "params":"6,0,0,0,0,0,1.25",
+                "proc id":"50"
+            }
+        ],
+        "from raid":"false",
+        "guide id":"819302",
+        "id":"819302",
+        "lore":"MST_SPHERES_819302_LONGDESCRIPTION",
+        "max equip":1,
+        "max stack":1,
+        "name":"MST_SPHERES_819302_NAME",
+        "rarity":7,
+        "sale caution":"true",
+        "sale price":30000,
+        "sphere type":"SPHERE_TYPE_NAME_1",
+        "target":"none",
+        "thumbnail":"ls_sphere_thum_2_6.png",
+        "type":"sphere"
+    },
     "819303":{
         "desc":"MST_SPHERES_819303_SHORTDESCRIPTION",
         "effects":[
@@ -37899,6 +37981,240 @@
         "sphere type":"SPHERE_TYPE_NAME_1",
         "target":"none",
         "thumbnail":"ls_sphere_thum_2_8.png",
+        "type":"sphere"
+    },
+    "819304":{
+        "desc":"MST_SPHERES_819304_SHORTDESCRIPTION",
+        "effects":[
+            {
+                "params":"100,0,0,30,0",
+                "proc id":"1"
+            },
+            {
+                "params":"0,150,0,0,0,0,1,5",
+                "proc id":"105"
+            },
+            {
+                "params":"100,0,0,0,0,0,90,2",
+                "proc id":"104"
+            },
+            {
+                "params":"300,300,300,90,2",
+                "proc id":"103"
+            },
+            {
+                "params":"-5,100,-5,100,-5,100,-5,100,0,0",
+                "proc id":"10008"
+            }
+        ],
+        "from raid":"false",
+        "guide id":"819304",
+        "id":"819304",
+        "lore":"MST_SPHERES_819304_LONGDESCRIPTION",
+        "max equip":1,
+        "max stack":1,
+        "name":"MST_SPHERES_819304_NAME",
+        "rarity":7,
+        "sale caution":"true",
+        "sale price":30000,
+        "sphere type":"SPHERE_TYPE_NAME_11",
+        "target":"none",
+        "thumbnail":"ls_sphere_thum_6_6.png",
+        "type":"sphere"
+    },
+    "819305":{
+        "desc":"MST_SPHERES_819305_SHORTDESCRIPTION",
+        "effects":[
+            {
+                "params":"45,45,45,0,45",
+                "proc id":"1"
+            },
+            {
+                "params":"5",
+                "proc id":"8"
+            },
+            {
+                "params":"20",
+                "proc id":"43"
+            },
+            {
+                "params":"100",
+                "proc id":"92"
+            },
+            {
+                "params":"100,20",
+                "proc id":"127"
+            }
+        ],
+        "from raid":"false",
+        "guide id":"819305",
+        "id":"819305",
+        "lore":"MST_SPHERES_819305_LONGDESCRIPTION",
+        "max equip":1,
+        "max stack":1,
+        "name":"MST_SPHERES_819305_NAME",
+        "rarity":7,
+        "sale caution":"true",
+        "sale price":30000,
+        "sphere type":"SPHERE_TYPE_NAME_1",
+        "target":"none",
+        "thumbnail":"ls_sphere_thum_6_5.png",
+        "type":"sphere"
+    },
+    "819306":{
+        "desc":"MST_SPHERES_819306_SHORTDESCRIPTION",
+        "effects":[
+            {
+                "params":"100,0,0,0,0,0",
+                "proc id":"31"
+            },
+            {
+                "params":"60,50",
+                "proc id":"100"
+            },
+            {
+                "params":"400,600,100",
+                "proc id":"101"
+            },
+            {
+                "params":"20,100,1,0",
+                "proc id":"75"
+            },
+            {
+                "params":"1,150,-1,30,2",
+                "proc id":"86"
+            }
+        ],
+        "from raid":"false",
+        "guide id":"819306",
+        "id":"819306",
+        "lore":"MST_SPHERES_819306_LONGDESCRIPTION",
+        "max equip":1,
+        "max stack":1,
+        "name":"MST_SPHERES_819306_NAME",
+        "rarity":7,
+        "sale caution":"true",
+        "sale price":30000,
+        "sphere type":"SPHERE_TYPE_NAME_13",
+        "target":"none",
+        "thumbnail":"sphere_thum_1_9.png",
+        "type":"sphere"
+    },
+    "819307":{
+        "desc":"MST_SPHERES_819307_SHORTDESCRIPTION",
+        "effects":[
+            {
+                "params":"30,30,30,0,30",
+                "proc id":"1"
+            },
+            {
+                "params":"1,3,0,0,0,0,10",
+                "proc id":"62"
+            },
+            {
+                "params":"100,100,100,100,100,100,100,100,100",
+                "proc id":"73"
+            },
+            {
+                "params":"20,20,60",
+                "proc id":"24"
+            },
+            {
+                "params":"200,300,100",
+                "proc id":"25"
+            }
+        ],
+        "from raid":"false",
+        "guide id":"819307",
+        "id":"819307",
+        "lore":"MST_SPHERES_819307_LONGDESCRIPTION",
+        "max equip":1,
+        "max stack":1,
+        "name":"MST_SPHERES_819307_NAME",
+        "rarity":7,
+        "sale caution":"true",
+        "sale price":30000,
+        "sphere type":"SPHERE_TYPE_NAME_10",
+        "target":"none",
+        "thumbnail":"sphere_thum_818895.png",
+        "type":"sphere"
+    },
+    "819308":{
+        "desc":"MST_SPHERES_819308_SHORTDESCRIPTION",
+        "effects":[
+            {
+                "params":"150,0,0,0,0,0",
+                "proc id":"31"
+            },
+            {
+                "params":"20,100,1,0",
+                "proc id":"75"
+            },
+            {
+                "params":"100,0,0,0,0",
+                "proc id":"1"
+            },
+            {
+                "params":"4,0,0,0,0,0,1",
+                "proc id":"50"
+            },
+            {
+                "params":"10001,100&0&0&0,-1,10,2",
+                "proc id":"86"
+            }
+        ],
+        "from raid":"false",
+        "guide id":"819308",
+        "id":"819308",
+        "lore":"MST_SPHERES_819308_LONGDESCRIPTION",
+        "max equip":1,
+        "max stack":1,
+        "name":"MST_SPHERES_819308_NAME",
+        "rarity":7,
+        "sale caution":"true",
+        "sale price":30000,
+        "sphere type":"SPHERE_TYPE_NAME_11",
+        "target":"none",
+        "thumbnail":"sphere_thum_818896.png",
+        "type":"sphere"
+    },
+    "819309":{
+        "desc":"MST_SPHERES_819309_SHORTDESCRIPTION",
+        "effects":[
+            {
+                "params":"2",
+                "proc id":"34"
+            },
+            {
+                "params":"50,0,0,30,50",
+                "proc id":"1"
+            },
+            {
+                "params":"0,100,0,0,0,0,0",
+                "proc id":"46"
+            },
+            {
+                "params":"60,150",
+                "proc id":"100"
+            },
+            {
+                "params":"15,15,100",
+                "proc id":"17"
+            }
+        ],
+        "from raid":"false",
+        "guide id":"819309",
+        "id":"819309",
+        "lore":"MST_SPHERES_819309_LONGDESCRIPTION",
+        "max equip":1,
+        "max stack":1,
+        "name":"MST_SPHERES_819309_NAME",
+        "rarity":7,
+        "sale caution":"true",
+        "sale price":30000,
+        "sphere type":"SPHERE_TYPE_NAME_2",
+        "target":"none",
+        "thumbnail":"sphere_thum_818897.png",
         "type":"sphere"
     },
     "819311":{
