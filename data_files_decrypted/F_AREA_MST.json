@@ -525,6 +525,36 @@
         "sHMai2ZG":-1
     },
     {
+        "DESCRIPTION":"",
+        "IMAGE":"area_sp.jpg",
+        "MAP_OPENING_TEXT_FILE":"0",
+        "MISSION_AREA":"100003",
+        "MISSION_IDS_REQUIRED":"0",
+        "QUEST_ALWAYS_EMPTY":"",
+        "QUEST_BANNER_IMG":"sp_quest_banner_legacy4.png",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"5",
+        "QUEST_ZONE_MAP_NUMBER":"99",
+        "QUEST_ZONE_NAME":"Vortex Trials",
+        "UNKNOWN_BOOLEAN_QUESTS":"1",
+        "gq73WFmj":"",
+        "sHMai2ZG":-1
+    },
+    {
+        "DESCRIPTION":"",
+        "IMAGE":"area_sp.jpg",
+        "MAP_OPENING_TEXT_FILE":"0",
+        "MISSION_AREA":"100004",
+        "MISSION_IDS_REQUIRED":"0",
+        "QUEST_ALWAYS_EMPTY":"",
+        "QUEST_BANNER_IMG":"sp_quest_banner_legacy3.png",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"2",
+        "QUEST_ZONE_MAP_NUMBER":"99",
+        "QUEST_ZONE_NAME":"Seasons Past",
+        "UNKNOWN_BOOLEAN_QUESTS":"1",
+        "gq73WFmj":"",
+        "sHMai2ZG":-1
+    },
+    {
         "DESCRIPTION":"\u66dc\u65e5\u3084\u6642\u9650\u3067\u30c0\u30f3\u30b8\u30e7\u30f3\u304c\u767b\u5834\u3059\u308b\u30a8\u30ea\u30a2",
         "IMAGE":"area_sp.jpg",
         "MAP_OPENING_TEXT_FILE":"0",
@@ -702,7 +732,7 @@
         "QUEST_ZONE_NAME":"Lone Traveller of the Wind",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
         "gq73WFmj":"",
-        "sHMai2ZG":-1
+        "sHMai2ZG":"0"
     },
     {
         "DESCRIPTION":"\u66dc\u65e5\u3084\u6642\u9650\u3067\u30c0\u30f3\u30b8\u30e7\u30f3\u304c\u767b\u5834\u3059\u308b\u30a8\u30ea\u30a2",
@@ -717,7 +747,7 @@
         "QUEST_ZONE_NAME":"Dweller in the Darkness",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
         "gq73WFmj":"",
-        "sHMai2ZG":-1
+        "sHMai2ZG":"0"
     },
     {
         "DESCRIPTION":"\u66dc\u65e5\u3084\u6642\u9650\u3067\u30c0\u30f3\u30b8\u30e7\u30f3\u304c\u767b\u5834\u3059\u308b\u30a8\u30ea\u30a2",
@@ -732,7 +762,7 @@
         "QUEST_ZONE_NAME":"Bearer of the Flaming God Arm",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
         "gq73WFmj":"",
-        "sHMai2ZG":-1
+        "sHMai2ZG":"0"
     },
     {
         "DESCRIPTION":"\u66dc\u65e5\u3084\u6642\u9650\u3067\u30c0\u30f3\u30b8\u30e7\u30f3\u304c\u767b\u5834\u3059\u308b\u30a8\u30ea\u30a2",
@@ -747,7 +777,7 @@
         "QUEST_ZONE_NAME":"Flower In the Frost",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
         "gq73WFmj":"",
-        "sHMai2ZG":-1
+        "sHMai2ZG":"0"
     },
     {
         "DESCRIPTION":"\u66dc\u65e5\u3084\u6642\u9650\u3067\u30c0\u30f3\u30b8\u30e7\u30f3\u304c\u767b\u5834\u3059\u308b\u30a8\u30ea\u30a2",
@@ -762,7 +792,7 @@
         "QUEST_ZONE_NAME":"The Iron-Fisted Lady",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
         "gq73WFmj":"",
-        "sHMai2ZG":-1
+        "sHMai2ZG":"0"
     },
     {
         "DESCRIPTION":"\u66dc\u65e5\u3084\u6642\u9650\u3067\u30c0\u30f3\u30b8\u30e7\u30f3\u304c\u767b\u5834\u3059\u308b\u30a8\u30ea\u30a2",
@@ -777,7 +807,7 @@
         "QUEST_ZONE_NAME":"When Lightning Strikes",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
         "gq73WFmj":"",
-        "sHMai2ZG":-1
+        "sHMai2ZG":"0"
     },
     {
         "DESCRIPTION":"\u66dc\u65e5\u3084\u6642\u9650\u3067\u30c0\u30f3\u30b8\u30e7\u30f3\u304c\u767b\u5834\u3059\u308b\u30a8\u30ea\u30a2",
@@ -837,7 +867,7 @@
         "QUEST_ZONE_NAME":"Affectionate Flames",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
         "gq73WFmj":"",
-        "sHMai2ZG":-1
+        "sHMai2ZG":"0"
     },
     {
         "DESCRIPTION":"\u66dc\u65e5\u3084\u6642\u9650\u3067\u30c0\u30f3\u30b8\u30e7\u30f3\u304c\u767b\u5834\u3059\u308b\u30a8\u30ea\u30a2",
@@ -852,7 +882,7 @@
         "QUEST_ZONE_NAME":"Absolute Zero",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
         "gq73WFmj":"",
-        "sHMai2ZG":-1
+        "sHMai2ZG":"0"
     },
     {
         "DESCRIPTION":"\u66dc\u65e5\u3084\u6642\u9650\u3067\u30c0\u30f3\u30b8\u30e7\u30f3\u304c\u767b\u5834\u3059\u308b\u30a8\u30ea\u30a2",
@@ -867,7 +897,7 @@
         "QUEST_ZONE_NAME":"Gaia's Voice",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
         "gq73WFmj":"",
-        "sHMai2ZG":-1
+        "sHMai2ZG":"0"
     },
     {
         "DESCRIPTION":"\u66dc\u65e5\u3084\u6642\u9650\u3067\u30c0\u30f3\u30b8\u30e7\u30f3\u304c\u767b\u5834\u3059\u308b\u30a8\u30ea\u30a2",
@@ -882,7 +912,7 @@
         "QUEST_ZONE_NAME":"In the Name of Thunder",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
         "gq73WFmj":"",
-        "sHMai2ZG":-1
+        "sHMai2ZG":"0"
     },
     {
         "DESCRIPTION":"\u66dc\u65e5\u3084\u6642\u9650\u3067\u30c0\u30f3\u30b8\u30e7\u30f3\u304c\u767b\u5834\u3059\u308b\u30a8\u30ea\u30a2",
@@ -897,7 +927,7 @@
         "QUEST_ZONE_NAME":"Protected by the Sky",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
         "gq73WFmj":"",
-        "sHMai2ZG":-1
+        "sHMai2ZG":"0"
     },
     {
         "DESCRIPTION":"\u66dc\u65e5\u3084\u6642\u9650\u3067\u30c0\u30f3\u30b8\u30e7\u30f3\u304c\u767b\u5834\u3059\u308b\u30a8\u30ea\u30a2",
@@ -912,7 +942,7 @@
         "QUEST_ZONE_NAME":"Enthralled by the Moon",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
         "gq73WFmj":"",
-        "sHMai2ZG":-1
+        "sHMai2ZG":"0"
     },
     {
         "DESCRIPTION":"\u66dc\u65e5\u3084\u6642\u9650\u3067\u30c0\u30f3\u30b8\u30e7\u30f3\u304c\u767b\u5834\u3059\u308b\u30a8\u30ea\u30a2",
@@ -1107,7 +1137,7 @@
         "QUEST_ZONE_NAME":"Great Fire of Hope",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
         "gq73WFmj":"",
-        "sHMai2ZG":-1
+        "sHMai2ZG":"0"
     },
     {
         "DESCRIPTION":"\u66dc\u65e5\u3084\u6642\u9650\u3067\u30c0\u30f3\u30b8\u30e7\u30f3\u304c\u767b\u5834\u3059\u308b\u30a8\u30ea\u30a2",
@@ -1122,7 +1152,7 @@
         "QUEST_ZONE_NAME":"Swift Blue Silence",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
         "gq73WFmj":"",
-        "sHMai2ZG":-1
+        "sHMai2ZG":"0"
     },
     {
         "DESCRIPTION":"\u66dc\u65e5\u3084\u6642\u9650\u3067\u30c0\u30f3\u30b8\u30e7\u30f3\u304c\u767b\u5834\u3059\u308b\u30a8\u30ea\u30a2",
@@ -1137,7 +1167,7 @@
         "QUEST_ZONE_NAME":"Dark Green Wisdom",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
         "gq73WFmj":"",
-        "sHMai2ZG":-1
+        "sHMai2ZG":"0"
     },
     {
         "DESCRIPTION":"\u66dc\u65e5\u3084\u6642\u9650\u3067\u30c0\u30f3\u30b8\u30e7\u30f3\u304c\u767b\u5834\u3059\u308b\u30a8\u30ea\u30a2",
@@ -1152,7 +1182,7 @@
         "QUEST_ZONE_NAME":"Golden Purpose",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
         "gq73WFmj":"",
-        "sHMai2ZG":-1
+        "sHMai2ZG":"0"
     },
     {
         "DESCRIPTION":"\u66dc\u65e5\u3084\u6642\u9650\u3067\u30c0\u30f3\u30b8\u30e7\u30f3\u304c\u767b\u5834\u3059\u308b\u30a8\u30ea\u30a2",
@@ -1167,7 +1197,7 @@
         "QUEST_ZONE_NAME":"Guided by White Light",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
         "gq73WFmj":"",
-        "sHMai2ZG":-1
+        "sHMai2ZG":"0"
     },
     {
         "DESCRIPTION":"\u66dc\u65e5\u3084\u6642\u9650\u3067\u30c0\u30f3\u30b8\u30e7\u30f3\u304c\u767b\u5834\u3059\u308b\u30a8\u30ea\u30a2",
@@ -1182,7 +1212,7 @@
         "QUEST_ZONE_NAME":"Black Whirlwind",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
         "gq73WFmj":"",
-        "sHMai2ZG":-1
+        "sHMai2ZG":"0"
     },
     {
         "DESCRIPTION":"\u66dc\u65e5\u3084\u6642\u9650\u3067\u30c0\u30f3\u30b8\u30e7\u30f3\u304c\u767b\u5834\u3059\u308b\u30a8\u30ea\u30a2",
@@ -1347,7 +1377,7 @@
         "QUEST_ZONE_NAME":"\u5f37\u8005\u305f\u308b\u8a3c\u660e",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
         "gq73WFmj":"",
-        "sHMai2ZG":-1
+        "sHMai2ZG":"0"
     },
     {
         "DESCRIPTION":"\u66dc\u65e5\u3084\u6642\u9650\u3067\u30c0\u30f3\u30b8\u30e7\u30f3\u304c\u767b\u5834\u3059\u308b\u30a8\u30ea\u30a2",
@@ -1362,7 +1392,7 @@
         "QUEST_ZONE_NAME":"\u548e\u4eba\u3068\u6b69\u3080\u9053",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
         "gq73WFmj":"",
-        "sHMai2ZG":-1
+        "sHMai2ZG":"0"
     },
     {
         "DESCRIPTION":"\u66dc\u65e5\u3084\u6642\u9650\u3067\u30c0\u30f3\u30b8\u30e7\u30f3\u304c\u767b\u5834\u3059\u308b\u30a8\u30ea\u30a2",
@@ -1377,7 +1407,7 @@
         "QUEST_ZONE_NAME":"\u66b4\u767a\u3059\u308b\u7814\u7a76\u5fc3",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
         "gq73WFmj":"",
-        "sHMai2ZG":-1
+        "sHMai2ZG":"0"
     },
     {
         "DESCRIPTION":"\u66dc\u65e5\u3084\u6642\u9650\u3067\u30c0\u30f3\u30b8\u30e7\u30f3\u304c\u767b\u5834\u3059\u308b\u30a8\u30ea\u30a2",
@@ -1392,7 +1422,7 @@
         "QUEST_ZONE_NAME":"\u52c7\u731b\u306a\u308b\u96f7\u9cf4",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
         "gq73WFmj":"",
-        "sHMai2ZG":-1
+        "sHMai2ZG":"0"
     },
     {
         "DESCRIPTION":"\u66dc\u65e5\u3084\u6642\u9650\u3067\u30c0\u30f3\u30b8\u30e7\u30f3\u304c\u767b\u5834\u3059\u308b\u30a8\u30ea\u30a2",
@@ -1407,7 +1437,7 @@
         "QUEST_ZONE_NAME":"\u5929\u547d\u306e\u5553\u793a",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
         "gq73WFmj":"",
-        "sHMai2ZG":-1
+        "sHMai2ZG":"0"
     },
     {
         "DESCRIPTION":"\u66dc\u65e5\u3084\u6642\u9650\u3067\u30c0\u30f3\u30b8\u30e7\u30f3\u304c\u767b\u5834\u3059\u308b\u30a8\u30ea\u30a2",
@@ -1422,7 +1452,7 @@
         "QUEST_ZONE_NAME":"\u5bc6\u547d\u3092\u80f8\u306b",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
         "gq73WFmj":"",
-        "sHMai2ZG":-1
+        "sHMai2ZG":"0"
     },
     {
         "DESCRIPTION":"\u66dc\u65e5\u3084\u6642\u9650\u3067\u30c0\u30f3\u30b8\u30e7\u30f3\u304c\u767b\u5834\u3059\u308b\u30a8\u30ea\u30a2",
@@ -1752,7 +1782,7 @@
         "QUEST_ZONE_NAME":"Grand Gaia Chronicles",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
         "gq73WFmj":"",
-        "sHMai2ZG":-1
+        "sHMai2ZG":"100002"
     },
     {
         "DESCRIPTION":"\u7b2c\u4e09\u90e8\u306e\u30b2\u30fc\u30c8\u306e\u72ed\u9593\u30a8\u30ea\u30a2\u3002",
@@ -1797,7 +1827,7 @@
         "QUEST_ZONE_NAME":"A Dark Ritual",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
         "gq73WFmj":"",
-        "sHMai2ZG":-1
+        "sHMai2ZG":"100002"
     },
     {
         "DESCRIPTION":"SP Dungeon",
@@ -1812,7 +1842,7 @@
         "QUEST_ZONE_NAME":"Unholy Tower",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
         "gq73WFmj":"",
-        "sHMai2ZG":-1
+        "sHMai2ZG":"0"
     },
     {
         "DESCRIPTION":"SP Dungeon",
@@ -1827,7 +1857,7 @@
         "QUEST_ZONE_NAME":"Unholy Tower - Dark Side -",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
         "gq73WFmj":"",
-        "sHMai2ZG":-1
+        "sHMai2ZG":"0"
     },
     {
         "DESCRIPTION":"SP Dungeon",
@@ -1842,7 +1872,7 @@
         "QUEST_ZONE_NAME":"XE Prologue",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
         "gq73WFmj":"",
-        "sHMai2ZG":-1
+        "sHMai2ZG":"0"
     },
     {
         "DESCRIPTION":"SP Dungeon",
@@ -1857,7 +1887,7 @@
         "QUEST_ZONE_NAME":"Leon's Deception",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
         "gq73WFmj":"",
-        "sHMai2ZG":-1
+        "sHMai2ZG":"0"
     },
     {
         "DESCRIPTION":"SP Dungeon",
@@ -1887,7 +1917,7 @@
         "QUEST_ZONE_NAME":"Trial of the Gods",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
         "gq73WFmj":"",
-        "sHMai2ZG":-1
+        "sHMai2ZG":"0"
     },
     {
         "DESCRIPTION":"SP Dungeon",
@@ -1902,7 +1932,7 @@
         "QUEST_ZONE_NAME":"Hellborn Nightmare",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
         "gq73WFmj":"",
-        "sHMai2ZG":-1
+        "sHMai2ZG":"0"
     },
     {
         "DESCRIPTION":"SP Dungeon",
@@ -1917,7 +1947,7 @@
         "QUEST_ZONE_NAME":"Soul Bound Saga",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
         "gq73WFmj":"",
-        "sHMai2ZG":-1
+        "sHMai2ZG":"100002"
     },
     {
         "DESCRIPTION":"SP Dungeon",
@@ -2037,7 +2067,7 @@
         "QUEST_ZONE_NAME":"Easter Madness",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
         "gq73WFmj":"",
-        "sHMai2ZG":-1
+        "sHMai2ZG":"100004"
     },
     {
         "DESCRIPTION":"SP Dungeon",
@@ -2052,7 +2082,7 @@
         "QUEST_ZONE_NAME":"A Colorful Hunt",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
         "gq73WFmj":"",
-        "sHMai2ZG":-1
+        "sHMai2ZG":"0"
     },
     {
         "DESCRIPTION":"SP Dungeon",
@@ -2142,7 +2172,7 @@
         "QUEST_ZONE_NAME":"Desert Mayhem",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
         "gq73WFmj":"",
-        "sHMai2ZG":-1
+        "sHMai2ZG":"100002"
     },
     {
         "DESCRIPTION":"SP Dungeon",
@@ -2187,7 +2217,7 @@
         "QUEST_ZONE_NAME":"Midnight Reverie",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
         "gq73WFmj":"",
-        "sHMai2ZG":-1
+        "sHMai2ZG":"0"
     },
     {
         "DESCRIPTION":"SP Dungeon",
@@ -2202,7 +2232,7 @@
         "QUEST_ZONE_NAME":"XMAS",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
         "gq73WFmj":"",
-        "sHMai2ZG":-1
+        "sHMai2ZG":"0"
     },
     {
         "DESCRIPTION":"SP Dungeon",
@@ -2277,7 +2307,7 @@
         "QUEST_ZONE_NAME":"Ellie's Folly",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
         "gq73WFmj":"",
-        "sHMai2ZG":-1
+        "sHMai2ZG":"0"
     },
     {
         "DESCRIPTION":"SP Dungeon",
@@ -2322,7 +2352,7 @@
         "QUEST_ZONE_NAME":"Moonlight Harvest",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
         "gq73WFmj":"",
-        "sHMai2ZG":-1
+        "sHMai2ZG":"0"
     },
     {
         "DESCRIPTION":"SP Dungeon",
@@ -2337,7 +2367,7 @@
         "QUEST_ZONE_NAME":"Manor of Horror",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
         "gq73WFmj":"",
-        "sHMai2ZG":-1
+        "sHMai2ZG":"0"
     },
     {
         "DESCRIPTION":"SP Dungeon",
@@ -2382,7 +2412,7 @@
         "QUEST_ZONE_NAME":"Of Snow and Flames",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
         "gq73WFmj":"",
-        "sHMai2ZG":-1
+        "sHMai2ZG":"0"
     },
     {
         "DESCRIPTION":"SP Dungeon",
@@ -2487,7 +2517,7 @@
         "QUEST_ZONE_NAME":"Burden of Aesys",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
         "gq73WFmj":"",
-        "sHMai2ZG":-1
+        "sHMai2ZG":"800150"
     },
     {
         "DESCRIPTION":"SP Dungeon",
@@ -2532,7 +2562,7 @@
         "QUEST_ZONE_NAME":"Amduat",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
         "gq73WFmj":"",
-        "sHMai2ZG":-1
+        "sHMai2ZG":"800150"
     },
     {
         "DESCRIPTION":"SP Dungeon",
@@ -2547,7 +2577,7 @@
         "QUEST_ZONE_NAME":"Traversing Eternity",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
         "gq73WFmj":"",
-        "sHMai2ZG":-1
+        "sHMai2ZG":"800150"
     },
     {
         "DESCRIPTION":"",
@@ -2562,7 +2592,7 @@
         "QUEST_ZONE_NAME":"Scrolls of Urzyma",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
         "gq73WFmj":"",
-        "sHMai2ZG":-1
+        "sHMai2ZG":"100003"
     },
     {
         "DESCRIPTION":"\u66dc\u65e5\u3084\u6642\u9650\u3067\u30c0\u30f3\u30b8\u30e7\u30f3\u304c\u767b\u5834\u3059\u308b\u30a8\u30ea\u30a2",
@@ -2577,7 +2607,7 @@
         "QUEST_ZONE_NAME":"Weaver of Friendships",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
         "gq73WFmj":"",
-        "sHMai2ZG":-1
+        "sHMai2ZG":"100003"
     },
     {
         "DESCRIPTION":"SP Dungeon",
@@ -2592,7 +2622,7 @@
         "QUEST_ZONE_NAME":"The Savage Lion",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
         "gq73WFmj":"",
-        "sHMai2ZG":-1
+        "sHMai2ZG":"800167"
     },
     {
         "DESCRIPTION":"SP Dungeon",
@@ -2667,7 +2697,7 @@
         "QUEST_ZONE_NAME":"The Curse Master",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
         "gq73WFmj":"",
-        "sHMai2ZG":-1
+        "sHMai2ZG":"800167"
     },
     {
         "DESCRIPTION":"SP Dungeon",
@@ -2682,7 +2712,7 @@
         "QUEST_ZONE_NAME":"The Warmonger",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
         "gq73WFmj":"",
-        "sHMai2ZG":-1
+        "sHMai2ZG":"800167"
     },
     {
         "DESCRIPTION":"SP Dungeon",
@@ -2712,7 +2742,7 @@
         "QUEST_ZONE_NAME":"Battles of Brave Frontier 2",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
         "gq73WFmj":"",
-        "sHMai2ZG":-1
+        "sHMai2ZG":"100003"
     },
     {
         "DESCRIPTION":"",
@@ -2742,7 +2772,7 @@
         "QUEST_ZONE_NAME":"Mythological Entities",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
         "gq73WFmj":"",
-        "sHMai2ZG":-1
+        "sHMai2ZG":"100003"
     },
     {
         "DESCRIPTION":"SP Dungeon",
@@ -2772,7 +2802,7 @@
         "QUEST_ZONE_NAME":"The Illusionist",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
         "gq73WFmj":"",
-        "sHMai2ZG":-1
+        "sHMai2ZG":"800167"
     },
     {
         "DESCRIPTION":"SP Dungeon",
@@ -2862,7 +2892,7 @@
         "QUEST_ZONE_NAME":"Flaming Rocket of Justice",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
         "gq73WFmj":"",
-        "sHMai2ZG":-1
+        "sHMai2ZG":"100002"
     },
     {
         "DESCRIPTION":"SP Dungeon",
@@ -2877,7 +2907,7 @@
         "QUEST_ZONE_NAME":"Hero of Agni: Vargas",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
         "gq73WFmj":"",
-        "sHMai2ZG":-1
+        "sHMai2ZG":"100002"
     },
     {
         "DESCRIPTION":"SP Dungeon",
@@ -2952,7 +2982,7 @@
         "QUEST_ZONE_NAME":"Gun Goddess of the Tides",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
         "gq73WFmj":"",
-        "sHMai2ZG":-1
+        "sHMai2ZG":"0"
     },
     {
         "DESCRIPTION":"SP Dungeon",
@@ -2967,7 +2997,7 @@
         "QUEST_ZONE_NAME":"Heroine of Sama: Selena",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
         "gq73WFmj":"",
-        "sHMai2ZG":-1
+        "sHMai2ZG":"0"
     },
     {
         "DESCRIPTION":"SP Dungeon",
@@ -2982,7 +3012,7 @@
         "QUEST_ZONE_NAME":"Winter Glades Blitz",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
         "gq73WFmj":"",
-        "sHMai2ZG":-1
+        "sHMai2ZG":"0"
     },
     {
         "DESCRIPTION":"SP Dungeon",
@@ -2997,7 +3027,7 @@
         "QUEST_ZONE_NAME":"Glittering Wintertide",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
         "gq73WFmj":"",
-        "sHMai2ZG":-1
+        "sHMai2ZG":"0"
     },
     {
         "DESCRIPTION":"SP Dungeon",
@@ -3012,7 +3042,7 @@
         "QUEST_ZONE_NAME":"Jubilant Jingles",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
         "gq73WFmj":"",
-        "sHMai2ZG":-1
+        "sHMai2ZG":"0"
     },
     {
         "DESCRIPTION":"SP Dungeon",
@@ -3027,7 +3057,7 @@
         "QUEST_ZONE_NAME":"Slashing Fist of the Wild",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
         "gq73WFmj":"",
-        "sHMai2ZG":-1
+        "sHMai2ZG":"0"
     },
     {
         "DESCRIPTION":"SP Dungeon",
@@ -3042,7 +3072,7 @@
         "QUEST_ZONE_NAME":"Hero of Vriksha: Lance",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
         "gq73WFmj":"",
-        "sHMai2ZG":-1
+        "sHMai2ZG":"0"
     },
     {
         "DESCRIPTION":"SP Dungeon",
@@ -3057,7 +3087,7 @@
         "QUEST_ZONE_NAME":"The Lightning Bomber",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
         "gq73WFmj":"",
-        "sHMai2ZG":-1
+        "sHMai2ZG":"0"
     },
     {
         "DESCRIPTION":"SP Dungeon",
@@ -3072,7 +3102,7 @@
         "QUEST_ZONE_NAME":"Hero of Atharva: Eze",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
         "gq73WFmj":"",
-        "sHMai2ZG":-1
+        "sHMai2ZG":"0"
     },
     {
         "DESCRIPTION":"SP Dungeon",
@@ -3087,7 +3117,7 @@
         "QUEST_ZONE_NAME":"Thunder Turnout",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
         "gq73WFmj":"",
-        "sHMai2ZG":-1
+        "sHMai2ZG":"0"
     },
     {
         "DESCRIPTION":"SP Dungeon",
@@ -3102,7 +3132,7 @@
         "QUEST_ZONE_NAME":"Queen of the High Skies",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
         "gq73WFmj":"",
-        "sHMai2ZG":-1
+        "sHMai2ZG":"0"
     },
     {
         "DESCRIPTION":"SP Dungeon",
@@ -3117,7 +3147,7 @@
         "QUEST_ZONE_NAME":"Hero of La Veda: Atro",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
         "gq73WFmj":"",
-        "sHMai2ZG":-1
+        "sHMai2ZG":"0"
     },
     {
         "DESCRIPTION":"SP Dungeon",
@@ -3132,7 +3162,7 @@
         "QUEST_ZONE_NAME":"The Half-blood Princess",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
         "gq73WFmj":"",
-        "sHMai2ZG":-1
+        "sHMai2ZG":"0"
     },
     {
         "DESCRIPTION":"SP Dungeon",
@@ -3147,7 +3177,7 @@
         "QUEST_ZONE_NAME":"Hero of Bariura: Magress",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
         "gq73WFmj":"",
-        "sHMai2ZG":-1
+        "sHMai2ZG":"0"
     },
     {
         "DESCRIPTION":"SP Dungeon",
@@ -3162,7 +3192,7 @@
         "QUEST_ZONE_NAME":"Witch of the Abyss",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
         "gq73WFmj":"",
-        "sHMai2ZG":-1
+        "sHMai2ZG":"100004"
     },
     {
         "DESCRIPTION":"SP Dungeon",
@@ -3177,7 +3207,7 @@
         "QUEST_ZONE_NAME":"Forgotten Shadows",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
         "gq73WFmj":"",
-        "sHMai2ZG":-1
+        "sHMai2ZG":"100004"
     },
     {
         "DESCRIPTION":"SP Dungeon",
@@ -3507,7 +3537,7 @@
         "QUEST_ZONE_NAME":"The Keymaster's Eclipse ",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
         "gq73WFmj":"",
-        "sHMai2ZG":-1
+        "sHMai2ZG":"0"
     },
     {
         "DESCRIPTION":"SP Dungeon",
@@ -3522,7 +3552,7 @@
         "QUEST_ZONE_NAME":"Legends of NeoAvalon",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
         "gq73WFmj":"",
-        "sHMai2ZG":-1
+        "sHMai2ZG":"100002"
     },
     {
         "DESCRIPTION":"SP Dungeon",

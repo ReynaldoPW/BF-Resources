@@ -23243,6 +23243,28 @@
         "yRlCNyvk":"Add to SBB (17 combo Thunder attack [1200%] on single foe)"
     },
     {
+        "2Smu5Mtq":"47,200&500&0&200&0&0&0&0,2,2,0,0,1,0",
+        "9PsmH7tz":"1010700097",
+        "D9wXQI2V":"5",
+        "G5wFDad6":"20",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010700097",
+        "yRlCNyvk":"Add to SBB (29 combo Light attack [200-500%] on all foes (damage relative to remaining HP))"
+    },
+    {
+        "2Smu5Mtq":"10018,25&2&0,100,1,0,0,1,0",
+        "9PsmH7tz":"1010700098",
+        "D9wXQI2V":"5",
+        "G5wFDad6":"25",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010700098",
+        "yRlCNyvk":"Add to SBB (2 turns max HP reduction [25%] infliction on single foe (PvP modes only))"
+    },
+    {
         "2Smu5Mtq":"0,130,0,0,130",
         "9PsmH7tz":"1010800029",
         "D9wXQI2V":"4",
@@ -23406,6 +23428,72 @@
         "qp37xTDh":"",
         "ri6D9yBi":"1010800043",
         "yRlCNyvk":"140% Atk, Def, max HP"
+    },
+    {
+        "2Smu5Mtq":"100,50",
+        "9PsmH7tz":"1010800050",
+        "D9wXQI2V":"3",
+        "G5wFDad6":"20",
+        "hjAy9St3":"127",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010800050",
+        "yRlCNyvk":"50% DoT reduction"
+    },
+    {
+        "2Smu5Mtq":"45,600&600&600&3&0,1,2,0,1,1,0",
+        "9PsmH7tz":"1010800051",
+        "D9wXQI2V":"4",
+        "G5wFDad6":"20",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010800051",
+        "yRlCNyvk":"Add to BB\\/SBB (boosts BB Atk [600%] for 3 turns)"
+    },
+    {
+        "2Smu5Mtq":"11,1&85&2&85&3&85&4&85&0,2,2,0,0,1,0@11,5&85&6&85&0&0&0&0&0,2,2,0,0,1,0",
+        "9PsmH7tz":"1010800052",
+        "D9wXQI2V":"3",
+        "G5wFDad6":"10",
+        "hjAy9St3":"66@66",
+        "jeR2rN3V":"1@1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010800052",
+        "yRlCNyvk":"Add to SBB (probable [85%] random status ailments infliction)"
+    },
+    {
+        "2Smu5Mtq":"23,180&0&0&0&0&0&3&0,1,2,0,0,1,0",
+        "9PsmH7tz":"1010800053",
+        "D9wXQI2V":"5",
+        "G5wFDad6":"20",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010800053",
+        "yRlCNyvk":"Add to SBB (boosts spark damage [180%] for 3 turns)"
+    },
+    {
+        "2Smu5Mtq":"132,15&15&100&100&2&0,2,2,0,0,1,0",
+        "9PsmH7tz":"1010800054",
+        "D9wXQI2V":"4",
+        "G5wFDad6":"20",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010800054",
+        "yRlCNyvk":"Add to SBB (2 turns critical and elemental vulnerability [15%] infliction)"
+    },
+    {
+        "2Smu5Mtq":"19,1000&3&0,1,2,0,1,0,0",
+        "9PsmH7tz":"1010800055",
+        "D9wXQI2V":"4",
+        "G5wFDad6":"20",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010800055",
+        "yRlCNyvk":"Add to BB (fills BB gauge [10 BC] for 3 turns)"
     },
     {
         "2Smu5Mtq":"100,100,100,100,100,100,100,100,100",
@@ -23582,6 +23670,116 @@
         "qp37xTDh":"",
         "ri6D9yBi":"1011000011",
         "yRlCNyvk":"Add to BB\\/SBB (3 turns spark vulnerability [40%] infliction)"
+    },
+    {
+        "2Smu5Mtq":"50,50,50,0,50,1",
+        "9PsmH7tz":"1011000012",
+        "D9wXQI2V":"2",
+        "G5wFDad6":"10",
+        "hjAy9St3":"30",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1011000012",
+        "yRlCNyvk":"50% Atk, Def, Rec when BB gauge >50%"
+    },
+    {
+        "2Smu5Mtq":"200,400,100",
+        "9PsmH7tz":"1011000013",
+        "D9wXQI2V":"2",
+        "G5wFDad6":"10",
+        "hjAy9St3":"47",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1011000013",
+        "yRlCNyvk":"Spark damage fills BB gauge [2-4 BC]"
+    },
+    {
+        "2Smu5Mtq":"1,2,3,4,5,6,10",
+        "9PsmH7tz":"1011000014",
+        "D9wXQI2V":"2",
+        "G5wFDad6":"10",
+        "hjAy9St3":"62",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1011000014",
+        "yRlCNyvk":"10% damage reduction from all element types"
+    },
+    {
+        "2Smu5Mtq":"40,1&100&2&100&3&100&0&0&3&0,1,2,0,0,0,1@40,4&100&5&100&6&100&0&0&3&0,1,2,0,0,0,1@65,200&3&0,1,2,0,0,0,1",
+        "9PsmH7tz":"1011000015",
+        "D9wXQI2V":"6",
+        "G5wFDad6":"30",
+        "hjAy9St3":"66@66@66",
+        "jeR2rN3V":"1@1@1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1011000015",
+        "yRlCNyvk":"Add to UBB (Adds all status ailments infliction to attack and boosts damage against status afflicted foes [200%] for 3 turns)"
+    },
+    {
+        "2Smu5Mtq":"10,10,15,0,0",
+        "9PsmH7tz":"1011000016",
+        "D9wXQI2V":"5",
+        "G5wFDad6":"25",
+        "hjAy9St3":"85",
+        "jeR2rN3V":"2",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1011000016",
+        "yRlCNyvk":"Enhances BB's damage taken may [+15%] restore HP [+10%] for 3 turns effect"
+    },
+    {
+        "2Smu5Mtq":"0,20,20,20,0,0,0",
+        "9PsmH7tz":"1011000017",
+        "D9wXQI2V":"4",
+        "G5wFDad6":"20",
+        "hjAy9St3":"5",
+        "jeR2rN3V":"3",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1011000017",
+        "yRlCNyvk":"Enhances SBB's boosts Atk, Def, Rec effect"
+    },
+    {
+        "2Smu5Mtq":"5,6&100&100&100&0&3&0,1,2,0,1,1,0",
+        "9PsmH7tz":"1011000018",
+        "D9wXQI2V":"5",
+        "G5wFDad6":"25",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1011000018",
+        "yRlCNyvk":"Add to BB\\/SBB (Boosts Atk, Def, Rec (Dark) for 3 turns)_25p"
+    },
+    {
+        "2Smu5Mtq":"31,1200&0,1,2,0,1,1,0",
+        "9PsmH7tz":"1011000019",
+        "D9wXQI2V":"3",
+        "G5wFDad6":"15",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1011000019",
+        "yRlCNyvk":"Add to BB\\/SBB (Fills BB gauge [12 BC])"
+    },
+    {
+        "2Smu5Mtq":"126,20&3&100,1,2,0,1,1,0",
+        "9PsmH7tz":"1011000020",
+        "D9wXQI2V":"4",
+        "G5wFDad6":"20",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1011000020",
+        "yRlCNyvk":"Add to BB\\/SBB (20% DoT reduction for 3 turns)"
+    },
+    {
+        "2Smu5Mtq":"3,4000&4500&200&3&0,1,2,0,1,1,0",
+        "9PsmH7tz":"1011000021",
+        "D9wXQI2V":"4",
+        "G5wFDad6":"20",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1011000021",
+        "yRlCNyvk":"Add to BB\\/SBB (restores HP [4000-4500] for 3 turns)"
     },
     {
         "2Smu5Mtq":"100,0,0,0,0,0",

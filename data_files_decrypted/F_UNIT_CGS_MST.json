@@ -8492,6 +8492,14 @@
         "UNIT_ID":"850808"
     },
     {
+        "PROCESS_ID":"1:unit_idle_cgs_850827.csv|2:unit_move_cgs_850827.csv|3:unit_atk_cgs_850827.csv|4:unit_atk_cgs_850827.csv",
+        "UNIT_ID":"850827"
+    },
+    {
+        "PROCESS_ID":"1:unit_idle_cgs_850828.csv|2:unit_move_cgs_850828.csv|3:unit_atk_cgs_850828.csv|4:unit_atk_cgs_850828.csv",
+        "UNIT_ID":"850828"
+    },
+    {
         "PROCESS_ID":"1:unit_idle_cgs_850858.csv|2:unit_move_cgs_850858.csv|3:unit_atk_cgs_850858.csv|4:unit_atk_cgs_850858.csv",
         "UNIT_ID":"850858"
     },

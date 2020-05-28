@@ -23245,6 +23245,28 @@
     {
         "DESCRIPTION":"",
         "EFFECT_AREA*":"1",
+        "LEVEL":"5",
+        "PROC/PASSIVE_ID(S)":"66",
+        "PROC/PASSIVE_PARAMETERS":"47,200&500&0&200&0&0&0&0,2,2,0,0,1,0",
+        "SP_ID":"1010700097",
+        "SP_NAME":"Add to SBB (29 combo Light attack [200-500%] on all foes (damage relative to remaining HP))",
+        "SP_NEED_BP":"20",
+        "SP_SERIES":"1010700097"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
+        "LEVEL":"5",
+        "PROC/PASSIVE_ID(S)":"66",
+        "PROC/PASSIVE_PARAMETERS":"10018,25&2&0,100,1,0,0,1,0",
+        "SP_ID":"1010700098",
+        "SP_NAME":"Add to SBB (2 turns max HP reduction [25%] infliction on single foe (PvP modes only))",
+        "SP_NEED_BP":"25",
+        "SP_SERIES":"1010700098"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
         "LEVEL":"4",
         "PROC/PASSIVE_ID(S)":"1",
         "PROC/PASSIVE_PARAMETERS":"0,130,0,0,130",
@@ -23406,6 +23428,72 @@
         "SP_NAME":"140% Atk, Def, max HP",
         "SP_NEED_BP":"15",
         "SP_SERIES":"1010800043"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
+        "LEVEL":"3",
+        "PROC/PASSIVE_ID(S)":"127",
+        "PROC/PASSIVE_PARAMETERS":"100,50",
+        "SP_ID":"1010800050",
+        "SP_NAME":"50% DoT reduction",
+        "SP_NEED_BP":"20",
+        "SP_SERIES":"1010800050"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
+        "LEVEL":"4",
+        "PROC/PASSIVE_ID(S)":"66",
+        "PROC/PASSIVE_PARAMETERS":"45,600&600&600&3&0,1,2,0,1,1,0",
+        "SP_ID":"1010800051",
+        "SP_NAME":"Add to BB\\/SBB (boosts BB Atk [600%] for 3 turns)",
+        "SP_NEED_BP":"20",
+        "SP_SERIES":"1010800051"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1@1",
+        "LEVEL":"3",
+        "PROC/PASSIVE_ID(S)":"66@66",
+        "PROC/PASSIVE_PARAMETERS":"11,1&85&2&85&3&85&4&85&0,2,2,0,0,1,0@11,5&85&6&85&0&0&0&0&0,2,2,0,0,1,0",
+        "SP_ID":"1010800052",
+        "SP_NAME":"Add to SBB (probable [85%] random status ailments infliction)",
+        "SP_NEED_BP":"10",
+        "SP_SERIES":"1010800052"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
+        "LEVEL":"5",
+        "PROC/PASSIVE_ID(S)":"66",
+        "PROC/PASSIVE_PARAMETERS":"23,180&0&0&0&0&0&3&0,1,2,0,0,1,0",
+        "SP_ID":"1010800053",
+        "SP_NAME":"Add to SBB (boosts spark damage [180%] for 3 turns)",
+        "SP_NEED_BP":"20",
+        "SP_SERIES":"1010800053"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
+        "LEVEL":"4",
+        "PROC/PASSIVE_ID(S)":"66",
+        "PROC/PASSIVE_PARAMETERS":"132,15&15&100&100&2&0,2,2,0,0,1,0",
+        "SP_ID":"1010800054",
+        "SP_NAME":"Add to SBB (2 turns critical and elemental vulnerability [15%] infliction)",
+        "SP_NEED_BP":"20",
+        "SP_SERIES":"1010800054"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
+        "LEVEL":"4",
+        "PROC/PASSIVE_ID(S)":"66",
+        "PROC/PASSIVE_PARAMETERS":"19,1000&3&0,1,2,0,1,0,0",
+        "SP_ID":"1010800055",
+        "SP_NAME":"Add to BB (fills BB gauge [10 BC] for 3 turns)",
+        "SP_NEED_BP":"20",
+        "SP_SERIES":"1010800055"
     },
     {
         "DESCRIPTION":"",
@@ -23582,6 +23670,116 @@
         "SP_NAME":"Add to BB\\/SBB (3 turns spark vulnerability [40%] infliction)",
         "SP_NEED_BP":"20",
         "SP_SERIES":"1011000011"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
+        "LEVEL":"2",
+        "PROC/PASSIVE_ID(S)":"30",
+        "PROC/PASSIVE_PARAMETERS":"50,50,50,0,50,1",
+        "SP_ID":"1011000012",
+        "SP_NAME":"50% Atk, Def, Rec when BB gauge >50%",
+        "SP_NEED_BP":"10",
+        "SP_SERIES":"1011000012"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
+        "LEVEL":"2",
+        "PROC/PASSIVE_ID(S)":"47",
+        "PROC/PASSIVE_PARAMETERS":"200,400,100",
+        "SP_ID":"1011000013",
+        "SP_NAME":"Spark damage fills BB gauge [2-4 BC]",
+        "SP_NEED_BP":"10",
+        "SP_SERIES":"1011000013"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
+        "LEVEL":"2",
+        "PROC/PASSIVE_ID(S)":"62",
+        "PROC/PASSIVE_PARAMETERS":"1,2,3,4,5,6,10",
+        "SP_ID":"1011000014",
+        "SP_NAME":"10% damage reduction from all element types",
+        "SP_NEED_BP":"10",
+        "SP_SERIES":"1011000014"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1@1@1",
+        "LEVEL":"6",
+        "PROC/PASSIVE_ID(S)":"66@66@66",
+        "PROC/PASSIVE_PARAMETERS":"40,1&100&2&100&3&100&0&0&3&0,1,2,0,0,0,1@40,4&100&5&100&6&100&0&0&3&0,1,2,0,0,0,1@65,200&3&0,1,2,0,0,0,1",
+        "SP_ID":"1011000015",
+        "SP_NAME":"Add to UBB (Adds all status ailments infliction to attack and boosts damage against status afflicted foes [200%] for 3 turns)",
+        "SP_NEED_BP":"30",
+        "SP_SERIES":"1011000015"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"2",
+        "LEVEL":"5",
+        "PROC/PASSIVE_ID(S)":"85",
+        "PROC/PASSIVE_PARAMETERS":"10,10,15,0,0",
+        "SP_ID":"1011000016",
+        "SP_NAME":"Enhances BB's damage taken may [+15%] restore HP [+10%] for 3 turns effect",
+        "SP_NEED_BP":"25",
+        "SP_SERIES":"1011000016"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"3",
+        "LEVEL":"4",
+        "PROC/PASSIVE_ID(S)":"5",
+        "PROC/PASSIVE_PARAMETERS":"0,20,20,20,0,0,0",
+        "SP_ID":"1011000017",
+        "SP_NAME":"Enhances SBB's boosts Atk, Def, Rec effect",
+        "SP_NEED_BP":"20",
+        "SP_SERIES":"1011000017"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
+        "LEVEL":"5",
+        "PROC/PASSIVE_ID(S)":"66",
+        "PROC/PASSIVE_PARAMETERS":"5,6&100&100&100&0&3&0,1,2,0,1,1,0",
+        "SP_ID":"1011000018",
+        "SP_NAME":"Add to BB\\/SBB (Boosts Atk, Def, Rec (Dark) for 3 turns)_25p",
+        "SP_NEED_BP":"25",
+        "SP_SERIES":"1011000018"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
+        "LEVEL":"3",
+        "PROC/PASSIVE_ID(S)":"66",
+        "PROC/PASSIVE_PARAMETERS":"31,1200&0,1,2,0,1,1,0",
+        "SP_ID":"1011000019",
+        "SP_NAME":"Add to BB\\/SBB (Fills BB gauge [12 BC])",
+        "SP_NEED_BP":"15",
+        "SP_SERIES":"1011000019"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
+        "LEVEL":"4",
+        "PROC/PASSIVE_ID(S)":"66",
+        "PROC/PASSIVE_PARAMETERS":"126,20&3&100,1,2,0,1,1,0",
+        "SP_ID":"1011000020",
+        "SP_NAME":"Add to BB\\/SBB (20% DoT reduction for 3 turns)",
+        "SP_NEED_BP":"20",
+        "SP_SERIES":"1011000020"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
+        "LEVEL":"4",
+        "PROC/PASSIVE_ID(S)":"66",
+        "PROC/PASSIVE_PARAMETERS":"3,4000&4500&200&3&0,1,2,0,1,1,0",
+        "SP_ID":"1011000021",
+        "SP_NAME":"Add to BB\\/SBB (restores HP [4000-4500] for 3 turns)",
+        "SP_NEED_BP":"20",
+        "SP_SERIES":"1011000021"
     },
     {
         "DESCRIPTION":"",

@@ -13091,7 +13091,7 @@
         "summon button image":"gacha_rare_summons_btn1.png"
     },
     "18980":{
-        "background image":"gacha_img_20200520GG_s1.png",
+        "background image":"gacha_img_20200408GG_s1.png",
         "desc":"From 20 May 7:00 PST ~ 27 May 6:59 PST, summon minimum 5* Global exclusive units with Omni Potential and enjoy Increased Rates are applied on Osiris, Azius and Saskya!",
         "door image":"gacha_rare_door.png",
         "end time":"2020-05-27 14:59:59",
@@ -13112,6 +13112,54 @@
         "priority":"2",
         "short desc":"Hypaea is available through the Summon Gate! Get a Global Exclusive Elgif for every 10 Summons from the same gate!",
         "start time":"2020-05-20 15:00:00",
+        "summon button image":"gacha_rare_summons_btn1.png"
+    },
+    "19000":{
+        "background image":"gacha_img_20200413DS_s1.png",
+        "desc":"From 27 May 7:00 PST ~ 3 Jun 6:59 PST, summon minimum 5* Global exclusive units with Omni Potential and enjoy Increased Rates are applied on Serin, Ophiuchus and Rhyne!",
+        "door image":"gacha_rare_door.png",
+        "end time":"2020-06-03 14:59:59",
+        "gem cost":5,
+        "name":"Double Step Summon",
+        "priority":"2",
+        "short desc":"Serin, Ophiuchus and Rhyne are available through the Summon Gate!",
+        "start time":"2020-05-27 15:00:00",
+        "summon button image":"gacha_rare_summons_btn1.png"
+    },
+    "19010":{
+        "background image":"gacha_img_20200527K_s1.png",
+        "desc":"From 27 May 7:00 PST ~ 10 Jun 6:59 PST, summon minimum 5* Global exclusive units with Omni Potential and enjoy Increased Rates with each summon on Kelsa up to the 8th Summon!",
+        "door image":"gacha_rare_door.png",
+        "end time":"2020-06-10 14:59:59",
+        "gem cost":5,
+        "name":"Vortex Arena Summon",
+        "priority":"2",
+        "short desc":"Kelsa is available through the Summon Gate! Get a Global Exclusive Elgif for every 10 Summons from the same gate!",
+        "start time":"2020-05-27 15:00:00",
+        "summon button image":"gacha_rare_summons_btn1.png"
+    },
+    "19020":{
+        "background image":"gacha_img_20200527KG_s1.png",
+        "desc":"From 27 May 7:00 PST ~ 10 Jun 6:59 PST, summon minimum 5* Global exclusive units with Omni Potential and enjoy Increased Rates with each summon on Kelsa up to the 4th Summon with Guarantee of Featured Unit on 5th Summon!",
+        "door image":"gacha_rare_door.png",
+        "end time":"2020-06-10 14:59:59",
+        "gem cost":5,
+        "name":"Ringside Summon",
+        "priority":"2",
+        "short desc":"Guaranteed Featured Unit on 5th Summon! Get Ringside Ticket from Vortex Arena Summon Now!",
+        "start time":"2020-05-27 15:00:00",
+        "summon button image":"gacha_rare_summons_btn1.png"
+    },
+    "19030":{
+        "background image":"gacha_img_20200527VA_10G.png",
+        "desc":"From 27 May 7:00 PST ~ 3 Jun 6:59 PST, summon minimum 5* Global exclusive units with Omni Potential and enjoy Increased Rates on Peter!",
+        "door image":"gacha_rare_door.png",
+        "end time":"2020-06-03 14:59:59",
+        "gem cost":5,
+        "name":"Vortex Arena Resummon",
+        "priority":"2",
+        "short desc":"Summon 2 units with Increased Rates on Peter with option to Resummon 1!",
+        "start time":"2020-05-27 15:00:00",
         "summon button image":"gacha_rare_summons_btn1.png"
     }
 }
