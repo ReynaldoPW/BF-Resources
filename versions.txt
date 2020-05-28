@@ -448,7 +448,7 @@
         "moWQ30GH":"F_UNIT_EXT_MST"
     },
     {
-        "d2RFtP8T":"633",
+        "d2RFtP8T":"634",
         "moWQ30GH":"F_UNIT_CGS_MST"
     },
     {
@@ -472,7 +472,7 @@
         "moWQ30GH":"F_EXTRA_PASSIVE_SKILL_MST"
     },
     {
-        "d2RFtP8T":"2871",
+        "d2RFtP8T":"2872",
         "moWQ30GH":"F_RESOURCE_MST"
     },
     {
