@@ -612,7 +612,7 @@
         "moWQ30GH":"F_GUILD_INFO_MST"
     },
     {
-        "d2RFtP8T":"221",
+        "d2RFtP8T":"222",
         "moWQ30GH":"F_GUILD_POINT_EXCHANGE_MST"
     },
     {
