@@ -507,7 +507,7 @@
         "QUEST_ZONE_NAME":"Enhancement",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
         "gq73WFmj":"",
-        "sHMai2ZG":-1
+        "sHMai2ZG":"0"
     },
     {
         "DESCRIPTION":"",
@@ -522,7 +522,7 @@
         "QUEST_ZONE_NAME":"Travellers",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
         "gq73WFmj":"",
-        "sHMai2ZG":-1
+        "sHMai2ZG":"0"
     },
     {
         "DESCRIPTION":"",
@@ -537,7 +537,7 @@
         "QUEST_ZONE_NAME":"Vortex Trials",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
         "gq73WFmj":"",
-        "sHMai2ZG":-1
+        "sHMai2ZG":"0"
     },
     {
         "DESCRIPTION":"",
@@ -552,7 +552,7 @@
         "QUEST_ZONE_NAME":"Seasons Past",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
         "gq73WFmj":"",
-        "sHMai2ZG":-1
+        "sHMai2ZG":"0"
     },
     {
         "DESCRIPTION":"\u66dc\u65e5\u3084\u6642\u9650\u3067\u30c0\u30f3\u30b8\u30e7\u30f3\u304c\u767b\u5834\u3059\u308b\u30a8\u30ea\u30a2",
@@ -1932,7 +1932,7 @@
         "QUEST_ZONE_NAME":"Hellborn Nightmare",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
         "gq73WFmj":"",
-        "sHMai2ZG":"0"
+        "sHMai2ZG":"100004"
     },
     {
         "DESCRIPTION":"SP Dungeon",
@@ -2982,7 +2982,7 @@
         "QUEST_ZONE_NAME":"Gun Goddess of the Tides",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
         "gq73WFmj":"",
-        "sHMai2ZG":"0"
+        "sHMai2ZG":"100002"
     },
     {
         "DESCRIPTION":"SP Dungeon",
@@ -2997,7 +2997,7 @@
         "QUEST_ZONE_NAME":"Heroine of Sama: Selena",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
         "gq73WFmj":"",
-        "sHMai2ZG":"0"
+        "sHMai2ZG":"100002"
     },
     {
         "DESCRIPTION":"SP Dungeon",
@@ -3012,7 +3012,7 @@
         "QUEST_ZONE_NAME":"Winter Glades Blitz",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
         "gq73WFmj":"",
-        "sHMai2ZG":"0"
+        "sHMai2ZG":"100004"
     },
     {
         "DESCRIPTION":"SP Dungeon",

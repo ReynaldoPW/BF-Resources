@@ -124,11 +124,11 @@
         "moWQ30GH":"F_LAND_MST"
     },
     {
-        "d2RFtP8T":"406",
+        "d2RFtP8T":"411",
         "moWQ30GH":"F_AREA_MST"
     },
     {
-        "d2RFtP8T":"733",
+        "d2RFtP8T":"744",
         "moWQ30GH":"F_DUNGEON_MST"
     },
     {
@@ -240,7 +240,7 @@
         "moWQ30GH":"F_MISSION_NPC_UNIT_MST"
     },
     {
-        "d2RFtP8T":"109",
+        "d2RFtP8T":"111",
         "moWQ30GH":"F_GRAND_MISSION_MST"
     },
     {
@@ -248,11 +248,11 @@
         "moWQ30GH":"F_GRAND_MISSION_END_CND_MST"
     },
     {
-        "d2RFtP8T":"85",
+        "d2RFtP8T":"88",
         "moWQ30GH":"F_GRAND_MISSION_FLG_MST"
     },
     {
-        "d2RFtP8T":"101",
+        "d2RFtP8T":"102",
         "moWQ30GH":"F_GRAND_MISSION_REWARD_MST"
     },
     {
@@ -260,11 +260,11 @@
         "moWQ30GH":"F_GRAND_MISSION_MAP_MST"
     },
     {
-        "d2RFtP8T":"77",
+        "d2RFtP8T":"78",
         "moWQ30GH":"F_GRAND_MISSION_SPOT_MST"
     },
     {
-        "d2RFtP8T":"80",
+        "d2RFtP8T":"81",
         "moWQ30GH":"F_GRAND_MISSION_ROUTE_MST"
     },
     {
@@ -276,7 +276,7 @@
         "moWQ30GH":"F_GRAND_MISSION_TREASURE_MST"
     },
     {
-        "d2RFtP8T":"142",
+        "d2RFtP8T":"143",
         "moWQ30GH":"F_GRAND_MISSION_EVENT_MST"
     },
     {
@@ -284,7 +284,7 @@
         "moWQ30GH":"F_ACHIEVEMENT_SUBJECT_MST"
     },
     {
-        "d2RFtP8T":"395",
+        "d2RFtP8T":"394",
         "moWQ30GH":"F_ACHIEVEMENT_TRADE_MST"
     },
     {
@@ -456,15 +456,15 @@
         "moWQ30GH":"F_UNIT_TYPE_MST"
     },
     {
-        "d2RFtP8T":"892",
+        "d2RFtP8T":"896",
         "moWQ30GH":"F_MISSION_MST"
     },
     {
-        "d2RFtP8T":"1278",
+        "d2RFtP8T":"1281",
         "moWQ30GH":"F_SKILL_MST"
     },
     {
-        "d2RFtP8T":"1233",
+        "d2RFtP8T":"1236",
         "moWQ30GH":"F_SKILL_LEVEL_MST"
     },
     {
@@ -472,7 +472,7 @@
         "moWQ30GH":"F_EXTRA_PASSIVE_SKILL_MST"
     },
     {
-        "d2RFtP8T":"2872",
+        "d2RFtP8T":"2877",
         "moWQ30GH":"F_RESOURCE_MST"
     },
     {
@@ -612,7 +612,7 @@
         "moWQ30GH":"F_GUILD_INFO_MST"
     },
     {
-        "d2RFtP8T":"222",
+        "d2RFtP8T":"223",
         "moWQ30GH":"F_GUILD_POINT_EXCHANGE_MST"
     },
     {

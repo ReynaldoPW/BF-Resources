@@ -10993,17 +10993,17 @@
         "DESCRIPTION":"Episode 1 Clear",
         "MISSION_ID":"5008011",
         "REQUIREMENT_ID":"8700",
-        "REQUIREMENT_RARITY*":"0",
+        "REQUIREMENT_RARITY*":"3",
         "Ufm6c7RA":"1",
         "ky1xsH0h":"1"
     },
     {
-        "AI_CHANCE":"0",
+        "AI_CHANCE":"5",
         "DESCRIPTION":"Episode 2 Clear",
         "MISSION_ID":"5008011",
         "REQUIREMENT_ID":"8701",
-        "REQUIREMENT_RARITY*":"0",
-        "Ufm6c7RA":"0",
+        "REQUIREMENT_RARITY*":"3",
+        "Ufm6c7RA":"1",
         "ky1xsH0h":"1"
     },
     {
@@ -11094,6 +11094,24 @@
         "REQUIREMENT_ID":"8711",
         "REQUIREMENT_RARITY*":"0",
         "Ufm6c7RA":"0",
+        "ky1xsH0h":"1"
+    },
+    {
+        "AI_CHANCE":"10",
+        "DESCRIPTION":"Secret Objective 1 Clear",
+        "MISSION_ID":"5008011",
+        "REQUIREMENT_ID":"8712",
+        "REQUIREMENT_RARITY*":"1",
+        "Ufm6c7RA":"0",
+        "ky1xsH0h":"1"
+    },
+    {
+        "AI_CHANCE":"1",
+        "DESCRIPTION":"More episodes coming soon!",
+        "MISSION_ID":"5008011",
+        "REQUIREMENT_ID":"8799",
+        "REQUIREMENT_RARITY*":"1",
+        "Ufm6c7RA":"1",
         "ky1xsH0h":"1"
     },
     {
@@ -11326,6 +11344,33 @@
         "DESCRIPTION":" ",
         "MISSION_ID":"5008011",
         "REQUIREMENT_ID":"87210",
+        "REQUIREMENT_RARITY*":"0",
+        "Ufm6c7RA":"0",
+        "ky1xsH0h":"2"
+    },
+    {
+        "AI_CHANCE":"0",
+        "DESCRIPTION":" ",
+        "MISSION_ID":"5008011",
+        "REQUIREMENT_ID":"87211",
+        "REQUIREMENT_RARITY*":"0",
+        "Ufm6c7RA":"0",
+        "ky1xsH0h":"2"
+    },
+    {
+        "AI_CHANCE":"0",
+        "DESCRIPTION":" ",
+        "MISSION_ID":"5008011",
+        "REQUIREMENT_ID":"87212",
+        "REQUIREMENT_RARITY*":"0",
+        "Ufm6c7RA":"0",
+        "ky1xsH0h":"2"
+    },
+    {
+        "AI_CHANCE":"0",
+        "DESCRIPTION":" ",
+        "MISSION_ID":"5008011",
+        "REQUIREMENT_ID":"87213",
         "REQUIREMENT_RARITY*":"0",
         "Ufm6c7RA":"0",
         "ky1xsH0h":"2"

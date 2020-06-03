@@ -6570,7 +6570,7 @@
         "THUMBNAIL":""
     },
     {
-        "0u1nvMeS":"800127",
+        "0u1nvMeS":"99",
         "3hPeI1RV":"0",
         "DESCRIPTION":"",
         "DUNGEON_ID":"800052",
@@ -8028,7 +8028,7 @@
         "THUMBNAIL":""
     },
     {
-        "0u1nvMeS":"82000",
+        "0u1nvMeS":"99",
         "3hPeI1RV":"0",
         "DESCRIPTION":"MST_DUNGEONS_DUNGEON_802000_DESCRIPTION",
         "DUNGEON_ID":"802000",
@@ -8046,7 +8046,7 @@
         "THUMBNAIL":""
     },
     {
-        "0u1nvMeS":"802006",
+        "0u1nvMeS":"99",
         "3hPeI1RV":"0",
         "DESCRIPTION":"MST_DUNGEONS_DUNGEON_802006_DESCRIPTION",
         "DUNGEON_ID":"802006",
@@ -8064,7 +8064,7 @@
         "THUMBNAIL":""
     },
     {
-        "0u1nvMeS":"82011",
+        "0u1nvMeS":"99",
         "3hPeI1RV":"0",
         "DESCRIPTION":"MST_DUNGEONS_DUNGEON_802011_DESCRIPTION",
         "DUNGEON_ID":"802011",
@@ -10784,7 +10784,7 @@
     {
         "0u1nvMeS":"99",
         "3hPeI1RV":"4",
-        "DESCRIPTION":"Giselle embarks on a search between realms for the Summoner.",
+        "DESCRIPTION":"There is an insidious color shifting beneath this grey world.",
         "DUNGEON_ID":"5008011",
         "DUNGEON_IMAGE":"dungeon_battle_10100.jpg",
         "DUNGEON_NAME":"Liminal End",
@@ -12672,7 +12672,7 @@
         "THUMBNAIL":""
     },
     {
-        "0u1nvMeS":"80013400",
+        "0u1nvMeS":"99",
         "3hPeI1RV":"0",
         "DESCRIPTION":"",
         "DUNGEON_ID":"80013400",
@@ -12680,7 +12680,7 @@
         "DUNGEON_NAME":"Winter Paradise",
         "M6C1aXfR":"300",
         "MAP_OPENING_TEXT_FILE":"0,0",
-        "MISSION_AREA":"80013400",
+        "MISSION_AREA":"100003",
         "MISSION_IDS_REQUIRED":"0",
         "QUEST_ALWAYS_EMPTY":"",
         "QUEST_BANNER_IMAGE":"sp_quest_banner_winter2018_paradise.png",
@@ -12690,7 +12690,7 @@
         "THUMBNAIL":""
     },
     {
-        "0u1nvMeS":"80013401",
+        "0u1nvMeS":"99",
         "3hPeI1RV":"0",
         "DESCRIPTION":"",
         "DUNGEON_ID":"80013401",
@@ -12698,7 +12698,7 @@
         "DUNGEON_NAME":"Winter Paradise",
         "M6C1aXfR":"300",
         "MAP_OPENING_TEXT_FILE":"0,0",
-        "MISSION_AREA":"80013401",
+        "MISSION_AREA":"100004",
         "MISSION_IDS_REQUIRED":"0",
         "QUEST_ALWAYS_EMPTY":"",
         "QUEST_BANNER_IMAGE":"sp_quest_banner_winter2018_paradise.png",
@@ -12708,7 +12708,7 @@
         "THUMBNAIL":""
     },
     {
-        "0u1nvMeS":"80013402",
+        "0u1nvMeS":"99",
         "3hPeI1RV":"0",
         "DESCRIPTION":"",
         "DUNGEON_ID":"80013402",
@@ -12716,7 +12716,7 @@
         "DUNGEON_NAME":"Winter Paradise",
         "M6C1aXfR":"300",
         "MAP_OPENING_TEXT_FILE":"0,0",
-        "MISSION_AREA":"80013402",
+        "MISSION_AREA":"100002",
         "MISSION_IDS_REQUIRED":"0",
         "QUEST_ALWAYS_EMPTY":"",
         "QUEST_BANNER_IMAGE":"sp_quest_banner_winter2018_paradise.png",
