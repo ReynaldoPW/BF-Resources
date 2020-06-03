@@ -13161,5 +13161,17 @@
         "short desc":"Summon 2 units with Increased Rates on Peter with option to Resummon 1!",
         "start time":"2020-05-27 15:00:00",
         "summon button image":"gacha_rare_summons_btn1.png"
+    },
+    "19040":{
+        "background image":"gacha_img_20200603UU_s1.png",
+        "desc":"From 3 Jun 7:00 PST ~ 10 Jun 6:59 PST, summon minimum 5* Global exclusive units with Omni Potential and enjoy Increased Rates with each summon on Osiris and Set!",
+        "door image":"gacha_rare_door.png",
+        "end time":"2020-06-10 14:59:59",
+        "gem cost":5,
+        "name":"Uprising Unite Summon",
+        "priority":"2",
+        "short desc":"Osiris and Set is are available through the Summon Gate! Get a Earth & Dark DBB Mystery Chest for every 7 Summons from the same gate!",
+        "start time":"2020-06-03 15:00:00",
+        "summon button image":"gacha_rare_summons_btn1.png"
     }
 }
