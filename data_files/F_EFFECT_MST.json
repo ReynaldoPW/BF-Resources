@@ -48139,6 +48139,27 @@
         "jeR2rN3V":"3"
     },
     {
+        "1NijIP2a":"30",
+        "1TED5ZSi":"8200281",
+        "CJpkT40r":"Wormhole_Red30",
+        "Heg8ZDQ7":"effect_prt_1149_red.plist",
+        "jeR2rN3V":"3"
+    },
+    {
+        "1NijIP2a":"120",
+        "1TED5ZSi":"8200282",
+        "CJpkT40r":"AerialSlash_Blue120",
+        "Heg8ZDQ7":"effect_prt_1128_blue.plist",
+        "jeR2rN3V":"3"
+    },
+    {
+        "1NijIP2a":"150",
+        "1TED5ZSi":"8200283",
+        "CJpkT40r":"SaturnGrief_Red150",
+        "Heg8ZDQ7":"effect_prt_1154_orenge.plist",
+        "jeR2rN3V":"3"
+    },
+    {
         "1NijIP2a":"100",
         "1TED5ZSi":"8300001",
         "CJpkT40r":"Blaze7_Dim",
@@ -57775,6 +57796,55 @@
         "1TED5ZSi":"9400134",
         "CJpkT40r":"varooster8_speed2UBBR",
         "Heg8ZDQ7":"effect_prt_1020_blue.plist",
+        "jeR2rN3V":"2"
+    },
+    {
+        "1NijIP2a":"120",
+        "1TED5ZSi":"9400136",
+        "CJpkT40r":"Faelan8s_BGblue",
+        "Heg8ZDQ7":"effect_prt_1059_blue.plist",
+        "jeR2rN3V":"2"
+    },
+    {
+        "1NijIP2a":"140",
+        "1TED5ZSi":"9400137",
+        "CJpkT40r":"Faelan8s_HitRed",
+        "Heg8ZDQ7":"effect_prt_161_2_red.plist",
+        "jeR2rN3V":"2"
+    },
+    {
+        "1NijIP2a":"300",
+        "1TED5ZSi":"9400138",
+        "CJpkT40r":"Faelan8s_HitPurple",
+        "Heg8ZDQ7":"effect_prt_161_2.plist",
+        "jeR2rN3V":"2"
+    },
+    {
+        "1NijIP2a":"180",
+        "1TED5ZSi":"9400139",
+        "CJpkT40r":"Faelan8s_Star",
+        "Heg8ZDQ7":"effect_prt_1053_blue.plist",
+        "jeR2rN3V":"2"
+    },
+    {
+        "1NijIP2a":"50",
+        "1TED5ZSi":"9400140",
+        "CJpkT40r":"Faelan8s_Bite",
+        "Heg8ZDQ7":"effect_prt_1215.plist",
+        "jeR2rN3V":"2"
+    },
+    {
+        "1NijIP2a":"150",
+        "1TED5ZSi":"9400141",
+        "CJpkT40r":"Faelan8s_Splash",
+        "Heg8ZDQ7":"effect_prt_1302.plist",
+        "jeR2rN3V":"2"
+    },
+    {
+        "1NijIP2a":"280",
+        "1TED5ZSi":"9400142",
+        "CJpkT40r":"Faelan8sSplashL",
+        "Heg8ZDQ7":"effect_prt_1302.plist",
         "jeR2rN3V":"2"
     },
     {

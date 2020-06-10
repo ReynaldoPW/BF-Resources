@@ -6462,5 +6462,181 @@
         "FH_RANK_NAME":"MVP \u52a9\u3063\u4eba\u6570\uff08\u901a\u7b97\uff09",
         "FH_SEASON":"74",
         "MISSION_ID":"0"
+    },
+    {
+        "FH_CHALLENGE_IMAGE":"",
+        "FH_CHALLENGE_MVP_IMAGE":"challeng_rank_quest0003_mvp.png",
+        "FH_MISSION_ID":"101",
+        "FH_RANK_NAME":"\u672a\u958b\u62d3\u9818\u57df\u30fb\u5165\u53e375",
+        "FH_SEASON":"75",
+        "MISSION_ID":"1007500"
+    },
+    {
+        "FH_CHALLENGE_IMAGE":"",
+        "FH_CHALLENGE_MVP_IMAGE":"challeng_rank_quest0001_mvp.png",
+        "FH_MISSION_ID":"102",
+        "FH_RANK_NAME":"\u672a\u958b\u62d3\u9818\u57df\u30fb\u4e2d\u90e875",
+        "FH_SEASON":"75",
+        "MISSION_ID":"1007501"
+    },
+    {
+        "FH_CHALLENGE_IMAGE":"",
+        "FH_CHALLENGE_MVP_IMAGE":"challeng_rank_quest0002_mvp.png",
+        "FH_MISSION_ID":"103",
+        "FH_RANK_NAME":"\u672a\u958b\u62d3\u9818\u57df\u30fb\u5965\u573075",
+        "FH_SEASON":"75",
+        "MISSION_ID":"1007502"
+    },
+    {
+        "FH_CHALLENGE_IMAGE":"",
+        "FH_CHALLENGE_MVP_IMAGE":"challeng_rank_quest0004_mvp.png",
+        "FH_MISSION_ID":"104",
+        "FH_RANK_NAME":"\u672a\u958b\u62d3\u9818\u57df\u30fb\u6975\u573075",
+        "FH_SEASON":"75",
+        "MISSION_ID":"1007503"
+    },
+    {
+        "FH_CHALLENGE_IMAGE":"challeng_rank_spark.png",
+        "FH_CHALLENGE_MVP_IMAGE":"challeng_rank_spark_mvp.png",
+        "FH_MISSION_ID":"201",
+        "FH_RANK_NAME":"MVP \u30b9\u30d1\u30fc\u30af\uff08\u901a\u7b97\uff09",
+        "FH_SEASON":"75",
+        "MISSION_ID":"0"
+    },
+    {
+        "FH_CHALLENGE_IMAGE":"challeng_rank_overkill.png",
+        "FH_CHALLENGE_MVP_IMAGE":"challeng_rank_overkill_mvp.png",
+        "FH_MISSION_ID":"202",
+        "FH_RANK_NAME":"MVP \u30aa\u30fc\u30d0\u30fc\u30ad\u30eb\uff08\u901a\u7b97\uff09",
+        "FH_SEASON":"75",
+        "MISSION_ID":"0"
+    },
+    {
+        "FH_CHALLENGE_IMAGE":"challeng_rank_multikill.png",
+        "FH_CHALLENGE_MVP_IMAGE":"challeng_rank_multikill_mvp.png",
+        "FH_MISSION_ID":"203",
+        "FH_RANK_NAME":"MVP \u30de\u30eb\u30c1\u30ad\u30eb\uff08\u901a\u7b97\uff09",
+        "FH_SEASON":"75",
+        "MISSION_ID":"0"
+    },
+    {
+        "FH_CHALLENGE_IMAGE":"challeng_rank_bbkill.png",
+        "FH_CHALLENGE_MVP_IMAGE":"challeng_rank_bbkill_mvp.png",
+        "FH_MISSION_ID":"204",
+        "FH_RANK_NAME":"MVP BB\u30ad\u30eb\uff08\u901a\u7b97\uff09",
+        "FH_SEASON":"75",
+        "MISSION_ID":"0"
+    },
+    {
+        "FH_CHALLENGE_IMAGE":"challeng_rank_oneturnkill.png",
+        "FH_CHALLENGE_MVP_IMAGE":"challeng_rank_oneturnkill_mvp.png",
+        "FH_MISSION_ID":"205",
+        "FH_RANK_NAME":"MVP 1\u30bf\u30fc\u30f3\u4ee5\u5185\u6483\u7834\uff08\u901a\u7b97\uff09",
+        "FH_SEASON":"75",
+        "MISSION_ID":"0"
+    },
+    {
+        "FH_CHALLENGE_IMAGE":"challeng_rank_enter.png",
+        "FH_CHALLENGE_MVP_IMAGE":"challeng_rank_enter_mvp.png",
+        "FH_MISSION_ID":"206",
+        "FH_RANK_NAME":"MVP \u53c2\u52a0\u6570\uff08\u901a\u7b97\uff09",
+        "FH_SEASON":"75",
+        "MISSION_ID":"0"
+    },
+    {
+        "FH_CHALLENGE_IMAGE":"challeng_rank_assistances.png",
+        "FH_CHALLENGE_MVP_IMAGE":"challeng_rank_assistances_mvp.png",
+        "FH_MISSION_ID":"207",
+        "FH_RANK_NAME":"MVP \u52a9\u3063\u4eba\u6570\uff08\u901a\u7b97\uff09",
+        "FH_SEASON":"75",
+        "MISSION_ID":"0"
+    },
+    {
+        "FH_CHALLENGE_IMAGE":"",
+        "FH_CHALLENGE_MVP_IMAGE":"challeng_rank_quest0003_mvp.png",
+        "FH_MISSION_ID":"101",
+        "FH_RANK_NAME":"\u672a\u958b\u62d3\u9818\u57df\u30fb\u5165\u53e376",
+        "FH_SEASON":"76",
+        "MISSION_ID":"1007600"
+    },
+    {
+        "FH_CHALLENGE_IMAGE":"",
+        "FH_CHALLENGE_MVP_IMAGE":"challeng_rank_quest0001_mvp.png",
+        "FH_MISSION_ID":"102",
+        "FH_RANK_NAME":"\u672a\u958b\u62d3\u9818\u57df\u30fb\u4e2d\u90e876",
+        "FH_SEASON":"76",
+        "MISSION_ID":"1007601"
+    },
+    {
+        "FH_CHALLENGE_IMAGE":"",
+        "FH_CHALLENGE_MVP_IMAGE":"challeng_rank_quest0002_mvp.png",
+        "FH_MISSION_ID":"103",
+        "FH_RANK_NAME":"\u672a\u958b\u62d3\u9818\u57df\u30fb\u5965\u573076",
+        "FH_SEASON":"76",
+        "MISSION_ID":"1007602"
+    },
+    {
+        "FH_CHALLENGE_IMAGE":"",
+        "FH_CHALLENGE_MVP_IMAGE":"challeng_rank_quest0004_mvp.png",
+        "FH_MISSION_ID":"104",
+        "FH_RANK_NAME":"\u672a\u958b\u62d3\u9818\u57df\u30fb\u6975\u573076",
+        "FH_SEASON":"76",
+        "MISSION_ID":"1007603"
+    },
+    {
+        "FH_CHALLENGE_IMAGE":"challeng_rank_spark.png",
+        "FH_CHALLENGE_MVP_IMAGE":"challeng_rank_spark_mvp.png",
+        "FH_MISSION_ID":"201",
+        "FH_RANK_NAME":"MVP \u30b9\u30d1\u30fc\u30af\uff08\u901a\u7b97\uff09",
+        "FH_SEASON":"76",
+        "MISSION_ID":"0"
+    },
+    {
+        "FH_CHALLENGE_IMAGE":"challeng_rank_overkill.png",
+        "FH_CHALLENGE_MVP_IMAGE":"challeng_rank_overkill_mvp.png",
+        "FH_MISSION_ID":"202",
+        "FH_RANK_NAME":"MVP \u30aa\u30fc\u30d0\u30fc\u30ad\u30eb\uff08\u901a\u7b97\uff09",
+        "FH_SEASON":"76",
+        "MISSION_ID":"0"
+    },
+    {
+        "FH_CHALLENGE_IMAGE":"challeng_rank_multikill.png",
+        "FH_CHALLENGE_MVP_IMAGE":"challeng_rank_multikill_mvp.png",
+        "FH_MISSION_ID":"203",
+        "FH_RANK_NAME":"MVP \u30de\u30eb\u30c1\u30ad\u30eb\uff08\u901a\u7b97\uff09",
+        "FH_SEASON":"76",
+        "MISSION_ID":"0"
+    },
+    {
+        "FH_CHALLENGE_IMAGE":"challeng_rank_bbkill.png",
+        "FH_CHALLENGE_MVP_IMAGE":"challeng_rank_bbkill_mvp.png",
+        "FH_MISSION_ID":"204",
+        "FH_RANK_NAME":"MVP BB\u30ad\u30eb\uff08\u901a\u7b97\uff09",
+        "FH_SEASON":"76",
+        "MISSION_ID":"0"
+    },
+    {
+        "FH_CHALLENGE_IMAGE":"challeng_rank_oneturnkill.png",
+        "FH_CHALLENGE_MVP_IMAGE":"challeng_rank_oneturnkill_mvp.png",
+        "FH_MISSION_ID":"205",
+        "FH_RANK_NAME":"MVP 1\u30bf\u30fc\u30f3\u4ee5\u5185\u6483\u7834\uff08\u901a\u7b97\uff09",
+        "FH_SEASON":"76",
+        "MISSION_ID":"0"
+    },
+    {
+        "FH_CHALLENGE_IMAGE":"challeng_rank_enter.png",
+        "FH_CHALLENGE_MVP_IMAGE":"challeng_rank_enter_mvp.png",
+        "FH_MISSION_ID":"206",
+        "FH_RANK_NAME":"MVP \u53c2\u52a0\u6570\uff08\u901a\u7b97\uff09",
+        "FH_SEASON":"76",
+        "MISSION_ID":"0"
+    },
+    {
+        "FH_CHALLENGE_IMAGE":"challeng_rank_assistances.png",
+        "FH_CHALLENGE_MVP_IMAGE":"challeng_rank_assistances_mvp.png",
+        "FH_MISSION_ID":"207",
+        "FH_RANK_NAME":"MVP \u52a9\u3063\u4eba\u6570\uff08\u901a\u7b97\uff09",
+        "FH_SEASON":"76",
+        "MISSION_ID":"0"
     }
 ]

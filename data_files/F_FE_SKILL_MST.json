@@ -23265,6 +23265,50 @@
         "yRlCNyvk":"Add to SBB (2 turns max HP reduction [25%] infliction on single foe (PvP modes only))"
     },
     {
+        "2Smu5Mtq":"93,0&0&0&0&50&50&3&0,1,2,0,1,0,0",
+        "9PsmH7tz":"1010700099",
+        "D9wXQI2V":"4",
+        "G5wFDad6":"20",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010700099",
+        "yRlCNyvk":"Add to BB (50% spark damage reduction for 3 turns"
+    },
+    {
+        "2Smu5Mtq":"11,1&85&2&85&3&85&4&85&0,2,2,0,1,1,0@11,5&85&6&85&0&0&0&0&0,2,2,0,1,1,0",
+        "9PsmH7tz":"1010700100",
+        "D9wXQI2V":"3",
+        "G5wFDad6":"15",
+        "hjAy9St3":"66@66",
+        "jeR2rN3V":"1@1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010700100",
+        "yRlCNyvk":"Add to BB\\/SBB (probable random status ailments infliction)"
+    },
+    {
+        "2Smu5Mtq":"25",
+        "9PsmH7tz":"1010700101",
+        "D9wXQI2V":"5",
+        "G5wFDad6":"25",
+        "hjAy9St3":"48",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010700101",
+        "yRlCNyvk":"25% reduction to BB activation cost"
+    },
+    {
+        "2Smu5Mtq":"1&2&3&4&5&6,150",
+        "9PsmH7tz":"1010700102",
+        "D9wXQI2V":"4",
+        "G5wFDad6":"20",
+        "hjAy9St3":"74",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010700102",
+        "yRlCNyvk":"150% damage against status afflicted foes"
+    },
+    {
         "2Smu5Mtq":"0,130,0,0,130",
         "9PsmH7tz":"1010800029",
         "D9wXQI2V":"4",
@@ -28653,6 +28697,72 @@
         "qp37xTDh":"",
         "ri6D9yBi":"1100000517",
         "yRlCNyvk":"Add to BB (80% Chance Purge (LS Lock) 1 Random Ally \\/ 80% Chance Purge (ES Lock) 1 Random Ally \\/ 80% Chance Purge (DoT) 1 Random Ally), Add to UBB (Purge (LS Lock) ALL \\/ Purge (ES Lock) ALL \\/ Purge (DOT) ALL)"
+    },
+    {
+        "2Smu5Mtq":"50,150",
+        "9PsmH7tz":"1100000518",
+        "D9wXQI2V":"4",
+        "G5wFDad6":"10",
+        "hjAy9St3":"100",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1100000518",
+        "yRlCNyvk":"Probable [50%] spark critical [150%]"
+    },
+    {
+        "2Smu5Mtq":"500,800,100",
+        "9PsmH7tz":"1100000519",
+        "D9wXQI2V":"4",
+        "G5wFDad6":"20",
+        "hjAy9St3":"101",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1100000519",
+        "yRlCNyvk":"Spark damage restores HP [500-800]"
+    },
+    {
+        "2Smu5Mtq":"12,100,1,30,2,-1",
+        "9PsmH7tz":"1100000520",
+        "D9wXQI2V":"6",
+        "G5wFDad6":"20",
+        "hjAy9St3":"55",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1100000520",
+        "yRlCNyvk":"1 KO resistance when HP is below 30%"
+    },
+    {
+        "2Smu5Mtq":"47,200&500&0&200&0&0&0&0,2,1,1,0,1,0",
+        "9PsmH7tz":"1100000521",
+        "D9wXQI2V":"4",
+        "G5wFDad6":"25",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1100000521",
+        "yRlCNyvk":"Add to SBB (30 combo Fire attack [200-500%] on single foe (damage relative to remaining HP))"
+    },
+    {
+        "2Smu5Mtq":"0,1,0,5",
+        "9PsmH7tz":"1100000522",
+        "D9wXQI2V":"3",
+        "G5wFDad6":"15",
+        "hjAy9St3":"10007",
+        "jeR2rN3V":"2",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1100000522",
+        "yRlCNyvk":"Enhances BB's probable evasion for 2 turns effect [+5% chance, +1 turn]"
+    },
+    {
+        "2Smu5Mtq":"0,0,0,0,0,0,1,0@0,0,1,0@0,0,0,1,0",
+        "9PsmH7tz":"1100000523",
+        "D9wXQI2V":"3",
+        "G5wFDad6":"15",
+        "hjAy9St3":"23@58@67",
+        "jeR2rN3V":"4@4@4",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1100000523",
+        "yRlCNyvk":"Allows UBB's effects to last additional 1 turn_Nyami"
     },
     {
         "2Smu5Mtq":"0,0,30,0,30",

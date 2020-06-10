@@ -733,5 +733,12 @@
         "SCENARIO_SUPERSECTION*":"70000",
         "SP_CAT_ID":"100016",
         "SP_CAT_NAME":"Memoir Fragments: Deimos"
+    },
+    {
+        "DESCRIPTION":"Two very different girls, both hailing from very different world, summoned by the mysterious Caretaker to another world. Just what could be waiting for them on the other side?",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"30",
+        "SCENARIO_SUPERSECTION*":"70000",
+        "SP_CAT_ID":"100017",
+        "SP_CAT_NAME":"Adventure across Worlds"
     }
 ]

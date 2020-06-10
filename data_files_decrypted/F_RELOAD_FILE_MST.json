@@ -2082,5 +2082,13 @@
     {
         "RELOAD_FILES":"unit_anime_830888.png,unit_ills_battle_830888,unit_ills_full_830888.png,unit_ills_thum_830888",
         "RELOAD_ID":"3093"
+    },
+    {
+        "RELOAD_FILES":"buff_desc_sg.txt,battle_buff_icon_sg.png",
+        "RELOAD_ID":"3094"
+    },
+    {
+        "RELOAD_FILES":"buff_desc_sg.txt,battle_buff_icon_sg.png",
+        "RELOAD_ID":"3095"
     }
 ]

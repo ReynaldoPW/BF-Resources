@@ -2217,7 +2217,7 @@
         "QUEST_ZONE_NAME":"Midnight Reverie",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
         "gq73WFmj":"",
-        "sHMai2ZG":"0"
+        "sHMai2ZG":"100004"
     },
     {
         "DESCRIPTION":"SP Dungeon",
@@ -3027,7 +3027,7 @@
         "QUEST_ZONE_NAME":"Glittering Wintertide",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
         "gq73WFmj":"",
-        "sHMai2ZG":"0"
+        "sHMai2ZG":"100004"
     },
     {
         "DESCRIPTION":"SP Dungeon",
@@ -3057,7 +3057,7 @@
         "QUEST_ZONE_NAME":"Slashing Fist of the Wild",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
         "gq73WFmj":"",
-        "sHMai2ZG":"0"
+        "sHMai2ZG":"100002"
     },
     {
         "DESCRIPTION":"SP Dungeon",
@@ -3072,7 +3072,7 @@
         "QUEST_ZONE_NAME":"Hero of Vriksha: Lance",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
         "gq73WFmj":"",
-        "sHMai2ZG":"0"
+        "sHMai2ZG":"100002"
     },
     {
         "DESCRIPTION":"SP Dungeon",
@@ -3790,6 +3790,36 @@
         "QUEST_MAP_NUMBER/GUIDE_ID":"20200513",
         "QUEST_ZONE_MAP_NUMBER":"99",
         "QUEST_ZONE_NAME":"Defend the Gates",
+        "UNKNOWN_BOOLEAN_QUESTS":"10",
+        "gq73WFmj":"",
+        "sHMai2ZG":"0"
+    },
+    {
+        "DESCRIPTION":"SP Dungeon",
+        "IMAGE":"area_sp.jpg",
+        "MAP_OPENING_TEXT_FILE":"0",
+        "MISSION_AREA":"20001000",
+        "MISSION_IDS_REQUIRED":"0",
+        "QUEST_ALWAYS_EMPTY":"",
+        "QUEST_BANNER_IMG":"sp_quest_banner_20001000.png",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"202000610",
+        "QUEST_ZONE_MAP_NUMBER":"99",
+        "QUEST_ZONE_NAME":"Summer 2020",
+        "UNKNOWN_BOOLEAN_QUESTS":"1",
+        "gq73WFmj":"",
+        "sHMai2ZG":"0"
+    },
+    {
+        "DESCRIPTION":"SP Dungeon",
+        "IMAGE":"area_sp.jpg",
+        "MAP_OPENING_TEXT_FILE":"0",
+        "MISSION_AREA":"20001001",
+        "MISSION_IDS_REQUIRED":"0",
+        "QUEST_ALWAYS_EMPTY":"",
+        "QUEST_BANNER_IMG":"sp_quest_banner_20001001.png",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"202000610",
+        "QUEST_ZONE_MAP_NUMBER":"99",
+        "QUEST_ZONE_NAME":"Summer 2020 Daily",
         "UNKNOWN_BOOLEAN_QUESTS":"10",
         "gq73WFmj":"",
         "sHMai2ZG":"0"

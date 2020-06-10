@@ -13173,5 +13173,53 @@
         "short desc":"Osiris and Set is are available through the Summon Gate! Get a Earth & Dark DBB Mystery Chest for every 7 Summons from the same gate!",
         "start time":"2020-06-03 15:00:00",
         "summon button image":"gacha_rare_summons_btn1.png"
+    },
+    "19050":{
+        "background image":"gacha_img_20200610HS.png",
+        "desc":"From 10 Jun 7:00 PST ~ 8 Jul 6:59 PST, use your Summer Hero Ticket to summon one of the selected units from VA or past summer exclusive! Remember, this ticket is only valid till 8th July.",
+        "door image":"gacha_rare_door.png",
+        "end time":"2020-07-08 14:59:59",
+        "gem cost":999,
+        "name":"Summer Hero Selector",
+        "priority":"2",
+        "short desc":"Summon any one of the units, selected from VA and past summer exclusive!",
+        "start time":"2020-06-10 15:00:00",
+        "summon button image":"gacha_rare_summons_btn1.png"
+    },
+    "19060":{
+        "background image":"gacha_img_20200610N_s1.png",
+        "desc":"From 10 Jun 7:00 PST ~ 24 Jun 6:59 PST, summon minimum 5* Global exclusive units with Omni Potential and enjoy Increased Rates with each summon on Nyami up to the 8th Summon!",
+        "door image":"gacha_rare_door.png",
+        "end time":"2020-06-24 14:59:59",
+        "gem cost":5,
+        "name":"Summer Summon",
+        "priority":"2",
+        "short desc":"Nyami is available through the Summon Gate! Get a Global Exclusive Elgif for every 10 Summons from the same gate!",
+        "start time":"2020-06-10 15:00:00",
+        "summon button image":"gacha_rare_summons_btn1.png"
+    },
+    "19070":{
+        "background image":"Summer2020GemSummon_gacha_oddstep.png",
+        "desc":"From 10 Jun 7:00 PST ~ 24 Jun 6:59 PST, summon minimum 5* Global exclusive units with Omni Potential and enjoy Increased Rates on Nyami! Get a Summer Mystery Chest on every odd number summon and a Super Summer Mystery Chest every 10 summons!",
+        "door image":"gacha_rare_door.png",
+        "end time":"2020-06-24 14:59:59",
+        "gem cost":5,
+        "name":"Summer Gem Summon",
+        "priority":"2",
+        "short desc":"Get a Summer Mystery Chest on every odd number summon and a Super Summer Mystery Chest every 10 summons!",
+        "start time":"2020-06-10 15:00:00",
+        "summon button image":"gacha_rare_summons_btn1.png"
+    },
+    "19080":{
+        "background image":"gacha_img_20200610SD_s1.png",
+        "desc":"From 10 Jun 7:00 PST ~ 8 Jul 6:59 PST, summon minimum 5* Regil to Roglizer and Global exclusive units with Omni Potential, and stand a chance to summon Nyami, Sennie, Chryssa and Tsovinar! Collect your free daily Sunny Ticket and summon now!",
+        "door image":"gacha_rare_door.png",
+        "end time":"2020-07-08 14:59:59",
+        "gem cost":5,
+        "name":"Summer Daily Summon",
+        "priority":"2",
+        "short desc":"Nyami, Sennie, Chryssa and Tsovinar is available through the Summon Gate! Collect your free daily Sunny Ticket and summon now!",
+        "start time":"2020-06-10 15:00:00",
+        "summon button image":"gacha_rare_summons_btn1.png"
     }
 }

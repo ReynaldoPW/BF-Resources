@@ -23268,6 +23268,50 @@
         "DESCRIPTION":"",
         "EFFECT_AREA*":"1",
         "LEVEL":"4",
+        "PROC/PASSIVE_ID(S)":"66",
+        "PROC/PASSIVE_PARAMETERS":"93,0&0&0&0&50&50&3&0,1,2,0,1,0,0",
+        "SP_ID":"1010700099",
+        "SP_NAME":"Add to BB (50% spark damage reduction for 3 turns",
+        "SP_NEED_BP":"20",
+        "SP_SERIES":"1010700099"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1@1",
+        "LEVEL":"3",
+        "PROC/PASSIVE_ID(S)":"66@66",
+        "PROC/PASSIVE_PARAMETERS":"11,1&85&2&85&3&85&4&85&0,2,2,0,1,1,0@11,5&85&6&85&0&0&0&0&0,2,2,0,1,1,0",
+        "SP_ID":"1010700100",
+        "SP_NAME":"Add to BB\\/SBB (probable random status ailments infliction)",
+        "SP_NEED_BP":"15",
+        "SP_SERIES":"1010700100"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
+        "LEVEL":"5",
+        "PROC/PASSIVE_ID(S)":"48",
+        "PROC/PASSIVE_PARAMETERS":"25",
+        "SP_ID":"1010700101",
+        "SP_NAME":"25% reduction to BB activation cost",
+        "SP_NEED_BP":"25",
+        "SP_SERIES":"1010700101"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
+        "LEVEL":"4",
+        "PROC/PASSIVE_ID(S)":"74",
+        "PROC/PASSIVE_PARAMETERS":"1&2&3&4&5&6,150",
+        "SP_ID":"1010700102",
+        "SP_NAME":"150% damage against status afflicted foes",
+        "SP_NEED_BP":"20",
+        "SP_SERIES":"1010700102"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
+        "LEVEL":"4",
         "PROC/PASSIVE_ID(S)":"1",
         "PROC/PASSIVE_PARAMETERS":"0,130,0,0,130",
         "SP_ID":"1010800029",
@@ -28653,6 +28697,72 @@
         "SP_NAME":"Add to BB (80% Chance Purge (LS Lock) 1 Random Ally \\/ 80% Chance Purge (ES Lock) 1 Random Ally \\/ 80% Chance Purge (DoT) 1 Random Ally), Add to UBB (Purge (LS Lock) ALL \\/ Purge (ES Lock) ALL \\/ Purge (DOT) ALL)",
         "SP_NEED_BP":"25",
         "SP_SERIES":"1100000517"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
+        "LEVEL":"4",
+        "PROC/PASSIVE_ID(S)":"100",
+        "PROC/PASSIVE_PARAMETERS":"50,150",
+        "SP_ID":"1100000518",
+        "SP_NAME":"Probable [50%] spark critical [150%]",
+        "SP_NEED_BP":"10",
+        "SP_SERIES":"1100000518"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
+        "LEVEL":"4",
+        "PROC/PASSIVE_ID(S)":"101",
+        "PROC/PASSIVE_PARAMETERS":"500,800,100",
+        "SP_ID":"1100000519",
+        "SP_NAME":"Spark damage restores HP [500-800]",
+        "SP_NEED_BP":"20",
+        "SP_SERIES":"1100000519"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
+        "LEVEL":"6",
+        "PROC/PASSIVE_ID(S)":"55",
+        "PROC/PASSIVE_PARAMETERS":"12,100,1,30,2,-1",
+        "SP_ID":"1100000520",
+        "SP_NAME":"1 KO resistance when HP is below 30%",
+        "SP_NEED_BP":"20",
+        "SP_SERIES":"1100000520"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
+        "LEVEL":"4",
+        "PROC/PASSIVE_ID(S)":"66",
+        "PROC/PASSIVE_PARAMETERS":"47,200&500&0&200&0&0&0&0,2,1,1,0,1,0",
+        "SP_ID":"1100000521",
+        "SP_NAME":"Add to SBB (30 combo Fire attack [200-500%] on single foe (damage relative to remaining HP))",
+        "SP_NEED_BP":"25",
+        "SP_SERIES":"1100000521"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"2",
+        "LEVEL":"3",
+        "PROC/PASSIVE_ID(S)":"10007",
+        "PROC/PASSIVE_PARAMETERS":"0,1,0,5",
+        "SP_ID":"1100000522",
+        "SP_NAME":"Enhances BB's probable evasion for 2 turns effect [+5% chance, +1 turn]",
+        "SP_NEED_BP":"15",
+        "SP_SERIES":"1100000522"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"4@4@4",
+        "LEVEL":"3",
+        "PROC/PASSIVE_ID(S)":"23@58@67",
+        "PROC/PASSIVE_PARAMETERS":"0,0,0,0,0,0,1,0@0,0,1,0@0,0,0,1,0",
+        "SP_ID":"1100000523",
+        "SP_NAME":"Allows UBB's effects to last additional 1 turn_Nyami",
+        "SP_NEED_BP":"15",
+        "SP_SERIES":"1100000523"
     },
     {
         "DESCRIPTION":"",
