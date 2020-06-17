@@ -48097,67 +48097,137 @@
         "jeR2rN3V":"3"
     },
     {
+        "1NijIP2a":"220",
+        "1TED5ZSi":"8200273",
+        "CJpkT40r":"BarrageFlare_Blue220",
+        "Heg8ZDQ7":"effect_prt_1242_blue.plist",
+        "jeR2rN3V":"2"
+    },
+    {
         "1NijIP2a":"30",
         "1TED5ZSi":"8200274",
         "CJpkT40r":"AU2Hypaea8_xplod",
         "Heg8ZDQ7":"effect_prt_1059_green.plist",
-        "jeR2rN3V":"3"
+        "jeR2rN3V":"2"
     },
     {
         "1NijIP2a":"40",
         "1TED5ZSi":"8200275",
         "CJpkT40r":"AU2Hypaea8_spark",
         "Heg8ZDQ7":"effect_prt_1133_green.plist",
-        "jeR2rN3V":"3"
+        "jeR2rN3V":"2"
     },
     {
         "1NijIP2a":"70",
         "1TED5ZSi":"8200276",
         "CJpkT40r":"AU2Hypaea8_bgSBB",
         "Heg8ZDQ7":"effect_prt_1097_green.plist",
-        "jeR2rN3V":"3"
+        "jeR2rN3V":"2"
     },
     {
         "1NijIP2a":"80",
         "1TED5ZSi":"8200277",
         "CJpkT40r":"AU2Hypaea8_shot2UBB",
         "Heg8ZDQ7":"effect_prt_1087_purple.plist",
-        "jeR2rN3V":"3"
+        "jeR2rN3V":"2"
     },
     {
         "1NijIP2a":"90",
         "1TED5ZSi":"8200279",
         "CJpkT40r":"AU2Hypaea8_shot4UBB",
         "Heg8ZDQ7":"effect_prt_1087_green.plist",
-        "jeR2rN3V":"3"
+        "jeR2rN3V":"2"
     },
     {
         "1NijIP2a":"80",
         "1TED5ZSi":"8200280",
         "CJpkT40r":"AU2Hypaea8_sparkUBB",
         "Heg8ZDQ7":"effect_prt_1133_green.plist",
-        "jeR2rN3V":"3"
+        "jeR2rN3V":"2"
     },
     {
         "1NijIP2a":"30",
         "1TED5ZSi":"8200281",
         "CJpkT40r":"Wormhole_Red30",
         "Heg8ZDQ7":"effect_prt_1149_red.plist",
-        "jeR2rN3V":"3"
+        "jeR2rN3V":"2"
     },
     {
         "1NijIP2a":"120",
         "1TED5ZSi":"8200282",
         "CJpkT40r":"AerialSlash_Blue120",
         "Heg8ZDQ7":"effect_prt_1128_blue.plist",
-        "jeR2rN3V":"3"
+        "jeR2rN3V":"2"
     },
     {
         "1NijIP2a":"150",
         "1TED5ZSi":"8200283",
         "CJpkT40r":"SaturnGrief_Red150",
         "Heg8ZDQ7":"effect_prt_1154_orenge.plist",
+        "jeR2rN3V":"2"
+    },
+    {
+        "1NijIP2a":"160",
+        "1TED5ZSi":"8200284",
+        "CJpkT40r":"Suizen8s_BlastGroundADD",
+        "Heg8ZDQ7":"840888BattleEffectBlastGroundADD.sam",
+        "jeR2rN3V":"4"
+    },
+    {
+        "1NijIP2a":"160",
+        "1TED5ZSi":"8200285",
+        "CJpkT40r":"Suizen8s_GlowBlastADD",
+        "Heg8ZDQ7":"840888BattleEffectGlowBlastADD.sam",
+        "jeR2rN3V":"4"
+    },
+    {
+        "1NijIP2a":"160",
+        "1TED5ZSi":"8200286",
+        "CJpkT40r":"Suizen8s_GlowGroundADD",
+        "Heg8ZDQ7":"840888BattleEffectGlowGroundADD.sam",
+        "jeR2rN3V":"4"
+    },
+    {
+        "1NijIP2a":"160",
+        "1TED5ZSi":"8200287",
+        "CJpkT40r":"Suizen8s_GustBack",
+        "Heg8ZDQ7":"840888BattleEffectGustBack.sam",
         "jeR2rN3V":"3"
+    },
+    {
+        "1NijIP2a":"160",
+        "1TED5ZSi":"8200288",
+        "CJpkT40r":"Suizen8s_GustFront",
+        "Heg8ZDQ7":"840888BattleEffectGustFront.sam",
+        "jeR2rN3V":"3"
+    },
+    {
+        "1NijIP2a":"160",
+        "1TED5ZSi":"8200289",
+        "CJpkT40r":"Suizen8s_ImpactADD",
+        "Heg8ZDQ7":"840888BattleEffectImpactADD.sam",
+        "jeR2rN3V":"4"
+    },
+    {
+        "1NijIP2a":"160",
+        "1TED5ZSi":"8200290",
+        "CJpkT40r":"Suizen8s_LightningA",
+        "Heg8ZDQ7":"840888BattleEffectLightningA.sam",
+        "jeR2rN3V":"3"
+    },
+    {
+        "1NijIP2a":"160",
+        "1TED5ZSi":"8200291",
+        "CJpkT40r":"Suizen8s_LightningB",
+        "Heg8ZDQ7":"840888BattleEffectLightningB.sam",
+        "jeR2rN3V":"3"
+    },
+    {
+        "1NijIP2a":"120",
+        "1TED5ZSi":"8200292",
+        "CJpkT40r":"LightningCage(Mid)_120",
+        "Heg8ZDQ7":"effect_prt_1091.plist",
+        "jeR2rN3V":"2"
     },
     {
         "1NijIP2a":"100",

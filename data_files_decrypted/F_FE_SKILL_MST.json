@@ -28767,6 +28767,28 @@
     {
         "DESCRIPTION":"",
         "EFFECT_AREA*":"1",
+        "LEVEL":"3",
+        "PROC/PASSIVE_ID(S)":"8",
+        "PROC/PASSIVE_PARAMETERS":"10",
+        "SP_ID":"1100000524",
+        "SP_NAME":"10% damage reduction",
+        "SP_NEED_BP":"20",
+        "SP_SERIES":"1100000524"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
+        "LEVEL":"5",
+        "PROC/PASSIVE_ID(S)":"66",
+        "PROC/PASSIVE_PARAMETERS":"132,35&35&75&75&3&0,2,2,0,0,1,0",
+        "SP_ID":"1100000525",
+        "SP_NAME":"Add to SBB (Probable [75%] 3 turns critical and elemental vulnerability [35%] infliction)",
+        "SP_NEED_BP":"25",
+        "SP_SERIES":"1100000525"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
         "LEVEL":"1",
         "PROC/PASSIVE_ID(S)":"1",
         "PROC/PASSIVE_PARAMETERS":"0,0,30,0,30",

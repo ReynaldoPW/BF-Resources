@@ -2307,7 +2307,7 @@
         "QUEST_ZONE_NAME":"Ellie's Folly",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
         "gq73WFmj":"",
-        "sHMai2ZG":"0"
+        "sHMai2ZG":"100004"
     },
     {
         "DESCRIPTION":"SP Dungeon",
@@ -2817,7 +2817,7 @@
         "QUEST_ZONE_NAME":"Trigun Collaboration",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
         "gq73WFmj":"",
-        "sHMai2ZG":"0"
+        "sHMai2ZG":-1
     },
     {
         "DESCRIPTION":"SP Dungeon",
@@ -2832,7 +2832,7 @@
         "QUEST_ZONE_NAME":"Trigun: Bounties",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
         "gq73WFmj":"",
-        "sHMai2ZG":"0"
+        "sHMai2ZG":-1
     },
     {
         "DESCRIPTION":"SP Dungeon",
@@ -2847,7 +2847,7 @@
         "QUEST_ZONE_NAME":"Trigun: Routine Bounty",
         "UNKNOWN_BOOLEAN_QUESTS":"10",
         "gq73WFmj":"",
-        "sHMai2ZG":"0"
+        "sHMai2ZG":-1
     },
     {
         "DESCRIPTION":"SP Dungeon",
@@ -3042,7 +3042,7 @@
         "QUEST_ZONE_NAME":"Jubilant Jingles",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
         "gq73WFmj":"",
-        "sHMai2ZG":"0"
+        "sHMai2ZG":"100004"
     },
     {
         "DESCRIPTION":"SP Dungeon",
@@ -3087,7 +3087,7 @@
         "QUEST_ZONE_NAME":"The Lightning Bomber",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
         "gq73WFmj":"",
-        "sHMai2ZG":"0"
+        "sHMai2ZG":"100002"
     },
     {
         "DESCRIPTION":"SP Dungeon",
@@ -3102,7 +3102,7 @@
         "QUEST_ZONE_NAME":"Hero of Atharva: Eze",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
         "gq73WFmj":"",
-        "sHMai2ZG":"0"
+        "sHMai2ZG":"100002"
     },
     {
         "DESCRIPTION":"SP Dungeon",
@@ -3777,7 +3777,7 @@
         "QUEST_ZONE_NAME":"Realm of the Gods",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
         "gq73WFmj":"",
-        "sHMai2ZG":"0"
+        "sHMai2ZG":-1
     },
     {
         "DESCRIPTION":"SP Dungeon",
@@ -3792,7 +3792,7 @@
         "QUEST_ZONE_NAME":"Defend the Gates",
         "UNKNOWN_BOOLEAN_QUESTS":"10",
         "gq73WFmj":"",
-        "sHMai2ZG":"0"
+        "sHMai2ZG":-1
     },
     {
         "DESCRIPTION":"SP Dungeon",
@@ -3807,7 +3807,7 @@
         "QUEST_ZONE_NAME":"Summer 2020",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
         "gq73WFmj":"",
-        "sHMai2ZG":"0"
+        "sHMai2ZG":-1
     },
     {
         "DESCRIPTION":"SP Dungeon",
@@ -3822,7 +3822,7 @@
         "QUEST_ZONE_NAME":"Summer 2020 Daily",
         "UNKNOWN_BOOLEAN_QUESTS":"10",
         "gq73WFmj":"",
-        "sHMai2ZG":"0"
+        "sHMai2ZG":-1
     },
     {
         "DESCRIPTION":"SP Dungeon",

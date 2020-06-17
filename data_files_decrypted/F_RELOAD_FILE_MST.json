@@ -2090,5 +2090,13 @@
     {
         "RELOAD_FILES":"buff_desc_sg.txt,battle_buff_icon_sg.png",
         "RELOAD_ID":"3095"
+    },
+    {
+        "RELOAD_FILES":"battle_buff_icon_sg.png",
+        "RELOAD_ID":"3096"
+    },
+    {
+        "RELOAD_FILES":"battle_buff_icon_sg.png",
+        "RELOAD_ID":"3097"
     }
 ]

@@ -4173,6 +4173,45 @@
         "REWARD_TYPE*":"6"
     },
     {
+        "64hAvkZX":"1",
+        "ELGIF_REWARD*":"0",
+        "MISSION_ID":"5008011",
+        "PRESENT_AMOUNT":"15",
+        "REQUIREMENT_PARAMETER":"8702",
+        "REQUIREMENT_TYPE*":"2",
+        "REWARD_CONDITION":"Episode 3 Complete",
+        "REWARD_CONDITION_DESCRIPTION":"Episode 3 Complete",
+        "REWARD_ID":"87008",
+        "REWARD_ITEM_ID":"800907",
+        "REWARD_TYPE*":"4"
+    },
+    {
+        "64hAvkZX":"1",
+        "ELGIF_REWARD*":"1:0",
+        "MISSION_ID":"5008011",
+        "PRESENT_AMOUNT":"1",
+        "REQUIREMENT_PARAMETER":"8702",
+        "REQUIREMENT_TYPE*":"2",
+        "REWARD_CONDITION":"Episode 3 Complete",
+        "REWARD_CONDITION_DESCRIPTION":"Episode 3 Complete",
+        "REWARD_ID":"87009",
+        "REWARD_ITEM_ID":"880244",
+        "REWARD_TYPE*":"4"
+    },
+    {
+        "64hAvkZX":"1",
+        "ELGIF_REWARD*":"0",
+        "MISSION_ID":"5008011",
+        "PRESENT_AMOUNT":"2",
+        "REQUIREMENT_PARAMETER":"8702",
+        "REQUIREMENT_TYPE*":"2",
+        "REWARD_CONDITION":"Episode 3 Complete",
+        "REWARD_CONDITION_DESCRIPTION":"Episode 3 Complete",
+        "REWARD_ID":"87010",
+        "REWARD_ITEM_ID":"0",
+        "REWARD_TYPE*":"8"
+    },
+    {
         "64hAvkZX":"0",
         "ELGIF_REWARD*":"0",
         "MISSION_ID":"5008011",

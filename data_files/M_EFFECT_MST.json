@@ -41226,58 +41226,118 @@
         "jeR2rN3V":"3"
     },
     {
+        "1NijIP2a":"220",
+        "1TED5ZSi":"8200273",
+        "Heg8ZDQ7":"effect_prt_1242_blue.plist",
+        "jeR2rN3V":"2"
+    },
+    {
         "1NijIP2a":"30",
         "1TED5ZSi":"8200274",
         "Heg8ZDQ7":"effect_prt_1059_green.plist",
-        "jeR2rN3V":"3"
+        "jeR2rN3V":"2"
     },
     {
         "1NijIP2a":"40",
         "1TED5ZSi":"8200275",
         "Heg8ZDQ7":"effect_prt_1133_green.plist",
-        "jeR2rN3V":"3"
+        "jeR2rN3V":"2"
     },
     {
         "1NijIP2a":"70",
         "1TED5ZSi":"8200276",
         "Heg8ZDQ7":"effect_prt_1097_green.plist",
-        "jeR2rN3V":"3"
+        "jeR2rN3V":"2"
     },
     {
         "1NijIP2a":"80",
         "1TED5ZSi":"8200277",
         "Heg8ZDQ7":"effect_prt_1087_purple.plist",
-        "jeR2rN3V":"3"
+        "jeR2rN3V":"2"
     },
     {
         "1NijIP2a":"90",
         "1TED5ZSi":"8200279",
         "Heg8ZDQ7":"effect_prt_1087_green.plist",
-        "jeR2rN3V":"3"
+        "jeR2rN3V":"2"
     },
     {
         "1NijIP2a":"80",
         "1TED5ZSi":"8200280",
         "Heg8ZDQ7":"effect_prt_1133_green.plist",
-        "jeR2rN3V":"3"
+        "jeR2rN3V":"2"
     },
     {
         "1NijIP2a":"30",
         "1TED5ZSi":"8200281",
         "Heg8ZDQ7":"effect_prt_1149_red.plist",
-        "jeR2rN3V":"3"
+        "jeR2rN3V":"2"
     },
     {
         "1NijIP2a":"120",
         "1TED5ZSi":"8200282",
         "Heg8ZDQ7":"effect_prt_1128_blue.plist",
-        "jeR2rN3V":"3"
+        "jeR2rN3V":"2"
     },
     {
         "1NijIP2a":"150",
         "1TED5ZSi":"8200283",
         "Heg8ZDQ7":"effect_prt_1154_orenge.plist",
+        "jeR2rN3V":"2"
+    },
+    {
+        "1NijIP2a":"160",
+        "1TED5ZSi":"8200284",
+        "Heg8ZDQ7":"840888BattleEffectBlastGroundADD.sam",
+        "jeR2rN3V":"4"
+    },
+    {
+        "1NijIP2a":"160",
+        "1TED5ZSi":"8200285",
+        "Heg8ZDQ7":"840888BattleEffectGlowBlastADD.sam",
+        "jeR2rN3V":"4"
+    },
+    {
+        "1NijIP2a":"160",
+        "1TED5ZSi":"8200286",
+        "Heg8ZDQ7":"840888BattleEffectGlowGroundADD.sam",
+        "jeR2rN3V":"4"
+    },
+    {
+        "1NijIP2a":"160",
+        "1TED5ZSi":"8200287",
+        "Heg8ZDQ7":"840888BattleEffectGustBack.sam",
         "jeR2rN3V":"3"
+    },
+    {
+        "1NijIP2a":"160",
+        "1TED5ZSi":"8200288",
+        "Heg8ZDQ7":"840888BattleEffectGustFront.sam",
+        "jeR2rN3V":"3"
+    },
+    {
+        "1NijIP2a":"160",
+        "1TED5ZSi":"8200289",
+        "Heg8ZDQ7":"840888BattleEffectImpactADD.sam",
+        "jeR2rN3V":"4"
+    },
+    {
+        "1NijIP2a":"160",
+        "1TED5ZSi":"8200290",
+        "Heg8ZDQ7":"840888BattleEffectLightningA.sam",
+        "jeR2rN3V":"3"
+    },
+    {
+        "1NijIP2a":"160",
+        "1TED5ZSi":"8200291",
+        "Heg8ZDQ7":"840888BattleEffectLightningB.sam",
+        "jeR2rN3V":"3"
+    },
+    {
+        "1NijIP2a":"120",
+        "1TED5ZSi":"8200292",
+        "Heg8ZDQ7":"effect_prt_1091.plist",
+        "jeR2rN3V":"2"
     },
     {
         "1NijIP2a":"100",
