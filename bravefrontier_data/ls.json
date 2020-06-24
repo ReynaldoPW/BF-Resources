@@ -24257,25 +24257,29 @@
         "desc":"MST_LEADERSKILLS_801268_DESCRIPTION",
         "effects":[
             {
-                "hp% buff":60,
+                "hp% buff":160,
                 "passive id":"1"
             },
             {
-                "atk% extra buff based on hp":50,
+                "atk% extra buff based on hp":100,
                 "buff proportional to hp":"remaining",
-                "def% extra buff based on hp":50,
+                "def% extra buff based on hp":100,
                 "passive id":"46",
-                "rec% extra buff based on hp":50
+                "rec% extra buff based on hp":100
             },
             {
-                "dmg% to hp% when attacked chance%":30,
-                "dmg% to hp% when attacked high":25,
+                "dmg% to hp% when attacked chance%":50,
+                "dmg% to hp% when attacked high":30,
                 "dmg% to hp% when attacked low":25,
                 "passive id":"24"
             },
             {
                 "passive id":"48",
                 "reduced bc cost%":25
+            },
+            {
+                "params":"100,50,2,0",
+                "passive id":"75"
             }
         ],
         "id":"801268",
@@ -25423,7 +25427,7 @@
         "desc":"MST_LEADERSKILLS_810048_DESCRIPTION",
         "effects":[
             {
-                "atk% buff":150,
+                "atk% buff":200,
                 "def% buff":80,
                 "hp% buff":80,
                 "passive id":"2"
@@ -25433,16 +25437,16 @@
                 "passive id":"62"
             },
             {
-                "params":"65,40",
-                "passive id":"112"
-            },
-            {
-                "params":"0,0,50,50,30,0",
+                "params":"0,0,50,50,35,0",
                 "passive id":"110"
             },
             {
-                "params":"-50,30",
+                "params":"-50,40",
                 "passive id":"96"
+            },
+            {
+                "params":"100,50",
+                "passive id":"112"
             }
         ],
         "id":"810048",
@@ -35775,6 +35779,70 @@
         ],
         "id":"860818",
         "name":"MST_LEADERSKILLS_860818_NAME"
+    },
+    "860827":{
+        "desc":"MST_LEADERSKILLS_860827_DESCRIPTION",
+        "effects":[
+            {
+                "atk% buff":120,
+                "crit% buff":30,
+                "def% buff":100,
+                "hp% buff":120,
+                "passive id":"2"
+            },
+            {
+                "params":"5,6,0,0,0,0,10",
+                "passive id":"62"
+            },
+            {
+                "params":"100,15",
+                "passive id":"127"
+            },
+            {
+                "params":"300,400,100",
+                "passive id":"101"
+            },
+            {
+                "params":"50,100",
+                "passive id":"100"
+            }
+        ],
+        "id":"860827",
+        "name":"MST_LEADERSKILLS_860827_NAME"
+    },
+    "860828":{
+        "desc":"MST_LEADERSKILLS_860828_DESCRIPTION",
+        "effects":[
+            {
+                "atk% buff":150,
+                "crit% buff":30,
+                "def% buff":120,
+                "hp% buff":150,
+                "passive id":"2"
+            },
+            {
+                "params":"5,6,0,0,0,0,20",
+                "passive id":"62"
+            },
+            {
+                "params":"500,600,100",
+                "passive id":"101"
+            },
+            {
+                "params":"100,15",
+                "passive id":"127"
+            },
+            {
+                "params":"50,100",
+                "passive id":"100"
+            },
+            {
+                "params":"135,80",
+                "passive id":"112"
+            }
+        ],
+        "id":"860828",
+        "name":"MST_LEADERSKILLS_860828_NAME"
     },
     "860838":{
         "desc":"MST_LEADERSKILLS_860838_DESCRIPTION",
