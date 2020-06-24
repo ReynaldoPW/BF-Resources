@@ -22666,7 +22666,7 @@
         "PROC/PASSIVE_ID(S)":"66",
         "PROC/PASSIVE_PARAMETERS":"10025,10510&10&2&0&0,100,2,0,1,1,0",
         "SP_ID":"1010700044",
-        "SP_NAME":"Add to BB\\/SBB (probable [10%] 2 turns KO resistance negation infliction (PvP modes only))",
+        "SP_NAME":"Add to BB\\/SBB (Probable [10%] 2 turns KO resistance negation infliction (PvP \nmodes only))",
         "SP_NEED_BP":"20",
         "SP_SERIES":"1010700044"
     },
@@ -23311,6 +23311,72 @@
     {
         "DESCRIPTION":"",
         "EFFECT_AREA*":"1",
+        "LEVEL":"3",
+        "PROC/PASSIVE_ID(S)":"66",
+        "PROC/PASSIVE_PARAMETERS":"10017,6&6000&6000&3&0,1,2,0,1,0,0",
+        "SP_ID":"1010700103",
+        "SP_NAME":"Add to BB (6000 HP Shield (6000 DEF) (Dark) (ALL) 3 turns)",
+        "SP_NEED_BP":"15",
+        "SP_SERIES":"1010700103"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
+        "LEVEL":"3",
+        "PROC/PASSIVE_ID(S)":"66",
+        "PROC/PASSIVE_PARAMETERS":"67,300&400&100&3,1,2,0,1,0,0",
+        "SP_ID":"1010700104",
+        "SP_NAME":"Add to BB (100% Chance 3-4 BC Fill on Spark (ALL) 3 turns)",
+        "SP_NEED_BP":"20",
+        "SP_SERIES":"1010700104"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
+        "LEVEL":"3",
+        "PROC/PASSIVE_ID(S)":"66",
+        "PROC/PASSIVE_PARAMETERS":"47,200&500&0&200&0&0&0&0,2,2,0,0,1,0",
+        "SP_ID":"1010700105",
+        "SP_NAME":"Add to SBB (27 combo Dark attack [200-500%] on all foes (damage relative to remaining HP))",
+        "SP_NEED_BP":"20",
+        "SP_SERIES":"1010700105"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
+        "LEVEL":"3",
+        "PROC/PASSIVE_ID(S)":"66",
+        "PROC/PASSIVE_PARAMETERS":"126,30&2&0,1,2,0,0,1,0",
+        "SP_ID":"1010700106",
+        "SP_NAME":"Add to SBB (30% DoT reduction for 2 turns)",
+        "SP_NEED_BP":"20",
+        "SP_SERIES":"1010700106"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
+        "LEVEL":"5",
+        "PROC/PASSIVE_ID(S)":"66",
+        "PROC/PASSIVE_PARAMETERS":"55,6&0&0&0&0&0&2.5&3&0,1,2,0,1,1,0",
+        "SP_ID":"1010700107",
+        "SP_NAME":"Add to BB\\/SBB (Boosts Dark elemental damage [250%] for 3 turns)",
+        "SP_NEED_BP":"25",
+        "SP_SERIES":"1010700107"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
+        "LEVEL":"4",
+        "PROC/PASSIVE_ID(S)":"66",
+        "PROC/PASSIVE_PARAMETERS":"10025,10510&10&2&0&0,100,2,0,1,1,0",
+        "SP_ID":"1010700108",
+        "SP_NAME":"Add to BB\\/SBB (Probable [10%] 2 turns KO resistance negation infliction (PvP modes only))",
+        "SP_NEED_BP":"20",
+        "SP_SERIES":"1010700108"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
         "LEVEL":"4",
         "PROC/PASSIVE_ID(S)":"1",
         "PROC/PASSIVE_PARAMETERS":"0,130,0,0,130",
@@ -23538,6 +23604,50 @@
         "SP_NAME":"Add to BB (fills BB gauge [10 BC] for 3 turns)",
         "SP_NEED_BP":"20",
         "SP_SERIES":"1010800055"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"5",
+        "LEVEL":"4",
+        "PROC/PASSIVE_ID(S)":"96",
+        "PROC/PASSIVE_PARAMETERS":"0,25",
+        "SP_ID":"1010800056",
+        "SP_NAME":"Enhances LS's success rate [+25%] of normal attacks may hit all foes effect",
+        "SP_NEED_BP":"25",
+        "SP_SERIES":"1010800056"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"3",
+        "LEVEL":"3",
+        "PROC/PASSIVE_ID(S)":"26",
+        "PROC/PASSIVE_PARAMETERS":"0,0,20,0,0,0,0,0,0",
+        "SP_ID":"1010800057",
+        "SP_NAME":"Enhances SBB's raise normal hit amount [+20% Damage]",
+        "SP_NEED_BP":"20",
+        "SP_SERIES":"1010800057"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
+        "LEVEL":"4",
+        "PROC/PASSIVE_ID(S)":"66",
+        "PROC/PASSIVE_PARAMETERS":"94,0&100&3&0,1,2,0,1,1,0",
+        "SP_ID":"1010800058",
+        "SP_NAME":"Add to BB\\/SBB (Normal attacks hits all foes for 3 turns)",
+        "SP_NEED_BP":"20",
+        "SP_SERIES":"1010800058"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
+        "LEVEL":"4",
+        "PROC/PASSIVE_ID(S)":"66",
+        "PROC/PASSIVE_PARAMETERS":"10007,100&2&0&15,1,2,0,1,1,0",
+        "SP_ID":"1010800059",
+        "SP_NAME":"Add to BB\\/SBB (Probable [15%] evasion for 2 turns)",
+        "SP_NEED_BP":"25",
+        "SP_SERIES":"1010800059"
     },
     {
         "DESCRIPTION":"",
@@ -23824,6 +23934,50 @@
         "SP_NAME":"Add to BB\\/SBB (restores HP [4000-4500] for 3 turns)",
         "SP_NEED_BP":"20",
         "SP_SERIES":"1011000021"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
+        "LEVEL":"4",
+        "PROC/PASSIVE_ID(S)":"48",
+        "PROC/PASSIVE_PARAMETERS":"25",
+        "SP_ID":"1011000022",
+        "SP_NAME":"25% reduction to BB activation cost",
+        "SP_NEED_BP":"20",
+        "SP_SERIES":"1011000022"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
+        "LEVEL":"4",
+        "PROC/PASSIVE_ID(S)":"66",
+        "PROC/PASSIVE_PARAMETERS":"31,1000&0,1,2,0,1,1,0",
+        "SP_ID":"1011000023",
+        "SP_NAME":"Add to BB\\/SBB (fills BB gauge [10 BC])",
+        "SP_NEED_BP":"20",
+        "SP_SERIES":"1011000023"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
+        "LEVEL":"6",
+        "PROC/PASSIVE_ID(S)":"66",
+        "PROC/PASSIVE_PARAMETERS":"19,1000&3&0,1,2,0,1,1,0",
+        "SP_ID":"1011000024",
+        "SP_NAME":"Add to BB\\/SBB (fills BB gauge for 3 turns [10BC])",
+        "SP_NEED_BP":"30",
+        "SP_SERIES":"1011000024"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"2",
+        "LEVEL":"4",
+        "PROC/PASSIVE_ID(S)":"5",
+        "PROC/PASSIVE_PARAMETERS":"0,20,20,20,0,0,0",
+        "SP_ID":"1011000025",
+        "SP_NAME":"Enhances BB's boosts Atk, Def, Rec effect",
+        "SP_NEED_BP":"20",
+        "SP_SERIES":"1011000025"
     },
     {
         "DESCRIPTION":"",
@@ -27891,7 +28045,7 @@
         "PROC/PASSIVE_ID(S)":"66",
         "PROC/PASSIVE_PARAMETERS":"10019,1&13&124&46&137&0&0&0&0&25,2,2,0,1,1,0",
         "SP_ID":"1100000444",
-        "SP_NAME":"Add to BB\\/SBB (may [25%] purge Atk boost effects from all foes (PVP modes only))",
+        "SP_NAME":"Add to BB\\/SBB (May [25%] purge Atk boost effects from all foes (PVP modes only))",
         "SP_NEED_BP":"15",
         "SP_SERIES":"1100000444"
     },

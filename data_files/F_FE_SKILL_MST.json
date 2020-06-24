@@ -22668,7 +22668,7 @@
         "jeR2rN3V":"1",
         "qp37xTDh":"",
         "ri6D9yBi":"1010700044",
-        "yRlCNyvk":"Add to BB\\/SBB (probable [10%] 2 turns KO resistance negation infliction (PvP modes only))"
+        "yRlCNyvk":"Add to BB\\/SBB (Probable [10%] 2 turns KO resistance negation infliction (PvP \nmodes only))"
     },
     {
         "2Smu5Mtq":"94,0&100&4&0,1,2,0,0,0,1",
@@ -23309,6 +23309,72 @@
         "yRlCNyvk":"150% damage against status afflicted foes"
     },
     {
+        "2Smu5Mtq":"10017,6&6000&6000&3&0,1,2,0,1,0,0",
+        "9PsmH7tz":"1010700103",
+        "D9wXQI2V":"3",
+        "G5wFDad6":"15",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010700103",
+        "yRlCNyvk":"Add to BB (6000 HP Shield (6000 DEF) (Dark) (ALL) 3 turns)"
+    },
+    {
+        "2Smu5Mtq":"67,300&400&100&3,1,2,0,1,0,0",
+        "9PsmH7tz":"1010700104",
+        "D9wXQI2V":"3",
+        "G5wFDad6":"20",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010700104",
+        "yRlCNyvk":"Add to BB (100% Chance 3-4 BC Fill on Spark (ALL) 3 turns)"
+    },
+    {
+        "2Smu5Mtq":"47,200&500&0&200&0&0&0&0,2,2,0,0,1,0",
+        "9PsmH7tz":"1010700105",
+        "D9wXQI2V":"3",
+        "G5wFDad6":"20",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010700105",
+        "yRlCNyvk":"Add to SBB (27 combo Dark attack [200-500%] on all foes (damage relative to remaining HP))"
+    },
+    {
+        "2Smu5Mtq":"126,30&2&0,1,2,0,0,1,0",
+        "9PsmH7tz":"1010700106",
+        "D9wXQI2V":"3",
+        "G5wFDad6":"20",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010700106",
+        "yRlCNyvk":"Add to SBB (30% DoT reduction for 2 turns)"
+    },
+    {
+        "2Smu5Mtq":"55,6&0&0&0&0&0&2.5&3&0,1,2,0,1,1,0",
+        "9PsmH7tz":"1010700107",
+        "D9wXQI2V":"5",
+        "G5wFDad6":"25",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010700107",
+        "yRlCNyvk":"Add to BB\\/SBB (Boosts Dark elemental damage [250%] for 3 turns)"
+    },
+    {
+        "2Smu5Mtq":"10025,10510&10&2&0&0,100,2,0,1,1,0",
+        "9PsmH7tz":"1010700108",
+        "D9wXQI2V":"4",
+        "G5wFDad6":"20",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010700108",
+        "yRlCNyvk":"Add to BB\\/SBB (Probable [10%] 2 turns KO resistance negation infliction (PvP modes only))"
+    },
+    {
         "2Smu5Mtq":"0,130,0,0,130",
         "9PsmH7tz":"1010800029",
         "D9wXQI2V":"4",
@@ -23538,6 +23604,50 @@
         "qp37xTDh":"",
         "ri6D9yBi":"1010800055",
         "yRlCNyvk":"Add to BB (fills BB gauge [10 BC] for 3 turns)"
+    },
+    {
+        "2Smu5Mtq":"0,25",
+        "9PsmH7tz":"1010800056",
+        "D9wXQI2V":"4",
+        "G5wFDad6":"25",
+        "hjAy9St3":"96",
+        "jeR2rN3V":"5",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010800056",
+        "yRlCNyvk":"Enhances LS's success rate [+25%] of normal attacks may hit all foes effect"
+    },
+    {
+        "2Smu5Mtq":"0,0,20,0,0,0,0,0,0",
+        "9PsmH7tz":"1010800057",
+        "D9wXQI2V":"3",
+        "G5wFDad6":"20",
+        "hjAy9St3":"26",
+        "jeR2rN3V":"3",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010800057",
+        "yRlCNyvk":"Enhances SBB's raise normal hit amount [+20% Damage]"
+    },
+    {
+        "2Smu5Mtq":"94,0&100&3&0,1,2,0,1,1,0",
+        "9PsmH7tz":"1010800058",
+        "D9wXQI2V":"4",
+        "G5wFDad6":"20",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010800058",
+        "yRlCNyvk":"Add to BB\\/SBB (Normal attacks hits all foes for 3 turns)"
+    },
+    {
+        "2Smu5Mtq":"10007,100&2&0&15,1,2,0,1,1,0",
+        "9PsmH7tz":"1010800059",
+        "D9wXQI2V":"4",
+        "G5wFDad6":"25",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010800059",
+        "yRlCNyvk":"Add to BB\\/SBB (Probable [15%] evasion for 2 turns)"
     },
     {
         "2Smu5Mtq":"100,100,100,100,100,100,100,100,100",
@@ -23824,6 +23934,50 @@
         "qp37xTDh":"",
         "ri6D9yBi":"1011000021",
         "yRlCNyvk":"Add to BB\\/SBB (restores HP [4000-4500] for 3 turns)"
+    },
+    {
+        "2Smu5Mtq":"25",
+        "9PsmH7tz":"1011000022",
+        "D9wXQI2V":"4",
+        "G5wFDad6":"20",
+        "hjAy9St3":"48",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1011000022",
+        "yRlCNyvk":"25% reduction to BB activation cost"
+    },
+    {
+        "2Smu5Mtq":"31,1000&0,1,2,0,1,1,0",
+        "9PsmH7tz":"1011000023",
+        "D9wXQI2V":"4",
+        "G5wFDad6":"20",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1011000023",
+        "yRlCNyvk":"Add to BB\\/SBB (fills BB gauge [10 BC])"
+    },
+    {
+        "2Smu5Mtq":"19,1000&3&0,1,2,0,1,1,0",
+        "9PsmH7tz":"1011000024",
+        "D9wXQI2V":"6",
+        "G5wFDad6":"30",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1011000024",
+        "yRlCNyvk":"Add to BB\\/SBB (fills BB gauge for 3 turns [10BC])"
+    },
+    {
+        "2Smu5Mtq":"0,20,20,20,0,0,0",
+        "9PsmH7tz":"1011000025",
+        "D9wXQI2V":"4",
+        "G5wFDad6":"20",
+        "hjAy9St3":"5",
+        "jeR2rN3V":"2",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1011000025",
+        "yRlCNyvk":"Enhances BB's boosts Atk, Def, Rec effect"
     },
     {
         "2Smu5Mtq":"100,0,0,0,0,0",
@@ -27893,7 +28047,7 @@
         "jeR2rN3V":"1",
         "qp37xTDh":"",
         "ri6D9yBi":"1100000444",
-        "yRlCNyvk":"Add to BB\\/SBB (may [25%] purge Atk boost effects from all foes (PVP modes only))"
+        "yRlCNyvk":"Add to BB\\/SBB (May [25%] purge Atk boost effects from all foes (PVP modes only))"
     },
     {
         "2Smu5Mtq":"44,1000&100&0&100&0&2&0,2,2,0,0,1,0",
