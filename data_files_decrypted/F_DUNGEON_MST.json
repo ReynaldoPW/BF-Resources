@@ -7074,7 +7074,7 @@
         "THUMBNAIL":""
     },
     {
-        "0u1nvMeS":"800127",
+        "0u1nvMeS":"99",
         "3hPeI1RV":"0",
         "DESCRIPTION":"",
         "DUNGEON_ID":"800127",
@@ -7110,7 +7110,7 @@
         "THUMBNAIL":""
     },
     {
-        "0u1nvMeS":"800127",
+        "0u1nvMeS":"99",
         "3hPeI1RV":"0",
         "DESCRIPTION":"",
         "DUNGEON_ID":"800129",
@@ -7128,7 +7128,7 @@
         "THUMBNAIL":""
     },
     {
-        "0u1nvMeS":"800127",
+        "0u1nvMeS":"99",
         "3hPeI1RV":"0",
         "DESCRIPTION":"",
         "DUNGEON_ID":"800130",
@@ -7200,7 +7200,7 @@
         "THUMBNAIL":""
     },
     {
-        "0u1nvMeS":"80015902",
+        "0u1nvMeS":"99",
         "3hPeI1RV":"0",
         "DESCRIPTION":"",
         "DUNGEON_ID":"800135",
@@ -7218,7 +7218,7 @@
         "THUMBNAIL":""
     },
     {
-        "0u1nvMeS":"80015902",
+        "0u1nvMeS":"99",
         "3hPeI1RV":"0",
         "DESCRIPTION":"",
         "DUNGEON_ID":"800136",
@@ -7236,7 +7236,7 @@
         "THUMBNAIL":""
     },
     {
-        "0u1nvMeS":"80015902",
+        "0u1nvMeS":"99",
         "3hPeI1RV":"0",
         "DESCRIPTION":"",
         "DUNGEON_ID":"800137",
@@ -8244,7 +8244,7 @@
         "THUMBNAIL":""
     },
     {
-        "0u1nvMeS":"86000",
+        "0u1nvMeS":"99",
         "3hPeI1RV":"0",
         "DESCRIPTION":"MST_DUNGEONS_DUNGEON_806000_DESCRIPTION",
         "DUNGEON_ID":"806000",
@@ -8262,7 +8262,7 @@
         "THUMBNAIL":""
     },
     {
-        "0u1nvMeS":"806006",
+        "0u1nvMeS":"99",
         "3hPeI1RV":"0",
         "DESCRIPTION":"MST_DUNGEONS_DUNGEON_806006_DESCRIPTION",
         "DUNGEON_ID":"806006",
@@ -10820,7 +10820,7 @@
     {
         "0u1nvMeS":"99",
         "3hPeI1RV":"4",
-        "DESCRIPTION":"Some things linger on the wind, long after its form has scattered.",
+        "DESCRIPTION":"The fleeting, illustrious life of a dying kami laid bare.",
         "DUNGEON_ID":"5008011",
         "DUNGEON_IMAGE":"dungeon_battle_10100.jpg",
         "DUNGEON_NAME":"Liminal End",

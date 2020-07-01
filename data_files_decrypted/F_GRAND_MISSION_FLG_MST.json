@@ -11016,12 +11016,12 @@
         "ky1xsH0h":"1"
     },
     {
-        "AI_CHANCE":"0",
+        "AI_CHANCE":"5",
         "DESCRIPTION":"Episode 4 Clear",
         "MISSION_ID":"5008011",
         "REQUIREMENT_ID":"8703",
-        "REQUIREMENT_RARITY*":"0",
-        "Ufm6c7RA":"0",
+        "REQUIREMENT_RARITY*":"3",
+        "Ufm6c7RA":"1",
         "ky1xsH0h":"1"
     },
     {
@@ -11101,6 +11101,15 @@
         "DESCRIPTION":"Secret Objective 1 Clear",
         "MISSION_ID":"5008011",
         "REQUIREMENT_ID":"8712",
+        "REQUIREMENT_RARITY*":"1",
+        "Ufm6c7RA":"0",
+        "ky1xsH0h":"1"
+    },
+    {
+        "AI_CHANCE":"10",
+        "DESCRIPTION":"Secret Objective 2 Cleared!",
+        "MISSION_ID":"5008011",
+        "REQUIREMENT_ID":"8713",
         "REQUIREMENT_RARITY*":"1",
         "Ufm6c7RA":"0",
         "ky1xsH0h":"1"
@@ -11371,6 +11380,51 @@
         "DESCRIPTION":" ",
         "MISSION_ID":"5008011",
         "REQUIREMENT_ID":"87213",
+        "REQUIREMENT_RARITY*":"0",
+        "Ufm6c7RA":"0",
+        "ky1xsH0h":"2"
+    },
+    {
+        "AI_CHANCE":"0",
+        "DESCRIPTION":" ",
+        "MISSION_ID":"5008011",
+        "REQUIREMENT_ID":"87214",
+        "REQUIREMENT_RARITY*":"0",
+        "Ufm6c7RA":"0",
+        "ky1xsH0h":"2"
+    },
+    {
+        "AI_CHANCE":"0",
+        "DESCRIPTION":" ",
+        "MISSION_ID":"5008011",
+        "REQUIREMENT_ID":"87215",
+        "REQUIREMENT_RARITY*":"0",
+        "Ufm6c7RA":"0",
+        "ky1xsH0h":"2"
+    },
+    {
+        "AI_CHANCE":"0",
+        "DESCRIPTION":" ",
+        "MISSION_ID":"5008011",
+        "REQUIREMENT_ID":"87216",
+        "REQUIREMENT_RARITY*":"0",
+        "Ufm6c7RA":"0",
+        "ky1xsH0h":"2"
+    },
+    {
+        "AI_CHANCE":"0",
+        "DESCRIPTION":" ",
+        "MISSION_ID":"5008011",
+        "REQUIREMENT_ID":"87217",
+        "REQUIREMENT_RARITY*":"0",
+        "Ufm6c7RA":"0",
+        "ky1xsH0h":"2"
+    },
+    {
+        "AI_CHANCE":"0",
+        "DESCRIPTION":" ",
+        "MISSION_ID":"5008011",
+        "REQUIREMENT_ID":"87218",
         "REQUIREMENT_RARITY*":"0",
         "Ufm6c7RA":"0",
         "ky1xsH0h":"2"

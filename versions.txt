@@ -76,7 +76,7 @@
         "moWQ30GH":"M_NPC_MST"
     },
     {
-        "d2RFtP8T":"1569",
+        "d2RFtP8T":"1571",
         "moWQ30GH":"M_GACHA_EFFECT_MST"
     },
     {
@@ -124,11 +124,11 @@
         "moWQ30GH":"F_LAND_MST"
     },
     {
-        "d2RFtP8T":"416",
+        "d2RFtP8T":"417",
         "moWQ30GH":"F_AREA_MST"
     },
     {
-        "d2RFtP8T":"758",
+        "d2RFtP8T":"760",
         "moWQ30GH":"F_DUNGEON_MST"
     },
     {
@@ -240,7 +240,7 @@
         "moWQ30GH":"F_MISSION_NPC_UNIT_MST"
     },
     {
-        "d2RFtP8T":"112",
+        "d2RFtP8T":"113",
         "moWQ30GH":"F_GRAND_MISSION_MST"
     },
     {
@@ -248,11 +248,11 @@
         "moWQ30GH":"F_GRAND_MISSION_END_CND_MST"
     },
     {
-        "d2RFtP8T":"90",
+        "d2RFtP8T":"91",
         "moWQ30GH":"F_GRAND_MISSION_FLG_MST"
     },
     {
-        "d2RFtP8T":"103",
+        "d2RFtP8T":"104",
         "moWQ30GH":"F_GRAND_MISSION_REWARD_MST"
     },
     {
@@ -260,11 +260,11 @@
         "moWQ30GH":"F_GRAND_MISSION_MAP_MST"
     },
     {
-        "d2RFtP8T":"79",
+        "d2RFtP8T":"80",
         "moWQ30GH":"F_GRAND_MISSION_SPOT_MST"
     },
     {
-        "d2RFtP8T":"82",
+        "d2RFtP8T":"83",
         "moWQ30GH":"F_GRAND_MISSION_ROUTE_MST"
     },
     {
@@ -276,7 +276,7 @@
         "moWQ30GH":"F_GRAND_MISSION_TREASURE_MST"
     },
     {
-        "d2RFtP8T":"144",
+        "d2RFtP8T":"145",
         "moWQ30GH":"F_GRAND_MISSION_EVENT_MST"
     },
     {
@@ -460,11 +460,11 @@
         "moWQ30GH":"F_MISSION_MST"
     },
     {
-        "d2RFtP8T":"1301",
+        "d2RFtP8T":"1303",
         "moWQ30GH":"F_SKILL_MST"
     },
     {
-        "d2RFtP8T":"1254",
+        "d2RFtP8T":"1256",
         "moWQ30GH":"F_SKILL_LEVEL_MST"
     },
     {
@@ -472,11 +472,11 @@
         "moWQ30GH":"F_EXTRA_PASSIVE_SKILL_MST"
     },
     {
-        "d2RFtP8T":"2908",
+        "d2RFtP8T":"2913",
         "moWQ30GH":"F_RESOURCE_MST"
     },
     {
-        "d2RFtP8T":"857",
+        "d2RFtP8T":"859",
         "moWQ30GH":"F_ITEM_MST"
     },
     {
@@ -532,7 +532,7 @@
         "moWQ30GH":"F_BANNER_INFO_MST"
     },
     {
-        "d2RFtP8T":"729",
+        "d2RFtP8T":"732",
         "moWQ30GH":"F_RELOAD_FILE_MST"
     },
     {

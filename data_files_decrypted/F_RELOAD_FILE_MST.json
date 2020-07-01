@@ -2098,5 +2098,17 @@
     {
         "RELOAD_FILES":"battle_buff_icon_sg.png",
         "RELOAD_ID":"3097"
+    },
+    {
+        "RELOAD_FILES":"gacha_img_20200624K_s31.png",
+        "RELOAD_ID":"3098"
+    },
+    {
+        "RELOAD_FILES":"unit_ills_thum_820048_100.png",
+        "RELOAD_ID":"3099"
+    },
+    {
+        "RELOAD_FILES":"unit_ills_thum_820048_100.png",
+        "RELOAD_ID":"3100"
     }
 ]
