@@ -76,7 +76,7 @@
         "moWQ30GH":"M_NPC_MST"
     },
     {
-        "d2RFtP8T":"1571",
+        "d2RFtP8T":"1572",
         "moWQ30GH":"M_GACHA_EFFECT_MST"
     },
     {
@@ -284,7 +284,7 @@
         "moWQ30GH":"F_ACHIEVEMENT_SUBJECT_MST"
     },
     {
-        "d2RFtP8T":"396",
+        "d2RFtP8T":"398",
         "moWQ30GH":"F_ACHIEVEMENT_TRADE_MST"
     },
     {
