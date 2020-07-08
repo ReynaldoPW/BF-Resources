@@ -2831,6 +2831,25 @@
         "ZEL":"120000"
     },
     {
+        "DESCRIPTION":" ",
+        "IMAGE":"raid_room_quest_flame_green.png",
+        "KARMA":"15000",
+        "KR6JacN8":"4",
+        "MAP_IMG_AREA_NUMBER":"8710",
+        "MAP_OPENING_TEXT_FILE":"0,0",
+        "MISSION_ID":"87124",
+        "MISSION_IDS_REQUIRED":"0",
+        "MISSION_NAME":"Dichroma Shadow",
+        "MISSION_TEXT":"<color=242:215:145>Target<\\/color>      Dichroma Shadow",
+        "QUEST_BANNER_IMAGE":"raid_room_shadow_boss_2010",
+        "RAID_CLEAR_REWARDS?":"1:11",
+        "RC":"7",
+        "SOUNDTRACK":"bf48_raid_battle.mp3",
+        "TIME_TILL_EVENT":"1800",
+        "UJTR1h5r":"0",
+        "ZEL":"120000"
+    },
+    {
         "DESCRIPTION":"Defeating this villain will be harder that you think! Can you pull it off?",
         "IMAGE":"raid_room_quest_flame_green.png",
         "KARMA":"7000",

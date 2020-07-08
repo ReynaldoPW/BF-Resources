@@ -1887,7 +1887,7 @@
         "QUEST_ZONE_NAME":"Leon's Deception",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
         "gq73WFmj":"",
-        "sHMai2ZG":"0"
+        "sHMai2ZG":"100002"
     },
     {
         "DESCRIPTION":"SP Dungeon",
@@ -1917,7 +1917,7 @@
         "QUEST_ZONE_NAME":"Trial of the Gods",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
         "gq73WFmj":"",
-        "sHMai2ZG":"0"
+        "sHMai2ZG":"100002"
     },
     {
         "DESCRIPTION":"SP Dungeon",
@@ -2082,7 +2082,7 @@
         "QUEST_ZONE_NAME":"A Colorful Hunt",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
         "gq73WFmj":"",
-        "sHMai2ZG":"0"
+        "sHMai2ZG":"100004"
     },
     {
         "DESCRIPTION":"SP Dungeon",
@@ -3117,7 +3117,7 @@
         "QUEST_ZONE_NAME":"Thunder Turnout",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
         "gq73WFmj":"",
-        "sHMai2ZG":"0"
+        "sHMai2ZG":"100002"
     },
     {
         "DESCRIPTION":"SP Dungeon",
@@ -3731,6 +3731,36 @@
         "QUEST_ZONE_MAP_NUMBER":"99",
         "QUEST_ZONE_NAME":"Heavenly Paradise G12",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
+        "gq73WFmj":"",
+        "sHMai2ZG":-1
+    },
+    {
+        "DESCRIPTION":"Gortius Event Dungeon",
+        "IMAGE":"area_sp.jpg",
+        "MAP_OPENING_TEXT_FILE":"0",
+        "MISSION_AREA":"9500001",
+        "MISSION_IDS_REQUIRED":"0",
+        "QUEST_ALWAYS_EMPTY":"",
+        "QUEST_BANNER_IMG":"sp_quest_banner_gortius_2.png",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"29201010",
+        "QUEST_ZONE_MAP_NUMBER":"99",
+        "QUEST_ZONE_NAME":"Gortius Dungeon",
+        "UNKNOWN_BOOLEAN_QUESTS":"1",
+        "gq73WFmj":"",
+        "sHMai2ZG":-1
+    },
+    {
+        "DESCRIPTION":"Gortius Daily Dungeon",
+        "IMAGE":"area_sp.jpg",
+        "MAP_OPENING_TEXT_FILE":"0",
+        "MISSION_AREA":"9500002",
+        "MISSION_IDS_REQUIRED":"0",
+        "QUEST_ALWAYS_EMPTY":"",
+        "QUEST_BANNER_IMG":"sp_quest_banner_gortius_1.png",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"29201009",
+        "QUEST_ZONE_MAP_NUMBER":"99",
+        "QUEST_ZONE_NAME":"Gortius Daily",
+        "UNKNOWN_BOOLEAN_QUESTS":"10",
         "gq73WFmj":"",
         "sHMai2ZG":-1
     },

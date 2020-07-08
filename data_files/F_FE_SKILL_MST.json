@@ -23980,6 +23980,50 @@
         "yRlCNyvk":"Enhances BB's boosts Atk, Def, Rec effect"
     },
     {
+        "2Smu5Mtq":"0,0,10,0,0,0",
+        "9PsmH7tz":"1011000026",
+        "D9wXQI2V":"2",
+        "G5wFDad6":"10",
+        "hjAy9St3":"24",
+        "jeR2rN3V":"3",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1011000026",
+        "yRlCNyvk":"Enhances SBB's boosts Def relative to HP effect [+10%]"
+    },
+    {
+        "2Smu5Mtq":"93,100&100&100&100&0&0&2&0,1,2,0,1,0,0",
+        "9PsmH7tz":"1011000027",
+        "D9wXQI2V":"4",
+        "G5wFDad6":"20",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1011000027",
+        "yRlCNyvk":"Add to BB (100% critical and elemental damage reduction for 2 turns)"
+    },
+    {
+        "2Smu5Mtq":"10016,0.75&3&0&1,1,2,0,0,1,0",
+        "9PsmH7tz":"1011000028",
+        "D9wXQI2V":"6",
+        "G5wFDad6":"30",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1011000028",
+        "yRlCNyvk":"Add to SBB (boosts critical damage [75%] (Fire) for 3 turns)"
+    },
+    {
+        "2Smu5Mtq":"8,0&25&0,1,2,0,1,0,0@8,0&50&0,1,2,0,0,0,1",
+        "9PsmH7tz":"1011000029",
+        "D9wXQI2V":"4",
+        "G5wFDad6":"20",
+        "hjAy9St3":"66@66",
+        "jeR2rN3V":"1@1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1011000029",
+        "yRlCNyvk":"Add to BB (boosts max HP [25%]), UBB (boosts max HP [50%])"
+    },
+    {
         "2Smu5Mtq":"100,0,0,0,0,0",
         "9PsmH7tz":"1000000057",
         "D9wXQI2V":"3",

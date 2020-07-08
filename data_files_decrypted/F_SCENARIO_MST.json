@@ -8811,6 +8811,132 @@
         "SP_CAT_ID":"85007"
     },
     {
+        "DESCRIPTION":"If you start to hear colors, you can safely assume you've completely lost it.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"10",
+        "SCENARIO_ID":"87105",
+        "SCENARIO_NAME":"Cryptic Colors",
+        "SCENARIO_TEXT_FILE":"X7_Arc1_Ep2_1.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"85007"
+    },
+    {
+        "DESCRIPTION":"The cryptic memories of someone who's met with a terrible, terrible fate.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"11",
+        "SCENARIO_ID":"87106",
+        "SCENARIO_NAME":"The Blasted Heath",
+        "SCENARIO_TEXT_FILE":"X7_Arc1_Ep2_2.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"85007"
+    },
+    {
+        "DESCRIPTION":"That cram session you had at Giselle's really helped in identifying crystals, but did it have anything on crystal girls?",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"12",
+        "SCENARIO_ID":"87107",
+        "SCENARIO_NAME":"Shattered Illusion",
+        "SCENARIO_TEXT_FILE":"X7_Arc1_Ep2_3A.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"85007"
+    },
+    {
+        "DESCRIPTION":"Adopting an eldritch child seems like the least crazy thing you've done this week.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"13",
+        "SCENARIO_ID":"87108",
+        "SCENARIO_NAME":"A Convenient Truce",
+        "SCENARIO_TEXT_FILE":"X7_Arc1_Ep2_3B.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"85007"
+    },
+    {
+        "DESCRIPTION":"It never really occurred to you how one day you could end up as lunch... on the rocks.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"14",
+        "SCENARIO_ID":"87109",
+        "SCENARIO_NAME":"Food for Thought",
+        "SCENARIO_TEXT_FILE":"X7_Arc1_Ep2_HM.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"85007"
+    },
+    {
+        "DESCRIPTION":"Chasing ghosts--dead or otherwise--is not Hakuzo's idea of a good time.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"6",
+        "SCENARIO_ID":"87110",
+        "SCENARIO_NAME":"Preemptive Paranoia",
+        "SCENARIO_TEXT_FILE":"X7_Arc2_Ep1_1.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"85007"
+    },
+    {
+        "DESCRIPTION":"For good or for ill, encountering a kami has changed Hakuzo's life forever.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"7",
+        "SCENARIO_ID":"87111",
+        "SCENARIO_NAME":"Meeting of a Lifetime",
+        "SCENARIO_TEXT_FILE":"X7_Arc2_Ep1_2.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"85007"
+    },
+    {
+        "DESCRIPTION":"There are some things better left in the past, but grudges come at a heavy price.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"8",
+        "SCENARIO_ID":"87112",
+        "SCENARIO_NAME":"Bitterness",
+        "SCENARIO_TEXT_FILE":"X7_Arc2_Ep1_3A.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"85007"
+    },
+    {
+        "DESCRIPTION":"Time--and space--works in convoluted ways. Just sit back and enjoy the ride.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"9",
+        "SCENARIO_ID":"87113",
+        "SCENARIO_NAME":"Another Fragment",
+        "SCENARIO_TEXT_FILE":"X7_Arc2_Ep1_3B.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"85007"
+    },
+    {
+        "DESCRIPTION":"Suizen reflects on a life long lost to the whims of a divine calling.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"15",
+        "SCENARIO_ID":"87114",
+        "SCENARIO_NAME":"Unwilled",
+        "SCENARIO_TEXT_FILE":"X7_Arc2_Ep2_1.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"85007"
+    },
+    {
+        "DESCRIPTION":"Having people disappear right before your eyes is not your idea of a reunion, but at least Hakuzo is still here.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"16",
+        "SCENARIO_ID":"87115",
+        "SCENARIO_NAME":"Second Act",
+        "SCENARIO_TEXT_FILE":"X7_Arc2_Ep2_2.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"85007"
+    },
+    {
+        "DESCRIPTION":"Hakuzo confronts the kami, accusing him of cowardice and accepting the cards dealt to him.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"17",
+        "SCENARIO_ID":"87116",
+        "SCENARIO_NAME":"Divine Wrath",
+        "SCENARIO_TEXT_FILE":"X7_Arc2_Ep2_3A.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"85007"
+    },
+    {
+        "DESCRIPTION":"There are few things that can stop cosmic hunger.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"18",
+        "SCENARIO_ID":"87117",
+        "SCENARIO_NAME":"Ashes to Ashes",
+        "SCENARIO_TEXT_FILE":"X7_Arc2_Ep2_3B.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"85007"
+    },
+    {
+        "DESCRIPTION":"Fox hunting is for nobles. Fox-demon hunting is for gods.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"19",
+        "SCENARIO_ID":"87118",
+        "SCENARIO_NAME":"Foxhunt",
+        "SCENARIO_TEXT_FILE":"X7_Arc2_Ep2_HM.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"85007"
+    },
+    {
         "DESCRIPTION":"Welcome to an odd sort of theater - your audience awaits you with bated breath. Don't die.",
         "QUEST_MAP_NUMBER/GUIDE_ID":"97",
         "SCENARIO_ID":"88400",
@@ -10420,6 +10546,69 @@
         "SCENARIO_TEXT_FILE":"AUPrologue_W2_M2B.txt",
         "SOUNDTRACK_FILE":"",
         "SP_CAT_ID":"87015"
+    },
+    {
+        "DESCRIPTION":"Always remember to get up and stretch. Even if you're the King of Elysia.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"7",
+        "SCENARIO_ID":"10001050",
+        "SCENARIO_NAME":"Proper Posture",
+        "SCENARIO_TEXT_FILE":"MF_Gortius_Challenge.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"87017"
+    },
+    {
+        "DESCRIPTION":"It isn't Gortius's first hunt, but there's always a bigger boar.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"1",
+        "SCENARIO_ID":"10001051",
+        "SCENARIO_NAME":"The Hunt",
+        "SCENARIO_TEXT_FILE":"MF_Gortius_S1.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"87017"
+    },
+    {
+        "DESCRIPTION":"Not every princess wants to be a princess.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"2",
+        "SCENARIO_ID":"10001052",
+        "SCENARIO_NAME":"New Home",
+        "SCENARIO_TEXT_FILE":"MF_Gortius_S2.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"87017"
+    },
+    {
+        "DESCRIPTION":"Few things are scarier than a father confronting his child's would-be abductor.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"3",
+        "SCENARIO_ID":"10001053",
+        "SCENARIO_NAME":"An Incident",
+        "SCENARIO_TEXT_FILE":"MF_Gortius_S3A.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"87017"
+    },
+    {
+        "DESCRIPTION":"The first signs of a family slowly splintering apart.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"4",
+        "SCENARIO_ID":"10001054",
+        "SCENARIO_NAME":"A Solution",
+        "SCENARIO_TEXT_FILE":"MF_Gortius_S3B.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"87017"
+    },
+    {
+        "DESCRIPTION":"Letting go is far more difficult than holding on, but both are equally painful.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"5",
+        "SCENARIO_ID":"10001055",
+        "SCENARIO_NAME":"In Memoriam",
+        "SCENARIO_TEXT_FILE":"MF_Gortius_S4.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"87017"
+    },
+    {
+        "DESCRIPTION":"Evgenia takes solace in the final days of her father, and embraces a new dawn as the last monarch of Elysia.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"6",
+        "SCENARIO_ID":"10001056",
+        "SCENARIO_NAME":"Light of My Eye",
+        "SCENARIO_TEXT_FILE":"MF_Gortius_S5.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"87017"
     },
     {
         "DESCRIPTION":"It's easier to dislike and shun that which one does not understand.",

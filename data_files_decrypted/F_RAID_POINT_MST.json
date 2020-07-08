@@ -4018,5 +4018,113 @@
         "MISSION_SOUNDTRACK":"bf051_boss02_vari02.mp3",
         "SnNtTh51":"735",
         "X7g8cNAI":"30"
+    },
+    {
+        "??SOME_SORT_OF_MISSION_IDS_LIST??":"1:101800,0:101801",
+        "DUNGEON_IMAGE":"dungeon_battle_101800.jpg",
+        "IS_CAMP?":"1",
+        "LOCATION_NAME":"Cyanochronal Gate",
+        "LOCATION_NUMBER":"1",
+        "M6C1aXfR":"1018",
+        "MAP_IMG_AREA_NUMBER":"8710",
+        "MISSION_SOUNDTRACK":"bf051_boss02_vari02.mp3",
+        "SnNtTh51":"240",
+        "X7g8cNAI":"30"
+    },
+    {
+        "??SOME_SORT_OF_MISSION_IDS_LIST??":"0:102800",
+        "DUNGEON_IMAGE":"dungeon_battle_102901.jpg",
+        "IS_CAMP?":"0",
+        "LOCATION_NAME":"Hazardous Test Zone",
+        "LOCATION_NUMBER":"2",
+        "M6C1aXfR":"1394",
+        "MAP_IMG_AREA_NUMBER":"8710",
+        "MISSION_SOUNDTRACK":"bf051_boss02_vari02.mp3",
+        "SnNtTh51":"652",
+        "X7g8cNAI":"30"
+    },
+    {
+        "??SOME_SORT_OF_MISSION_IDS_LIST??":"1:60400,0:60401",
+        "DUNGEON_IMAGE":"dungeon_battle_60400.jpg",
+        "IS_CAMP?":"0",
+        "LOCATION_NAME":"Farren's Gate",
+        "LOCATION_NUMBER":"3",
+        "M6C1aXfR":"1278",
+        "MAP_IMG_AREA_NUMBER":"8710",
+        "MISSION_SOUNDTRACK":"bf051_boss02_vari02.mp3",
+        "SnNtTh51":"866",
+        "X7g8cNAI":"30"
+    },
+    {
+        "??SOME_SORT_OF_MISSION_IDS_LIST??":"3:101431,1:101432,0:101430",
+        "DUNGEON_IMAGE":"dungeon_battle_101403.jpg",
+        "IS_CAMP?":"0",
+        "LOCATION_NAME":"Farren's Crossing",
+        "LOCATION_NUMBER":"4",
+        "M6C1aXfR":"710",
+        "MAP_IMG_AREA_NUMBER":"8710",
+        "MISSION_SOUNDTRACK":"bf051_boss02_vari02.mp3",
+        "SnNtTh51":"512",
+        "X7g8cNAI":"30"
+    },
+    {
+        "??SOME_SORT_OF_MISSION_IDS_LIST??":"3:82500,0:82501",
+        "DUNGEON_IMAGE":"dungeon_battle_80025.jpg",
+        "IS_CAMP?":"0",
+        "LOCATION_NAME":"Seclusion Chamber",
+        "LOCATION_NUMBER":"5",
+        "M6C1aXfR":"556",
+        "MAP_IMG_AREA_NUMBER":"8710",
+        "MISSION_SOUNDTRACK":"bf051_boss02_vari02.mp3",
+        "SnNtTh51":"574",
+        "X7g8cNAI":"30"
+    },
+    {
+        "??SOME_SORT_OF_MISSION_IDS_LIST??":"1:88900,0:88901",
+        "DUNGEON_IMAGE":"dungeon_battle_80108.jpg",
+        "IS_CAMP?":"0",
+        "LOCATION_NAME":"Worldspike Gate",
+        "LOCATION_NUMBER":"6",
+        "M6C1aXfR":"396",
+        "MAP_IMG_AREA_NUMBER":"8710",
+        "MISSION_SOUNDTRACK":"bf051_boss02_vari02.mp3",
+        "SnNtTh51":"1202",
+        "X7g8cNAI":"30"
+    },
+    {
+        "??SOME_SORT_OF_MISSION_IDS_LIST??":"1:91200,0:91201",
+        "DUNGEON_IMAGE":"dungeon_battle_80136.jpg",
+        "IS_CAMP?":"0",
+        "LOCATION_NAME":"Jeu'vrr's Shrine",
+        "LOCATION_NUMBER":"7",
+        "M6C1aXfR":"946",
+        "MAP_IMG_AREA_NUMBER":"8710",
+        "MISSION_SOUNDTRACK":"bf051_boss02_vari02.mp3",
+        "SnNtTh51":"1282",
+        "X7g8cNAI":"30"
+    },
+    {
+        "??SOME_SORT_OF_MISSION_IDS_LIST??":"3:82600,0:82601",
+        "DUNGEON_IMAGE":"dungeon_battle_80026.jpg",
+        "IS_CAMP?":"1",
+        "LOCATION_NAME":"Watcher's Point",
+        "LOCATION_NUMBER":"8",
+        "M6C1aXfR":"566",
+        "MAP_IMG_AREA_NUMBER":"8710",
+        "MISSION_SOUNDTRACK":"bf051_boss02_vari02.mp3",
+        "SnNtTh51":"1296",
+        "X7g8cNAI":"30"
+    },
+    {
+        "??SOME_SORT_OF_MISSION_IDS_LIST??":"0:92400",
+        "DUNGEON_IMAGE":"dungeon_battle_80152.jpg",
+        "IS_CAMP?":"0",
+        "LOCATION_NAME":"Farren's Leisure",
+        "LOCATION_NUMBER":"9",
+        "M6C1aXfR":"832",
+        "MAP_IMG_AREA_NUMBER":"8710",
+        "MISSION_SOUNDTRACK":"bf051_boss02_vari02.mp3",
+        "SnNtTh51":"976",
+        "X7g8cNAI":"30"
     }
 ]

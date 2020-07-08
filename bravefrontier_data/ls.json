@@ -27045,6 +27045,36 @@
         "id":"810900",
         "name":"MST_LEADERSKILLS_810900_NAME"
     },
+    "810908":{
+        "desc":"MST_LEADERSKILLS_810908_DESCRIPTION",
+        "effects":[
+            {
+                "def% buff":150,
+                "hp% buff":150,
+                "passive id":"1"
+            },
+            {
+                "params":"200,0,0,0,0,0,50,1",
+                "passive id":"104"
+            },
+            {
+                "params":"100,15",
+                "passive id":"127"
+            },
+            {
+                "dmg% to hp% when attacked chance%":50,
+                "dmg% to hp% when attacked high":30,
+                "dmg% to hp% when attacked low":25,
+                "passive id":"24"
+            },
+            {
+                "params":"36,20,-1,5000,1",
+                "passive id":"78"
+            }
+        ],
+        "id":"810908",
+        "name":"MST_LEADERSKILLS_810908_NAME"
+    },
     "811118":{
         "desc":"MST_LEADERSKILLS_811118_DESCRIPTION",
         "effects":[

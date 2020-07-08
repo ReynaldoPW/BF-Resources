@@ -23981,6 +23981,50 @@
     },
     {
         "DESCRIPTION":"",
+        "EFFECT_AREA*":"3",
+        "LEVEL":"2",
+        "PROC/PASSIVE_ID(S)":"24",
+        "PROC/PASSIVE_PARAMETERS":"0,0,10,0,0,0",
+        "SP_ID":"1011000026",
+        "SP_NAME":"Enhances SBB's boosts Def relative to HP effect [+10%]",
+        "SP_NEED_BP":"10",
+        "SP_SERIES":"1011000026"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
+        "LEVEL":"4",
+        "PROC/PASSIVE_ID(S)":"66",
+        "PROC/PASSIVE_PARAMETERS":"93,100&100&100&100&0&0&2&0,1,2,0,1,0,0",
+        "SP_ID":"1011000027",
+        "SP_NAME":"Add to BB (100% critical and elemental damage reduction for 2 turns)",
+        "SP_NEED_BP":"20",
+        "SP_SERIES":"1011000027"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
+        "LEVEL":"6",
+        "PROC/PASSIVE_ID(S)":"66",
+        "PROC/PASSIVE_PARAMETERS":"10016,0.75&3&0&1,1,2,0,0,1,0",
+        "SP_ID":"1011000028",
+        "SP_NAME":"Add to SBB (boosts critical damage [75%] (Fire) for 3 turns)",
+        "SP_NEED_BP":"30",
+        "SP_SERIES":"1011000028"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1@1",
+        "LEVEL":"4",
+        "PROC/PASSIVE_ID(S)":"66@66",
+        "PROC/PASSIVE_PARAMETERS":"8,0&25&0,1,2,0,1,0,0@8,0&50&0,1,2,0,0,0,1",
+        "SP_ID":"1011000029",
+        "SP_NAME":"Add to BB (boosts max HP [25%]), UBB (boosts max HP [50%])",
+        "SP_NEED_BP":"20",
+        "SP_SERIES":"1011000029"
+    },
+    {
+        "DESCRIPTION":"",
         "EFFECT_AREA*":"1",
         "LEVEL":"3",
         "PROC/PASSIVE_ID(S)":"31",

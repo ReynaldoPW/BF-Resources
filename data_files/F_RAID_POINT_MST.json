@@ -4018,5 +4018,113 @@
         "SnNtTh51":"735",
         "X7g8cNAI":"30",
         "f3L8HeKn":"Castle"
+    },
+    {
+        "3sRN9BPS":"bf051_boss02_vari02.mp3",
+        "8f4NYKxb":"1:101800,0:101801",
+        "AZFM14In":"1",
+        "H9sx5D08":"8710",
+        "L8iA9M6c":"dungeon_battle_101800.jpg",
+        "M6C1aXfR":"1018",
+        "PV3gH1Yf":"1",
+        "SnNtTh51":"240",
+        "X7g8cNAI":"30",
+        "f3L8HeKn":"Cyanochronal Gate"
+    },
+    {
+        "3sRN9BPS":"bf051_boss02_vari02.mp3",
+        "8f4NYKxb":"0:102800",
+        "AZFM14In":"0",
+        "H9sx5D08":"8710",
+        "L8iA9M6c":"dungeon_battle_102901.jpg",
+        "M6C1aXfR":"1394",
+        "PV3gH1Yf":"2",
+        "SnNtTh51":"652",
+        "X7g8cNAI":"30",
+        "f3L8HeKn":"Hazardous Test Zone"
+    },
+    {
+        "3sRN9BPS":"bf051_boss02_vari02.mp3",
+        "8f4NYKxb":"1:60400,0:60401",
+        "AZFM14In":"0",
+        "H9sx5D08":"8710",
+        "L8iA9M6c":"dungeon_battle_60400.jpg",
+        "M6C1aXfR":"1278",
+        "PV3gH1Yf":"3",
+        "SnNtTh51":"866",
+        "X7g8cNAI":"30",
+        "f3L8HeKn":"Farren's Gate"
+    },
+    {
+        "3sRN9BPS":"bf051_boss02_vari02.mp3",
+        "8f4NYKxb":"3:101431,1:101432,0:101430",
+        "AZFM14In":"0",
+        "H9sx5D08":"8710",
+        "L8iA9M6c":"dungeon_battle_101403.jpg",
+        "M6C1aXfR":"710",
+        "PV3gH1Yf":"4",
+        "SnNtTh51":"512",
+        "X7g8cNAI":"30",
+        "f3L8HeKn":"Farren's Crossing"
+    },
+    {
+        "3sRN9BPS":"bf051_boss02_vari02.mp3",
+        "8f4NYKxb":"3:82500,0:82501",
+        "AZFM14In":"0",
+        "H9sx5D08":"8710",
+        "L8iA9M6c":"dungeon_battle_80025.jpg",
+        "M6C1aXfR":"556",
+        "PV3gH1Yf":"5",
+        "SnNtTh51":"574",
+        "X7g8cNAI":"30",
+        "f3L8HeKn":"Seclusion Chamber"
+    },
+    {
+        "3sRN9BPS":"bf051_boss02_vari02.mp3",
+        "8f4NYKxb":"1:88900,0:88901",
+        "AZFM14In":"0",
+        "H9sx5D08":"8710",
+        "L8iA9M6c":"dungeon_battle_80108.jpg",
+        "M6C1aXfR":"396",
+        "PV3gH1Yf":"6",
+        "SnNtTh51":"1202",
+        "X7g8cNAI":"30",
+        "f3L8HeKn":"Worldspike Gate"
+    },
+    {
+        "3sRN9BPS":"bf051_boss02_vari02.mp3",
+        "8f4NYKxb":"1:91200,0:91201",
+        "AZFM14In":"0",
+        "H9sx5D08":"8710",
+        "L8iA9M6c":"dungeon_battle_80136.jpg",
+        "M6C1aXfR":"946",
+        "PV3gH1Yf":"7",
+        "SnNtTh51":"1282",
+        "X7g8cNAI":"30",
+        "f3L8HeKn":"Jeu'vrr's Shrine"
+    },
+    {
+        "3sRN9BPS":"bf051_boss02_vari02.mp3",
+        "8f4NYKxb":"3:82600,0:82601",
+        "AZFM14In":"1",
+        "H9sx5D08":"8710",
+        "L8iA9M6c":"dungeon_battle_80026.jpg",
+        "M6C1aXfR":"566",
+        "PV3gH1Yf":"8",
+        "SnNtTh51":"1296",
+        "X7g8cNAI":"30",
+        "f3L8HeKn":"Watcher's Point"
+    },
+    {
+        "3sRN9BPS":"bf051_boss02_vari02.mp3",
+        "8f4NYKxb":"0:92400",
+        "AZFM14In":"0",
+        "H9sx5D08":"8710",
+        "L8iA9M6c":"dungeon_battle_80152.jpg",
+        "M6C1aXfR":"832",
+        "PV3gH1Yf":"9",
+        "SnNtTh51":"976",
+        "X7g8cNAI":"30",
+        "f3L8HeKn":"Farren's Leisure"
     }
 ]

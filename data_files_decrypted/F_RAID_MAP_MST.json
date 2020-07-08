@@ -385,5 +385,14 @@
         "RESOLUTION_A_EXTENSION?":"0:0",
         "RESOLUTION_B?":"2022:1100",
         "RESOLUTION_B_EXTENSION?":"0:200"
+    },
+    {
+        "IMAGE":"rc7raidmap_4.png:0:-200",
+        "MAP_IMG_AREA_NUMBER":"8710",
+        "MAP_NAME":"South East Orebus Lv 2",
+        "RESOLUTION_A?":"1574:1618",
+        "RESOLUTION_A_EXTENSION?":"0:0",
+        "RESOLUTION_B?":"1574:1618",
+        "RESOLUTION_B_EXTENSION?":"0:0"
     }
 ]

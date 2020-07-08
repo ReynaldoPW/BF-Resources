@@ -616,6 +616,20 @@
         "SP_CAT_NAME":"Altered Destinies"
     },
     {
+        "DESCRIPTION":"Untold tales stretching across time and space. ",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"29",
+        "SCENARIO_SUPERSECTION*":"70000",
+        "SP_CAT_ID":"87016",
+        "SP_CAT_NAME":"Memoir Fragments"
+    },
+    {
+        "DESCRIPTION":"Commander. Husband. Father. King.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"2",
+        "SCENARIO_SUPERSECTION*":"87016",
+        "SP_CAT_ID":"87017",
+        "SP_CAT_NAME":"Memoir Fragments: Gortius"
+    },
+    {
         "DESCRIPTION":"Devised by Noel, Frontier Rifts allow Summoners to explore unstable worlds formed by experimenting with time itself.",
         "QUEST_MAP_NUMBER/GUIDE_ID":"10",
         "SCENARIO_SUPERSECTION*":"0",
@@ -729,8 +743,8 @@
     },
     {
         "DESCRIPTION":"A demigod of Athensphere comes to terms with his fate in the hands of his old gods.",
-        "QUEST_MAP_NUMBER/GUIDE_ID":"29",
-        "SCENARIO_SUPERSECTION*":"70000",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"1",
+        "SCENARIO_SUPERSECTION*":"87106",
         "SP_CAT_ID":"100016",
         "SP_CAT_NAME":"Memoir Fragments: Deimos"
     },

@@ -21336,6 +21336,37 @@
         "name":"MST_EXTRAPASSIVESKILL_810900_NAME",
         "rarity":7
     },
+    "810908":{
+        "conditions":"1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0",
+        "desc":"MST_EXTRAPASSIVESKILL_810908_DESCRIPTION",
+        "effects":[
+            {
+                "atk% buff":20,
+                "def% buff":20,
+                "hp% buff":20,
+                "passive id":"1",
+                "rec% buff":20
+            },
+            {
+                "atk% extra buff based on hp":100,
+                "buff proportional to hp":"remaining",
+                "def% extra buff based on hp":100,
+                "passive id":"46",
+                "rec% extra buff based on hp":100
+            },
+            {
+                "params":"100,100,100,100,100,100,100,100,100",
+                "passive id":"73"
+            },
+            {
+                "params":"0,2,40,40,0",
+                "passive id":"69"
+            }
+        ],
+        "id":"810908",
+        "name":"MST_EXTRAPASSIVESKILL_810908_NAME",
+        "rarity":7
+    },
     "811017":{
         "conditions":"1#0,0%0,0%0,0@1#0,0%0,0%0,0@1#0,0%0,0%0,0@1#0,0%0,0%0,0",
         "desc":"MST_EXTRAPASSIVESKILL_811017_DESCRIPTION",
@@ -31361,6 +31392,39 @@
         "id":"8850006",
         "name":"MST_EXTRAPASSIVESKILL_8850006_NAME",
         "rarity":6
+    },
+    "8850008":{
+        "conditions":"1#0,0%0,0%0,0@1#0,0%0,0%0,0@1#0,0%0,0%0,0@1#0,0%0,0%0,0@1#0,0%0,0%0,0@1#2,840798%2,860798%2,810908",
+        "desc":"MST_EXTRAPASSIVESKILL_8850008_DESCRIPTION",
+        "effects":[
+            {
+                "hp% buff":60,
+                "passive id":"1"
+            },
+            {
+                "crit dmg%":25,
+                "passive id":"34"
+            },
+            {
+                "params":"4,0&100,1,1,0,1,1,0",
+                "passive id":"66"
+            },
+            {
+                "params":"100,100",
+                "passive id":"77"
+            },
+            {
+                "passive id":"48",
+                "reduced bc cost%":10
+            },
+            {
+                "params":"100,1,50,50,1",
+                "passive id":"69"
+            }
+        ],
+        "id":"8850008",
+        "name":"MST_EXTRAPASSIVESKILL_8850008_NAME",
+        "rarity":8
     },
     "8900":{
         "conditions":"1#0,0%0,0%0,0@1#0,0%0,0%0,0@1#0,0%0,0%0,0@1#0,0%0,0%0,0",

@@ -1887,7 +1887,7 @@
         "gq73WFmj":"",
         "np4K1xtq":"",
         "qp37xTDh":"SP Dungeon",
-        "sHMai2ZG":"0"
+        "sHMai2ZG":"100002"
     },
     {
         "3v1qg7Uj":"1",
@@ -1917,7 +1917,7 @@
         "gq73WFmj":"",
         "np4K1xtq":"",
         "qp37xTDh":"SP Dungeon",
-        "sHMai2ZG":"0"
+        "sHMai2ZG":"100002"
     },
     {
         "3v1qg7Uj":"1",
@@ -2082,7 +2082,7 @@
         "gq73WFmj":"",
         "np4K1xtq":"",
         "qp37xTDh":"SP Dungeon",
-        "sHMai2ZG":"0"
+        "sHMai2ZG":"100004"
     },
     {
         "3v1qg7Uj":"1",
@@ -3117,7 +3117,7 @@
         "gq73WFmj":"",
         "np4K1xtq":"",
         "qp37xTDh":"SP Dungeon",
-        "sHMai2ZG":"0"
+        "sHMai2ZG":"100002"
     },
     {
         "3v1qg7Uj":"1",
@@ -3732,6 +3732,36 @@
         "gq73WFmj":"",
         "np4K1xtq":"",
         "qp37xTDh":"SP Dungeon",
+        "sHMai2ZG":-1
+    },
+    {
+        "3v1qg7Uj":"1",
+        "9C64Qwe0":"99",
+        "H0UB8pqm":"sp_quest_banner_gortius_2.png",
+        "HSRhkf70":"0",
+        "N4XVE1uA":"0",
+        "V84mzqoX":"Gortius Dungeon",
+        "VjCY7rX4":"9500001",
+        "XuJL4pc5":"29201010",
+        "b5VveUd8":"area_sp.jpg",
+        "gq73WFmj":"",
+        "np4K1xtq":"",
+        "qp37xTDh":"Gortius Event Dungeon",
+        "sHMai2ZG":-1
+    },
+    {
+        "3v1qg7Uj":"10",
+        "9C64Qwe0":"99",
+        "H0UB8pqm":"sp_quest_banner_gortius_1.png",
+        "HSRhkf70":"0",
+        "N4XVE1uA":"0",
+        "V84mzqoX":"Gortius Daily",
+        "VjCY7rX4":"9500002",
+        "XuJL4pc5":"29201009",
+        "b5VveUd8":"area_sp.jpg",
+        "gq73WFmj":"",
+        "np4K1xtq":"",
+        "qp37xTDh":"Gortius Daily Dungeon",
         "sHMai2ZG":-1
     },
     {
