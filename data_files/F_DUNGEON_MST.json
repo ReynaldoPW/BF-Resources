@@ -6821,7 +6821,7 @@
         "sYsa10a3":""
     },
     {
-        "0u1nvMeS":"800011",
+        "0u1nvMeS":"99",
         "21VKZo0E":"sp_quest_banner_800011.png",
         "3hPeI1RV":"0",
         "9C64Qwe0":"99",
@@ -6840,11 +6840,11 @@
         "sYsa10a3":""
     },
     {
-        "0u1nvMeS":"800012",
+        "0u1nvMeS":"99",
         "21VKZo0E":"sp_quest_banner_800012.png",
         "3hPeI1RV":"0",
         "9C64Qwe0":"99",
-        "HSRhkf70":"8310001",
+        "HSRhkf70":"0",
         "L8iA9M6c":"dungeon_battle_8000120.jpg",
         "M2cv6dum":"",
         "M6C1aXfR":"300",
@@ -6859,7 +6859,7 @@
         "sYsa10a3":""
     },
     {
-        "0u1nvMeS":"800013",
+        "0u1nvMeS":"99",
         "21VKZo0E":"sp_quest_banner_800013.png",
         "3hPeI1RV":"0",
         "9C64Qwe0":"99",
@@ -10545,6 +10545,25 @@
         "sYsa10a3":""
     },
     {
+        "0u1nvMeS":"100000",
+        "21VKZo0E":"sp_quest_banner_challenge.png",
+        "3hPeI1RV":"1",
+        "9C64Qwe0":"99",
+        "HSRhkf70":"0",
+        "L8iA9M6c":"dungeon_battle_1000000.jpg",
+        "M2cv6dum":"",
+        "M6C1aXfR":"300",
+        "MHx05sXt":"1007700",
+        "N4XVE1uA":"0,0",
+        "SnNtTh51":"300",
+        "VjCY7rX4":"1000010",
+        "XuJL4pc5":"1",
+        "bWsLFP96":"FH_77",
+        "np4K1xtq":"",
+        "qp37xTDh":"",
+        "sYsa10a3":""
+    },
+    {
         "0u1nvMeS":"1",
         "21VKZo0E":"kaoringo_icon.png",
         "3hPeI1RV":"2",
@@ -11434,7 +11453,7 @@
         "XuJL4pc5":"93",
         "bWsLFP96":"Liminal End",
         "np4K1xtq":"",
-        "qp37xTDh":"The fleeting, illustrious life of a dying kami laid bare.",
+        "qp37xTDh":"A stranger in a strange land that you should know, but don't.",
         "sYsa10a3":""
     },
     {

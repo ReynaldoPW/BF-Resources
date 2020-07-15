@@ -6786,6 +6786,42 @@
         "Wmr4xDa8":"87016"
     },
     {
+        "29MgiJIQ":"1",
+        "AI_PRIORITY":"7",
+        "MISSION_ID":"5008011",
+        "QUEST_FLAG_REQUIREMENTS":"501,87001,0",
+        "REWARD_ITEM_ID":"11",
+        "TRIGGERED_QUEST_TEXT_AND_FLAG_SET":"501,87001,1@501,87104,1",
+        "Wmr4xDa8":"87017"
+    },
+    {
+        "29MgiJIQ":"1",
+        "AI_PRIORITY":"6",
+        "MISSION_ID":"5008011",
+        "QUEST_FLAG_REQUIREMENTS":"501,87104,1:501,87226,0",
+        "REWARD_ITEM_ID":"11",
+        "TRIGGERED_QUEST_TEXT_AND_FLAG_SET":"501,87226,1@1,X7_Arc3_Ep1_1.txt@4,8711,1,0",
+        "Wmr4xDa8":"87018"
+    },
+    {
+        "29MgiJIQ":"1",
+        "AI_PRIORITY":"7",
+        "MISSION_ID":"5008011",
+        "QUEST_FLAG_REQUIREMENTS":"501,87104,1:501,87227,0",
+        "REWARD_ITEM_ID":"12",
+        "TRIGGERED_QUEST_TEXT_AND_FLAG_SET":"501,87227,1@1,X7_Arc3_Ep1_2.txt@4,8711,1,0",
+        "Wmr4xDa8":"87019"
+    },
+    {
+        "29MgiJIQ":"1",
+        "AI_PRIORITY":"7",
+        "MISSION_ID":"5008011",
+        "QUEST_FLAG_REQUIREMENTS":"501,87104,1:501,87228,0",
+        "REWARD_ITEM_ID":"13",
+        "TRIGGERED_QUEST_TEXT_AND_FLAG_SET":"501,87228,1@1,X7_Arc3_Ep1_3A.txt@4,8712,1,0@1,X7_Arc3_Ep1_3B.txt@501,87000,1@500,8704,1",
+        "Wmr4xDa8":"87020"
+    },
+    {
         "29MgiJIQ":"3",
         "AI_PRIORITY":"10",
         "MISSION_ID":"5008011",
@@ -6847,6 +6883,24 @@
         "REWARD_ITEM_ID":"8710",
         "TRIGGERED_QUEST_TEXT_AND_FLAG_SET":"501,87218,1@204,",
         "Wmr4xDa8":"87506"
+    },
+    {
+        "29MgiJIQ":"3",
+        "AI_PRIORITY":"10",
+        "MISSION_ID":"5008011",
+        "QUEST_FLAG_REQUIREMENTS":"501,87219,0:200,0,0",
+        "REWARD_ITEM_ID":"8712",
+        "TRIGGERED_QUEST_TEXT_AND_FLAG_SET":"501,87219,1@203,8500457@203,8500454",
+        "Wmr4xDa8":"87507"
+    },
+    {
+        "29MgiJIQ":"3",
+        "AI_PRIORITY":"10",
+        "MISSION_ID":"5008011",
+        "QUEST_FLAG_REQUIREMENTS":"206,2,1,88500626:501,87220,0",
+        "REWARD_ITEM_ID":"8712",
+        "TRIGGERED_QUEST_TEXT_AND_FLAG_SET":"501,87220,1@204,",
+        "Wmr4xDa8":"87508"
     },
     {
         "29MgiJIQ":"3",

@@ -28985,6 +28985,83 @@
         "yRlCNyvk":"Add to SBB (Probable [75%] 3 turns critical and elemental vulnerability [35%] infliction)"
     },
     {
+        "2Smu5Mtq":"30,50,100",
+        "9PsmH7tz":"1100000526",
+        "D9wXQI2V":"4",
+        "G5wFDad6":"25",
+        "hjAy9St3":"49",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1100000526",
+        "yRlCNyvk":"30-50% BB gauge consumed reduction"
+    },
+    {
+        "2Smu5Mtq":"50,1$2$3$4$5$6$2.5",
+        "9PsmH7tz":"1100000527",
+        "D9wXQI2V":"5",
+        "G5wFDad6":"30",
+        "hjAy9St3":"107",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1100000527",
+        "yRlCNyvk":"Add to LS (250% all elemental damage)"
+    },
+    {
+        "2Smu5Mtq":"93,100&100&100&100&0&0&5&0,1,2,0,1,0,0",
+        "9PsmH7tz":"1100000528",
+        "D9wXQI2V":"3",
+        "G5wFDad6":"15",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1100000528",
+        "yRlCNyvk":"Add to BB (100% critical and elemental damage reduction for 5 turns)"
+    },
+    {
+        "2Smu5Mtq":"56,20&0&999,1,2,0,1,0,0",
+        "9PsmH7tz":"1100000529",
+        "D9wXQI2V":"5",
+        "G5wFDad6":"25",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1100000529",
+        "yRlCNyvk":"Add to BB (Probable [20%] 1 KO resistance)"
+    },
+    {
+        "2Smu5Mtq":"51,-30&-30&0&30&30&0&1&3&0,1,2,0,0,1,0",
+        "9PsmH7tz":"1100000530",
+        "D9wXQI2V":"4",
+        "G5wFDad6":"15",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1100000530",
+        "yRlCNyvk":"Add to SBB (Adds probable [30%] 1 turn Atk, Def reduction [30%] infliction to attack for 3 turns)"
+    },
+    {
+        "2Smu5Mtq":"47,200&750&0&200&0&0&0&0,2,2,0,0,1,0",
+        "9PsmH7tz":"1100000531",
+        "D9wXQI2V":"3",
+        "G5wFDad6":"20",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1100000531",
+        "yRlCNyvk":"Add to SBB (XX combo Light attack [200-750%] on all foes (damage relative to remaining HP))"
+    },
+    {
+        "2Smu5Mtq":"0,1,0@0,0,0,0,1,0@0,0,0,1,0@0,0,0,1,0",
+        "9PsmH7tz":"1100000532",
+        "D9wXQI2V":"3",
+        "G5wFDad6":"15",
+        "hjAy9St3":"18@24@20@85",
+        "jeR2rN3V":"4@4@4@4",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1100000532",
+        "yRlCNyvk":"Allows UBB's effects to last additional 1 turn"
+    },
+    {
         "2Smu5Mtq":"0,0,30,0,30",
         "9PsmH7tz":"1100000113",
         "D9wXQI2V":"1",

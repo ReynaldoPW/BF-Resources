@@ -28987,6 +28987,83 @@
     {
         "DESCRIPTION":"",
         "EFFECT_AREA*":"1",
+        "LEVEL":"4",
+        "PROC/PASSIVE_ID(S)":"49",
+        "PROC/PASSIVE_PARAMETERS":"30,50,100",
+        "SP_ID":"1100000526",
+        "SP_NAME":"30-50% BB gauge consumed reduction",
+        "SP_NEED_BP":"25",
+        "SP_SERIES":"1100000526"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
+        "LEVEL":"5",
+        "PROC/PASSIVE_ID(S)":"107",
+        "PROC/PASSIVE_PARAMETERS":"50,1$2$3$4$5$6$2.5",
+        "SP_ID":"1100000527",
+        "SP_NAME":"Add to LS (250% all elemental damage)",
+        "SP_NEED_BP":"30",
+        "SP_SERIES":"1100000527"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
+        "LEVEL":"3",
+        "PROC/PASSIVE_ID(S)":"66",
+        "PROC/PASSIVE_PARAMETERS":"93,100&100&100&100&0&0&5&0,1,2,0,1,0,0",
+        "SP_ID":"1100000528",
+        "SP_NAME":"Add to BB (100% critical and elemental damage reduction for 5 turns)",
+        "SP_NEED_BP":"15",
+        "SP_SERIES":"1100000528"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
+        "LEVEL":"5",
+        "PROC/PASSIVE_ID(S)":"66",
+        "PROC/PASSIVE_PARAMETERS":"56,20&0&999,1,2,0,1,0,0",
+        "SP_ID":"1100000529",
+        "SP_NAME":"Add to BB (Probable [20%] 1 KO resistance)",
+        "SP_NEED_BP":"25",
+        "SP_SERIES":"1100000529"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
+        "LEVEL":"4",
+        "PROC/PASSIVE_ID(S)":"66",
+        "PROC/PASSIVE_PARAMETERS":"51,-30&-30&0&30&30&0&1&3&0,1,2,0,0,1,0",
+        "SP_ID":"1100000530",
+        "SP_NAME":"Add to SBB (Adds probable [30%] 1 turn Atk, Def reduction [30%] infliction to attack for 3 turns)",
+        "SP_NEED_BP":"15",
+        "SP_SERIES":"1100000530"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
+        "LEVEL":"3",
+        "PROC/PASSIVE_ID(S)":"66",
+        "PROC/PASSIVE_PARAMETERS":"47,200&750&0&200&0&0&0&0,2,2,0,0,1,0",
+        "SP_ID":"1100000531",
+        "SP_NAME":"Add to SBB (XX combo Light attack [200-750%] on all foes (damage relative to remaining HP))",
+        "SP_NEED_BP":"20",
+        "SP_SERIES":"1100000531"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"4@4@4@4",
+        "LEVEL":"3",
+        "PROC/PASSIVE_ID(S)":"18@24@20@85",
+        "PROC/PASSIVE_PARAMETERS":"0,1,0@0,0,0,0,1,0@0,0,0,1,0@0,0,0,1,0",
+        "SP_ID":"1100000532",
+        "SP_NAME":"Allows UBB's effects to last additional 1 turn",
+        "SP_NEED_BP":"15",
+        "SP_SERIES":"1100000532"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
         "LEVEL":"1",
         "PROC/PASSIVE_ID(S)":"1",
         "PROC/PASSIVE_PARAMETERS":"0,0,30,0,30",

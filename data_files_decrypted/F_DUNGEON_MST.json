@@ -6462,7 +6462,7 @@
         "THUMBNAIL":""
     },
     {
-        "0u1nvMeS":"800011",
+        "0u1nvMeS":"99",
         "3hPeI1RV":"0",
         "DESCRIPTION":"MST_DUNGEONS_DUNGEON_800011_DESCRIPTION",
         "DUNGEON_ID":"800011",
@@ -6480,7 +6480,7 @@
         "THUMBNAIL":""
     },
     {
-        "0u1nvMeS":"800012",
+        "0u1nvMeS":"99",
         "3hPeI1RV":"0",
         "DESCRIPTION":"MST_DUNGEONS_DUNGEON_800012_DESCRIPTION",
         "DUNGEON_ID":"800012",
@@ -6489,7 +6489,7 @@
         "M6C1aXfR":"300",
         "MAP_OPENING_TEXT_FILE":"tower_raid01_02.txt,tower_raid01_03.txt",
         "MISSION_AREA":"800012",
-        "MISSION_IDS_REQUIRED":"8310001",
+        "MISSION_IDS_REQUIRED":"0",
         "QUEST_ALWAYS_EMPTY":"",
         "QUEST_BANNER_IMAGE":"sp_quest_banner_800012.png",
         "QUEST_MAP_NUMBER/GUIDE_ID":"2",
@@ -6498,7 +6498,7 @@
         "THUMBNAIL":""
     },
     {
-        "0u1nvMeS":"800013",
+        "0u1nvMeS":"99",
         "3hPeI1RV":"0",
         "DESCRIPTION":"MST_DUNGEONS_DUNGEON_800013_DESCRIPTION",
         "DUNGEON_ID":"800013",
@@ -9990,6 +9990,24 @@
         "THUMBNAIL":""
     },
     {
+        "0u1nvMeS":"100000",
+        "3hPeI1RV":"1",
+        "DESCRIPTION":"",
+        "DUNGEON_ID":"1007700",
+        "DUNGEON_IMAGE":"dungeon_battle_1000000.jpg",
+        "DUNGEON_NAME":"FH_77",
+        "M6C1aXfR":"300",
+        "MAP_OPENING_TEXT_FILE":"0,0",
+        "MISSION_AREA":"1000010",
+        "MISSION_IDS_REQUIRED":"0",
+        "QUEST_ALWAYS_EMPTY":"",
+        "QUEST_BANNER_IMAGE":"sp_quest_banner_challenge.png",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"1",
+        "QUEST_ZONE_MAP_NUMBER":"99",
+        "SnNtTh51":"300",
+        "THUMBNAIL":""
+    },
+    {
         "0u1nvMeS":"1",
         "3hPeI1RV":"2",
         "DESCRIPTION":"MST_DUNGEONS_DUNGEON_2000000_DESCRIPTION",
@@ -10820,7 +10838,7 @@
     {
         "0u1nvMeS":"99",
         "3hPeI1RV":"4",
-        "DESCRIPTION":"The fleeting, illustrious life of a dying kami laid bare.",
+        "DESCRIPTION":"A stranger in a strange land that you should know, but don't.",
         "DUNGEON_ID":"5008011",
         "DUNGEON_IMAGE":"dungeon_battle_10100.jpg",
         "DUNGEON_NAME":"Liminal End",

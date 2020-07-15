@@ -48230,6 +48230,76 @@
         "EFFECT_AREA*":"2"
     },
     {
+        "1NijIP2a":"80",
+        "BATTLE_EFFECT_FILE":"effect_prt_1124_purple.plist",
+        "BATTLE_EFFECT_ID":"8200293",
+        "BATTLE_EFFECT_NAME":"au2lightrider8_Hit3",
+        "EFFECT_AREA*":"2"
+    },
+    {
+        "1NijIP2a":"50",
+        "BATTLE_EFFECT_FILE":"effect_prt_1238_purple.plist",
+        "BATTLE_EFFECT_ID":"8200294",
+        "BATTLE_EFFECT_NAME":"au2lightrider8_Xplod",
+        "EFFECT_AREA*":"2"
+    },
+    {
+        "1NijIP2a":"50",
+        "BATTLE_EFFECT_FILE":"effect_prt_1138_yellow.plist",
+        "BATTLE_EFFECT_ID":"8200295",
+        "BATTLE_EFFECT_NAME":"au2lightrider8_Yellow",
+        "EFFECT_AREA*":"2"
+    },
+    {
+        "1NijIP2a":"160",
+        "BATTLE_EFFECT_FILE":"effect_prt_1117_purple.plist",
+        "BATTLE_EFFECT_ID":"8200296",
+        "BATTLE_EFFECT_NAME":"au2lightrider8_Hit1SBB",
+        "EFFECT_AREA*":"2"
+    },
+    {
+        "1NijIP2a":"80",
+        "BATTLE_EFFECT_FILE":"effect_prt_1133_purple.plist",
+        "BATTLE_EFFECT_ID":"8200297",
+        "BATTLE_EFFECT_NAME":"au2lightrider8_Hit2SBB",
+        "EFFECT_AREA*":"2"
+    },
+    {
+        "1NijIP2a":"170",
+        "BATTLE_EFFECT_FILE":"effect_prt_1020R_purple.plist",
+        "BATTLE_EFFECT_ID":"8200298",
+        "BATTLE_EFFECT_NAME":"au2lightrider8_SpeedUBB",
+        "EFFECT_AREA*":"2"
+    },
+    {
+        "1NijIP2a":"170",
+        "BATTLE_EFFECT_FILE":"effect_prt_1020_purple.plist",
+        "BATTLE_EFFECT_ID":"8200299",
+        "BATTLE_EFFECT_NAME":"au2lightrider8_SpeedUBBR",
+        "EFFECT_AREA*":"2"
+    },
+    {
+        "1NijIP2a":"80",
+        "BATTLE_EFFECT_FILE":"effect_prt_1238_purple.plist",
+        "BATTLE_EFFECT_ID":"8200300",
+        "BATTLE_EFFECT_NAME":"au2lightrider8_Xplod2SBB",
+        "EFFECT_AREA*":"2"
+    },
+    {
+        "1NijIP2a":"150",
+        "BATTLE_EFFECT_FILE":"effect_prt_1011_purple.plist",
+        "BATTLE_EFFECT_ID":"8200301",
+        "BATTLE_EFFECT_NAME":"au2lightrider8_Spark1UBB",
+        "EFFECT_AREA*":"2"
+    },
+    {
+        "1NijIP2a":"120",
+        "BATTLE_EFFECT_FILE":"effect_prt_1238_purple.plist",
+        "BATTLE_EFFECT_ID":"8200302",
+        "BATTLE_EFFECT_NAME":"au2lightrider8_XplodUBB",
+        "EFFECT_AREA*":"2"
+    },
+    {
         "1NijIP2a":"100",
         "BATTLE_EFFECT_FILE":"810507BattleEffectDimBack.sam",
         "BATTLE_EFFECT_ID":"8300001",

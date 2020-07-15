@@ -8937,6 +8937,42 @@
         "SP_CAT_ID":"85007"
     },
     {
+        "DESCRIPTION":"A forgotten knight recounts your own scattered memories to you.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"20",
+        "SCENARIO_ID":"87119",
+        "SCENARIO_NAME":"A Knight to Remember",
+        "SCENARIO_TEXT_FILE":"X7_Arc3_Ep1_1.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"85007"
+    },
+    {
+        "DESCRIPTION":"Words of encouragment uttered by a continued existence, or kindred spirits in different times?",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"21",
+        "SCENARIO_ID":"87120",
+        "SCENARIO_NAME":"Captain of My Soul",
+        "SCENARIO_TEXT_FILE":"X7_Arc3_Ep1_2.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"85007"
+    },
+    {
+        "DESCRIPTION":"Looking thus into that unnameable void and seeing your fears reflected was a veritable nightmare.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"22",
+        "SCENARIO_ID":"87121",
+        "SCENARIO_NAME":"Eye of the Beholder",
+        "SCENARIO_TEXT_FILE":"X7_Arc3_Ep1_3A.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"85007"
+    },
+    {
+        "DESCRIPTION":"Flesh, given purpose, cares not for strength of will--only devotion.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"23",
+        "SCENARIO_ID":"87122",
+        "SCENARIO_NAME":"An Eternal Hunt",
+        "SCENARIO_TEXT_FILE":"X7_Arc3_Ep1_3B.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"85007"
+    },
+    {
         "DESCRIPTION":"Welcome to an odd sort of theater - your audience awaits you with bated breath. Don't die.",
         "QUEST_MAP_NUMBER/GUIDE_ID":"97",
         "SCENARIO_ID":"88400",

@@ -28974,6 +28974,37 @@
         "name":"MST_EXTRAPASSIVESKILL_850858_NAME",
         "rarity":7
     },
+    "850888":{
+        "conditions":"1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0",
+        "desc":"MST_EXTRAPASSIVESKILL_850888_DESCRIPTION",
+        "effects":[
+            {
+                "atk% buff":20,
+                "def% buff":20,
+                "hp% buff":20,
+                "passive id":"1",
+                "rec% buff":20
+            },
+            {
+                "passive id":"43",
+                "take 1 dmg%":10
+            },
+            {
+                "dmg% for spark":100,
+                "passive id":"31"
+            },
+            {
+                "params":"100",
+                "passive id":"92"
+            },
+            {
+                "passive id":"55"
+            }
+        ],
+        "id":"850888",
+        "name":"MST_EXTRAPASSIVESKILL_850888_NAME",
+        "rarity":7
+    },
     "850900":{
         "conditions":"1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0",
         "desc":"MST_EXTRAPASSIVESKILL_850900_DESCRIPTION",
