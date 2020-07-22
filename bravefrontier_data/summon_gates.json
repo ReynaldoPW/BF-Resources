@@ -13341,5 +13341,29 @@
         "short desc":"Osiris, Azius and Saskya are available through the Summon Gate!",
         "start time":"2020-07-15 15:00:00",
         "summon button image":"gacha_rare_summons_btn1.png"
+    },
+    "19190":{
+        "background image":"gacha_img_20200716HB.png",
+        "desc":"From 16 Jul 7:00 PST ~ 23 Jul 6:59 PST, summon minimum 5* Global exclusive units with Omni Potential and enjoy Increased Rates on  Aoife, Tsovinar and Hakuzo!",
+        "door image":"gacha_rare_door.png",
+        "end time":"2020-07-23 14:59:59",
+        "gem cost":5,
+        "name":"Heroes Bond Summon",
+        "priority":"2",
+        "short desc":"Aoife, Tsovinar and Hakuzo are available with Increased Rates through the Summon Gate! ",
+        "start time":"2020-07-16 15:00:00",
+        "summon button image":"gacha_rare_summons_btn1.png"
+    },
+    "19200":{
+        "background image":"gacha_img_20200716HA.png",
+        "desc":"From 16 Jul 7:00 PST ~ 23 Jul 6:59 PST, get a 100% Chance to summon Aoife, Tsovinar or Hakuzo! Get a bonus Summon Ticket on the 4th Summon and a Dual Brave Burst Token on every Summon!",
+        "door image":"gacha_rare_door.png",
+        "end time":"2020-07-23 14:59:59",
+        "gem cost":5,
+        "name":"Heroes Awaken Summon",
+        "priority":"2",
+        "short desc":"Get a 100% Chance to summon Aoife, Tsovinar or Hakuzo! Exchange DBB Potential Units from the Bazaar with the Dual Brave Burst Tokens!",
+        "start time":"2020-07-16 15:00:00",
+        "summon button image":"gacha_rare_summons_btn1.png"
     }
 }
