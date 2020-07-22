@@ -240,7 +240,7 @@
         "moWQ30GH":"F_MISSION_NPC_UNIT_MST"
     },
     {
-        "d2RFtP8T":"114",
+        "d2RFtP8T":"115",
         "moWQ30GH":"F_GRAND_MISSION_MST"
     },
     {
@@ -532,7 +532,7 @@
         "moWQ30GH":"F_BANNER_INFO_MST"
     },
     {
-        "d2RFtP8T":"734",
+        "d2RFtP8T":"735",
         "moWQ30GH":"F_RELOAD_FILE_MST"
     },
     {
