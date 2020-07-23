@@ -23377,6 +23377,39 @@
     {
         "DESCRIPTION":"",
         "EFFECT_AREA*":"1",
+        "LEVEL":"2",
+        "PROC/PASSIVE_ID(S)":"143",
+        "PROC/PASSIVE_PARAMETERS":"220000",
+        "SP_ID":"1010700116",
+        "SP_NAME":"Raises Atk parameter limits to 220k",
+        "SP_NEED_BP":"10",
+        "SP_SERIES":"1010700116"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
+        "LEVEL":"4",
+        "PROC/PASSIVE_ID(S)":"66",
+        "PROC/PASSIVE_PARAMETERS":"47,200&500&0&200&0&0&0&0,2,2,0,0,1,0",
+        "SP_ID":"1010700117",
+        "SP_NAME":"Add to SBB (20 combo Water attack [200-500%] on all foes (damage relative to remaining HP))",
+        "SP_NEED_BP":"20",
+        "SP_SERIES":"1010700117"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
+        "LEVEL":"5",
+        "PROC/PASSIVE_ID(S)":"66",
+        "PROC/PASSIVE_PARAMETERS":"132,30&30&75&75&2&0,2,2,0,0,1,0",
+        "SP_ID":"1010700118",
+        "SP_NAME":"Add to SBB (Probable 2 turns critical and elemental vulnerability infliction)",
+        "SP_NEED_BP":"25",
+        "SP_SERIES":"1010700118"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
         "LEVEL":"4",
         "PROC/PASSIVE_ID(S)":"1",
         "PROC/PASSIVE_PARAMETERS":"0,130,0,0,130",
@@ -23648,6 +23681,94 @@
         "SP_NAME":"Add to BB\\/SBB (Probable [15%] evasion for 2 turns)",
         "SP_NEED_BP":"25",
         "SP_SERIES":"1010800059"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
+        "LEVEL":"3",
+        "PROC/PASSIVE_ID(S)":"1",
+        "PROC/PASSIVE_PARAMETERS":"0,120,120,0,120",
+        "SP_ID":"1010800060",
+        "SP_NAME":"120% Def, Rec, max HP",
+        "SP_NEED_BP":"10",
+        "SP_SERIES":"1010800060"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
+        "LEVEL":"3",
+        "PROC/PASSIVE_ID(S)":"143",
+        "PROC/PASSIVE_PARAMETERS":"180000",
+        "SP_ID":"1010800061",
+        "SP_NAME":"Raises Atk limit to 180k",
+        "SP_NEED_BP":"10",
+        "SP_SERIES":"1010800061"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"2",
+        "LEVEL":"4",
+        "PROC/PASSIVE_ID(S)":"71",
+        "PROC/PASSIVE_PARAMETERS":"-10,0,0",
+        "SP_ID":"1010800062",
+        "SP_NAME":"Enhances BB's enemy bb fill reduction effect [+10%]",
+        "SP_NEED_BP":"10",
+        "SP_SERIES":"1010800062"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"2@3",
+        "LEVEL":"3",
+        "PROC/PASSIVE_ID(S)":"5@5",
+        "PROC/PASSIVE_PARAMETERS":"0,15,15,15,0,0,0@0,15,15,15,0,0,0",
+        "SP_ID":"1010800063",
+        "SP_NAME":"Enhances BB\\/SBB's boosts Atk, Def, Rec for Fire types effect [+15%]",
+        "SP_NEED_BP":"15",
+        "SP_SERIES":"1010800063"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
+        "LEVEL":"5",
+        "PROC/PASSIVE_ID(S)":"66",
+        "PROC/PASSIVE_PARAMETERS":"31,1400&0,1,2,0,1,1,0",
+        "SP_ID":"1010800064",
+        "SP_NAME":"Add to BB\\/SBB (Fills BB gauge [14 BC])",
+        "SP_NEED_BP":"20",
+        "SP_SERIES":"1010800064"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
+        "LEVEL":"4",
+        "PROC/PASSIVE_ID(S)":"66",
+        "PROC/PASSIVE_PARAMETERS":"24,3&120&120&0&3&0,1,2,0,1,1,0",
+        "SP_ID":"1010800065",
+        "SP_NAME":"Add to BB\\/SBB (Boosts Atk, Def relative to Rec [120%] for 3 turns)",
+        "SP_NEED_BP":"20",
+        "SP_SERIES":"1010800065"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
+        "LEVEL":"3",
+        "PROC/PASSIVE_ID(S)":"66",
+        "PROC/PASSIVE_PARAMETERS":"9,0&3&-100&30&0&0&0&3&0,2,2,0,1,1,0",
+        "SP_ID":"1010800066",
+        "SP_NAME":"Add to BB\\/SBB (Probable [30%] 3 turns Rec reduction [100%] infliction)",
+        "SP_NEED_BP":"35",
+        "SP_SERIES":"1010800066"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
+        "LEVEL":"2",
+        "PROC/PASSIVE_ID(S)":"66",
+        "PROC/PASSIVE_PARAMETERS":"55,1&0&0&0&0&0&2.25&3&0,1,2,0,0,1,0",
+        "SP_ID":"1010800067",
+        "SP_NAME":"Add to SBB (Boosts Fire elemental damage [225%] for 3 turns)",
+        "SP_NEED_BP":"25",
+        "SP_SERIES":"1010800067"
     },
     {
         "DESCRIPTION":"",

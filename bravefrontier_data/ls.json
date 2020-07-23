@@ -26199,17 +26199,17 @@
         "desc":"MST_LEADERSKILLS_810558_DESCRIPTION",
         "effects":[
             {
-                "atk% buff":80,
-                "def% buff":120,
-                "hp% buff":80,
+                "atk% buff":100,
+                "def% buff":140,
+                "hp% buff":100,
                 "passive id":"2",
-                "rec% buff":120
+                "rec% buff":140
             },
             {
                 "passive id":"33",
-                "rec% added":130.0,
-                "turn heal high":1200,
-                "turn heal low":1200
+                "rec% added":110.0,
+                "turn heal high":1000,
+                "turn heal low":1000
             },
             {
                 "params":"1000,0,5000",
@@ -26217,9 +26217,13 @@
             },
             {
                 "bc fill when attacked chance%":100,
-                "bc fill when attacked high":9,
-                "bc fill when attacked low":5,
+                "bc fill when attacked high":10,
+                "bc fill when attacked low":6,
                 "passive id":"25"
+            },
+            {
+                "params":"100,100,100,100,100,100,100,100,100",
+                "passive id":"73"
             }
         ],
         "id":"810558",
@@ -28934,6 +28938,36 @@
         ],
         "id":"820900",
         "name":"MST_LEADERSKILLS_820900_NAME"
+    },
+    "820938":{
+        "desc":"MST_LEADERSKILLS_820938_DESCRIPTION",
+        "effects":[
+            {
+                "atk% buff":140,
+                "crit% buff":30,
+                "def% buff":140,
+                "hp% buff":140,
+                "passive id":"2"
+            },
+            {
+                "crit dmg%":250,
+                "passive id":"34"
+            },
+            {
+                "params":"50,100",
+                "passive id":"100"
+            },
+            {
+                "params":"1000,1200,100",
+                "passive id":"65"
+            },
+            {
+                "params":"30",
+                "passive id":"70"
+            }
+        ],
+        "id":"820938",
+        "name":"MST_LEADERSKILLS_820938_NAME"
     },
     "8300":{
         "desc":"MST_LEADERSKILLS_8300_DESCRIPTION",

@@ -18804,6 +18804,72 @@
         "name":"MST_EXTRAPASSIVESKILL_8000514_NAME",
         "rarity":7
     },
+    "8000515":{
+        "conditions":"1#0,0%0,0%0,0@1#0,0%0,0%0,0@1#0,0%0,0%0,0@1#0,0%0,0%0,0@1#0,0%0,0%0,0@1#0,0%0,0%0,0",
+        "desc":"MST_EXTRAPASSIVESKILL_8000515_DESCRIPTION",
+        "effects":[
+            {
+                "atk% buff":15,
+                "def% buff":15,
+                "hp% buff":15,
+                "passive id":"2",
+                "rec% buff":15
+            },
+            {
+                "def% buff":120,
+                "hp% buff":50,
+                "passive id":"2"
+            },
+            {
+                "dmg% for spark":120,
+                "passive id":"31"
+            },
+            {
+                "params":"20",
+                "passive id":"111"
+            },
+            {
+                "params":"1,3,0,0,0,0,35,2",
+                "passive id":"63"
+            }
+        ],
+        "id":"8000515",
+        "name":"MST_EXTRAPASSIVESKILL_8000515_NAME",
+        "rarity":8
+    },
+    "8000516":{
+        "conditions":"1#0,0%0,0%0,0@1#0,0%0,0%0,0@1#0,0%0,0%0,0@1#0,0%0,0%0,0@1#0,0%0,0%0,0@1#0,0%0,0%0,0",
+        "desc":"MST_EXTRAPASSIVESKILL_8000516_DESCRIPTION",
+        "effects":[
+            {
+                "atk% buff":10,
+                "def% buff":10,
+                "hp% buff":10,
+                "passive id":"2",
+                "rec% buff":10
+            },
+            {
+                "def% buff":100,
+                "hp% buff":40,
+                "passive id":"2"
+            },
+            {
+                "dmg% for spark":100,
+                "passive id":"31"
+            },
+            {
+                "params":"15",
+                "passive id":"111"
+            },
+            {
+                "params":"1,3,0,0,0,0,35,2",
+                "passive id":"63"
+            }
+        ],
+        "id":"8000516",
+        "name":"MST_EXTRAPASSIVESKILL_8000516_NAME",
+        "rarity":7
+    },
     "8000601":{
         "conditions":"1#0,0%0,0%0,0@1#0,0%0,0%0,0@1#0,0%0,0%0,0@1#0,0%0,0%0,0@1#0,0%0,0%0,0@1#0,0%0,0%0,0",
         "desc":"MST_EXTRAPASSIVESKILL_8000601_DESCRIPTION",
@@ -20534,7 +20600,7 @@
         "rarity":7
     },
     "810558":{
-        "conditions":"1#0,0%0,0%0,0@1#0,0%0,0%0,0@1#0,0%0,0%0,0@1#0,0%0,0%0,0@1#0,0%0,0%0,0@1#0,0%0,0%0,0",
+        "conditions":"1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0",
         "desc":"MST_EXTRAPASSIVESKILL_810558_DESCRIPTION",
         "effects":[
             {
@@ -20547,6 +20613,10 @@
             {
                 "params":"10",
                 "passive id":"111"
+            },
+            {
+                "dmg% for spark":120,
+                "passive id":"31"
             },
             {
                 "params":"112,-20,-1,20,1",
@@ -23413,6 +23483,45 @@
         "id":"820900",
         "name":"MST_EXTRAPASSIVESKILL_820900_NAME",
         "rarity":7
+    },
+    "820938":{
+        "conditions":"2#4,820940%6,2%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0",
+        "desc":"MST_EXTRAPASSIVESKILL_820938_DESCRIPTION",
+        "effects":[
+            {
+                "crit dmg%":25,
+                "passive id":"34"
+            },
+            {
+                "atk% buff":25,
+                "def% buff":25,
+                "hp% buff":25,
+                "passive id":"2",
+                "rec% buff":25
+            },
+            {
+                "bc fill when attacked chance%":100,
+                "bc fill when attacked high":2,
+                "bc fill when attacked low":1,
+                "passive id":"25"
+            },
+            {
+                "base crit chance resist%":100,
+                "base crit dmg resist%":100,
+                "base elemental damage resist%":100,
+                "buffed crit chance resist%":100,
+                "buffed crit dmg resist%":100,
+                "buffed elemental damage resist%":100,
+                "passive id":"53"
+            },
+            {
+                "crit dmg%":100,
+                "passive id":"34"
+            }
+        ],
+        "id":"820938",
+        "name":"MST_EXTRAPASSIVESKILL_820938_NAME",
+        "rarity":8
     },
     "8300":{
         "conditions":"1#0,0%0,0%0,0@1#0,0%0,0%0,0@1#0,0%0,0%0,0@1#0,0%0,0%0,0",

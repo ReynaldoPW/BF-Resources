@@ -49794,6 +49794,48 @@
         "EFFECT_AREA*":"2"
     },
     {
+        "1NijIP2a":"140",
+        "BATTLE_EFFECT_FILE":"820938BattleEffectGroundCrack.sam",
+        "BATTLE_EFFECT_ID":"9400158",
+        "EFFECT_AREA*":"3"
+    },
+    {
+        "1NijIP2a":"150",
+        "BATTLE_EFFECT_FILE":"effect_prt_1165_blue.plist",
+        "BATTLE_EFFECT_ID":"9400159",
+        "EFFECT_AREA*":"2"
+    },
+    {
+        "1NijIP2a":"120",
+        "BATTLE_EFFECT_FILE":"effect_prt_1128_blue.plist",
+        "BATTLE_EFFECT_ID":"9400160",
+        "EFFECT_AREA*":"2"
+    },
+    {
+        "1NijIP2a":"180",
+        "BATTLE_EFFECT_FILE":"effect_prt_1128_blue.plist",
+        "BATTLE_EFFECT_ID":"9400161",
+        "EFFECT_AREA*":"2"
+    },
+    {
+        "1NijIP2a":"120",
+        "BATTLE_EFFECT_FILE":"effect_prt_104_2_2.plist",
+        "BATTLE_EFFECT_ID":"9400162",
+        "EFFECT_AREA*":"2"
+    },
+    {
+        "1NijIP2a":"180",
+        "BATTLE_EFFECT_FILE":"effect_prt_522_2.plist",
+        "BATTLE_EFFECT_ID":"9400163",
+        "EFFECT_AREA*":"2"
+    },
+    {
+        "1NijIP2a":"180",
+        "BATTLE_EFFECT_FILE":"effect_prt_161_2.plist",
+        "BATTLE_EFFECT_ID":"9400164",
+        "EFFECT_AREA*":"2"
+    },
+    {
         "1NijIP2a":"120",
         "BATTLE_EFFECT_FILE":"effect_prt_142_1_purple.plist",
         "BATTLE_EFFECT_ID":"9500027",

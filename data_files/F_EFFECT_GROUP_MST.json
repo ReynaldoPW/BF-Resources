@@ -81030,6 +81030,60 @@
         "xW6TKu9G":"0:bf206_se_fire1.mp3,15:bf222_se_dark2.mp3"
     },
     {
+        "0UwMg18F":"9400229",
+        "5qBCQ1PJ":"BF2hilda8s_GroundCrack",
+        "eyUo6a8c":"0:9400158:2:2:2:-80:65",
+        "xW6TKu9G":"0:bf206_se_fire1.mp3"
+    },
+    {
+        "0UwMg18F":"9400230",
+        "5qBCQ1PJ":"BF2hilda8s_Aura",
+        "eyUo6a8c":"0:9400159:2:2:2:0:40",
+        "xW6TKu9G":""
+    },
+    {
+        "0UwMg18F":"9400231",
+        "5qBCQ1PJ":"BF2hilda8s_Cyclone",
+        "eyUo6a8c":"0:9400160:2:2:2:-85:10",
+        "xW6TKu9G":"0:bf212_se_tree1.mp3"
+    },
+    {
+        "0UwMg18F":"9400232",
+        "5qBCQ1PJ":"BF2hilda8s_CycloneL",
+        "eyUo6a8c":"0:9400161:2:2:2:-85:10",
+        "xW6TKu9G":"0:bf213_se_tree2.mp3"
+    },
+    {
+        "0UwMg18F":"9400233",
+        "5qBCQ1PJ":"BF2hilda8s_Ice",
+        "eyUo6a8c":"0:9400162:2:2:2:-80:30,16:9400162:2:2:2:-80:30,28:9400162:2:2:2:-80:30",
+        "xW6TKu9G":"0:bf209_se_water1.mp3"
+    },
+    {
+        "0UwMg18F":"9400234",
+        "5qBCQ1PJ":"BF2hilda8s_Impact",
+        "eyUo6a8c":"0:600040:2:2:2:-80:50",
+        "xW6TKu9G":"0:bf210_se_water2.mp3"
+    },
+    {
+        "0UwMg18F":"9400235",
+        "5qBCQ1PJ":"BF2hilda8s_Star",
+        "eyUo6a8c":"0:9400163:2:2:2:-80:50",
+        "xW6TKu9G":""
+    },
+    {
+        "0UwMg18F":"9400236",
+        "5qBCQ1PJ":"BF2hilda8s_Burst",
+        "eyUo6a8c":"0:9400164:2:2:2:-80:50",
+        "xW6TKu9G":""
+    },
+    {
+        "0UwMg18F":"9400237",
+        "5qBCQ1PJ":"BF2hilda8s_normalatk",
+        "eyUo6a8c":"0:9400160:1:2:2:0:0,0:9400162:1:2:2:0:0,0:600040:1:2:2:0:0",
+        "xW6TKu9G":"0:bf202_se_slash2.mp3,5:bf210_se_water2.mp3,15:bf210_se_water2.mp3"
+    },
+    {
         "0UwMg18F":"9500038",
         "5qBCQ1PJ":"Roy8s_NormalAtk",
         "eyUo6a8c":"0:1760:1:2:2:0:0,0:100010:1:2:2:0:0,0:9500027:1:2:2:0:0",
