@@ -58142,6 +58142,41 @@
         "EFFECT_AREA*":"2"
     },
     {
+        "1NijIP2a":"100",
+        "BATTLE_EFFECT_FILE":"effect_prt_1011_purple.plist",
+        "BATTLE_EFFECT_ID":"9400165",
+        "BATTLE_EFFECT_NAME":"BF2Rene8s_Hit",
+        "EFFECT_AREA*":"2"
+    },
+    {
+        "1NijIP2a":"110",
+        "BATTLE_EFFECT_FILE":"effect_prt_104_2_2.plist",
+        "BATTLE_EFFECT_ID":"9400166",
+        "BATTLE_EFFECT_NAME":"BF2Rene8s_Ice",
+        "EFFECT_AREA*":"2"
+    },
+    {
+        "1NijIP2a":"160",
+        "BATTLE_EFFECT_FILE":"effect_prt_104_2_2.plist",
+        "BATTLE_EFFECT_ID":"9400167",
+        "BATTLE_EFFECT_NAME":"BF2Rene8s_IceUBB",
+        "EFFECT_AREA*":"2"
+    },
+    {
+        "1NijIP2a":"210",
+        "BATTLE_EFFECT_FILE":"effect_prt_161_2.plist",
+        "BATTLE_EFFECT_ID":"9400168",
+        "BATTLE_EFFECT_NAME":"BF2Rene8s_HitBurst",
+        "EFFECT_AREA*":"2"
+    },
+    {
+        "1NijIP2a":"120",
+        "BATTLE_EFFECT_FILE":"effect_prt_1236.plist",
+        "BATTLE_EFFECT_ID":"9400169",
+        "BATTLE_EFFECT_NAME":"BF2Rene8s_IceBG",
+        "EFFECT_AREA*":"2"
+    },
+    {
         "1NijIP2a":"120",
         "BATTLE_EFFECT_FILE":"effect_prt_142_1_purple.plist",
         "BATTLE_EFFECT_ID":"9500027",
@@ -58203,6 +58238,55 @@
         "BATTLE_EFFECT_ID":"9500035",
         "BATTLE_EFFECT_NAME":"TRIGUNWolfwood7s_Hit",
         "EFFECT_AREA*":"2"
+    },
+    {
+        "1NijIP2a":"120",
+        "BATTLE_EFFECT_FILE":"effect_prt_60107.plist",
+        "BATTLE_EFFECT_ID":"9500049",
+        "BATTLE_EFFECT_NAME":"SunCe_VertBurst",
+        "EFFECT_AREA*":"2"
+    },
+    {
+        "1NijIP2a":"120",
+        "BATTLE_EFFECT_FILE":"effect_prt_60102.plist",
+        "BATTLE_EFFECT_ID":"9500050",
+        "BATTLE_EFFECT_NAME":"SunCe_HorBurst",
+        "EFFECT_AREA*":"2"
+    },
+    {
+        "1NijIP2a":"170",
+        "BATTLE_EFFECT_FILE":"effect_prt_1129.plist",
+        "BATTLE_EFFECT_ID":"9500051",
+        "BATTLE_EFFECT_NAME":"SunCe_Blast",
+        "EFFECT_AREA*":"2"
+    },
+    {
+        "1NijIP2a":"75",
+        "BATTLE_EFFECT_FILE":"effect_prt_1129.plist",
+        "BATTLE_EFFECT_ID":"9500052",
+        "BATTLE_EFFECT_NAME":"SunCe_BlastSmall",
+        "EFFECT_AREA*":"2"
+    },
+    {
+        "1NijIP2a":"90",
+        "BATTLE_EFFECT_FILE":"30001BattleEffectSlash1wholeRed.sam",
+        "BATTLE_EFFECT_ID":"9500053",
+        "BATTLE_EFFECT_NAME":"SunCe_VertSlash",
+        "EFFECT_AREA*":"3"
+    },
+    {
+        "1NijIP2a":"130",
+        "BATTLE_EFFECT_FILE":"30001BattleEffectSlash2wholeRed.sam",
+        "BATTLE_EFFECT_ID":"9500054",
+        "BATTLE_EFFECT_NAME":"SunCe_HorSlash",
+        "EFFECT_AREA*":"3"
+    },
+    {
+        "1NijIP2a":"300",
+        "BATTLE_EFFECT_FILE":"10302BattleEffectFlareRedAdd.sam",
+        "BATTLE_EFFECT_ID":"9500055",
+        "BATTLE_EFFECT_NAME":"SunCe_Flare",
+        "EFFECT_AREA*":"4"
     },
     {
         "1NijIP2a":"25",

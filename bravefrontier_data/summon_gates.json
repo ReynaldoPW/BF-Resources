@@ -9347,14 +9347,14 @@
         "summon button image":"gacha_rare_summons_btn1.png"
     },
     "15850":{
-        "background image":"gacha_img_20200401L_4G.png",
-        "desc":"From 11 Dec 0:00 PST onwards, summon 7* units from Kulyuk to Ewan and Regil to Roglizer Batch at the cost of 4 Gems!",
+        "background image":"gacha_img_20200401L_3G.png",
+        "desc":"From 29 Jul 0:00 PST to 18 Dec 0:00 PST, summon 7* units from Kulyuk to Ewan and Regil to Roglizer Batch at the discounted cost of 3 Gems!",
         "door image":"gacha_rare_door.png",
         "end time":"2022-11-28 14:59:59",
-        "gem cost":4,
+        "gem cost":3,
         "name":"Legacy Summon",
         "priority":"2",
-        "short desc":"Summon 7* units from Kulyuk to Ewan Batch! SUMMON NOW!",
+        "short desc":"Summon 7* units from Kulyuk to Ewan and Regil to Roglizer Batch! SUMMON AT 3 GEMS ONLY FOR A LIMITED TIME!",
         "start time":"2018-11-29 08:00:00",
         "summon button image":"gacha_rare_summons_btn1.png"
     },
@@ -13400,6 +13400,30 @@
         "priority":"2",
         "short desc":"Serin, Ophiuchus and Rhyne are available through the Summon Gate!",
         "start time":"2020-07-22 15:00:00",
+        "summon button image":"gacha_rare_summons_btn1.png"
+    },
+    "19240":{
+        "background image":"gacha_img_20200729R_s1.png",
+        "desc":"From 29 Jul 7:00 PST ~ 12 Aug 6:59 PST, summon minimum 5* Global exclusive units with Omni Potential and enjoy Increased Rates with each summon on Rene up to the 8th Summon!",
+        "door image":"gacha_rare_door.png",
+        "end time":"2020-08-12 14:59:59",
+        "gem cost":5,
+        "name":"Heroes Across Time",
+        "priority":"2",
+        "short desc":"Rene is available through the Summon Gate! Get a Global Exclusive Elgif for every 10 Summons from the same gate!",
+        "start time":"2020-07-29 15:00:00",
+        "summon button image":"gacha_rare_summons_btn1.png"
+    },
+    "19250":{
+        "background image":"gacha_img_20200729HD_s1.png",
+        "desc":"From 29 Jul 7:00 PST ~ 5 Aug 6:59 PST, summon minimum 5* Regil to Roglizer and Global exclusive units with Omni Potential, and stand a chance to summon Sun Tse! Collect your free daily Heroes Daily Ticket and summon now!",
+        "door image":"gacha_rare_door.png",
+        "end time":"2020-08-22 14:59:59",
+        "gem cost":5,
+        "name":"Heroes Daily Summon",
+        "priority":"2",
+        "short desc":"Sun Tse is available through the Summon Gate! Collect your free daily Heroes Daily Ticket and summon now!",
+        "start time":"2020-07-29 15:00:00",
         "summon button image":"gacha_rare_summons_btn1.png"
     }
 }

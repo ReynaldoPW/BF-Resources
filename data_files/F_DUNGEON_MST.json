@@ -5168,7 +5168,7 @@
         "sYsa10a3":""
     },
     {
-        "0u1nvMeS":"10040",
+        "0u1nvMeS":"99",
         "21VKZo0E":"sp_quest_banner_101100.png",
         "3hPeI1RV":"0",
         "9C64Qwe0":"99",
@@ -5187,7 +5187,7 @@
         "sYsa10a3":""
     },
     {
-        "0u1nvMeS":"10050",
+        "0u1nvMeS":"99",
         "21VKZo0E":"sp_quest_banner_101200.png",
         "3hPeI1RV":"0",
         "9C64Qwe0":"99",
@@ -5263,7 +5263,7 @@
         "sYsa10a3":""
     },
     {
-        "0u1nvMeS":"10090",
+        "0u1nvMeS":"99",
         "21VKZo0E":"sp_quest_banner_goddess1.png",
         "3hPeI1RV":"0",
         "9C64Qwe0":"99",
@@ -5282,7 +5282,7 @@
         "sYsa10a3":""
     },
     {
-        "0u1nvMeS":"10100",
+        "0u1nvMeS":"99",
         "21VKZo0E":"sp_quest_banner_goddess2.png",
         "3hPeI1RV":"0",
         "9C64Qwe0":"99",
@@ -12383,6 +12383,44 @@
         "VjCY7rX4":"20001001",
         "XuJL4pc5":"1",
         "bWsLFP96":"Daily Tan",
+        "np4K1xtq":"",
+        "qp37xTDh":"",
+        "sYsa10a3":""
+    },
+    {
+        "0u1nvMeS":"200002013",
+        "21VKZo0E":"sp_quest_banner_BFH2020_1.png",
+        "3hPeI1RV":"0",
+        "9C64Qwe0":"99",
+        "HSRhkf70":"0",
+        "L8iA9M6c":"dungeon_battle_81049.jpg",
+        "M2cv6dum":"",
+        "M6C1aXfR":"300",
+        "MHx05sXt":"20001201",
+        "N4XVE1uA":"0,0",
+        "SnNtTh51":"300",
+        "VjCY7rX4":"20001200",
+        "XuJL4pc5":"1",
+        "bWsLFP96":"Brave Frontier Heroes",
+        "np4K1xtq":"",
+        "qp37xTDh":"",
+        "sYsa10a3":""
+    },
+    {
+        "0u1nvMeS":"99",
+        "21VKZo0E":"sp_quest_banner_20001200.png",
+        "3hPeI1RV":"0",
+        "9C64Qwe0":"99",
+        "HSRhkf70":"0",
+        "L8iA9M6c":"dungeon_battle_2000000.jpg",
+        "M2cv6dum":"",
+        "M6C1aXfR":"300",
+        "MHx05sXt":"20001300",
+        "N4XVE1uA":"0,0",
+        "SnNtTh51":"300",
+        "VjCY7rX4":"20001300",
+        "XuJL4pc5":"1",
+        "bWsLFP96":"Chilling Beauties",
         "np4K1xtq":"",
         "qp37xTDh":"",
         "sYsa10a3":""

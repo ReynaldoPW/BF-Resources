@@ -6972,6 +6972,10 @@
         "UNIT_ID":"810908"
     },
     {
+        "PROCESS_ID":"1:unit_idle_cgs_810918.csv|2:unit_move_cgs_810918.csv|3:unit_atk_cgs_810918.csv|4:unit_atk_cgs_810918.csv",
+        "UNIT_ID":"810918"
+    },
+    {
         "PROCESS_ID":"1:unit_anime_811016.sam|2:unit_anime_811016.sam|3:unit_anime_811016.sam|4:unit_anime_811016.sam",
         "UNIT_ID":"811016"
     },
@@ -7366,6 +7370,10 @@
     {
         "PROCESS_ID":"1:unit_idle_cgs_820938.csv|2:unit_move_cgs_820938.csv|3:unit_atk_cgs_820938.csv|4:unit_atk_cgs_820938.csv",
         "UNIT_ID":"820938"
+    },
+    {
+        "PROCESS_ID":"1:unit_idle_cgs_820948.csv|2:unit_move_cgs_820948.csv|3:unit_atk_cgs_820948.csv|4:unit_atk_cgs_820948.csv",
+        "UNIT_ID":"820948"
     },
     {
         "PROCESS_ID":"1:unit_idle_cgs_830003.csv|2:unit_move_cgs_830003.csv|3:unit_atk_cgs_830003.csv|4:unit_atk_cgs_830003.csv",

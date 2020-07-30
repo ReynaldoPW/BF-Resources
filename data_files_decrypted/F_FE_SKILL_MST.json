@@ -23378,10 +23378,87 @@
         "DESCRIPTION":"",
         "EFFECT_AREA*":"1",
         "LEVEL":"2",
-        "PROC/PASSIVE_ID(S)":"143",
-        "PROC/PASSIVE_PARAMETERS":"220000",
+        "PROC/PASSIVE_ID(S)":"1",
+        "PROC/PASSIVE_PARAMETERS":"80,80,80,0,80",
+        "SP_ID":"1010700109",
+        "SP_NAME":"80% boost to all parameters",
+        "SP_NEED_BP":"10",
+        "SP_SERIES":"1010700109"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
+        "LEVEL":"5",
+        "PROC/PASSIVE_ID(S)":"66",
+        "PROC/PASSIVE_PARAMETERS":"24,4&40&40&0&3&0,1,2,0,1,1,0",
+        "SP_ID":"1010700110",
+        "SP_NAME":"Add to BB\\/SBB (Boosts Atk, Def relative to max HP for 3 turns)",
+        "SP_NEED_BP":"25",
+        "SP_SERIES":"1010700110"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
+        "LEVEL":"5",
+        "PROC/PASSIVE_ID(S)":"66",
+        "PROC/PASSIVE_PARAMETERS":"10017,1&6000&6000&3&0,1,2,0,1,1,0",
+        "SP_ID":"1010700111",
+        "SP_NAME":"Add to BB\\/SBB (Adds Fire shield [6000 HP, 6000 Def] for 3 turns)",
+        "SP_NEED_BP":"25",
+        "SP_SERIES":"1010700111"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1@1",
+        "LEVEL":"5",
+        "PROC/PASSIVE_ID(S)":"66@66",
+        "PROC/PASSIVE_PARAMETERS":"10022,30&2&0,100,2,0,1,1,0@10023,30&2&0,100,2,0,1,1,0",
+        "SP_ID":"1010700112",
+        "SP_NAME":"Add to BB\\/SBB (2 turns passive healing and HC effectiveness reduction [30%] infliction (PvP modes only))",
+        "SP_NEED_BP":"25",
+        "SP_SERIES":"1010700112"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
+        "LEVEL":"5",
+        "PROC/PASSIVE_ID(S)":"66",
+        "PROC/PASSIVE_PARAMETERS":"23,250&0&0&0&0&0&3&0,1,2,0,0,1,0",
+        "SP_ID":"1010700113",
+        "SP_NAME":"Add to SBB (Boosts spark damage [250%] for 3 turns)",
+        "SP_NEED_BP":"25",
+        "SP_SERIES":"1010700113"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1@1",
+        "LEVEL":"5",
+        "PROC/PASSIVE_ID(S)":"66@66",
+        "PROC/PASSIVE_PARAMETERS":"92,0&35&0,3,1,0,1,0,0@8,0&55&0,1,2,0,0,0,1",
+        "SP_ID":"1010700114",
+        "SP_NAME":"Add to BB (Boosts own max HP [35%] ), UBB (Boosts max HP [55%] )",
+        "SP_NEED_BP":"25",
+        "SP_SERIES":"1010700114"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1@1",
+        "LEVEL":"5",
+        "PROC/PASSIVE_ID(S)":"66@66",
+        "PROC/PASSIVE_PARAMETERS":"56,20&1&999,1,2,0,1,0,0@56,80&1&999,1,2,0,0,0,1",
+        "SP_ID":"1010700115",
+        "SP_NAME":"Add to BB (Probable [20%] 1 KO resistance), UBB (Probable [80%] 1 KO resistance)",
+        "SP_NEED_BP":"25",
+        "SP_SERIES":"1010700115"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
+        "LEVEL":"2",
+        "PROC/PASSIVE_ID(S)":"4",
+        "PROC/PASSIVE_PARAMETERS":"100,100,100,100,100,100",
         "SP_ID":"1010700116",
-        "SP_NAME":"Raises Atk parameter limits to 220k",
+        "SP_NAME":"Negates all status ailments",
         "SP_NEED_BP":"10",
         "SP_SERIES":"1010700116"
     },
@@ -23406,6 +23483,17 @@
         "SP_NAME":"Add to SBB (Probable 2 turns critical and elemental vulnerability infliction)",
         "SP_NEED_BP":"25",
         "SP_SERIES":"1010700118"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
+        "LEVEL":"2",
+        "PROC/PASSIVE_ID(S)":"4",
+        "PROC/PASSIVE_PARAMETERS":"100,100,100,100,100,100",
+        "SP_ID":"1010700119",
+        "SP_NAME":"Negates all status ailments",
+        "SP_NEED_BP":"10",
+        "SP_SERIES":"1010700116"
     },
     {
         "DESCRIPTION":"",
@@ -24143,6 +24231,94 @@
         "SP_NAME":"Add to BB (boosts max HP [25%]), UBB (boosts max HP [50%])",
         "SP_NEED_BP":"20",
         "SP_SERIES":"1011000029"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"2@2@2",
+        "LEVEL":"4",
+        "PROC/PASSIVE_ID(S)":"53@17@73",
+        "PROC/PASSIVE_PARAMETERS":"0,0,0,0,0,0,2,0@0,0,0,0,0,0,2,0@0,0,0,2,0",
+        "SP_ID":"1011000030",
+        "SP_NAME":"Allows BB buff effects to last for 5 turns",
+        "SP_NEED_BP":"20",
+        "SP_SERIES":"1011000030"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"2@4",
+        "LEVEL":"4",
+        "PROC/PASSIVE_ID(S)":"62@62",
+        "PROC/PASSIVE_PARAMETERS":"0,1000,0,0,0@0,10000,0,0,0",
+        "SP_ID":"1011000031",
+        "SP_NAME":"Enhances BB\\/UBB's barrier effect [+1000 HP (BB), +10000 HP (UBB)]",
+        "SP_NEED_BP":"20",
+        "SP_SERIES":"1011000031"
+    },
+    {
+        "DESCRIPTION":"\uff33\uff22\uff22\u53ca\u3073\uff35\uff22\uff22\u306e\u300c\u653b\u6483\uff22\uff22\u306e\u5a01\u529b\u3092\u30a2\u30c3\u30d7\u300d\u52b9\u679c\u91cf\u3092\u5897\u52a0",
+        "EFFECT_AREA*":"3@4",
+        "LEVEL":"4",
+        "PROC/PASSIVE_ID(S)":"45@45",
+        "PROC/PASSIVE_PARAMETERS":"100,100,100,0,0@100,100,100,0,0",
+        "SP_ID":"1011000032",
+        "SP_NAME":"Enhances SBB\\/UBB's BB Atk boost effect [+100%]",
+        "SP_NEED_BP":"20",
+        "SP_SERIES":"1011000032"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"3@4",
+        "LEVEL":"4",
+        "PROC/PASSIVE_ID(S)":"65@65",
+        "PROC/PASSIVE_PARAMETERS":"50,0,0@50,0,0",
+        "SP_ID":"1011000033",
+        "SP_NAME":"Enhances SBB\\/UBB's damage boost against status afflicted foes effect [+50%]",
+        "SP_NEED_BP":"20",
+        "SP_SERIES":"1011000033"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
+        "LEVEL":"4",
+        "PROC/PASSIVE_ID(S)":"66",
+        "PROC/PASSIVE_PARAMETERS":"4,0&100,3,1,0,0,1,0",
+        "SP_ID":"1011000034",
+        "SP_NAME":"Add to SBB(Fills own BB gauge to max)",
+        "SP_NEED_BP":"20",
+        "SP_SERIES":"1011000034"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"3",
+        "LEVEL":"4",
+        "PROC/PASSIVE_ID(S)":"24",
+        "PROC/PASSIVE_PARAMETERS":"0,10,10,10,0,0",
+        "SP_ID":"1011000035",
+        "SP_NAME":"Enhances SBB's boosts Atk, Def, Rec relative to HP effect [+10%]",
+        "SP_NEED_BP":"10",
+        "SP_SERIES":"1011000035"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
+        "LEVEL":"2",
+        "PROC/PASSIVE_ID(S)":"66",
+        "PROC/PASSIVE_PARAMETERS":"62,2&6000&0&100&0,1,2,0,0,1,0",
+        "SP_ID":"1011000036",
+        "SP_NAME":"Add to SBB (adds Water barrier [6000HP])",
+        "SP_NEED_BP":"10",
+        "SP_SERIES":"1011000036"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
+        "LEVEL":"6",
+        "PROC/PASSIVE_ID(S)":"66",
+        "PROC/PASSIVE_PARAMETERS":"93,100&100&100&100&0&0&2&0,1,2,0,1,1,0",
+        "SP_ID":"1011000037",
+        "SP_NAME":"Add to BB\\/SBB (100% critical and elemental damage reduction for 2 turns)",
+        "SP_NEED_BP":"30",
+        "SP_SERIES":"1011000037"
     },
     {
         "DESCRIPTION":"",

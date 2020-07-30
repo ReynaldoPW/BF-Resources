@@ -10737,6 +10737,15 @@
         "SP_CAT_ID":"100013"
     },
     {
+        "DESCRIPTION":"A record of your battle against the Demonlord sisters, Hilda and Rene.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"5",
+        "SCENARIO_ID":"10001305",
+        "SCENARIO_NAME":" Chilling Beauties",
+        "SCENARIO_TEXT_FILE":"BF2_05_HildaRene.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"100013"
+    },
+    {
         "DESCRIPTION":"Shadows oft follow in the wake of a demigod's decline.",
         "QUEST_MAP_NUMBER/GUIDE_ID":"1",
         "SCENARIO_ID":"10001601",

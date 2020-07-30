@@ -2831,7 +2831,7 @@
         "ZEL":"120000"
     },
     {
-        "DESCRIPTION":" ",
+        "DESCRIPTION":"Summoners, take note! We've received several new reports regarding the appearance of another colossal Revenant, and this one's come straight from a sailor's worst nightmare. With the churning sea and stone-splitting lightning at its command, you'd do well to avoid being dragged under. Good luck and come back safe!",
         "IMAGE":"raid_room_quest_flame_green.png",
         "KARMA":"15000",
         "KR6JacN8":"4",
@@ -2839,7 +2839,7 @@
         "MAP_OPENING_TEXT_FILE":"0,0",
         "MISSION_ID":"87124",
         "MISSION_IDS_REQUIRED":"0",
-        "MISSION_NAME":"Dichroma Shadow",
+        "MISSION_NAME":"Dichroma Havoc",
         "MISSION_TEXT":"<color=242:215:145>Target<\\/color>      Dichroma Shadow",
         "QUEST_BANNER_IMAGE":"raid_room_shadow_boss_2010",
         "RAID_CLEAR_REWARDS?":"1:11",

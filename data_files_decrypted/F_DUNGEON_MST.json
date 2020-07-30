@@ -4896,7 +4896,7 @@
         "THUMBNAIL":""
     },
     {
-        "0u1nvMeS":"10040",
+        "0u1nvMeS":"99",
         "3hPeI1RV":"0",
         "DESCRIPTION":"MST_DUNGEONS_DUNGEON_101100_DESCRIPTION",
         "DUNGEON_ID":"101100",
@@ -4914,7 +4914,7 @@
         "THUMBNAIL":""
     },
     {
-        "0u1nvMeS":"10050",
+        "0u1nvMeS":"99",
         "3hPeI1RV":"0",
         "DESCRIPTION":"MST_DUNGEONS_DUNGEON_101200_DESCRIPTION",
         "DUNGEON_ID":"101200",
@@ -4986,7 +4986,7 @@
         "THUMBNAIL":""
     },
     {
-        "0u1nvMeS":"10090",
+        "0u1nvMeS":"99",
         "3hPeI1RV":"0",
         "DESCRIPTION":"MST_DUNGEONS_DUNGEON_101500_DESCRIPTION",
         "DUNGEON_ID":"101500",
@@ -5004,7 +5004,7 @@
         "THUMBNAIL":""
     },
     {
-        "0u1nvMeS":"10100",
+        "0u1nvMeS":"99",
         "3hPeI1RV":"0",
         "DESCRIPTION":"MST_DUNGEONS_DUNGEON_101600_DESCRIPTION",
         "DUNGEON_ID":"101600",
@@ -11730,6 +11730,42 @@
         "MISSION_IDS_REQUIRED":"0",
         "QUEST_ALWAYS_EMPTY":"",
         "QUEST_BANNER_IMAGE":"sp_quest_banner_20001001.png",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"1",
+        "QUEST_ZONE_MAP_NUMBER":"99",
+        "SnNtTh51":"300",
+        "THUMBNAIL":""
+    },
+    {
+        "0u1nvMeS":"200002013",
+        "3hPeI1RV":"0",
+        "DESCRIPTION":"",
+        "DUNGEON_ID":"20001201",
+        "DUNGEON_IMAGE":"dungeon_battle_81049.jpg",
+        "DUNGEON_NAME":"Brave Frontier Heroes",
+        "M6C1aXfR":"300",
+        "MAP_OPENING_TEXT_FILE":"0,0",
+        "MISSION_AREA":"20001200",
+        "MISSION_IDS_REQUIRED":"0",
+        "QUEST_ALWAYS_EMPTY":"",
+        "QUEST_BANNER_IMAGE":"sp_quest_banner_BFH2020_1.png",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"1",
+        "QUEST_ZONE_MAP_NUMBER":"99",
+        "SnNtTh51":"300",
+        "THUMBNAIL":""
+    },
+    {
+        "0u1nvMeS":"99",
+        "3hPeI1RV":"0",
+        "DESCRIPTION":"",
+        "DUNGEON_ID":"20001300",
+        "DUNGEON_IMAGE":"dungeon_battle_2000000.jpg",
+        "DUNGEON_NAME":"Chilling Beauties",
+        "M6C1aXfR":"300",
+        "MAP_OPENING_TEXT_FILE":"0,0",
+        "MISSION_AREA":"20001300",
+        "MISSION_IDS_REQUIRED":"0",
+        "QUEST_ALWAYS_EMPTY":"",
+        "QUEST_BANNER_IMAGE":"sp_quest_banner_20001200.png",
         "QUEST_MAP_NUMBER/GUIDE_ID":"1",
         "QUEST_ZONE_MAP_NUMBER":"99",
         "SnNtTh51":"300",
