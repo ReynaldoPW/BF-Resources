@@ -35852,6 +35852,7 @@
         "effects":[
             {
                 "atk% buff":200,
+                "crit% buff":30,
                 "def% buff":140,
                 "hp% buff":140,
                 "passive id":"2"

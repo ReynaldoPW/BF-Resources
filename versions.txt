@@ -284,7 +284,7 @@
         "moWQ30GH":"F_ACHIEVEMENT_SUBJECT_MST"
     },
     {
-        "d2RFtP8T":"398",
+        "d2RFtP8T":"399",
         "moWQ30GH":"F_ACHIEVEMENT_TRADE_MST"
     },
     {
@@ -308,15 +308,15 @@
         "moWQ30GH":"F_COLOSSEUM_SUPPORT_MST"
     },
     {
-        "d2RFtP8T":"405",
+        "d2RFtP8T":"406",
         "moWQ30GH":"F_UNIT_FE_CATEGORY_MST"
     },
     {
-        "d2RFtP8T":"458",
+        "d2RFtP8T":"459",
         "moWQ30GH":"F_UNIT_FE_SKILL_MST"
     },
     {
-        "d2RFtP8T":"477",
+        "d2RFtP8T":"478",
         "moWQ30GH":"F_FE_SKILL_MST"
     },
     {
@@ -492,7 +492,7 @@
         "moWQ30GH":"F_EFFECT_GROUP_MST"
     },
     {
-        "d2RFtP8T":"622",
+        "d2RFtP8T":"623",
         "moWQ30GH":"F_LEADER_SKILL_MST"
     },
     {

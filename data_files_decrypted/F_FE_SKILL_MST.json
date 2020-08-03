@@ -23455,10 +23455,10 @@
         "DESCRIPTION":"",
         "EFFECT_AREA*":"1",
         "LEVEL":"2",
-        "PROC/PASSIVE_ID(S)":"4",
-        "PROC/PASSIVE_PARAMETERS":"100,100,100,100,100,100",
+        "PROC/PASSIVE_ID(S)":"143",
+        "PROC/PASSIVE_PARAMETERS":"220000",
         "SP_ID":"1010700116",
-        "SP_NAME":"Negates all status ailments",
+        "SP_NAME":"Raises Atk parameter limits to 220k",
         "SP_NEED_BP":"10",
         "SP_SERIES":"1010700116"
     },
