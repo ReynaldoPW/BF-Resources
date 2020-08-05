@@ -5022,7 +5022,7 @@
         "THUMBNAIL":""
     },
     {
-        "0u1nvMeS":"10110",
+        "0u1nvMeS":"99",
         "3hPeI1RV":"0",
         "DESCRIPTION":"MST_DUNGEONS_DUNGEON_101700_DESCRIPTION",
         "DUNGEON_ID":"101700",
@@ -5040,7 +5040,7 @@
         "THUMBNAIL":""
     },
     {
-        "0u1nvMeS":"10120",
+        "0u1nvMeS":"99",
         "3hPeI1RV":"0",
         "DESCRIPTION":"MST_DUNGEONS_DUNGEON_101800_DESCRIPTION",
         "DUNGEON_ID":"101800",
@@ -5058,7 +5058,7 @@
         "THUMBNAIL":""
     },
     {
-        "0u1nvMeS":"10130",
+        "0u1nvMeS":"99",
         "3hPeI1RV":"0",
         "DESCRIPTION":"MST_DUNGEONS_DUNGEON_101900_DESCRIPTION",
         "DUNGEON_ID":"101900",
@@ -5076,7 +5076,7 @@
         "THUMBNAIL":""
     },
     {
-        "0u1nvMeS":"10140",
+        "0u1nvMeS":"99",
         "3hPeI1RV":"0",
         "DESCRIPTION":"MST_DUNGEONS_DUNGEON_102000_DESCRIPTION",
         "DUNGEON_ID":"102000",
@@ -10838,7 +10838,7 @@
     {
         "0u1nvMeS":"99",
         "3hPeI1RV":"4",
-        "DESCRIPTION":"A stranger in a strange land that you should know, but don't.",
+        "DESCRIPTION":"Giselle finds the Summoner, and more than she bargained for.",
         "DUNGEON_ID":"5008011",
         "DUNGEON_IMAGE":"dungeon_battle_10100.jpg",
         "DUNGEON_NAME":"Liminal End",

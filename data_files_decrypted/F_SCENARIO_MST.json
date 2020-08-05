@@ -8973,6 +8973,42 @@
         "SP_CAT_ID":"85007"
     },
     {
+        "DESCRIPTION":"Crossing the straits of overlapping dimensions lands Giselle right back in court...with a new attendee.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"24",
+        "SCENARIO_ID":"87123",
+        "SCENARIO_NAME":"There and Back Again",
+        "SCENARIO_TEXT_FILE":"X7_Arc3_Ep2_1.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"85007"
+    },
+    {
+        "DESCRIPTION":"Forcing yourself to be someone else you're not--even if you were, a long time ago--only ends in disappointment and grief.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"25",
+        "SCENARIO_ID":"87124",
+        "SCENARIO_NAME":"Call to Arms",
+        "SCENARIO_TEXT_FILE":"X7_Arc3_Ep2_2.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"85007"
+    },
+    {
+        "DESCRIPTION":"Ever has Man sought purpose in existence; and ever has Man struggled, For even purpose to be futile is the ultimate terror.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"26",
+        "SCENARIO_ID":"87125",
+        "SCENARIO_NAME":"Uneasy Minds",
+        "SCENARIO_TEXT_FILE":"X7_Arc3_Ep2_3A.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"85007"
+    },
+    {
+        "DESCRIPTION":"To imagine creatures with such disparate goals to belong on one side of this great conflict... Can such things be?",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"27",
+        "SCENARIO_ID":"87126",
+        "SCENARIO_NAME":"The Unravelling",
+        "SCENARIO_TEXT_FILE":"X7_Arc3_Ep2_3B.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"85007"
+    },
+    {
         "DESCRIPTION":"Welcome to an odd sort of theater - your audience awaits you with bated breath. Don't die.",
         "QUEST_MAP_NUMBER/GUIDE_ID":"97",
         "SCENARIO_ID":"88400",

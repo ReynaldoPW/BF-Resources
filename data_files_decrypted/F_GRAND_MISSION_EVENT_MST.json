@@ -6822,6 +6822,42 @@
         "Wmr4xDa8":"87020"
     },
     {
+        "29MgiJIQ":"1",
+        "AI_PRIORITY":"7",
+        "MISSION_ID":"5008011",
+        "QUEST_FLAG_REQUIREMENTS":"501,87001,0",
+        "REWARD_ITEM_ID":"14",
+        "TRIGGERED_QUEST_TEXT_AND_FLAG_SET":"501,87001,1@501,87105,1",
+        "Wmr4xDa8":"87021"
+    },
+    {
+        "29MgiJIQ":"1",
+        "AI_PRIORITY":"6",
+        "MISSION_ID":"5008011",
+        "QUEST_FLAG_REQUIREMENTS":"501,87105,1:501,87229,0",
+        "REWARD_ITEM_ID":"14",
+        "TRIGGERED_QUEST_TEXT_AND_FLAG_SET":"501,87229,1@1,X7_Arc3_Ep2_1.txt@4,8713,1,0",
+        "Wmr4xDa8":"87022"
+    },
+    {
+        "29MgiJIQ":"1",
+        "AI_PRIORITY":"7",
+        "MISSION_ID":"5008011",
+        "QUEST_FLAG_REQUIREMENTS":"501,87105,1:501,87228,0",
+        "REWARD_ITEM_ID":"13",
+        "TRIGGERED_QUEST_TEXT_AND_FLAG_SET":"501,87228,1@1,X7_Arc3_Ep2_2.txt@4,8714,1,0",
+        "Wmr4xDa8":"87023"
+    },
+    {
+        "29MgiJIQ":"1",
+        "AI_PRIORITY":"7",
+        "MISSION_ID":"5008011",
+        "QUEST_FLAG_REQUIREMENTS":"501,87105,1:501,87230,0",
+        "REWARD_ITEM_ID":"15",
+        "TRIGGERED_QUEST_TEXT_AND_FLAG_SET":"501,87230,1@1,X7_Arc3_Ep2_3A.txt@4,8715,1,0@1,X7_Arc3_Ep2_3B.txt@501,87000,1@500,8705,1",
+        "Wmr4xDa8":"87024"
+    },
+    {
         "29MgiJIQ":"3",
         "AI_PRIORITY":"10",
         "MISSION_ID":"5008011",
@@ -6901,6 +6937,33 @@
         "REWARD_ITEM_ID":"8712",
         "TRIGGERED_QUEST_TEXT_AND_FLAG_SET":"501,87220,1@204,",
         "Wmr4xDa8":"87508"
+    },
+    {
+        "29MgiJIQ":"3",
+        "AI_PRIORITY":"10",
+        "MISSION_ID":"5008011",
+        "QUEST_FLAG_REQUIREMENTS":"206,2,1,88500626:501,87221,0",
+        "REWARD_ITEM_ID":"8713",
+        "TRIGGERED_QUEST_TEXT_AND_FLAG_SET":"501,87221,1@204,",
+        "Wmr4xDa8":"87509"
+    },
+    {
+        "29MgiJIQ":"3",
+        "AI_PRIORITY":"10",
+        "MISSION_ID":"5008011",
+        "QUEST_FLAG_REQUIREMENTS":"206,2,1,88500626:501,87222,0",
+        "REWARD_ITEM_ID":"8715",
+        "TRIGGERED_QUEST_TEXT_AND_FLAG_SET":"501,87222,1@204,",
+        "Wmr4xDa8":"87510"
+    },
+    {
+        "29MgiJIQ":"3",
+        "AI_PRIORITY":"10",
+        "MISSION_ID":"5008011",
+        "QUEST_FLAG_REQUIREMENTS":"501,87223,0:200,0,0",
+        "REWARD_ITEM_ID":"8715",
+        "TRIGGERED_QUEST_TEXT_AND_FLAG_SET":"501,87223,1@203,8500464",
+        "Wmr4xDa8":"87511"
     },
     {
         "29MgiJIQ":"3",

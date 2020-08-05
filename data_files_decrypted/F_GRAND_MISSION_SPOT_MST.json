@@ -3706,6 +3706,32 @@
     },
     {
         "0se8qAz1":"1",
+        "??SOME_SORT_OF_MISSION_IDS_LIST??":"2:114800,0:114801",
+        "DUNGEON_IMAGE":"dungeon_battle_81061.jpg",
+        "FLAGS_TRIGGERED?":"",
+        "IMAGE":"",
+        "LOCATIONS_NAME":"Silt Valley",
+        "LOCATIONS_NUMBER":"14",
+        "M6C1aXfR":"1400",
+        "MISSION_ID":"5008011",
+        "MISSION_SOUNDTRACK":"",
+        "SnNtTh51":"1200"
+    },
+    {
+        "0se8qAz1":"1",
+        "??SOME_SORT_OF_MISSION_IDS_LIST??":"2:93800,0:115200",
+        "DUNGEON_IMAGE":"dungeon_battle_81062.jpg",
+        "FLAGS_TRIGGERED?":"",
+        "IMAGE":"",
+        "LOCATIONS_NAME":"The Howling Bleak",
+        "LOCATIONS_NUMBER":"15",
+        "M6C1aXfR":"1400",
+        "MISSION_ID":"5008011",
+        "MISSION_SOUNDTRACK":"",
+        "SnNtTh51":"820"
+    },
+    {
+        "0se8qAz1":"1",
         "??SOME_SORT_OF_MISSION_IDS_LIST??":"3:50300,1:50301,0:50302",
         "DUNGEON_IMAGE":"dungeon_battle_50300.jpg",
         "FLAGS_TRIGGERED?":"",

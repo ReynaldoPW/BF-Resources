@@ -34230,6 +34230,40 @@
         "id":"850900",
         "name":"MST_LEADERSKILLS_850900_NAME"
     },
+    "850918":{
+        "desc":"MST_LEADERSKILLS_850918_DESCRIPTION",
+        "effects":[
+            {
+                "atk% buff":100,
+                "def% buff":100,
+                "hp% buff":100,
+                "passive id":"1",
+                "rec% buff":100
+            },
+            {
+                "miti%":15,
+                "passive id":"8"
+            },
+            {
+                "params":"0,1,25,25,0",
+                "passive id":"69"
+            },
+            {
+                "bc drop rate% buff":40,
+                "hc drop rate% buff":40,
+                "item drop rate% buff":5,
+                "karma drop rate% buff":30,
+                "passive id":"19",
+                "zel drop rate% buff":20
+            },
+            {
+                "params":"100,100,100,100,100,100,100,100,100",
+                "passive id":"73"
+            }
+        ],
+        "id":"850918",
+        "name":"MST_LEADERSKILLS_850918_NAME"
+    },
     "850977":{
         "desc":"MST_LEADERSKILLS_850977_DESCRIPTION",
         "effects":[

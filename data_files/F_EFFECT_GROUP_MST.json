@@ -81588,6 +81588,54 @@
         "xW6TKu9G":"0:bf213_se_tree2.mp3"
     },
     {
+        "0UwMg18F":"9500075",
+        "5qBCQ1PJ":"BFHNightingale8s_Dim",
+        "eyUo6a8c":"0:600443:2:2:2:0:0",
+        "xW6TKu9G":"0:bf221_se_dark1.mp3"
+    },
+    {
+        "0UwMg18F":"9500076",
+        "5qBCQ1PJ":"BFHNightingale8s_Explosion",
+        "eyUo6a8c":"0:600040:2:2:2:-80:55",
+        "xW6TKu9G":"0:bf204_se_shot2.mp3,16:bf204_se_shot2.mp3,42:bf204_se_shot2.mp3"
+    },
+    {
+        "0UwMg18F":"9500077",
+        "5qBCQ1PJ":"BFHNightingale8s_BurstPurple",
+        "eyUo6a8c":"0:9500036:2:2:2:-80:45,16:9500036:2:2:2:-80:45,42:9500036:2:2:2:-80:45",
+        "xW6TKu9G":"0:bf221_se_dark1.mp3,16:bf221_se_dark1.mp3,42:bf221_se_dark1.mp3"
+    },
+    {
+        "0UwMg18F":"9500078",
+        "5qBCQ1PJ":"BFHNightingale8s_BurstGreen",
+        "eyUo6a8c":"0:9500037:2:2:2:-80:45",
+        "xW6TKu9G":"0:bf215_se_thunder1.mp3"
+    },
+    {
+        "0UwMg18F":"9500079",
+        "5qBCQ1PJ":"BFHNightingale8s_Star",
+        "eyUo6a8c":"0:9500038:2:2:2:-80:45",
+        "xW6TKu9G":"0:bf218_se_saint1.mp3"
+    },
+    {
+        "0UwMg18F":"9500080",
+        "5qBCQ1PJ":"BFHNightingale8s_StarOrb",
+        "eyUo6a8c":"0:9500039:2:2:2:-80:45",
+        "xW6TKu9G":"1:bf225_se_buff.mp3"
+    },
+    {
+        "0UwMg18F":"9500081",
+        "5qBCQ1PJ":"BFHNightingale8s_Blast",
+        "eyUo6a8c":"0:9500040:2:2:2:-80:45",
+        "xW6TKu9G":"0:bf222_se_dark2.mp3"
+    },
+    {
+        "0UwMg18F":"9500082",
+        "5qBCQ1PJ":"BFHNightingale8s_ExplosionUBB",
+        "eyUo6a8c":"0:9500041:2:2:2:-80:45",
+        "xW6TKu9G":"0:bf205_se_critical.mp3"
+    },
+    {
         "0UwMg18F":"9500092",
         "5qBCQ1PJ":"SunCe_VertBurst",
         "eyUo6a8c":"0:9500049:2:2:2:-60:50",
@@ -81730,6 +81778,12 @@
         "5qBCQ1PJ":"SunCe_BlastSmall_Normal ATK",
         "eyUo6a8c":"0:9500052:1:2:2:0:0",
         "xW6TKu9G":"0:bf207_se_fire2.mp3"
+    },
+    {
+        "0UwMg18F":"9500127",
+        "5qBCQ1PJ":"Nightingale_NomrakATK",
+        "eyUo6a8c":"34:600040:1:2:2:0:20,34:9500036:1:2:2:0:20,76:9500037:1:2:2:0:20",
+        "xW6TKu9G":"34:bf204_se_shot2.mp3,50:bf204_se_shot2.mp3,76:bf204_se_shot2.mp3,34:bf221_se_dark1.mp3,50:bf221_se_dark1.mp3,76:bf221_se_dark1.mp3,76:bf215_se_thunder1.mp3"
     },
     {
         "0UwMg18F":"9500129",

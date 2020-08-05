@@ -23859,6 +23859,50 @@
         "yRlCNyvk":"Add to SBB (Boosts Fire elemental damage [225%] for 3 turns)"
     },
     {
+        "2Smu5Mtq":"9,0&1&-60&40&2&-60&40&2&0,2,2,0,1,1,0",
+        "9PsmH7tz":"1010800068",
+        "D9wXQI2V":"3",
+        "G5wFDad6":"25",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010800068",
+        "yRlCNyvk":"Add to BB\\/SBB (Probable [40%] 2 turns Atk, Def reduction [60%] infliction)"
+    },
+    {
+        "2Smu5Mtq":"65,200&3&0,1,2,0,1,1,0",
+        "9PsmH7tz":"1010800069",
+        "D9wXQI2V":"4",
+        "G5wFDad6":"20",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010800069",
+        "yRlCNyvk":"Add to BB\\/SBB (Boosts damage against status afflicted foes [200%] for 3 turns)"
+    },
+    {
+        "2Smu5Mtq":"38,1&2&3&4&5&6&7&8&9,1,2,0,1,1,0",
+        "9PsmH7tz":"1010800070",
+        "D9wXQI2V":"3",
+        "G5wFDad6":"25",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010800070",
+        "yRlCNyvk":"Add to BB\\/SBB (Removes all status ailments and Atk, Def, Rec reduction)"
+    },
+    {
+        "2Smu5Mtq":"24,4&70&70&0&3&0,1,2,0,0,1,0",
+        "9PsmH7tz":"1010800071",
+        "D9wXQI2V":"4",
+        "G5wFDad6":"20",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010800071",
+        "yRlCNyvk":"Add to SBB (Boosts Atk, Def relative to max HP [70%] for 3 turns)"
+    },
+    {
         "2Smu5Mtq":"100,100,100,100,100,100,100,100,100",
         "9PsmH7tz":"1010900001",
         "D9wXQI2V":"3",
@@ -26070,7 +26114,7 @@
         "yRlCNyvk":"Adds enormous boost to BB Atk for 3 turns effect to SBB"
     },
     {
-        "2Smu5Mtq":"17,100&100&100&100&100&100&3&90,1,2,0,0,1,0@38,1&2&3&4&5&6&0&0&0,1,2,0,0,1,0",
+        "2Smu5Mtq":"17,100&100&100&100&100&100&3&90,1,2,0,0,1,0@38,1&2&3&4&5&6&7&8&9,1,2,0,0,1,0",
         "9PsmH7tz":"1100000232",
         "D9wXQI2V":"4",
         "G5wFDad6":"30",
