@@ -754,5 +754,12 @@
         "SCENARIO_SUPERSECTION*":"70000",
         "SP_CAT_ID":"100017",
         "SP_CAT_NAME":"Adventure across Worlds"
+    },
+    {
+        "DESCRIPTION":"Some memories are better left untouched in the hazy darkness of a mind bent on ancestral vengeance.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"31",
+        "SCENARIO_SUPERSECTION*":"70000",
+        "SP_CAT_ID":"100018",
+        "SP_CAT_NAME":"Red Moon Rising"
     }
 ]

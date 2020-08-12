@@ -13418,12 +13418,72 @@
         "background image":"gacha_img_20200729HD_s1.png",
         "desc":"From 29 Jul 7:00 PST ~ 5 Aug 6:59 PST, summon minimum 5* Regil to Roglizer and Global exclusive units with Omni Potential, and stand a chance to summon Sun Tse! Collect your free daily Heroes Daily Ticket and summon now!",
         "door image":"gacha_rare_door.png",
-        "end time":"2020-08-22 14:59:59",
+        "end time":"2020-08-05 14:57:59",
         "gem cost":5,
         "name":"Heroes Daily Summon",
         "priority":"2",
         "short desc":"Sun Tse is available through the Summon Gate! Collect your free daily Heroes Daily Ticket and summon now!",
         "start time":"2020-07-29 15:00:00",
+        "summon button image":"gacha_rare_summons_btn1.png"
+    },
+    "19260":{
+        "background image":"gacha_img_20200805DU_s1.png",
+        "desc":"From 5 Aug 7:00 PST ~ 12 Aug 6:59 PST, summon minimum 5* Global exclusive units with Omni Potential and enjoy Increased Rates with each summon on Azius and Avyn!",
+        "door image":"gacha_rare_door.png",
+        "end time":"2020-08-12 14:59:59",
+        "gem cost":5,
+        "name":"Destiny Unite Summon",
+        "priority":"2",
+        "short desc":"Azius and Avyn is are available through the Summon Gate! Get a Fire & Light DBB Mystery Chest for every 7 Summons from the same gate!",
+        "start time":"2020-08-05 15:00:00",
+        "summon button image":"gacha_rare_summons_btn1.png"
+    },
+    "19270":{
+        "background image":"gacha_img_20200401NTS_s1.png",
+        "desc":"From 5 Aug 7:00 PST ~ 19 Aug 6:59 PST, summon minimum 5* Global exclusive units with Omni Potential and enjoy Increased Rates are applied on Set, Inoko and Charlie!",
+        "door image":"gacha_rare_door.png",
+        "end time":"2020-08-19 14:59:59",
+        "gem cost":5,
+        "name":"Triple Strike Summon",
+        "priority":"2",
+        "short desc":"Set, Inoko and Charlie are available through the Summon Gate!",
+        "start time":"2020-08-05 15:00:00",
+        "summon button image":"gacha_rare_summons_btn1.png"
+    },
+    "19280":{
+        "background image":"gacha_img_20200805HD_s1.png",
+        "desc":"From 5 Aug 7:00 PST ~ 12 Aug 6:59 PST, summon minimum 5* Regil to Roglizer and Global exclusive units with Omni Potential, and stand a chance to summon Sun Ce and Florence Nightingale! Collect your free daily Heroes Daily Ticket and summon now!",
+        "door image":"gacha_rare_door.png",
+        "end time":"2020-08-12 14:59:59",
+        "gem cost":5,
+        "name":"Heroes Daily Summon",
+        "priority":"2",
+        "short desc":"Sun Ce and Florence Nightingale are available through the Summon Gate! Collect your free daily Heroes Daily Ticket and summon now!",
+        "start time":"2020-08-05 15:00:00",
+        "summon button image":"gacha_rare_summons_btn1.png"
+    },
+    "19290":{
+        "background image":"gacha_img_20200812HD_s1.png",
+        "desc":"From 12 Aug 7:00 PST ~ 22 Aug 6:59 PST, summon minimum 5* Regil to Roglizer and Global exclusive units with Omni Potential, and stand a chance to summon Sun Ce,  Florence Nightingale and D'Artagnan! Collect your free daily Heroes Daily Ticket and summon now!",
+        "door image":"gacha_rare_door.png",
+        "end time":"2020-08-22 14:59:59",
+        "gem cost":5,
+        "name":"Heroes Daily Summon",
+        "priority":"2",
+        "short desc":"Sun Ce, Florence Nightingale and D'Artagnan are available through the Summon Gate! Collect your free daily Heroes Daily Ticket and summon now!",
+        "start time":"2020-08-13 15:00:00",
+        "summon button image":"gacha_rare_summons_btn1.png"
+    },
+    "19300":{
+        "background image":"gacha_img_20200406SB_s1.png",
+        "desc":"From 12 Aug 07:00 PST ~ 26 Aug 6:59 PST, summon minimum 5* Global exclusive units with Omni Potential and enjoy Increased Rates are applied on Ulagan, Kassia and Utheria!",
+        "door image":"gacha_rare_door.png",
+        "end time":"2020-08-26 14:59:59",
+        "gem cost":5,
+        "name":"Second Burst Summon",
+        "priority":"2",
+        "short desc":"Ulagan, Kassia and Utheria are available through the Summon Gate!",
+        "start time":"2020-08-12 15:00:00",
         "summon button image":"gacha_rare_summons_btn1.png"
     }
 }

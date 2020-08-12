@@ -1,5 +1,20 @@
 [
     {
+        "DESCRIPTION":"",
+        "IMAGE":"",
+        "MAP_OPENING_TEXT_FILE":-1,
+        "MISSION_AREA":"0",
+        "MISSION_IDS_REQUIRED":"0",
+        "QUEST_ALWAYS_EMPTY":"",
+        "QUEST_BANNER_IMG":"",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"0",
+        "QUEST_ZONE_MAP_NUMBER":"0",
+        "QUEST_ZONE_NAME":"",
+        "UNKNOWN_BOOLEAN_QUESTS":"0",
+        "gq73WFmj":-1,
+        "sHMai2ZG":-1
+    },
+    {
         "DESCRIPTION":"\u76ee\u899a\u3081\u305f\u5730\u306b\u5f85\u3064\u8a66\u7df4",
         "IMAGE":"area_0001.jpg",
         "MAP_OPENING_TEXT_FILE":"0",
@@ -1137,7 +1152,7 @@
         "QUEST_ZONE_NAME":"Great Fire of Hope",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
         "gq73WFmj":"",
-        "sHMai2ZG":"0"
+        "sHMai2ZG":"100002"
     },
     {
         "DESCRIPTION":"\u66dc\u65e5\u3084\u6642\u9650\u3067\u30c0\u30f3\u30b8\u30e7\u30f3\u304c\u767b\u5834\u3059\u308b\u30a8\u30ea\u30a2",
@@ -1152,7 +1167,7 @@
         "QUEST_ZONE_NAME":"Swift Blue Silence",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
         "gq73WFmj":"",
-        "sHMai2ZG":"0"
+        "sHMai2ZG":"100002"
     },
     {
         "DESCRIPTION":"\u66dc\u65e5\u3084\u6642\u9650\u3067\u30c0\u30f3\u30b8\u30e7\u30f3\u304c\u767b\u5834\u3059\u308b\u30a8\u30ea\u30a2",
@@ -1167,7 +1182,7 @@
         "QUEST_ZONE_NAME":"Dark Green Wisdom",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
         "gq73WFmj":"",
-        "sHMai2ZG":"0"
+        "sHMai2ZG":"100002"
     },
     {
         "DESCRIPTION":"\u66dc\u65e5\u3084\u6642\u9650\u3067\u30c0\u30f3\u30b8\u30e7\u30f3\u304c\u767b\u5834\u3059\u308b\u30a8\u30ea\u30a2",
@@ -1182,7 +1197,7 @@
         "QUEST_ZONE_NAME":"Golden Purpose",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
         "gq73WFmj":"",
-        "sHMai2ZG":"0"
+        "sHMai2ZG":"100002"
     },
     {
         "DESCRIPTION":"\u66dc\u65e5\u3084\u6642\u9650\u3067\u30c0\u30f3\u30b8\u30e7\u30f3\u304c\u767b\u5834\u3059\u308b\u30a8\u30ea\u30a2",
@@ -3881,6 +3896,36 @@
         "QUEST_ZONE_MAP_NUMBER":"99",
         "QUEST_ZONE_NAME":"Chilling Beauties",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
+        "gq73WFmj":"",
+        "sHMai2ZG":"0"
+    },
+    {
+        "DESCRIPTION":"SP Dungeon",
+        "IMAGE":"area_sp.jpg",
+        "MAP_OPENING_TEXT_FILE":"0",
+        "MISSION_AREA":"25520001",
+        "MISSION_IDS_REQUIRED":"0",
+        "QUEST_ALWAYS_EMPTY":"",
+        "QUEST_BANNER_IMG":"sp_quest_banner_20001400.png",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"202000812",
+        "QUEST_ZONE_MAP_NUMBER":"99",
+        "QUEST_ZONE_NAME":"Autumn 2020",
+        "UNKNOWN_BOOLEAN_QUESTS":"1",
+        "gq73WFmj":"",
+        "sHMai2ZG":"0"
+    },
+    {
+        "DESCRIPTION":"SP Dungeon",
+        "IMAGE":"area_sp.jpg",
+        "MAP_OPENING_TEXT_FILE":"0",
+        "MISSION_AREA":"25520002",
+        "MISSION_IDS_REQUIRED":"0",
+        "QUEST_ALWAYS_EMPTY":"",
+        "QUEST_BANNER_IMG":"sp_quest_banner_20001401.png",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"202000813",
+        "QUEST_ZONE_MAP_NUMBER":"99",
+        "QUEST_ZONE_NAME":"Autumn 2020 Daily",
+        "UNKNOWN_BOOLEAN_QUESTS":"10",
         "gq73WFmj":"",
         "sHMai2ZG":"0"
     },

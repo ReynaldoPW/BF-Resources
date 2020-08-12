@@ -21461,6 +21461,33 @@
         "name":"MST_EXTRAPASSIVESKILL_810918_NAME",
         "rarity":8
     },
+    "810928":{
+        "conditions":"1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0",
+        "desc":"MST_EXTRAPASSIVESKILL_810928_DESCRIPTION",
+        "effects":[
+            {
+                "crit dmg%":20,
+                "passive id":"34"
+            },
+            {
+                "atk% extra buff based on hp":100,
+                "buff proportional to hp":"remaining",
+                "def% extra buff based on hp":100,
+                "passive id":"46"
+            },
+            {
+                "passive id":"48",
+                "reduced bc cost%":25
+            },
+            {
+                "params":"0,2,40,40,0",
+                "passive id":"69"
+            }
+        ],
+        "id":"810928",
+        "name":"MST_EXTRAPASSIVESKILL_810928_NAME",
+        "rarity":7
+    },
     "811017":{
         "conditions":"1#0,0%0,0%0,0@1#0,0%0,0%0,0@1#0,0%0,0%0,0@1#0,0%0,0%0,0",
         "desc":"MST_EXTRAPASSIVESKILL_811017_DESCRIPTION",
@@ -25557,6 +25584,31 @@
         "name":"MST_EXTRAPASSIVESKILL_830900_NAME",
         "rarity":7
     },
+    "830918":{
+        "conditions":"1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0",
+        "desc":"MST_EXTRAPASSIVESKILL_830918_DESCRIPTION",
+        "effects":[
+            {
+                "atk% extra buff based on hp":100,
+                "buff proportional to hp":"remaining",
+                "passive id":"46"
+            },
+            {
+                "passive id":"43",
+                "take 1 dmg%":10
+            },
+            {
+                "passive id":"55"
+            },
+            {
+                "extra hits":2,
+                "passive id":"37"
+            }
+        ],
+        "id":"830918",
+        "name":"MST_EXTRAPASSIVESKILL_830918_NAME",
+        "rarity":7
+    },
     "8400":{
         "conditions":"1#0,0%0,0%0,0@1#0,0%0,0%0,0@1#0,0%0,0%0,0@1#0,0%0,0%0,0",
         "desc":"MST_EXTRAPASSIVESKILL_8400_DESCRIPTION",
@@ -29249,6 +29301,45 @@
         "id":"850918",
         "name":"MST_EXTRAPASSIVESKILL_850918_NAME",
         "rarity":7
+    },
+    "850928":{
+        "conditions":"1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0",
+        "desc":"MST_EXTRAPASSIVESKILL_850928_DESCRIPTION",
+        "effects":[
+            {
+                "elemental weakness dmg%":20,
+                "elements":[
+                    "light"
+                ],
+                "passive id":"50"
+            },
+            {
+                "passive id":"49",
+                "reduced bc used chance%":100,
+                "reduced bc used% high":20,
+                "reduced bc used% low":10
+            },
+            {
+                "bc fill per turn":10,
+                "passive id":"9"
+            },
+            {
+                "passive id":"33",
+                "rec% added":360.0,
+                "turn heal high":3500,
+                "turn heal low":3500
+            },
+            {
+                "atk% buff":60,
+                "bb gauge above% requirement":50,
+                "def% buff":60,
+                "passive id":"30",
+                "rec% buff":60
+            }
+        ],
+        "id":"850928",
+        "name":"MST_EXTRAPASSIVESKILL_850928_NAME",
+        "rarity":8
     },
     "850977":{
         "conditions":"1#0,0%0,0%0,0@1#0,0%0,0%0,0@1#0,0%0,0%0,0@1#0,0%0,0%0,0@1#0,0%0,0%0,0@1#0,0%0,0%0,0",

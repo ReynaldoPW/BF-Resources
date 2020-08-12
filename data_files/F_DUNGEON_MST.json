@@ -5624,7 +5624,7 @@
         "sYsa10a3":""
     },
     {
-        "0u1nvMeS":"10250",
+        "0u1nvMeS":"99",
         "21VKZo0E":"sp_quest_banner_2_1.png",
         "3hPeI1RV":"0",
         "9C64Qwe0":"99",
@@ -5643,7 +5643,7 @@
         "sYsa10a3":""
     },
     {
-        "0u1nvMeS":"10260",
+        "0u1nvMeS":"99",
         "21VKZo0E":"sp_quest_banner_2_2.png",
         "3hPeI1RV":"0",
         "9C64Qwe0":"99",
@@ -5662,7 +5662,7 @@
         "sYsa10a3":""
     },
     {
-        "0u1nvMeS":"10270",
+        "0u1nvMeS":"99",
         "21VKZo0E":"sp_quest_banner_2_3.png",
         "3hPeI1RV":"0",
         "9C64Qwe0":"99",
@@ -5681,7 +5681,7 @@
         "sYsa10a3":""
     },
     {
-        "0u1nvMeS":"10280",
+        "0u1nvMeS":"99",
         "21VKZo0E":"sp_quest_banner_2_4.png",
         "3hPeI1RV":"0",
         "9C64Qwe0":"99",
@@ -7543,7 +7543,7 @@
         "sYsa10a3":""
     },
     {
-        "0u1nvMeS":"0",
+        "0u1nvMeS":"800132",
         "21VKZo0E":"sp_quest_banner_800132.png",
         "3hPeI1RV":"0",
         "9C64Qwe0":"99",
@@ -10564,6 +10564,25 @@
         "sYsa10a3":""
     },
     {
+        "0u1nvMeS":"100000",
+        "21VKZo0E":"sp_quest_banner_challenge.png",
+        "3hPeI1RV":"1",
+        "9C64Qwe0":"99",
+        "HSRhkf70":"0",
+        "L8iA9M6c":"dungeon_battle_1000000.jpg",
+        "M2cv6dum":"",
+        "M6C1aXfR":"300",
+        "MHx05sXt":"1007800",
+        "N4XVE1uA":"0,0",
+        "SnNtTh51":"300",
+        "VjCY7rX4":"1000010",
+        "XuJL4pc5":"1",
+        "bWsLFP96":"FH_78",
+        "np4K1xtq":"",
+        "qp37xTDh":"",
+        "sYsa10a3":""
+    },
+    {
         "0u1nvMeS":"1",
         "21VKZo0E":"kaoringo_icon.png",
         "3hPeI1RV":"2",
@@ -12421,6 +12440,82 @@
         "VjCY7rX4":"20001300",
         "XuJL4pc5":"1",
         "bWsLFP96":"Chilling Beauties",
+        "np4K1xtq":"",
+        "qp37xTDh":"",
+        "sYsa10a3":""
+    },
+    {
+        "0u1nvMeS":"200002016",
+        "21VKZo0E":"sp_quest_banner_20001400_1.png",
+        "3hPeI1RV":"0",
+        "9C64Qwe0":"99",
+        "HSRhkf70":"0",
+        "L8iA9M6c":"dungeon_battle_81030.jpg",
+        "M2cv6dum":"",
+        "M6C1aXfR":"300",
+        "MHx05sXt":"25520001",
+        "N4XVE1uA":"0,0",
+        "SnNtTh51":"300",
+        "VjCY7rX4":"25520001",
+        "XuJL4pc5":"1",
+        "bWsLFP96":"Night Scavenger",
+        "np4K1xtq":"",
+        "qp37xTDh":"",
+        "sYsa10a3":""
+    },
+    {
+        "0u1nvMeS":"200002016",
+        "21VKZo0E":"sp_quest_banner_20001400_2.png",
+        "3hPeI1RV":"0",
+        "9C64Qwe0":"99",
+        "HSRhkf70":"0",
+        "L8iA9M6c":"dungeon_battle_8300106.jpg",
+        "M2cv6dum":"",
+        "M6C1aXfR":"300",
+        "MHx05sXt":"25520002",
+        "N4XVE1uA":"0,0",
+        "SnNtTh51":"300",
+        "VjCY7rX4":"25520001",
+        "XuJL4pc5":"1",
+        "bWsLFP96":"A Howl to Remember",
+        "np4K1xtq":"",
+        "qp37xTDh":"",
+        "sYsa10a3":""
+    },
+    {
+        "0u1nvMeS":"200002017",
+        "21VKZo0E":"sp_quest_banner_20001400_3.png",
+        "3hPeI1RV":"0",
+        "9C64Qwe0":"99",
+        "HSRhkf70":"0",
+        "L8iA9M6c":"dungeon_battle_80133.jpg",
+        "M2cv6dum":"",
+        "M6C1aXfR":"300",
+        "MHx05sXt":"25520003",
+        "N4XVE1uA":"0,0",
+        "SnNtTh51":"300",
+        "VjCY7rX4":"25520001",
+        "XuJL4pc5":"1",
+        "bWsLFP96":"Kinsblood",
+        "np4K1xtq":"",
+        "qp37xTDh":"",
+        "sYsa10a3":""
+    },
+    {
+        "0u1nvMeS":"1",
+        "21VKZo0E":"sp_quest_banner_20001401.png",
+        "3hPeI1RV":"0",
+        "9C64Qwe0":"99",
+        "HSRhkf70":"0",
+        "L8iA9M6c":"dungeon_battle_30300.jpg",
+        "M2cv6dum":"",
+        "M6C1aXfR":"300",
+        "MHx05sXt":"25520004",
+        "N4XVE1uA":"0,0",
+        "SnNtTh51":"300",
+        "VjCY7rX4":"25520002",
+        "XuJL4pc5":"1",
+        "bWsLFP96":"Good Hunting",
         "np4K1xtq":"",
         "qp37xTDh":"",
         "sYsa10a3":""

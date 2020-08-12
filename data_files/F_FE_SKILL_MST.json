@@ -23496,6 +23496,39 @@
         "yRlCNyvk":"Negates all status ailments"
     },
     {
+        "2Smu5Mtq":"47,200&500&0&200&0&0&0&0,2,2,1,0,1,0",
+        "9PsmH7tz":"1010700124",
+        "D9wXQI2V":"4",
+        "G5wFDad6":"20",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010700124",
+        "yRlCNyvk":"Add to SBB (25 combo Light attack on all foes (damage relative to remaining HP))"
+    },
+    {
+        "2Smu5Mtq":"113,0&0&1000&3&0,1,2,0,1,1,0",
+        "9PsmH7tz":"1010700125",
+        "D9wXQI2V":"3",
+        "G5wFDad6":"15",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010700125",
+        "yRlCNyvk":"Add to BB\\/SBB (Fills OD gauge at turn's end for 3 turns)"
+    },
+    {
+        "2Smu5Mtq":"0,0,0,1,0@0,0,0,0,0,0,0,1,0@0,0,0,1,0@0,0,0,0,0,0,1,0",
+        "9PsmH7tz":"1010700126",
+        "D9wXQI2V":"3",
+        "G5wFDad6":"15",
+        "hjAy9St3":"3@55@67@88",
+        "jeR2rN3V":"4@4@4@4",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010700126",
+        "yRlCNyvk":"Allows UBB's effects to last additional 1 turn"
+    },
+    {
         "2Smu5Mtq":"0,130,0,0,130",
         "9PsmH7tz":"1010800029",
         "D9wXQI2V":"4",
@@ -23901,6 +23934,94 @@
         "qp37xTDh":"",
         "ri6D9yBi":"1010800071",
         "yRlCNyvk":"Add to SBB (Boosts Atk, Def relative to max HP [70%] for 3 turns)"
+    },
+    {
+        "2Smu5Mtq":"800,1000,100",
+        "9PsmH7tz":"1010800072",
+        "D9wXQI2V":"4",
+        "G5wFDad6":"15",
+        "hjAy9St3":"65",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010800072",
+        "yRlCNyvk":"Critical damage fills BB gauge [8-10 BC]"
+    },
+    {
+        "2Smu5Mtq":"8,5000,-1,100,1",
+        "9PsmH7tz":"1010800073",
+        "D9wXQI2V":"5",
+        "G5wFDad6":"20",
+        "hjAy9St3":"89",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010800073",
+        "yRlCNyvk":"Critical damage restores HP [5000 HP] for 1 turn"
+    },
+    {
+        "2Smu5Mtq":"1,0,20,0,0,0,0,0,0",
+        "9PsmH7tz":"1010800074",
+        "D9wXQI2V":"5",
+        "G5wFDad6":"25",
+        "hjAy9St3":"26",
+        "jeR2rN3V":"2",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010800074",
+        "yRlCNyvk":"Enhances BB's raises normal hit amount effect [+1 to each hit, +20% damage]"
+    },
+    {
+        "2Smu5Mtq":"92,0&20&0,3,1,0,1,0,0",
+        "9PsmH7tz":"1010800075",
+        "D9wXQI2V":"4",
+        "G5wFDad6":"25",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010800075",
+        "yRlCNyvk":"Add to BB (Boosts own max HP [20%])"
+    },
+    {
+        "2Smu5Mtq":"132,15&15&100&100&2&0,2,2,0,0,1,0",
+        "9PsmH7tz":"1010800076",
+        "D9wXQI2V":"4",
+        "G5wFDad6":"20",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010800076",
+        "yRlCNyvk":"Add to SBB (2 turns critical and elemental vulnerability [15%] infliction)"
+    },
+    {
+        "2Smu5Mtq":"9,0&1&-60&40&2&-60&40&2&0,2,2,0,0,1,0",
+        "9PsmH7tz":"1010800077",
+        "D9wXQI2V":"4",
+        "G5wFDad6":"25",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010800077",
+        "yRlCNyvk":"Add to SBB (Probable [40%] 2 turns Atk, Def reduction [60%] infliction)"
+    },
+    {
+        "2Smu5Mtq":"67,300&400&100&3&0,1,2,0,0,1,0",
+        "9PsmH7tz":"1010800078",
+        "D9wXQI2V":"4",
+        "G5wFDad6":"25",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010800078",
+        "yRlCNyvk":"Add to SBB (Spark damage fills BB gauge [3-4 BC] for 3 turns)"
+    },
+    {
+        "2Smu5Mtq":"1000,1200,100",
+        "9PsmH7tz":"1010800079",
+        "D9wXQI2V":"4",
+        "G5wFDad6":"15",
+        "hjAy9St3":"65",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010800079",
+        "yRlCNyvk":"Critical damage fills BB gauge [10-12 BC]"
     },
     {
         "2Smu5Mtq":"100,100,100,100,100,100,100,100,100",

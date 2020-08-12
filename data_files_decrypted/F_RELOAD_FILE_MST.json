@@ -2122,5 +2122,9 @@
     {
         "RELOAD_FILES":"layout_friend_filter.csv,layout_unit_filter.csv",
         "RELOAD_ID":"3103"
+    },
+    {
+        "RELOAD_FILES":"layout_menu_option.csv",
+        "RELOAD_ID":"3104"
     }
 ]

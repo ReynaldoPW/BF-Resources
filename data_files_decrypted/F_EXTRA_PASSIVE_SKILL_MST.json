@@ -8062,6 +8062,19 @@
     {
         "AI_PRIORITY":"0",
         "CONTRIBUTIONS_TYPE":"1",
+        "DESCRIPTION":"MST_EXTRAPASSIVESKILL_810928_DESCRIPTION",
+        "ES_ID":"810928",
+        "ES_PARAMETERS":"1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0",
+        "FILE_NAME":"0",
+        "NAME":"",
+        "PROC/PASSIVE_ID(S)":"34,2@46,1@48,1@69,1",
+        "PROC/PASSIVE_PARAMETERS":"0.2@0,100,0,100,0,0,0@25@0,2,40,40,0",
+        "RARITY":"7",
+        "outas79f":"0"
+    },
+    {
+        "AI_PRIORITY":"0",
+        "CONTRIBUTIONS_TYPE":"1",
         "DESCRIPTION":"MST_EXTRAPASSIVESKILL_811017_DESCRIPTION",
         "ES_ID":"811017",
         "ES_PARAMETERS":"1#0,0%0,0%0,0@1#0,0%0,0%0,0@1#0,0%0,0%0,0@1#0,0%0,0%0,0",
@@ -9908,6 +9921,19 @@
     {
         "AI_PRIORITY":"0",
         "CONTRIBUTIONS_TYPE":"1",
+        "DESCRIPTION":"MST_EXTRAPASSIVESKILL_830918_DESCRIPTION",
+        "ES_ID":"830918",
+        "ES_PARAMETERS":"1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0",
+        "FILE_NAME":"0",
+        "NAME":"",
+        "PROC/PASSIVE_ID(S)":"46,1@43,1@55,1@37,1",
+        "PROC/PASSIVE_PARAMETERS":"0,100,0,0,0,0,0@10@12,100,1,35,2,-1@2,3,0,0,0,0,0,100",
+        "RARITY":"7",
+        "outas79f":"0"
+    },
+    {
+        "AI_PRIORITY":"0",
+        "CONTRIBUTIONS_TYPE":"1",
         "DESCRIPTION":"MST_EXTRAPASSIVESKILL_840047_DESCRIPTION",
         "ES_ID":"840047",
         "ES_PARAMETERS":"1#0,0%0,0%0,0@1#0,0%0,0%0,0@1#0,0%0,0%0,0@1#0,0%0,0%0,0@1#0,0%0,0%0,0@1#0,0%0,0%0,0",
@@ -11710,6 +11736,19 @@
         "PROC/PASSIVE_ID(S)":"1,1@9,1@69,1@73,1",
         "PROC/PASSIVE_PARAMETERS":"30,30,30,0,30@800@0,2,40,40,0@100,100,100,100,100,100,100,100,100",
         "RARITY":"7",
+        "outas79f":"0"
+    },
+    {
+        "AI_PRIORITY":"0",
+        "CONTRIBUTIONS_TYPE":"1",
+        "DESCRIPTION":"MST_EXTRAPASSIVESKILL_850928_DESCRIPTION",
+        "ES_ID":"850928",
+        "ES_PARAMETERS":"1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0",
+        "FILE_NAME":"0",
+        "NAME":"",
+        "PROC/PASSIVE_ID(S)":"50,2@49,2@9,1@33,1@30,1",
+        "PROC/PASSIVE_PARAMETERS":"5,0,0,0,0,0,0.2@10,20,100@1000@3500,4500,10@60,60,60,0,50,1",
+        "RARITY":"8",
         "outas79f":"0"
     },
     {
