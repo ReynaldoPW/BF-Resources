@@ -23273,7 +23273,7 @@
         "jeR2rN3V":"1",
         "qp37xTDh":"",
         "ri6D9yBi":"1010700099",
-        "yRlCNyvk":"Add to BB (50% spark damage reduction for 3 turns"
+        "yRlCNyvk":"Add to BB (50% spark damage reduction for 3 turns)"
     },
     {
         "2Smu5Mtq":"11,1&85&2&85&3&85&4&85&0,2,2,0,1,1,0@11,5&85&6&85&0&0&0&0&0,2,2,0,1,1,0",
@@ -23496,6 +23496,50 @@
         "yRlCNyvk":"Negates all status ailments"
     },
     {
+        "2Smu5Mtq":"62,2$4$5$0$0$0$15",
+        "9PsmH7tz":"1010700120",
+        "D9wXQI2V":"5",
+        "G5wFDad6":"25",
+        "hjAy9St3":"107",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010700120",
+        "yRlCNyvk":"Add to LS (15% damage reduction from Water, Thunder ,Light types)"
+    },
+    {
+        "2Smu5Mtq":"67,300&400&100&3,1,2,0,1,0,0",
+        "9PsmH7tz":"1010700121",
+        "D9wXQI2V":"2",
+        "G5wFDad6":"25",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010700121",
+        "yRlCNyvk":"Add to BB (Spark damage fills BB gauge for 3 turns)"
+    },
+    {
+        "2Smu5Mtq":"18,50&2&0,1,2,0,1,1,0",
+        "9PsmH7tz":"1010700122",
+        "D9wXQI2V":"4",
+        "G5wFDad6":"25",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010700122",
+        "yRlCNyvk":"Add to BB\\/SBB (50% damage reduction for 2 turns)"
+    },
+    {
+        "2Smu5Mtq":"9,0&1&-60&40&2&-60&40&3&0,2,2,0,1,1,0",
+        "9PsmH7tz":"1010700123",
+        "D9wXQI2V":"5",
+        "G5wFDad6":"25",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010700123",
+        "yRlCNyvk":"Add to BB\\/SBB (Probable 3 turns Atk, Def reduction infliction)"
+    },
+    {
         "2Smu5Mtq":"47,200&500&0&200&0&0&0&0,2,2,1,0,1,0",
         "9PsmH7tz":"1010700124",
         "D9wXQI2V":"4",
@@ -23527,6 +23571,72 @@
         "qp37xTDh":"",
         "ri6D9yBi":"1010700126",
         "yRlCNyvk":"Allows UBB's effects to last additional 1 turn"
+    },
+    {
+        "2Smu5Mtq":"0,20,20,20,0,0,0@0,20,20,20,0,0,0",
+        "9PsmH7tz":"1010700127",
+        "D9wXQI2V":"5",
+        "G5wFDad6":"25",
+        "hjAy9St3":"5@5",
+        "jeR2rN3V":"2@3",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010700127",
+        "yRlCNyvk":"Enhances BB\\/SBB's boost to Atk\\/Def\\/Rec effect"
+    },
+    {
+        "2Smu5Mtq":"0,1,0,5@0,1,0,5",
+        "9PsmH7tz":"1010700128",
+        "D9wXQI2V":"5",
+        "G5wFDad6":"25",
+        "hjAy9St3":"10007@10007",
+        "jeR2rN3V":"2@3",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010700128",
+        "yRlCNyvk":"Enhances BB\\/SBB's probable evasion effect and duration (+5% chance, +1Turn)"
+    },
+    {
+        "2Smu5Mtq":"24,2&100&0&0&3&0,1,2,0,1,1,0",
+        "9PsmH7tz":"1010700129",
+        "D9wXQI2V":"5",
+        "G5wFDad6":"25",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010700129",
+        "yRlCNyvk":"Add to BB\\/SBB (Boosts Atk relative to Def for 3 turns)"
+    },
+    {
+        "2Smu5Mtq":"10016,0.75&3&0&3,1,2,0,0,1,0",
+        "9PsmH7tz":"1010700130",
+        "D9wXQI2V":"3",
+        "G5wFDad6":"15",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010700130",
+        "yRlCNyvk":"Add to SBB (Boosts critical damage (Earth) for 3 turns)"
+    },
+    {
+        "2Smu5Mtq":"47,200&500&0&200&0&0&0&0,2,2,1,0,1,0",
+        "9PsmH7tz":"1010700131",
+        "D9wXQI2V":"4",
+        "G5wFDad6":"20",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010700131",
+        "yRlCNyvk":"Add to SBB (23 combo Earth attack on all foes (damage relative to remaining HP))"
+    },
+    {
+        "2Smu5Mtq":"9,0&1&-60&50&2&-60&50&3&0,2,2,0,1,1,0",
+        "9PsmH7tz":"1010700132",
+        "D9wXQI2V":"4",
+        "G5wFDad6":"20",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010700132",
+        "yRlCNyvk":"Add to BB\\/SBB (Probable 3 turns Atk, Def reduction infliction)"
     },
     {
         "2Smu5Mtq":"0,130,0,0,130",
@@ -24022,6 +24132,50 @@
         "qp37xTDh":"",
         "ri6D9yBi":"1010800079",
         "yRlCNyvk":"Critical damage fills BB gauge [10-12 BC]"
+    },
+    {
+        "2Smu5Mtq":"0,150,0,150,0,150,1,5",
+        "9PsmH7tz":"1010800080",
+        "D9wXQI2V":"5",
+        "G5wFDad6":"10",
+        "hjAy9St3":"105",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010800080",
+        "yRlCNyvk":"30% Atk, Def, Rec each turn (5 times)"
+    },
+    {
+        "2Smu5Mtq":"34,0&0&20&20&100,2,2,0,0,1,0",
+        "9PsmH7tz":"1010800081",
+        "D9wXQI2V":"5",
+        "G5wFDad6":"10",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010800081",
+        "yRlCNyvk":"Add to SBB (20% BB gauge reduction)"
+    },
+    {
+        "2Smu5Mtq":"5,2&165&165&165&0&3&0,1,2,0,1,1,0",
+        "9PsmH7tz":"1010800082",
+        "D9wXQI2V":"5",
+        "G5wFDad6":"25",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010800082",
+        "yRlCNyvk":"Add to BB\\/SBB (Boosts Atk, Def, Rec [165%] (Water) for 3 turns)"
+    },
+    {
+        "2Smu5Mtq":"44,500&100&0&100&1&2&120,2,2,0,1,1,0@44,1500&100&0&100&1&2&120,2,2,0,0,0,1",
+        "9PsmH7tz":"1010800083",
+        "D9wXQI2V":"5",
+        "G5wFDad6":"25",
+        "hjAy9St3":"66@66",
+        "jeR2rN3V":"1@1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010800083",
+        "yRlCNyvk":"Add to BB\\/SBB (2 turns DoT [500%] infliction), UBB (2 turns DoT [1500%] infliction)"
     },
     {
         "2Smu5Mtq":"100,100,100,100,100,100,100,100,100",
@@ -29521,6 +29675,28 @@
         "jeR2rN3V":"4@4@4@4",
         "qp37xTDh":"",
         "ri6D9yBi":"1100000532",
+        "yRlCNyvk":"Allows UBB's effects to last additional 1 turn"
+    },
+    {
+        "2Smu5Mtq":"47,300&600&0&200&0&0&0&0,2,1,1,0,1,0",
+        "9PsmH7tz":"1100000533",
+        "D9wXQI2V":"3",
+        "G5wFDad6":"25",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1100000533",
+        "yRlCNyvk":"Add to SBB (29 combo Dark attack [300-600%] on single foe (damage relative to remaining HP))"
+    },
+    {
+        "2Smu5Mtq":"0,0,0,0,0,0,0,1,0@0,1,0@0,0,0,1,0@0,1,0,0,0,0,0,0,0",
+        "9PsmH7tz":"1100000534",
+        "D9wXQI2V":"3",
+        "G5wFDad6":"15",
+        "hjAy9St3":"55@54@67@70002",
+        "jeR2rN3V":"4@4@4@4",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1100000534",
         "yRlCNyvk":"Allows UBB's effects to last additional 1 turn"
     },
     {

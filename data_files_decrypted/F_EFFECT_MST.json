@@ -48300,6 +48300,55 @@
         "EFFECT_AREA*":"2"
     },
     {
+        "1NijIP2a":"20",
+        "BATTLE_EFFECT_FILE":"effect_prt_1117_purple.plist",
+        "BATTLE_EFFECT_ID":"8200303",
+        "BATTLE_EFFECT_NAME":"au2gacha4_8_Hit01",
+        "EFFECT_AREA*":"2"
+    },
+    {
+        "1NijIP2a":"30",
+        "BATTLE_EFFECT_FILE":"effect_prt_1238_blue.plist",
+        "BATTLE_EFFECT_ID":"8200304",
+        "BATTLE_EFFECT_NAME":"au2gacha4_8_Hit02",
+        "EFFECT_AREA*":"2"
+    },
+    {
+        "1NijIP2a":"40",
+        "BATTLE_EFFECT_FILE":"effect_prt_1150_black.plist",
+        "BATTLE_EFFECT_ID":"8200305",
+        "BATTLE_EFFECT_NAME":"au2gacha4_8_Hit03",
+        "EFFECT_AREA*":"2"
+    },
+    {
+        "1NijIP2a":"60",
+        "BATTLE_EFFECT_FILE":"effect_prt_1238_blue.plist",
+        "BATTLE_EFFECT_ID":"8200306",
+        "BATTLE_EFFECT_NAME":"au2gacha4_8_Hit02SBB",
+        "EFFECT_AREA*":"2"
+    },
+    {
+        "1NijIP2a":"150",
+        "BATTLE_EFFECT_FILE":"effect_prt_1242_black.plist",
+        "BATTLE_EFFECT_ID":"8200307",
+        "BATTLE_EFFECT_NAME":"au2gacha4_8_Xplod06SBB",
+        "EFFECT_AREA*":"2"
+    },
+    {
+        "1NijIP2a":"70",
+        "BATTLE_EFFECT_FILE":"effect_prt_1117_purple.plist",
+        "BATTLE_EFFECT_ID":"8200308",
+        "BATTLE_EFFECT_NAME":"au2gacha4_8_Hit01UBB",
+        "EFFECT_AREA*":"2"
+    },
+    {
+        "1NijIP2a":"150",
+        "BATTLE_EFFECT_FILE":"effect_prt_1020R_black.plist",
+        "BATTLE_EFFECT_ID":"8200309",
+        "BATTLE_EFFECT_NAME":"au2gacha4_8_FXspeed06UBB",
+        "EFFECT_AREA*":"2"
+    },
+    {
         "1NijIP2a":"100",
         "BATTLE_EFFECT_FILE":"810507BattleEffectDimBack.sam",
         "BATTLE_EFFECT_ID":"8300001",
@@ -58212,6 +58261,48 @@
         "EFFECT_AREA*":"2"
     },
     {
+        "1NijIP2a":"140",
+        "BATTLE_EFFECT_FILE":"effect_prt_161_2_green.plist",
+        "BATTLE_EFFECT_ID":"9400175",
+        "BATTLE_EFFECT_NAME":"BF2Teresa8s_HitGreen",
+        "EFFECT_AREA*":"2"
+    },
+    {
+        "1NijIP2a":"50",
+        "BATTLE_EFFECT_FILE":"effect_prt_161_2_green.plist",
+        "BATTLE_EFFECT_ID":"9400176",
+        "BATTLE_EFFECT_NAME":"BF2Teresa8s_MultiHitGreen",
+        "EFFECT_AREA*":"2"
+    },
+    {
+        "1NijIP2a":"110",
+        "BATTLE_EFFECT_FILE":"effect_prt_161_2_black.plist",
+        "BATTLE_EFFECT_ID":"9400177",
+        "BATTLE_EFFECT_NAME":"BF2Teresa8s_HitBlackBB",
+        "EFFECT_AREA*":"2"
+    },
+    {
+        "1NijIP2a":"110",
+        "BATTLE_EFFECT_FILE":"effect_prt_1053_red.plist",
+        "BATTLE_EFFECT_ID":"9400178",
+        "BATTLE_EFFECT_NAME":"BF2Teresa8s_Star",
+        "EFFECT_AREA*":"2"
+    },
+    {
+        "1NijIP2a":"260",
+        "BATTLE_EFFECT_FILE":"effect_prt_1066_green.plist",
+        "BATTLE_EFFECT_ID":"9400179",
+        "BATTLE_EFFECT_NAME":"BF2Teresa8s_Explosion",
+        "EFFECT_AREA*":"2"
+    },
+    {
+        "1NijIP2a":"180",
+        "BATTLE_EFFECT_FILE":"effect_prt_161_2_yellow.plist",
+        "BATTLE_EFFECT_ID":"9400180",
+        "BATTLE_EFFECT_NAME":"BF2Teresa8s_HitYellow",
+        "EFFECT_AREA*":"2"
+    },
+    {
         "1NijIP2a":"120",
         "BATTLE_EFFECT_FILE":"effect_prt_142_1_purple.plist",
         "BATTLE_EFFECT_ID":"9500027",
@@ -58366,46 +58457,46 @@
         "EFFECT_AREA*":"2"
     },
     {
-        "1NijIP2a":"180",
-        "BATTLE_EFFECT_FILE":"effect_prt_1020_black.plist",
+        "1NijIP2a":"120",
+        "BATTLE_EFFECT_FILE":"effect_prt_60107.plist",
         "BATTLE_EFFECT_ID":"9500049",
-        "BATTLE_EFFECT_NAME":"Autumn20Oldman8s_Speedline",
+        "BATTLE_EFFECT_NAME":"SunCe_VertBurst",
         "EFFECT_AREA*":"2"
     },
     {
         "1NijIP2a":"120",
-        "BATTLE_EFFECT_FILE":"effect_prt_1258.plist",
+        "BATTLE_EFFECT_FILE":"effect_prt_60102.plist",
         "BATTLE_EFFECT_ID":"9500050",
-        "BATTLE_EFFECT_NAME":"Autumn20Oldman8s_Thrust",
+        "BATTLE_EFFECT_NAME":"SunCe_HorBurst",
         "EFFECT_AREA*":"2"
     },
     {
-        "1NijIP2a":"140",
-        "BATTLE_EFFECT_FILE":"effect_prt_1124_purple.plist",
+        "1NijIP2a":"170",
+        "BATTLE_EFFECT_FILE":"effect_prt_1129.plist",
         "BATTLE_EFFECT_ID":"9500051",
-        "BATTLE_EFFECT_NAME":"Autumn20Oldman8s_Slash1",
+        "BATTLE_EFFECT_NAME":"SunCe_Blast",
         "EFFECT_AREA*":"2"
     },
     {
-        "1NijIP2a":"160",
-        "BATTLE_EFFECT_FILE":"effect_prt_1124R_purple.plist",
+        "1NijIP2a":"75",
+        "BATTLE_EFFECT_FILE":"effect_prt_1129.plist",
         "BATTLE_EFFECT_ID":"9500052",
-        "BATTLE_EFFECT_NAME":"Autumn20Oldman8s_Slash2",
+        "BATTLE_EFFECT_NAME":"SunCe_BlastSmall",
         "EFFECT_AREA*":"2"
     },
     {
-        "1NijIP2a":"180",
-        "BATTLE_EFFECT_FILE":"effect_prt_1087_red.plist",
+        "1NijIP2a":"90",
+        "BATTLE_EFFECT_FILE":"30001BattleEffectSlash1wholeRed.sam",
         "BATTLE_EFFECT_ID":"9500053",
-        "BATTLE_EFFECT_NAME":"Autumn20Oldman8s_Strike",
-        "EFFECT_AREA*":"2"
+        "BATTLE_EFFECT_NAME":"SunCe_VertSlash",
+        "EFFECT_AREA*":"3"
     },
     {
-        "1NijIP2a":"140",
-        "BATTLE_EFFECT_FILE":"effect_prt_1087_purple.plist",
+        "1NijIP2a":"130",
+        "BATTLE_EFFECT_FILE":"30001BattleEffectSlash2wholeRed.sam",
         "BATTLE_EFFECT_ID":"9500054",
-        "BATTLE_EFFECT_NAME":"Autumn20Oldman8s_StrikeBB",
-        "EFFECT_AREA*":"2"
+        "BATTLE_EFFECT_NAME":"SunCe_HorSlash",
+        "EFFECT_AREA*":"3"
     },
     {
         "1NijIP2a":"300",
@@ -58454,6 +58545,48 @@
         "BATTLE_EFFECT_FILE":"effect_prt_1175_yellow.plist",
         "BATTLE_EFFECT_ID":"9500061",
         "BATTLE_EFFECT_NAME":"deimos8_xplod2UBB",
+        "EFFECT_AREA*":"2"
+    },
+    {
+        "1NijIP2a":"180",
+        "BATTLE_EFFECT_FILE":"effect_prt_1020_black.plist",
+        "BATTLE_EFFECT_ID":"9500062",
+        "BATTLE_EFFECT_NAME":"Autumn20Oldman8s_Speedline",
+        "EFFECT_AREA*":"2"
+    },
+    {
+        "1NijIP2a":"120",
+        "BATTLE_EFFECT_FILE":"effect_prt_1258.plist",
+        "BATTLE_EFFECT_ID":"9500063",
+        "BATTLE_EFFECT_NAME":"Autumn20Oldman8s_Thrust",
+        "EFFECT_AREA*":"2"
+    },
+    {
+        "1NijIP2a":"140",
+        "BATTLE_EFFECT_FILE":"effect_prt_1124_purple.plist",
+        "BATTLE_EFFECT_ID":"9500064",
+        "BATTLE_EFFECT_NAME":"Autumn20Oldman8s_Slash1",
+        "EFFECT_AREA*":"2"
+    },
+    {
+        "1NijIP2a":"160",
+        "BATTLE_EFFECT_FILE":"effect_prt_1124R_purple.plist",
+        "BATTLE_EFFECT_ID":"9500065",
+        "BATTLE_EFFECT_NAME":"Autumn20Oldman8s_Slash2",
+        "EFFECT_AREA*":"2"
+    },
+    {
+        "1NijIP2a":"180",
+        "BATTLE_EFFECT_FILE":"effect_prt_1087_red.plist",
+        "BATTLE_EFFECT_ID":"9500066",
+        "BATTLE_EFFECT_NAME":"Autumn20Oldman8s_Strike",
+        "EFFECT_AREA*":"2"
+    },
+    {
+        "1NijIP2a":"140",
+        "BATTLE_EFFECT_FILE":"effect_prt_1087_purple.plist",
+        "BATTLE_EFFECT_ID":"9500067",
+        "BATTLE_EFFECT_NAME":"Autumn20Oldman8s_StrikeBB",
         "EFFECT_AREA*":"2"
     },
     {

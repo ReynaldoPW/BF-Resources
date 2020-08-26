@@ -23271,7 +23271,7 @@
         "PROC/PASSIVE_ID(S)":"66",
         "PROC/PASSIVE_PARAMETERS":"93,0&0&0&0&50&50&3&0,1,2,0,1,0,0",
         "SP_ID":"1010700099",
-        "SP_NAME":"Add to BB (50% spark damage reduction for 3 turns",
+        "SP_NAME":"Add to BB (50% spark damage reduction for 3 turns)",
         "SP_NEED_BP":"20",
         "SP_SERIES":"1010700099"
     },
@@ -23498,6 +23498,50 @@
     {
         "DESCRIPTION":"",
         "EFFECT_AREA*":"1",
+        "LEVEL":"5",
+        "PROC/PASSIVE_ID(S)":"107",
+        "PROC/PASSIVE_PARAMETERS":"62,2$4$5$0$0$0$15",
+        "SP_ID":"1010700120",
+        "SP_NAME":"Add to LS (15% damage reduction from Water, Thunder ,Light types)",
+        "SP_NEED_BP":"25",
+        "SP_SERIES":"1010700120"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
+        "LEVEL":"2",
+        "PROC/PASSIVE_ID(S)":"66",
+        "PROC/PASSIVE_PARAMETERS":"67,300&400&100&3,1,2,0,1,0,0",
+        "SP_ID":"1010700121",
+        "SP_NAME":"Add to BB (Spark damage fills BB gauge for 3 turns)",
+        "SP_NEED_BP":"25",
+        "SP_SERIES":"1010700121"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
+        "LEVEL":"4",
+        "PROC/PASSIVE_ID(S)":"66",
+        "PROC/PASSIVE_PARAMETERS":"18,50&2&0,1,2,0,1,1,0",
+        "SP_ID":"1010700122",
+        "SP_NAME":"Add to BB\\/SBB (50% damage reduction for 2 turns)",
+        "SP_NEED_BP":"25",
+        "SP_SERIES":"1010700122"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
+        "LEVEL":"5",
+        "PROC/PASSIVE_ID(S)":"66",
+        "PROC/PASSIVE_PARAMETERS":"9,0&1&-60&40&2&-60&40&3&0,2,2,0,1,1,0",
+        "SP_ID":"1010700123",
+        "SP_NAME":"Add to BB\\/SBB (Probable 3 turns Atk, Def reduction infliction)",
+        "SP_NEED_BP":"25",
+        "SP_SERIES":"1010700123"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
         "LEVEL":"4",
         "PROC/PASSIVE_ID(S)":"66",
         "PROC/PASSIVE_PARAMETERS":"47,200&500&0&200&0&0&0&0,2,2,1,0,1,0",
@@ -23527,6 +23571,72 @@
         "SP_NAME":"Allows UBB's effects to last additional 1 turn",
         "SP_NEED_BP":"15",
         "SP_SERIES":"1010700126"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"2@3",
+        "LEVEL":"5",
+        "PROC/PASSIVE_ID(S)":"5@5",
+        "PROC/PASSIVE_PARAMETERS":"0,20,20,20,0,0,0@0,20,20,20,0,0,0",
+        "SP_ID":"1010700127",
+        "SP_NAME":"Enhances BB\\/SBB's boost to Atk\\/Def\\/Rec effect",
+        "SP_NEED_BP":"25",
+        "SP_SERIES":"1010700127"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"2@3",
+        "LEVEL":"5",
+        "PROC/PASSIVE_ID(S)":"10007@10007",
+        "PROC/PASSIVE_PARAMETERS":"0,1,0,5@0,1,0,5",
+        "SP_ID":"1010700128",
+        "SP_NAME":"Enhances BB\\/SBB's probable evasion effect and duration (+5% chance, +1Turn)",
+        "SP_NEED_BP":"25",
+        "SP_SERIES":"1010700128"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
+        "LEVEL":"5",
+        "PROC/PASSIVE_ID(S)":"66",
+        "PROC/PASSIVE_PARAMETERS":"24,2&100&0&0&3&0,1,2,0,1,1,0",
+        "SP_ID":"1010700129",
+        "SP_NAME":"Add to BB\\/SBB (Boosts Atk relative to Def for 3 turns)",
+        "SP_NEED_BP":"25",
+        "SP_SERIES":"1010700129"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
+        "LEVEL":"3",
+        "PROC/PASSIVE_ID(S)":"66",
+        "PROC/PASSIVE_PARAMETERS":"10016,0.75&3&0&3,1,2,0,0,1,0",
+        "SP_ID":"1010700130",
+        "SP_NAME":"Add to SBB (Boosts critical damage (Earth) for 3 turns)",
+        "SP_NEED_BP":"15",
+        "SP_SERIES":"1010700130"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
+        "LEVEL":"4",
+        "PROC/PASSIVE_ID(S)":"66",
+        "PROC/PASSIVE_PARAMETERS":"47,200&500&0&200&0&0&0&0,2,2,1,0,1,0",
+        "SP_ID":"1010700131",
+        "SP_NAME":"Add to SBB (23 combo Earth attack on all foes (damage relative to remaining HP))",
+        "SP_NEED_BP":"20",
+        "SP_SERIES":"1010700131"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
+        "LEVEL":"4",
+        "PROC/PASSIVE_ID(S)":"66",
+        "PROC/PASSIVE_PARAMETERS":"9,0&1&-60&50&2&-60&50&3&0,2,2,0,1,1,0",
+        "SP_ID":"1010700132",
+        "SP_NAME":"Add to BB\\/SBB (Probable 3 turns Atk, Def reduction infliction)",
+        "SP_NEED_BP":"20",
+        "SP_SERIES":"1010700132"
     },
     {
         "DESCRIPTION":"",
@@ -24022,6 +24132,50 @@
         "SP_NAME":"Critical damage fills BB gauge [10-12 BC]",
         "SP_NEED_BP":"15",
         "SP_SERIES":"1010800079"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
+        "LEVEL":"5",
+        "PROC/PASSIVE_ID(S)":"105",
+        "PROC/PASSIVE_PARAMETERS":"0,150,0,150,0,150,1,5",
+        "SP_ID":"1010800080",
+        "SP_NAME":"30% Atk, Def, Rec each turn (5 times)",
+        "SP_NEED_BP":"10",
+        "SP_SERIES":"1010800080"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
+        "LEVEL":"5",
+        "PROC/PASSIVE_ID(S)":"66",
+        "PROC/PASSIVE_PARAMETERS":"34,0&0&20&20&100,2,2,0,0,1,0",
+        "SP_ID":"1010800081",
+        "SP_NAME":"Add to SBB (20% BB gauge reduction)",
+        "SP_NEED_BP":"10",
+        "SP_SERIES":"1010800081"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
+        "LEVEL":"5",
+        "PROC/PASSIVE_ID(S)":"66",
+        "PROC/PASSIVE_PARAMETERS":"5,2&165&165&165&0&3&0,1,2,0,1,1,0",
+        "SP_ID":"1010800082",
+        "SP_NAME":"Add to BB\\/SBB (Boosts Atk, Def, Rec [165%] (Water) for 3 turns)",
+        "SP_NEED_BP":"25",
+        "SP_SERIES":"1010800082"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1@1",
+        "LEVEL":"5",
+        "PROC/PASSIVE_ID(S)":"66@66",
+        "PROC/PASSIVE_PARAMETERS":"44,500&100&0&100&1&2&120,2,2,0,1,1,0@44,1500&100&0&100&1&2&120,2,2,0,0,0,1",
+        "SP_ID":"1010800083",
+        "SP_NAME":"Add to BB\\/SBB (2 turns DoT [500%] infliction), UBB (2 turns DoT [1500%] infliction)",
+        "SP_NEED_BP":"25",
+        "SP_SERIES":"1010800083"
     },
     {
         "DESCRIPTION":"",
@@ -29522,6 +29676,28 @@
         "SP_NAME":"Allows UBB's effects to last additional 1 turn",
         "SP_NEED_BP":"15",
         "SP_SERIES":"1100000532"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
+        "LEVEL":"3",
+        "PROC/PASSIVE_ID(S)":"66",
+        "PROC/PASSIVE_PARAMETERS":"47,300&600&0&200&0&0&0&0,2,1,1,0,1,0",
+        "SP_ID":"1100000533",
+        "SP_NAME":"Add to SBB (29 combo Dark attack [300-600%] on single foe (damage relative to remaining HP))",
+        "SP_NEED_BP":"25",
+        "SP_SERIES":"1100000533"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"4@4@4@4",
+        "LEVEL":"3",
+        "PROC/PASSIVE_ID(S)":"55@54@67@70002",
+        "PROC/PASSIVE_PARAMETERS":"0,0,0,0,0,0,0,1,0@0,1,0@0,0,0,1,0@0,1,0,0,0,0,0,0,0",
+        "SP_ID":"1100000534",
+        "SP_NAME":"Allows UBB's effects to last additional 1 turn",
+        "SP_NEED_BP":"15",
+        "SP_SERIES":"1100000534"
     },
     {
         "DESCRIPTION":"",

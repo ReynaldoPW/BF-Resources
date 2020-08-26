@@ -25350,22 +25350,26 @@
         "desc":"MST_LEADERSKILLS_810022_DESCRIPTION",
         "effects":[
             {
-                "atk% buff":60,
+                "atk% buff":150,
                 "crit% buff":30,
-                "hp% buff":60,
+                "hp% buff":120,
                 "passive id":"1"
             },
             {
-                "params":"250,250,250",
+                "params":"350,350,350",
                 "passive id":"64"
             },
             {
-                "crit dmg%":175,
+                "crit dmg%":200,
                 "passive id":"34"
             },
             {
-                "params":"25",
+                "params":"30",
                 "passive id":"70"
+            },
+            {
+                "params":"36,20,-1,5000,1",
+                "passive id":"78"
             }
         ],
         "id":"810022",
@@ -25940,23 +25944,30 @@
         "desc":"MST_LEADERSKILLS_810438_DESCRIPTION",
         "effects":[
             {
-                "atk% buff":60,
-                "hp% buff":60,
+                "atk% buff":120,
+                "hp% buff":150,
                 "passive id":"1"
             },
             {
-                "atk% extra buff based on hp":60,
+                "atk% extra buff based on hp":80,
                 "buff proportional to hp":"remaining",
-                "def% extra buff based on hp":60,
-                "passive id":"46"
+                "def% extra buff based on hp":80,
+                "passive id":"46",
+                "rec% extra buff based on hp":80
             },
             {
-                "params":"1,3,6,0,0,0,10",
+                "params":"1,3,6,0,0,0,15",
                 "passive id":"62"
             },
             {
-                "params":"300,300,300,50,1",
+                "params":"550,550,550,50,1",
                 "passive id":"103"
+            },
+            {
+                "dmg% to hp% when attacked chance%":50,
+                "dmg% to hp% when attacked high":30,
+                "dmg% to hp% when attacked low":25,
+                "passive id":"24"
             }
         ],
         "id":"810438",
@@ -28014,24 +28025,30 @@
         "desc":"MST_LEADERSKILLS_820558_DESCRIPTION",
         "effects":[
             {
-                "atk% buff":80,
-                "def% buff":120,
-                "hp% buff":80,
+                "atk% buff":100,
+                "def% buff":140,
+                "hp% buff":100,
                 "passive id":"2",
-                "rec% buff":120
+                "rec% buff":140
             },
             {
                 "hc effectiveness%":75,
                 "passive id":"10"
             },
             {
-                "bc drop rate% buff":40,
-                "hc drop rate% buff":40,
+                "bc drop rate% buff":45,
+                "hc drop rate% buff":45,
                 "passive id":"19"
             },
             {
                 "bc fill per turn":10,
                 "passive id":"9"
+            },
+            {
+                "dmg% to hp% when attacked chance%":50,
+                "dmg% to hp% when attacked high":30,
+                "dmg% to hp% when attacked low":25,
+                "passive id":"24"
             }
         ],
         "id":"820558",
@@ -30904,6 +30921,35 @@
         ],
         "id":"830918",
         "name":"MST_LEADERSKILLS_830918_NAME"
+    },
+    "830958":{
+        "desc":"MST_LEADERSKILLS_830958_DESCRIPTION",
+        "effects":[
+            {
+                "atk% buff":200,
+                "crit% buff":30,
+                "hp% buff":140,
+                "passive id":"1"
+            },
+            {
+                "crit dmg%":300,
+                "passive id":"34"
+            },
+            {
+                "params":"1000,1200,100",
+                "passive id":"65"
+            },
+            {
+                "params":"50,100",
+                "passive id":"100"
+            },
+            {
+                "passive id":"43",
+                "take 1 dmg%":20
+            }
+        ],
+        "id":"830958",
+        "name":"MST_LEADERSKILLS_830958_NAME"
     },
     "8400":{
         "desc":"MST_LEADERSKILLS_8400_DESCRIPTION",
@@ -36241,6 +36287,46 @@
         ],
         "id":"860868",
         "name":"MST_LEADERSKILLS_860868_NAME"
+    },
+    "860888":{
+        "desc":"MST_LEADERSKILLS_860888_DESCRIPTION",
+        "effects":[
+            {
+                "atk% buff":100,
+                "def% buff":100,
+                "hp% buff":150,
+                "passive id":"1",
+                "rec% buff":100
+            },
+            {
+                "elemental weakness dmg%":220,
+                "elements":[
+                    "fire",
+                    "water",
+                    "earth",
+                    "thunder",
+                    "light",
+                    "dark"
+                ],
+                "passive id":"50"
+            },
+            {
+                "bc fill on spark high":3,
+                "bc fill on spark low":3,
+                "bc fill on spark%":300,
+                "passive id":"47"
+            },
+            {
+                "params":"0,1,25,25,0",
+                "passive id":"69"
+            },
+            {
+                "passive id":"43",
+                "take 1 dmg%":20
+            }
+        ],
+        "id":"860888",
+        "name":"MST_LEADERSKILLS_860888_NAME"
     },
     "860900":{
         "desc":"MST_LEADERSKILLS_860900_DESCRIPTION",

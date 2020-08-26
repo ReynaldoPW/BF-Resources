@@ -13454,7 +13454,7 @@
         "background image":"gacha_img_20200805HD_s1.png",
         "desc":"From 5 Aug 7:00 PST ~ 12 Aug 6:59 PST, summon minimum 5* Regil to Roglizer and Global exclusive units with Omni Potential, and stand a chance to summon Sun Ce and Florence Nightingale! Collect your free daily Heroes Daily Ticket and summon now!",
         "door image":"gacha_rare_door.png",
-        "end time":"2020-08-12 14:59:59",
+        "end time":"2020-08-12 14:57:59",
         "gem cost":5,
         "name":"Heroes Daily Summon",
         "priority":"2",
@@ -13471,7 +13471,7 @@
         "name":"Heroes Daily Summon",
         "priority":"2",
         "short desc":"Sun Ce, Florence Nightingale and D'Artagnan are available through the Summon Gate! Collect your free daily Heroes Daily Ticket and summon now!",
-        "start time":"2020-08-13 15:00:00",
+        "start time":"2020-08-12 15:00:00",
         "summon button image":"gacha_rare_summons_btn1.png"
     },
     "19300":{
@@ -13488,13 +13488,13 @@
     },
     "19310":{
         "background image":"gacha_img_20200812AD_s1.png",
-        "desc":"From 12 Aug 7:00 PST ~ 12 Sep 6:59 PST, summon minimum 5* Regil to Roglizer and Global exclusive units with Omni Potential, and stand a chance to summon Sidonie,  Fe\u00f2ra,  Hyshka and QiuTong! Collect your free daily Heroes Daily Ticket and summon now!",
+        "desc":"From 12 Aug 7:00 PST ~ 12 Sep 6:59 PST, summon minimum 5* Regil to Roglizer and Global exclusive units with Omni Potential, and stand a chance to summon Sidonie,  Fe\u00f2ra,  Hyshka and QiuTong! Collect your free daily Fall Ticket and summon now!",
         "door image":"gacha_rare_door.png",
         "end time":"2020-09-12 14:59:59",
         "gem cost":5,
         "name":"Autumn Daily Summon",
         "priority":"2",
-        "short desc":"Sidonie,  Fe\u00f2ra,  Hyshka and QiuTong are available through the Summon Gate! Collect your free daily Heroes Daily Ticket and summon now!",
+        "short desc":"Sidonie,  Fe\u00f2ra,  Hyshka and QiuTong are available through the Summon Gate! Collect your free daily Fall Ticket and summon now!",
         "start time":"2020-08-12 15:00:00",
         "summon button image":"gacha_rare_summons_btn1.png"
     },
@@ -13520,6 +13520,78 @@
         "priority":"2",
         "short desc":"Get a Autumn Mystery Chest on every odd number summon and a Super Autumn Mystery Chest every 10 summons!",
         "start time":"2020-08-12 15:00:00",
+        "summon button image":"gacha_rare_summons_btn1.png"
+    },
+    "19340":{
+        "background image":"gacha_img_20200812HS.png",
+        "desc":"From 12 Aug 7:00 PST ~ 12 Sep 6:59 PST, use your Autumn Hero Ticket to summon one of the selected units from Uprising or past autumn exclusive! Remember, this ticket is only valid till 12th September.",
+        "door image":"gacha_rare_door.png",
+        "end time":"2020-09-12 14:59:59",
+        "gem cost":999,
+        "name":"Autumn Hero Selector",
+        "priority":"2",
+        "short desc":"Summon any one of the units, selected from Uprising and past autumn exclusive!",
+        "start time":"2020-08-12 15:00:00",
+        "summon button image":"gacha_rare_summons_btn1.png"
+    },
+    "19350":{
+        "background image":"gacha_img_20200819G_s1.png",
+        "desc":"From 19 Aug 7:00 PST ~ 2 Sep 6:59 PST, summon minimum 5* Global exclusive units with Omni Potential and enjoy Increased Rates with each summon on Gwyll up to the 8th Summon!",
+        "door image":"gacha_rare_door.png",
+        "end time":"2020-09-02 14:59:59",
+        "gem cost":5,
+        "name":"Destiny Summon",
+        "priority":"2",
+        "short desc":"Gwyll is available through the Summon Gate! Get a Global Exclusive Elgif for every 10 Summons from the same gate!",
+        "start time":"2020-08-19 15:00:00",
+        "summon button image":"gacha_rare_summons_btn1.png"
+    },
+    "19360":{
+        "background image":"gacha_img_20200408GG_s1.png",
+        "desc":"From 19 Aug 7:00 PST ~ 26 Aug 6:59 PST, summon minimum 5* Global exclusive units with Omni Potential and enjoy Increased Rates are applied on Osiris, Azius and Saskya!",
+        "door image":"gacha_rare_door.png",
+        "end time":"2020-08-26 14:59:59",
+        "gem cost":5,
+        "name":"Gallant Guard Summon",
+        "priority":"2",
+        "short desc":"Osiris, Azius and Saskya are available through the Summon Gate!",
+        "start time":"2020-08-19 15:00:00",
+        "summon button image":"gacha_rare_summons_btn1.png"
+    },
+    "19370":{
+        "background image":"gacha_img_20200413DS_s1.png",
+        "desc":"From 26 Aug 7:00 PST ~ 2 Sep 6:59 PST, summon minimum 5* Global exclusive units with Omni Potential and enjoy Increased Rates are applied on Serin, Ophiuchus and Rhyne!",
+        "door image":"gacha_rare_door.png",
+        "end time":"2020-09-02 14:59:59",
+        "gem cost":5,
+        "name":"Double Step Summon",
+        "priority":"2",
+        "short desc":"Serin, Ophiuchus and Rhyne are available through the Summon Gate!",
+        "start time":"2020-08-26 15:00:00",
+        "summon button image":"gacha_rare_summons_btn1.png"
+    },
+    "19380":{
+        "background image":"gacha_img_20200826VA_10G.png",
+        "desc":"From 26 Aug 7:00 PST ~ 2 Sep 6:59 PST, summon minimum 5* Global exclusive units with Omni Potential and enjoy Increased Rates on Kahiki!",
+        "door image":"gacha_rare_door.png",
+        "end time":"2020-09-02 14:59:59",
+        "gem cost":5,
+        "name":"Vortex Arena Resummon",
+        "priority":"2",
+        "short desc":"Summon 2 units with Increased Rates on Kahiki with option to Resummon 1!",
+        "start time":"2020-08-26 15:00:00",
+        "summon button image":"gacha_rare_summons_btn1.png"
+    },
+    "19390":{
+        "background image":"gacha_img_20200826T_s1.png",
+        "desc":"From 26 Aug 7:00 PST ~ 9 Sep 6:59 PST, summon minimum 5* Global exclusive units with Omni Potential and enjoy Increased Rates with each summon on Teresa up to the 8th Summon!",
+        "door image":"gacha_rare_door.png",
+        "end time":"2020-09-09 14:59:59",
+        "gem cost":5,
+        "name":"Heroes Across Time",
+        "priority":"2",
+        "short desc":"Teresa is available through the Summon Gate! Get a Global Exclusive Elgif for every 10 Summons from the same gate!",
+        "start time":"2020-08-26 15:00:00",
         "summon button image":"gacha_rare_summons_btn1.png"
     }
 }
