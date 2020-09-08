@@ -13593,5 +13593,41 @@
         "short desc":"Teresa is available through the Summon Gate! Get a Global Exclusive Elgif for every 10 Summons from the same gate!",
         "start time":"2020-08-26 15:00:00",
         "summon button image":"gacha_rare_summons_btn1.png"
+    },
+    "19400":{
+        "background image":"gacha_img_20200327C.png",
+        "desc":"From 2 Sep 7:00 PST ~ 9 Sep 6:59 PST, summon minimum 5* Global exclusive units with Omni Potential and enjoy Increased Rates are applied on Armaiti!",
+        "door image":"gacha_rare_door.png",
+        "end time":"2020-09-09 14:59:59",
+        "gem cost":5,
+        "name":"Chasing Dawn Summon",
+        "priority":"2",
+        "short desc":"Armaiti is available through the Summon Gate! Get a Global Exclusive Elgif for every 10 Summons from the same gate!",
+        "start time":"2020-09-02 15:00:00",
+        "summon button image":"gacha_rare_summons_btn1.png"
+    },
+    "19410":{
+        "background image":"gacha_img_20200327WT.png",
+        "desc":"From 2 Sep 7:00 PST ~ 9 Sep 6:59 PST, summon minimum 5* Global exclusive units with Omni Potential and enjoy Increased Rates are applied on Armaiti!",
+        "door image":"gacha_rare_door.png",
+        "end time":"2020-09-09 14:59:59",
+        "gem cost":999,
+        "name":"Wintertide Summon",
+        "priority":"2",
+        "short desc":"Armaiti is available through the Summon Gate! Get a Brave Insignia token from each summon from this gate!",
+        "start time":"2020-09-02 15:00:00",
+        "summon button image":"gacha_rare_summons_btn1.png"
+    },
+    "19420":{
+        "background image":"gacha_img_20200401NTS_s1.png",
+        "desc":"From 2 Sep 7:00 PST ~ 9 Sep 6:59 PST, summon minimum 5* Global exclusive units with Omni Potential and enjoy Increased Rates are applied on Set, Inoko and Charlie!",
+        "door image":"gacha_rare_door.png",
+        "end time":"2020-09-09 14:59:59",
+        "gem cost":5,
+        "name":"Triple Strike Summon",
+        "priority":"2",
+        "short desc":"Set, Inoko and Charlie are available through the Summon Gate!",
+        "start time":"2020-09-02 15:00:00",
+        "summon button image":"gacha_rare_summons_btn1.png"
     }
 }

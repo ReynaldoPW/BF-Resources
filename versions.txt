@@ -76,7 +76,7 @@
         "moWQ30GH":"M_NPC_MST"
     },
     {
-        "d2RFtP8T":"1587",
+        "d2RFtP8T":"1588",
         "moWQ30GH":"M_GACHA_EFFECT_MST"
     },
     {
@@ -284,7 +284,7 @@
         "moWQ30GH":"F_ACHIEVEMENT_SUBJECT_MST"
     },
     {
-        "d2RFtP8T":"401",
+        "d2RFtP8T":"402",
         "moWQ30GH":"F_ACHIEVEMENT_TRADE_MST"
     },
     {
@@ -428,7 +428,7 @@
         "moWQ30GH":"F_PARTICLE"
     },
     {
-        "d2RFtP8T":"948",
+        "d2RFtP8T":"949",
         "moWQ30GH":"F_UNIT_MST"
     },
     {
@@ -472,7 +472,7 @@
         "moWQ30GH":"F_EXTRA_PASSIVE_SKILL_MST"
     },
     {
-        "d2RFtP8T":"2986",
+        "d2RFtP8T":"2989",
         "moWQ30GH":"F_RESOURCE_MST"
     },
     {
@@ -600,7 +600,7 @@
         "moWQ30GH":"F_FUNCTION_RELEASE_MST"
     },
     {
-        "d2RFtP8T":"6",
+        "d2RFtP8T":"7",
         "moWQ30GH":"F_RESOURCE_BASE_MST"
     },
     {
