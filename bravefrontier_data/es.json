@@ -18936,6 +18936,35 @@
         "name":"MST_EXTRAPASSIVESKILL_8000518_NAME",
         "rarity":7
     },
+    "8000527":{
+        "conditions":"1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0",
+        "desc":"MST_EXTRAPASSIVESKILL_8000527_DESCRIPTION",
+        "effects":[
+            {
+                "atk% buff":50,
+                "elements buffed":[
+                    "dark"
+                ],
+                "hp% buff":50,
+                "passive id":"2"
+            },
+            {
+                "params":"30,300",
+                "passive id":"100"
+            },
+            {
+                "passive id":"48",
+                "reduced bc cost%":10
+            },
+            {
+                "params":"20",
+                "passive id":"70"
+            }
+        ],
+        "id":"8000527",
+        "name":"MST_EXTRAPASSIVESKILL_8000527_NAME",
+        "rarity":7
+    },
     "8000601":{
         "conditions":"1#0,0%0,0%0,0@1#0,0%0,0%0,0@1#0,0%0,0%0,0@1#0,0%0,0%0,0@1#0,0%0,0%0,0@1#0,0%0,0%0,0",
         "desc":"MST_EXTRAPASSIVESKILL_8000601_DESCRIPTION",
@@ -29430,6 +29459,32 @@
         ],
         "id":"850900",
         "name":"MST_EXTRAPASSIVESKILL_850900_NAME",
+        "rarity":7
+    },
+    "850908":{
+        "conditions":"1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0",
+        "desc":"MST_EXTRAPASSIVESKILL_850908_DESCRIPTION",
+        "effects":[
+            {
+                "dmg% for spark":15,
+                "passive id":"31"
+            },
+            {
+                "atk% buff":100,
+                "bb gauge above% requirement":50,
+                "passive id":"30"
+            },
+            {
+                "bc fill per turn":10,
+                "passive id":"9"
+            },
+            {
+                "passive id":"43",
+                "take 1 dmg%":15
+            }
+        ],
+        "id":"850908",
+        "name":"MST_EXTRAPASSIVESKILL_850908_NAME",
         "rarity":7
     },
     "850918":{

@@ -761,5 +761,12 @@
         "SCENARIO_SUPERSECTION*":"70000",
         "SP_CAT_ID":"100018",
         "SP_CAT_NAME":"Red Moon Rising"
+    },
+    {
+        "DESCRIPTION":"The lost tale of an Urzyma godling's death and rebirth.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"32",
+        "SCENARIO_SUPERSECTION*":"70000",
+        "SP_CAT_ID":"100019",
+        "SP_CAT_NAME":"Wings of Destiny"
     }
 ]

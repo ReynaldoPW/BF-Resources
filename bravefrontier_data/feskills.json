@@ -69334,6 +69334,192 @@
             "sp series":"1010100094"
         }
     ],
+    "850908":[
+        {
+            "category id":"1",
+            "category name":"Parameter Boost",
+            "desc":"MST_FE_SKILLS_1010500014_DESC",
+            "effects":[
+                {
+                    "atk% buff":80,
+                    "def% buff":80,
+                    "hp% buff":80,
+                    "passive id":"1",
+                    "rec% buff":80
+                }
+            ],
+            "id":"1010500014",
+            "name":"MST_FE_SKILLS_1010500014_NAME",
+            "sp cost":"10",
+            "sp series":"1010500014"
+        },
+        {
+            "category id":"2",
+            "category name":"Spark",
+            "desc":"MST_FE_SKILLS_1010500043_DESC",
+            "effects":[
+                {
+                    "dmg% for spark":130,
+                    "passive id":"31"
+                }
+            ],
+            "id":"1010500043",
+            "name":"MST_FE_SKILLS_1010500043_NAME",
+            "sp cost":"10",
+            "sp series":"1010500043"
+        },
+        {
+            "category id":"4",
+            "category name":"Attack Boost",
+            "desc":"MST_FE_SKILLS_1010500024_DESC",
+            "effects":[
+                {
+                    "elemental weakness dmg%":200,
+                    "elements":[
+                        "fire",
+                        "water",
+                        "earth",
+                        "thunder",
+                        "light",
+                        "dark"
+                    ],
+                    "passive id":"50"
+                }
+            ],
+            "id":"1010500024",
+            "name":"MST_FE_SKILLS_1010500024_NAME",
+            "sp cost":"15",
+            "sp series":"1010500024"
+        },
+        {
+            "category id":"11",
+            "category name":"Special",
+            "desc":"MST_FE_SKILLS_1010700079_DESC",
+            "effects":[
+                {
+                    "params":"200000",
+                    "passive id":"143"
+                }
+            ],
+            "id":"1010700079",
+            "name":"MST_FE_SKILLS_1010700079_NAME",
+            "sp cost":"10",
+            "sp series":"1010700079"
+        },
+        {
+            "category id":"11",
+            "category name":"Special",
+            "desc":"MST_FE_SKILLS_1010500066_DESC",
+            "effects":[
+                {
+                    "params":"17,100&100&100&100&100&100&3&70,1,2,0,1,0,0",
+                    "passive id":"66"
+                },
+                {
+                    "params":"73,100&100&100&3&70,1,2,0,1,0,0",
+                    "passive id":"66"
+                }
+            ],
+            "id":"1010500066",
+            "name":"MST_FE_SKILLS_1010500066_NAME",
+            "sp cost":"20",
+            "sp series":"1010500066"
+        },
+        {
+            "category id":"11",
+            "category name":"Special",
+            "desc":"MST_FE_SKILLS_1010800084_DESC",
+            "effects":[
+                {
+                    "params":"31,1000&0,1,2,0,1,0,0",
+                    "passive id":"66"
+                }
+            ],
+            "id":"1010800084",
+            "name":"MST_FE_SKILLS_1010800084_NAME",
+            "sp cost":"15",
+            "sp series":"1010800084"
+        },
+        {
+            "category id":"11",
+            "category name":"Special",
+            "desc":"MST_FE_SKILLS_1010800085_DESC",
+            "effects":[
+                {
+                    "params":"113,0&0&700&3&0,1,2,0,1,0,0",
+                    "passive id":"66"
+                }
+            ],
+            "id":"1010800085",
+            "name":"MST_FE_SKILLS_1010800085_NAME",
+            "sp cost":"15",
+            "sp series":"1010800085"
+        },
+        {
+            "category id":"11",
+            "category name":"Special",
+            "desc":"MST_FE_SKILLS_1010800086_DESC",
+            "effects":[
+                {
+                    "params":"10015,100&3&0&5,1,2,0,0,1,0",
+                    "passive id":"66"
+                }
+            ],
+            "id":"1010800086",
+            "name":"MST_FE_SKILLS_1010800086_NAME",
+            "sp cost":"25",
+            "sp series":"1010800086"
+        },
+        {
+            "category id":"11",
+            "category name":"Special",
+            "desc":"MST_FE_SKILLS_1010500093_DESC",
+            "effects":[
+                {
+                    "params":"87,400&500&100&3&0,1,2,0,1,1,0",
+                    "passive id":"66"
+                }
+            ],
+            "id":"1010500093",
+            "name":"MST_FE_SKILLS_1010500093_NAME",
+            "sp cost":"20",
+            "sp series":"1010500093"
+        },
+        {
+            "category id":"11",
+            "category name":"Special",
+            "desc":"MST_FE_SKILLS_1010800087_DESC",
+            "effects":[
+                {
+                    "params":"10017,5&6000&6000&3&0,1,2,0,1,1,0",
+                    "passive id":"66"
+                }
+            ],
+            "id":"1010800087",
+            "name":"MST_FE_SKILLS_1010800087_NAME",
+            "sp cost":"25",
+            "sp series":"1010800087"
+        },
+        {
+            "category id":"11",
+            "category name":"Special",
+            "desc":"MST_FE_SKILLS_1011000029_DESC",
+            "effects":[
+                {
+                    "params":"8,0&25&0,1,2,0,1,0,0",
+                    "passive id":"66"
+                },
+                {
+                    "params":"8,0&50&0,1,2,0,0,0,1",
+                    "passive id":"66"
+                }
+            ],
+            "id":"1011000029",
+            "name":"MST_FE_SKILLS_1011000029_NAME",
+            "sp cost":"20",
+            "sp series":"1011000029"
+        }
+    ],
     "850918":[
         {
             "category id":"1",

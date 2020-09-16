@@ -24180,6 +24180,50 @@
     {
         "DESCRIPTION":"",
         "EFFECT_AREA*":"1",
+        "LEVEL":"2",
+        "PROC/PASSIVE_ID(S)":"66",
+        "PROC/PASSIVE_PARAMETERS":"31,1000&0,1,2,0,1,0,0",
+        "SP_ID":"1010800084",
+        "SP_NAME":"Add to BB (Fills BB gauge [10 BC])",
+        "SP_NEED_BP":"15",
+        "SP_SERIES":"1010800084"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
+        "LEVEL":"3",
+        "PROC/PASSIVE_ID(S)":"66",
+        "PROC/PASSIVE_PARAMETERS":"113,0&0&700&3&0,1,2,0,1,0,0",
+        "SP_ID":"1010800085",
+        "SP_NAME":"Add to BB (Fills OD gauge [700 OD] at turn's end for 3 turns)",
+        "SP_NEED_BP":"15",
+        "SP_SERIES":"1010800085"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
+        "LEVEL":"4",
+        "PROC/PASSIVE_ID(S)":"66",
+        "PROC/PASSIVE_PARAMETERS":"10015,100&3&0&5,1,2,0,0,1,0",
+        "SP_ID":"1010800086",
+        "SP_NAME":"Add to SBB (Boosts spark damage [100%] (Light) for 3 turns)",
+        "SP_NEED_BP":"25",
+        "SP_SERIES":"1010800086"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
+        "LEVEL":"5",
+        "PROC/PASSIVE_ID(S)":"66",
+        "PROC/PASSIVE_PARAMETERS":"10017,5&6000&6000&3&0,1,2,0,1,1,0",
+        "SP_ID":"1010800087",
+        "SP_NAME":"Add to BB\\/SBB (Adds Light shield [6000 HP, 6000 Def] for 3 turns)",
+        "SP_NEED_BP":"25",
+        "SP_SERIES":"1010800087"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
         "LEVEL":"3",
         "PROC/PASSIVE_ID(S)":"73",
         "PROC/PASSIVE_PARAMETERS":"100,100,100,100,100,100,100,100,100",

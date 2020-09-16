@@ -34341,6 +34341,36 @@
         "id":"850900",
         "name":"MST_LEADERSKILLS_850900_NAME"
     },
+    "850908":{
+        "desc":"MST_LEADERSKILLS_850908_DESCRIPTION",
+        "effects":[
+            {
+                "atk% buff":150,
+                "hp% buff":150,
+                "passive id":"1"
+            },
+            {
+                "params":"40,200,-1,15,2",
+                "passive id":"86"
+            },
+            {
+                "bc fill on spark high":2,
+                "bc fill on spark low":2,
+                "bc fill on spark%":200,
+                "passive id":"47"
+            },
+            {
+                "params":"300,300,300",
+                "passive id":"64"
+            },
+            {
+                "params":"30",
+                "passive id":"70"
+            }
+        ],
+        "id":"850908",
+        "name":"MST_LEADERSKILLS_850908_NAME"
+    },
     "850918":{
         "desc":"MST_LEADERSKILLS_850918_DESCRIPTION",
         "effects":[

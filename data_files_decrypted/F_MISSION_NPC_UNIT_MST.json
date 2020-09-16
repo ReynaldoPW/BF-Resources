@@ -3760,6 +3760,26 @@
         "UNIT_TYPE_ID":"1"
     },
     {
+        "ATK":"5000",
+        "BB_ID":"50031",
+        "DEF":"0",
+        "ES_ID":"0",
+        "HONOR_POINTS_OBTAINED":"10",
+        "HP":"10000",
+        "LEADER_SKILL_ID":"0",
+        "LEVEL":"150",
+        "NPC_NAME":"Harakhte",
+        "QUEST_USUALLY_EMPTY_BUT_CHECK**":"25530001",
+        "REC":"0",
+        "SBB_ID":"0",
+        "SPHERE_1_EQUIPPED_ID":"0",
+        "SPHERE_2_EQUIPPED_ID":"0",
+        "UBB_ID":"0",
+        "UNIT_ID":"850908",
+        "UNIT_OD_STATS":"100,100,100,0,",
+        "UNIT_TYPE_ID":"1"
+    },
+    {
         "ATK":"3800",
         "BB_ID":"850628",
         "DEF":"3400",

@@ -24178,6 +24178,50 @@
         "yRlCNyvk":"Add to BB\\/SBB (2 turns DoT [500%] infliction), UBB (2 turns DoT [1500%] infliction)"
     },
     {
+        "2Smu5Mtq":"31,1000&0,1,2,0,1,0,0",
+        "9PsmH7tz":"1010800084",
+        "D9wXQI2V":"2",
+        "G5wFDad6":"15",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010800084",
+        "yRlCNyvk":"Add to BB (Fills BB gauge [10 BC])"
+    },
+    {
+        "2Smu5Mtq":"113,0&0&700&3&0,1,2,0,1,0,0",
+        "9PsmH7tz":"1010800085",
+        "D9wXQI2V":"3",
+        "G5wFDad6":"15",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010800085",
+        "yRlCNyvk":"Add to BB (Fills OD gauge [700 OD] at turn's end for 3 turns)"
+    },
+    {
+        "2Smu5Mtq":"10015,100&3&0&5,1,2,0,0,1,0",
+        "9PsmH7tz":"1010800086",
+        "D9wXQI2V":"4",
+        "G5wFDad6":"25",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010800086",
+        "yRlCNyvk":"Add to SBB (Boosts spark damage [100%] (Light) for 3 turns)"
+    },
+    {
+        "2Smu5Mtq":"10017,5&6000&6000&3&0,1,2,0,1,1,0",
+        "9PsmH7tz":"1010800087",
+        "D9wXQI2V":"5",
+        "G5wFDad6":"25",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010800087",
+        "yRlCNyvk":"Add to BB\\/SBB (Adds Light shield [6000 HP, 6000 Def] for 3 turns)"
+    },
+    {
         "2Smu5Mtq":"100,100,100,100,100,100,100,100,100",
         "9PsmH7tz":"1010900001",
         "D9wXQI2V":"3",

@@ -2134,5 +2134,9 @@
     {
         "RELOAD_FILES":"unit_ills_full_830958.png",
         "RELOAD_ID":"3106"
+    },
+    {
+        "RELOAD_FILES":"unit_cgg_850908.csv,unit_atk_cgs_850908.csu,unit_idle_cgs_850908.csv,unit_move_cgs_850908.csv,unit_anime_850908.png",
+        "RELOAD_ID":"3107"
     }
 ]

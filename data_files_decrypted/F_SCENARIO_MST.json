@@ -9009,6 +9009,78 @@
         "SP_CAT_ID":"85007"
     },
     {
+        "DESCRIPTION":"Having lost sight of the Queen's whereabouts, your band of misfits seeks a way out of this predicament in their own way.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"28",
+        "SCENARIO_ID":"87127",
+        "SCENARIO_NAME":"Crossing a Line",
+        "SCENARIO_TEXT_FILE":"X7_Arc4_Ep1_1.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"85007"
+    },
+    {
+        "DESCRIPTION":"Dreams often feel real to the dreamer, and not so much to the waker.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"29",
+        "SCENARIO_ID":"87128",
+        "SCENARIO_NAME":"Sleep Paralysis",
+        "SCENARIO_TEXT_FILE":"X7_Arc4_Ep1_2.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"85007"
+    },
+    {
+        "DESCRIPTION":"Home--riding home, at last, through darkness divine.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"30",
+        "SCENARIO_ID":"87129",
+        "SCENARIO_NAME":"Lightbringers",
+        "SCENARIO_TEXT_FILE":"X7_Arc4_Ep1_3A.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"85007"
+    },
+    {
+        "DESCRIPTION":"The dance goes lightly through the grove.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"31",
+        "SCENARIO_ID":"87130",
+        "SCENARIO_NAME":"The Price of Knowledge",
+        "SCENARIO_TEXT_FILE":"X7_Arc4_Ep1_3B.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"85007"
+    },
+    {
+        "DESCRIPTION":"When in the nadir, do as the Erlking tells you to.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"32",
+        "SCENARIO_ID":"87131",
+        "SCENARIO_NAME":"Playing the Game",
+        "SCENARIO_TEXT_FILE":"X7_Arc4_Ep2_1.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"85007"
+    },
+    {
+        "DESCRIPTION":"Wanderers in a desert drawn to the same purpose for different reasons.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"33",
+        "SCENARIO_ID":"87132",
+        "SCENARIO_NAME":"Dust in the Desert",
+        "SCENARIO_TEXT_FILE":"X7_Arc4_Ep2_2.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"85007"
+    },
+    {
+        "DESCRIPTION":"One life for another hardly seems fair, especially when you're the one forced to make that decision.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"34",
+        "SCENARIO_ID":"87133",
+        "SCENARIO_NAME":"Two Roads in a Wood",
+        "SCENARIO_TEXT_FILE":"X7_Arc4_Ep2_3A.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"85007"
+    },
+    {
+        "DESCRIPTION":"The new rift made by the slithery totem seems to take you somewhere familiar...",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"35",
+        "SCENARIO_ID":"87134",
+        "SCENARIO_NAME":"Another Cold Lead",
+        "SCENARIO_TEXT_FILE":"X7_Arc4_Ep2_3B.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"85007"
+    },
+    {
         "DESCRIPTION":"Welcome to an odd sort of theater - your audience awaits you with bated breath. Don't die.",
         "QUEST_MAP_NUMBER/GUIDE_ID":"97",
         "SCENARIO_ID":"88400",
@@ -10782,6 +10854,15 @@
         "SP_CAT_ID":"100013"
     },
     {
+        "DESCRIPTION":"A record of your battle against Joshua, the Silver Knight.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"1",
+        "SCENARIO_ID":"10001306",
+        "SCENARIO_NAME":"The Silver Knight",
+        "SCENARIO_TEXT_FILE":"BF2_06_Joshua.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"100013"
+    },
+    {
         "DESCRIPTION":"Shadows oft follow in the wake of a demigod's decline.",
         "QUEST_MAP_NUMBER/GUIDE_ID":"1",
         "SCENARIO_ID":"10001601",
@@ -10942,6 +11023,60 @@
         "SCENARIO_TEXT_FILE":"Autumn2020_CB.txt",
         "SOUNDTRACK_FILE":"",
         "SP_CAT_ID":"100018"
+    },
+    {
+        "DESCRIPTION":"Harakhte, only son of Osiris and Aesys, spies a suspicious operation in the God-King's capital on a routine flight.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"1",
+        "SCENARIO_ID":"10001901",
+        "SCENARIO_NAME":"First Flight",
+        "SCENARIO_TEXT_FILE":"MF_Harakhte_S1.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"100019"
+    },
+    {
+        "DESCRIPTION":"Faced with a sharp-eyed royal guard, Harakhte has no choice but to confront the harsh reality of Man's beliefs.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"2",
+        "SCENARIO_ID":"10001902",
+        "SCENARIO_NAME":"A Reason to Fight",
+        "SCENARIO_TEXT_FILE":"MF_Harakhte_S2.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"100019"
+    },
+    {
+        "DESCRIPTION":"The royal scions' disregard for life angers Harakhte, who vows to put an end to their inhumane rituals.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"3",
+        "SCENARIO_ID":"10001903",
+        "SCENARIO_NAME":"Chaos in Sight",
+        "SCENARIO_TEXT_FILE":"MF_Harakhte_S3A.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"100019"
+    },
+    {
+        "DESCRIPTION":"Having paid the price for victory with his own life, Harakhte places himself at the mercy of Fate.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"4",
+        "SCENARIO_ID":"10001904",
+        "SCENARIO_NAME":"One Last Breath",
+        "SCENARIO_TEXT_FILE":"MF_Harakhte_S3B.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"100019"
+    },
+    {
+        "DESCRIPTION":"Neferet's falcon spirit, Harakhte, would test the worth of her words in the form of a winged boy.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"5",
+        "SCENARIO_ID":"10001905",
+        "SCENARIO_NAME":"Worth of Her Words",
+        "SCENARIO_TEXT_FILE":"MF_Harakhte_CA.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"100019"
+    },
+    {
+        "DESCRIPTION":"Pleased, the boy pledges to serve as her spirit guardian. A long path awaits the priestess and her bodyguard...",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"6",
+        "SCENARIO_ID":"10001906",
+        "SCENARIO_NAME":"Guardian's Calling",
+        "SCENARIO_TEXT_FILE":"MF_Harakhte_CB.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"100019"
     },
     {
         "DESCRIPTION":"Two worlds collide as a happy celebration brings adventure to some lucky souls! Who are they? Find out!",

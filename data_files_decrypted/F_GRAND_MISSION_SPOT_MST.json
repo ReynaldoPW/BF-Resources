@@ -3751,7 +3751,20 @@
         "IMAGE":"",
         "LOCATIONS_NAME":"Dark Veil",
         "LOCATIONS_NUMBER":"17",
-        "M6C1aXfR":"1300",
+        "M6C1aXfR":"1150",
+        "MISSION_ID":"5008011",
+        "MISSION_SOUNDTRACK":"",
+        "SnNtTh51":"1750"
+    },
+    {
+        "0se8qAz1":"1",
+        "??SOME_SORT_OF_MISSION_IDS_LIST??":"2:96000,1:96001,0:96002",
+        "DUNGEON_IMAGE":"dungeon_battle_80195.jpg",
+        "FLAGS_TRIGGERED?":"",
+        "IMAGE":"",
+        "LOCATIONS_NAME":"Endless Illusion",
+        "LOCATIONS_NUMBER":"18",
+        "M6C1aXfR":"950",
         "MISSION_ID":"5008011",
         "MISSION_SOUNDTRACK":"",
         "SnNtTh51":"1750"
