@@ -27157,6 +27157,39 @@
         "id":"810928",
         "name":"MST_LEADERSKILLS_810928_NAME"
     },
+    "810958":{
+        "desc":"MST_LEADERSKILLS_810958_DESCRIPTION",
+        "effects":[
+            {
+                "atk% buff":100,
+                "def% buff":100,
+                "hp% buff":150,
+                "passive id":"1",
+                "rec% buff":100
+            },
+            {
+                "bc fill on spark high":3,
+                "bc fill on spark low":3,
+                "bc fill on spark%":300,
+                "passive id":"47"
+            },
+            {
+                "extra hits":1,
+                "extra hits dmg%":-20,
+                "passive id":"37"
+            },
+            {
+                "passive id":"43",
+                "take 1 dmg%":20
+            },
+            {
+                "params":"-50,40",
+                "passive id":"96"
+            }
+        ],
+        "id":"810958",
+        "name":"MST_LEADERSKILLS_810958_NAME"
+    },
     "811118":{
         "desc":"MST_LEADERSKILLS_811118_DESCRIPTION",
         "effects":[
@@ -29886,11 +29919,11 @@
         "desc":"MST_LEADERSKILLS_830558_DESCRIPTION",
         "effects":[
             {
-                "atk% buff":80,
-                "def% buff":120,
-                "hp% buff":80,
+                "atk% buff":100,
+                "def% buff":140,
+                "hp% buff":100,
                 "passive id":"2",
-                "rec% buff":120
+                "rec% buff":140
             },
             {
                 "bc fill when attacking chance%":100,
@@ -29905,7 +29938,15 @@
                 "passive id":"47"
             },
             {
+                "passive id":"48",
+                "reduced bc cost%":30
+            },
+            {
+                "base crit chance resist%":100,
+                "base crit dmg resist%":100,
                 "base elemental damage resist%":100,
+                "buffed crit chance resist%":100,
+                "buffed crit dmg resist%":100,
                 "buffed elemental damage resist%":100,
                 "passive id":"53"
             }

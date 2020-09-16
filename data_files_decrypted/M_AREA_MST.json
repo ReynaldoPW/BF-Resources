@@ -3897,7 +3897,7 @@
         "QUEST_ZONE_NAME":"Chilling Beauties",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
         "gq73WFmj":"",
-        "sHMai2ZG":"0"
+        "sHMai2ZG":"800167"
     },
     {
         "DESCRIPTION":"SP Dungeon",
@@ -3910,6 +3910,21 @@
         "QUEST_MAP_NUMBER/GUIDE_ID":"20200826",
         "QUEST_ZONE_MAP_NUMBER":"99",
         "QUEST_ZONE_NAME":"The Silver Knight",
+        "UNKNOWN_BOOLEAN_QUESTS":"1",
+        "gq73WFmj":"",
+        "sHMai2ZG":"0"
+    },
+    {
+        "DESCRIPTION":"SP Dungeon",
+        "IMAGE":"area_sp.jpg",
+        "MAP_OPENING_TEXT_FILE":"0",
+        "MISSION_AREA":"20001600",
+        "MISSION_IDS_REQUIRED":"0",
+        "QUEST_ALWAYS_EMPTY":"",
+        "QUEST_BANNER_IMG":"sp_quest_banner_20001600.png",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"202000922",
+        "QUEST_ZONE_MAP_NUMBER":"99",
+        "QUEST_ZONE_NAME":"The Scorching Blade",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
         "gq73WFmj":"",
         "sHMai2ZG":"0"

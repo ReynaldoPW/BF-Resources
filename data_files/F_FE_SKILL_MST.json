@@ -23639,6 +23639,28 @@
         "yRlCNyvk":"Add to BB\\/SBB (Probable 3 turns Atk, Def reduction infliction)"
     },
     {
+        "2Smu5Mtq":"10017,1&6000&6000&3&0,1,2,0,1,0,0",
+        "9PsmH7tz":"1010700133",
+        "D9wXQI2V":"3",
+        "G5wFDad6":"15",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010700133",
+        "yRlCNyvk":"Add to BB (Adds Fire shield [6000 HP, 6000 Def] for 3 turns)"
+    },
+    {
+        "2Smu5Mtq":"132,45&45&75&75&2&0,2,2,0,0,1,0",
+        "9PsmH7tz":"1010700134",
+        "D9wXQI2V":"5",
+        "G5wFDad6":"25",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010700134",
+        "yRlCNyvk":"Add to SBB (Probable [75%] 2 turns critical and elemental vulnerability [45%] infliction)"
+    },
+    {
         "2Smu5Mtq":"0,130,0,0,130",
         "9PsmH7tz":"1010800029",
         "D9wXQI2V":"4",
@@ -24220,6 +24242,94 @@
         "qp37xTDh":"",
         "ri6D9yBi":"1010800087",
         "yRlCNyvk":"Add to BB\\/SBB (Adds Light shield [6000 HP, 6000 Def] for 3 turns)"
+    },
+    {
+        "2Smu5Mtq":"20",
+        "9PsmH7tz":"1010800088",
+        "D9wXQI2V":"3",
+        "G5wFDad6":"10",
+        "hjAy9St3":"111",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010800088",
+        "yRlCNyvk":"20% BB\\/SBB activation rates"
+    },
+    {
+        "2Smu5Mtq":"1,1",
+        "9PsmH7tz":"1010800089",
+        "D9wXQI2V":"3",
+        "G5wFDad6":"10",
+        "hjAy9St3":"72",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010800089",
+        "yRlCNyvk":"Activates at turn's end effects during turn's start instead"
+    },
+    {
+        "2Smu5Mtq":"0,15,15,15,0,0,0@0,15,15,15,0,0,0",
+        "9PsmH7tz":"1010800090",
+        "D9wXQI2V":"2",
+        "G5wFDad6":"15",
+        "hjAy9St3":"5@5",
+        "jeR2rN3V":"2@3",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010800090",
+        "yRlCNyvk":"Enhances BB\\/SBB's boosts Atk, Def, Rec for Earth types effect [+15%]"
+    },
+    {
+        "2Smu5Mtq":"71,-30&3&0,2,2,0,0,1,0",
+        "9PsmH7tz":"1010800091",
+        "D9wXQI2V":"3",
+        "G5wFDad6":"10",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010800091",
+        "yRlCNyvk":"Add to SBB (3 turns 30% BB gauge fill rate reduction infliction)"
+    },
+    {
+        "2Smu5Mtq":"54,1.5&3&0,1,2,0,0,1,0",
+        "9PsmH7tz":"1010800092",
+        "D9wXQI2V":"4",
+        "G5wFDad6":"20",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010800092",
+        "yRlCNyvk":"Add to SBB (Boosts critical damage [150%] for 3 turns)"
+    },
+    {
+        "2Smu5Mtq":"19,1000&3&0,1,2,0,1,1,0",
+        "9PsmH7tz":"1010800093",
+        "D9wXQI2V":"5",
+        "G5wFDad6":"20",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010800093",
+        "yRlCNyvk":"Add to BB\\/SBB (Fills BB gauge [10 BC] for 3 turns)"
+    },
+    {
+        "2Smu5Mtq":"84,75&3&0,1,2,0,1,1,0",
+        "9PsmH7tz":"1010800094",
+        "D9wXQI2V":"5",
+        "G5wFDad6":"20",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010800094",
+        "yRlCNyvk":"Add to BB\\/SBB (Boosts OD gauge fill rate [75%] for 3 turns)"
+    },
+    {
+        "2Smu5Mtq":"17,100&100&100&100&100&100&3&70,1,2,0,1,1,0@73,100&100&100&3&70,1,2,0,1,1,0",
+        "9PsmH7tz":"1010800095",
+        "D9wXQI2V":"4",
+        "G5wFDad6":"25",
+        "hjAy9St3":"66@66",
+        "jeR2rN3V":"1@1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010800095",
+        "yRlCNyvk":"Add to BB\\/SBB (Negates all status ailments and Atk, Def, Rec reduction for 3 turns)"
     },
     {
         "2Smu5Mtq":"100,100,100,100,100,100,100,100,100",

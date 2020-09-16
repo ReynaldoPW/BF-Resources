@@ -10863,6 +10863,15 @@
         "SP_CAT_ID":"100013"
     },
     {
+        "DESCRIPTION":"A record of your spar against Roy, the Scorching Blade.\t",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"1",
+        "SCENARIO_ID":"10001307",
+        "SCENARIO_NAME":"The Scorching Blade",
+        "SCENARIO_TEXT_FILE":"BF2_07_Roy.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"100013"
+    },
+    {
         "DESCRIPTION":"Shadows oft follow in the wake of a demigod's decline.",
         "QUEST_MAP_NUMBER/GUIDE_ID":"1",
         "SCENARIO_ID":"10001601",

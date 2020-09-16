@@ -18936,6 +18936,72 @@
         "name":"MST_EXTRAPASSIVESKILL_8000518_NAME",
         "rarity":7
     },
+    "8000519":{
+        "conditions":"1#0,0%0,0%0,0@1#0,0%0,0%0,0@1#0,0%0,0%0,0@1#0,0%0,0%0,0@1#0,0%0,0%0,0@1#0,0%0,0%0,0",
+        "desc":"MST_EXTRAPASSIVESKILL_8000519_DESCRIPTION",
+        "effects":[
+            {
+                "atk% buff":15,
+                "def% buff":15,
+                "hp% buff":15,
+                "passive id":"2",
+                "rec% buff":15
+            },
+            {
+                "def% buff":120,
+                "hp% buff":50,
+                "passive id":"2"
+            },
+            {
+                "dmg% for spark":120,
+                "passive id":"31"
+            },
+            {
+                "params":"20",
+                "passive id":"111"
+            },
+            {
+                "params":"3,4,0,0,0,0,35,2",
+                "passive id":"63"
+            }
+        ],
+        "id":"8000519",
+        "name":"MST_EXTRAPASSIVESKILL_8000519_NAME",
+        "rarity":8
+    },
+    "8000520":{
+        "conditions":"1#0,0%0,0%0,0@1#0,0%0,0%0,0@1#0,0%0,0%0,0@1#0,0%0,0%0,0@1#0,0%0,0%0,0@1#0,0%0,0%0,0",
+        "desc":"MST_EXTRAPASSIVESKILL_8000520_DESCRIPTION",
+        "effects":[
+            {
+                "atk% buff":10,
+                "def% buff":10,
+                "hp% buff":10,
+                "passive id":"2",
+                "rec% buff":10
+            },
+            {
+                "def% buff":100,
+                "hp% buff":40,
+                "passive id":"2"
+            },
+            {
+                "dmg% for spark":100,
+                "passive id":"31"
+            },
+            {
+                "params":"15",
+                "passive id":"111"
+            },
+            {
+                "params":"3,4,0,0,0,0,35,2",
+                "passive id":"63"
+            }
+        ],
+        "id":"8000520",
+        "name":"MST_EXTRAPASSIVESKILL_8000520_NAME",
+        "rarity":7
+    },
     "8000527":{
         "conditions":"1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0",
         "desc":"MST_EXTRAPASSIVESKILL_8000527_DESCRIPTION",
@@ -21593,6 +21659,38 @@
         "id":"810928",
         "name":"MST_EXTRAPASSIVESKILL_810928_NAME",
         "rarity":7
+    },
+    "810958":{
+        "conditions":"1#5,1%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0",
+        "desc":"MST_EXTRAPASSIVESKILL_810958_DESCRIPTION",
+        "effects":[
+            {
+                "params":"1&2&3&4&5&6,150",
+                "passive id":"74"
+            },
+            {
+                "atk% buff":20,
+                "def% buff":20,
+                "hp% buff":20,
+                "passive id":"1",
+                "rec% buff":20
+            },
+            {
+                "dmg% for spark":25,
+                "passive id":"31"
+            },
+            {
+                "dmg% for spark":100,
+                "passive id":"31"
+            },
+            {
+                "params":"100,100,100,100,100,100,100,100,100",
+                "passive id":"73"
+            }
+        ],
+        "id":"810958",
+        "name":"MST_EXTRAPASSIVESKILL_810958_NAME",
+        "rarity":8
     },
     "811017":{
         "conditions":"1#0,0%0,0%0,0@1#0,0%0,0%0,0@1#0,0%0,0%0,0@1#0,0%0,0%0,0",
@@ -24659,7 +24757,7 @@
         "rarity":7
     },
     "830558":{
-        "conditions":"1#0,0%0,0%0,0@1#0,0%0,0%0,0@1#0,0%0,0%0,0@1#0,0%0,0%0,0@1#0,0%0,0%0,0@1#0,0%0,0%0,0",
+        "conditions":"1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0",
         "desc":"MST_EXTRAPASSIVESKILL_830558_DESCRIPTION",
         "effects":[
             {
@@ -24674,6 +24772,10 @@
             },
             {
                 "params":"112,-20,-1,20,1",
+                "passive id":"114"
+            },
+            {
+                "params":"2,-20,-1,15,2",
                 "passive id":"114"
             },
             {

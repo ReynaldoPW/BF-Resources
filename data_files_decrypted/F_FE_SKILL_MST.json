@@ -23641,6 +23641,28 @@
     {
         "DESCRIPTION":"",
         "EFFECT_AREA*":"1",
+        "LEVEL":"3",
+        "PROC/PASSIVE_ID(S)":"66",
+        "PROC/PASSIVE_PARAMETERS":"10017,1&6000&6000&3&0,1,2,0,1,0,0",
+        "SP_ID":"1010700133",
+        "SP_NAME":"Add to BB (Adds Fire shield [6000 HP, 6000 Def] for 3 turns)",
+        "SP_NEED_BP":"15",
+        "SP_SERIES":"1010700133"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
+        "LEVEL":"5",
+        "PROC/PASSIVE_ID(S)":"66",
+        "PROC/PASSIVE_PARAMETERS":"132,45&45&75&75&2&0,2,2,0,0,1,0",
+        "SP_ID":"1010700134",
+        "SP_NAME":"Add to SBB (Probable [75%] 2 turns critical and elemental vulnerability [45%] infliction)",
+        "SP_NEED_BP":"25",
+        "SP_SERIES":"1010700134"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
         "LEVEL":"4",
         "PROC/PASSIVE_ID(S)":"1",
         "PROC/PASSIVE_PARAMETERS":"0,130,0,0,130",
@@ -24220,6 +24242,94 @@
         "SP_NAME":"Add to BB\\/SBB (Adds Light shield [6000 HP, 6000 Def] for 3 turns)",
         "SP_NEED_BP":"25",
         "SP_SERIES":"1010800087"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
+        "LEVEL":"3",
+        "PROC/PASSIVE_ID(S)":"111",
+        "PROC/PASSIVE_PARAMETERS":"20",
+        "SP_ID":"1010800088",
+        "SP_NAME":"20% BB\\/SBB activation rates",
+        "SP_NEED_BP":"10",
+        "SP_SERIES":"1010800088"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
+        "LEVEL":"3",
+        "PROC/PASSIVE_ID(S)":"72",
+        "PROC/PASSIVE_PARAMETERS":"1,1",
+        "SP_ID":"1010800089",
+        "SP_NAME":"Activates at turn's end effects during turn's start instead",
+        "SP_NEED_BP":"10",
+        "SP_SERIES":"1010800089"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"2@3",
+        "LEVEL":"2",
+        "PROC/PASSIVE_ID(S)":"5@5",
+        "PROC/PASSIVE_PARAMETERS":"0,15,15,15,0,0,0@0,15,15,15,0,0,0",
+        "SP_ID":"1010800090",
+        "SP_NAME":"Enhances BB\\/SBB's boosts Atk, Def, Rec for Earth types effect [+15%]",
+        "SP_NEED_BP":"15",
+        "SP_SERIES":"1010800090"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
+        "LEVEL":"3",
+        "PROC/PASSIVE_ID(S)":"66",
+        "PROC/PASSIVE_PARAMETERS":"71,-30&3&0,2,2,0,0,1,0",
+        "SP_ID":"1010800091",
+        "SP_NAME":"Add to SBB (3 turns 30% BB gauge fill rate reduction infliction)",
+        "SP_NEED_BP":"10",
+        "SP_SERIES":"1010800091"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
+        "LEVEL":"4",
+        "PROC/PASSIVE_ID(S)":"66",
+        "PROC/PASSIVE_PARAMETERS":"54,1.5&3&0,1,2,0,0,1,0",
+        "SP_ID":"1010800092",
+        "SP_NAME":"Add to SBB (Boosts critical damage [150%] for 3 turns)",
+        "SP_NEED_BP":"20",
+        "SP_SERIES":"1010800092"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
+        "LEVEL":"5",
+        "PROC/PASSIVE_ID(S)":"66",
+        "PROC/PASSIVE_PARAMETERS":"19,1000&3&0,1,2,0,1,1,0",
+        "SP_ID":"1010800093",
+        "SP_NAME":"Add to BB\\/SBB (Fills BB gauge [10 BC] for 3 turns)",
+        "SP_NEED_BP":"20",
+        "SP_SERIES":"1010800093"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
+        "LEVEL":"5",
+        "PROC/PASSIVE_ID(S)":"66",
+        "PROC/PASSIVE_PARAMETERS":"84,75&3&0,1,2,0,1,1,0",
+        "SP_ID":"1010800094",
+        "SP_NAME":"Add to BB\\/SBB (Boosts OD gauge fill rate [75%] for 3 turns)",
+        "SP_NEED_BP":"20",
+        "SP_SERIES":"1010800094"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1@1",
+        "LEVEL":"4",
+        "PROC/PASSIVE_ID(S)":"66@66",
+        "PROC/PASSIVE_PARAMETERS":"17,100&100&100&100&100&100&3&70,1,2,0,1,1,0@73,100&100&100&3&70,1,2,0,1,1,0",
+        "SP_ID":"1010800095",
+        "SP_NAME":"Add to BB\\/SBB (Negates all status ailments and Atk, Def, Rec reduction for 3 turns)",
+        "SP_NEED_BP":"25",
+        "SP_SERIES":"1010800095"
     },
     {
         "DESCRIPTION":"",
