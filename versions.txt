@@ -76,7 +76,7 @@
         "moWQ30GH":"M_NPC_MST"
     },
     {
-        "d2RFtP8T":"1589",
+        "d2RFtP8T":"1590",
         "moWQ30GH":"M_GACHA_EFFECT_MST"
     },
     {
@@ -124,11 +124,11 @@
         "moWQ30GH":"F_LAND_MST"
     },
     {
-        "d2RFtP8T":"454",
+        "d2RFtP8T":"455",
         "moWQ30GH":"F_AREA_MST"
     },
     {
-        "d2RFtP8T":"800",
+        "d2RFtP8T":"803",
         "moWQ30GH":"F_DUNGEON_MST"
     },
     {
