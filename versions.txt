@@ -128,7 +128,7 @@
         "moWQ30GH":"F_AREA_MST"
     },
     {
-        "d2RFtP8T":"803",
+        "d2RFtP8T":"804",
         "moWQ30GH":"F_DUNGEON_MST"
     },
     {
@@ -500,7 +500,7 @@
         "moWQ30GH":"F_HELP_DETAIL_MST"
     },
     {
-        "d2RFtP8T":"201",
+        "d2RFtP8T":"202",
         "moWQ30GH":"F_MISSION_SCRIPT_MST"
     },
     {
