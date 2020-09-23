@@ -24332,6 +24332,28 @@
         "yRlCNyvk":"Add to BB\\/SBB (Negates all status ailments and Atk, Def, Rec reduction for 3 turns)"
     },
     {
+        "2Smu5Mtq":"10000,150&150&0&2&0,3,1,0,0,1,0",
+        "9PsmH7tz":"1010800096",
+        "D9wXQI2V":"5",
+        "G5wFDad6":"25",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010800096",
+        "yRlCNyvk":"Add to SBB (Activates Taunt and boosts own Atk, Def [150%] for 2 turns)"
+    },
+    {
+        "2Smu5Mtq":"0,0,0,0,0,0,0,1,0@0,0,0,0,0,0,1,0@0,0,0,1,0",
+        "9PsmH7tz":"1010800097",
+        "D9wXQI2V":"4",
+        "G5wFDad6":"10",
+        "hjAy9St3":"39@93@85",
+        "jeR2rN3V":"2@2@2",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010800097",
+        "yRlCNyvk":"Allows BB's base effects to last additional 1 turn"
+    },
+    {
         "2Smu5Mtq":"100,100,100,100,100,100,100,100,100",
         "9PsmH7tz":"1010900001",
         "D9wXQI2V":"3",

@@ -4602,6 +4602,45 @@
         "REWARD_TYPE*":"6"
     },
     {
+        "64hAvkZX":"1",
+        "ELGIF_REWARD*":"0",
+        "MISSION_ID":"5008011",
+        "PRESENT_AMOUNT":"1",
+        "REQUIREMENT_PARAMETER":"8714",
+        "REQUIREMENT_TYPE*":"2",
+        "REWARD_CONDITION":"Secret Objective 3 Complete",
+        "REWARD_CONDITION_DESCRIPTION":"Secret Objective 3 Complete",
+        "REWARD_ID":"87041",
+        "REWARD_ITEM_ID":"0",
+        "REWARD_TYPE*":"8"
+    },
+    {
+        "64hAvkZX":"1",
+        "ELGIF_REWARD*":"1:0",
+        "MISSION_ID":"5008011",
+        "PRESENT_AMOUNT":"1",
+        "REQUIREMENT_PARAMETER":"8714",
+        "REQUIREMENT_TYPE*":"2",
+        "REWARD_CONDITION":"Secret Objective 3 Complete",
+        "REWARD_CONDITION_DESCRIPTION":"Secret Objective 3 Complete",
+        "REWARD_ID":"87042",
+        "REWARD_ITEM_ID":"87202602",
+        "REWARD_TYPE*":"6"
+    },
+    {
+        "64hAvkZX":"1",
+        "ELGIF_REWARD*":"1:0",
+        "MISSION_ID":"5008011",
+        "PRESENT_AMOUNT":"1",
+        "REQUIREMENT_PARAMETER":"8714",
+        "REQUIREMENT_TYPE*":"2",
+        "REWARD_CONDITION":"Secret Objective 3 Complete",
+        "REWARD_CONDITION_DESCRIPTION":"Secret Objective 3 Complete",
+        "REWARD_ID":"87043",
+        "REWARD_ITEM_ID":"730352",
+        "REWARD_TYPE*":"6"
+    },
+    {
         "64hAvkZX":"0",
         "ELGIF_REWARD*":"0",
         "MISSION_ID":"5008011",

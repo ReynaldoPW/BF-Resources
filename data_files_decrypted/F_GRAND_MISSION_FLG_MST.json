@@ -11061,12 +11061,12 @@
         "ky1xsH0h":"1"
     },
     {
-        "AI_CHANCE":"0",
+        "AI_CHANCE":"5",
         "DESCRIPTION":"Episode 9 Clear",
         "MISSION_ID":"5008011",
         "REQUIREMENT_ID":"8708",
-        "REQUIREMENT_RARITY*":"0",
-        "Ufm6c7RA":"0",
+        "REQUIREMENT_RARITY*":"3",
+        "Ufm6c7RA":"1",
         "ky1xsH0h":"1"
     },
     {
@@ -11110,6 +11110,15 @@
         "DESCRIPTION":"Secret Objective 2 Cleared!",
         "MISSION_ID":"5008011",
         "REQUIREMENT_ID":"8713",
+        "REQUIREMENT_RARITY*":"1",
+        "Ufm6c7RA":"0",
+        "ky1xsH0h":"1"
+    },
+    {
+        "AI_CHANCE":"10",
+        "DESCRIPTION":"Secret Objective 3 Cleared!",
+        "MISSION_ID":"5008011",
+        "REQUIREMENT_ID":"8714",
         "REQUIREMENT_RARITY*":"1",
         "Ufm6c7RA":"0",
         "ky1xsH0h":"1"
@@ -11587,6 +11596,96 @@
         "DESCRIPTION":" ",
         "MISSION_ID":"5008011",
         "REQUIREMENT_ID":"87236",
+        "REQUIREMENT_RARITY*":"0",
+        "Ufm6c7RA":"0",
+        "ky1xsH0h":"2"
+    },
+    {
+        "AI_CHANCE":"0",
+        "DESCRIPTION":" ",
+        "MISSION_ID":"5008011",
+        "REQUIREMENT_ID":"87237",
+        "REQUIREMENT_RARITY*":"0",
+        "Ufm6c7RA":"0",
+        "ky1xsH0h":"2"
+    },
+    {
+        "AI_CHANCE":"0",
+        "DESCRIPTION":" ",
+        "MISSION_ID":"5008011",
+        "REQUIREMENT_ID":"87238",
+        "REQUIREMENT_RARITY*":"0",
+        "Ufm6c7RA":"0",
+        "ky1xsH0h":"2"
+    },
+    {
+        "AI_CHANCE":"0",
+        "DESCRIPTION":" ",
+        "MISSION_ID":"5008011",
+        "REQUIREMENT_ID":"87239",
+        "REQUIREMENT_RARITY*":"0",
+        "Ufm6c7RA":"0",
+        "ky1xsH0h":"2"
+    },
+    {
+        "AI_CHANCE":"0",
+        "DESCRIPTION":" ",
+        "MISSION_ID":"5008011",
+        "REQUIREMENT_ID":"87240",
+        "REQUIREMENT_RARITY*":"0",
+        "Ufm6c7RA":"0",
+        "ky1xsH0h":"2"
+    },
+    {
+        "AI_CHANCE":"0",
+        "DESCRIPTION":" ",
+        "MISSION_ID":"5008011",
+        "REQUIREMENT_ID":"87241",
+        "REQUIREMENT_RARITY*":"0",
+        "Ufm6c7RA":"0",
+        "ky1xsH0h":"2"
+    },
+    {
+        "AI_CHANCE":"0",
+        "DESCRIPTION":" ",
+        "MISSION_ID":"5008011",
+        "REQUIREMENT_ID":"87242",
+        "REQUIREMENT_RARITY*":"0",
+        "Ufm6c7RA":"0",
+        "ky1xsH0h":"2"
+    },
+    {
+        "AI_CHANCE":"0",
+        "DESCRIPTION":" ",
+        "MISSION_ID":"5008011",
+        "REQUIREMENT_ID":"87243",
+        "REQUIREMENT_RARITY*":"0",
+        "Ufm6c7RA":"0",
+        "ky1xsH0h":"2"
+    },
+    {
+        "AI_CHANCE":"0",
+        "DESCRIPTION":" ",
+        "MISSION_ID":"5008011",
+        "REQUIREMENT_ID":"87244",
+        "REQUIREMENT_RARITY*":"0",
+        "Ufm6c7RA":"0",
+        "ky1xsH0h":"2"
+    },
+    {
+        "AI_CHANCE":"0",
+        "DESCRIPTION":" ",
+        "MISSION_ID":"5008011",
+        "REQUIREMENT_ID":"87245",
+        "REQUIREMENT_RARITY*":"0",
+        "Ufm6c7RA":"0",
+        "ky1xsH0h":"2"
+    },
+    {
+        "AI_CHANCE":"0",
+        "DESCRIPTION":" ",
+        "MISSION_ID":"5008011",
+        "REQUIREMENT_ID":"87246",
         "REQUIREMENT_RARITY*":"0",
         "Ufm6c7RA":"0",
         "ky1xsH0h":"2"

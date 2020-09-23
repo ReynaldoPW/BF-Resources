@@ -28995,6 +28995,41 @@
         "id":"820868",
         "name":"MST_LEADERSKILLS_820868_NAME"
     },
+    "820888":{
+        "desc":"MST_LEADERSKILLS_820888_DESCRIPTION",
+        "effects":[
+            {
+                "atk% buff":100,
+                "def% buff":100,
+                "hp% buff":150,
+                "passive id":"1",
+                "rec% buff":100
+            },
+            {
+                "elemental weakness dmg%":250,
+                "elements":[
+                    "water"
+                ],
+                "passive id":"50"
+            },
+            {
+                "params":"36,20,-1,5000,1",
+                "passive id":"78"
+            },
+            {
+                "passive id":"43",
+                "take 1 dmg%":20
+            },
+            {
+                "dmg% to hp% when attacked chance%":50,
+                "dmg% to hp% when attacked high":30,
+                "dmg% to hp% when attacked low":25,
+                "passive id":"24"
+            }
+        ],
+        "id":"820888",
+        "name":"MST_LEADERSKILLS_820888_NAME"
+    },
     "820898":{
         "desc":"MST_LEADERSKILLS_820898_DESCRIPTION",
         "effects":[

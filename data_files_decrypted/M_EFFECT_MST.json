@@ -50256,6 +50256,18 @@
         "EFFECT_AREA*":"2"
     },
     {
+        "1NijIP2a":"120",
+        "BATTLE_EFFECT_FILE":"effect_prt_1165_blue.plist",
+        "BATTLE_EFFECT_ID":"9500071",
+        "EFFECT_AREA*":"2"
+    },
+    {
+        "1NijIP2a":"140",
+        "BATTLE_EFFECT_FILE":"effect_prt_1165_blue.plist",
+        "BATTLE_EFFECT_ID":"9500072",
+        "EFFECT_AREA*":"2"
+    },
+    {
         "1NijIP2a":"30",
         "BATTLE_EFFECT_FILE":"effect_prt_1138_yellow.plist",
         "BATTLE_EFFECT_ID":"9600001",

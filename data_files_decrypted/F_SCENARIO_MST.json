@@ -9081,6 +9081,51 @@
         "SP_CAT_ID":"85007"
     },
     {
+        "DESCRIPTION":"Some do not simply allow sleeping serpents to lie--especially when it is not their time to die.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"36",
+        "SCENARIO_ID":"87135",
+        "SCENARIO_NAME":"Disturbance",
+        "SCENARIO_TEXT_FILE":"X7_Arc5_Ep1_1.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"85007"
+    },
+    {
+        "DESCRIPTION":"Inara recalls a cataclysmic flood that seems important in some way.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"37",
+        "SCENARIO_ID":"87136",
+        "SCENARIO_NAME":"Memories of a Flood",
+        "SCENARIO_TEXT_FILE":"X7_Arc5_Ep1_2.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"85007"
+    },
+    {
+        "DESCRIPTION":"A goddess not only remembers; a goddess also learns and bides her time.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"38",
+        "SCENARIO_ID":"87137",
+        "SCENARIO_NAME":"A Body of One's Own",
+        "SCENARIO_TEXT_FILE":"X7_Arc5_Ep1_3A.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"85007"
+    },
+    {
+        "DESCRIPTION":"One person's fortuitous survival is another's can of terrible, black-hole-dwelling worms.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"39",
+        "SCENARIO_ID":"87138",
+        "SCENARIO_NAME":"Right Place, Wrong Time",
+        "SCENARIO_TEXT_FILE":"X7_Arc5_Ep1_3B.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"85007"
+    },
+    {
+        "DESCRIPTION":"It was just a color out of space--a frightful, gestating entity from unformed realms.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"40",
+        "SCENARIO_ID":"87139",
+        "SCENARIO_NAME":"An Anomalous Color",
+        "SCENARIO_TEXT_FILE":"X7_Arc5_Ep1_HM.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"85007"
+    },
+    {
         "DESCRIPTION":"Welcome to an odd sort of theater - your audience awaits you with bated breath. Don't die.",
         "QUEST_MAP_NUMBER/GUIDE_ID":"97",
         "SCENARIO_ID":"88400",

@@ -24334,6 +24334,28 @@
     {
         "DESCRIPTION":"",
         "EFFECT_AREA*":"1",
+        "LEVEL":"5",
+        "PROC/PASSIVE_ID(S)":"66",
+        "PROC/PASSIVE_PARAMETERS":"10000,150&150&0&2&0,3,1,0,0,1,0",
+        "SP_ID":"1010800096",
+        "SP_NAME":"Add to SBB (Activates Taunt and boosts own Atk, Def [150%] for 2 turns)",
+        "SP_NEED_BP":"25",
+        "SP_SERIES":"1010800096"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"2@2@2",
+        "LEVEL":"4",
+        "PROC/PASSIVE_ID(S)":"39@93@85",
+        "PROC/PASSIVE_PARAMETERS":"0,0,0,0,0,0,0,1,0@0,0,0,0,0,0,1,0@0,0,0,1,0",
+        "SP_ID":"1010800097",
+        "SP_NAME":"Allows BB's base effects to last additional 1 turn",
+        "SP_NEED_BP":"10",
+        "SP_SERIES":"1010800097"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
         "LEVEL":"3",
         "PROC/PASSIVE_ID(S)":"73",
         "PROC/PASSIVE_PARAMETERS":"100,100,100,100,100,100,100,100,100",

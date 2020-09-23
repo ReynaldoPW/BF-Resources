@@ -7368,6 +7368,10 @@
         "UNIT_ID":"820868"
     },
     {
+        "PROCESS_ID":"1:unit_idle_cgs_820888.csv|2:unit_move_cgs_820888.csv|3:unit_atk_cgs_820888.csv|4:unit_atk_cgs_820888.csv",
+        "UNIT_ID":"820888"
+    },
+    {
         "PROCESS_ID":"1:unit_idle_cgs_820898.csv|2:unit_move_cgs_820898.csv|3:unit_atk_cgs_820898.csv|4:unit_atk_cgs_820898.csv",
         "UNIT_ID":"820898"
     },

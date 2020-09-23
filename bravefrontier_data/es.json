@@ -23698,6 +23698,45 @@
         "name":"MST_EXTRAPASSIVESKILL_820868_NAME",
         "rarity":8
     },
+    "820888":{
+        "conditions":"1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0",
+        "desc":"MST_EXTRAPASSIVESKILL_820888_DESCRIPTION",
+        "effects":[
+            {
+                "atk% buff":20,
+                "def% buff":20,
+                "hp% buff":20,
+                "passive id":"1",
+                "rec% buff":20
+            },
+            {
+                "miti%":5,
+                "passive id":"8"
+            },
+            {
+                "dmg% reflect chance%":70,
+                "dmg% reflect high":40,
+                "dmg% reflect low":40,
+                "passive id":"26"
+            },
+            {
+                "elemental weakness dmg%":100,
+                "elements":[
+                    "water"
+                ],
+                "passive id":"50"
+            },
+            {
+                "bc fill when attacked chance%":100,
+                "bc fill when attacked high":4,
+                "bc fill when attacked low":2,
+                "passive id":"25"
+            }
+        ],
+        "id":"820888",
+        "name":"MST_EXTRAPASSIVESKILL_820888_NAME",
+        "rarity":7
+    },
     "820898":{
         "conditions":"1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0",
         "desc":"MST_EXTRAPASSIVESKILL_820898_DESCRIPTION",
