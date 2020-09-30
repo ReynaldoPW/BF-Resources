@@ -12,7 +12,7 @@
         "moWQ30GH":"M_LEVEL_MST"
     },
     {
-        "d2RFtP8T":"949",
+        "d2RFtP8T":"950",
         "moWQ30GH":"M_GACHA_MST"
     },
     {
@@ -76,7 +76,7 @@
         "moWQ30GH":"M_NPC_MST"
     },
     {
-        "d2RFtP8T":"1592",
+        "d2RFtP8T":"1593",
         "moWQ30GH":"M_GACHA_EFFECT_MST"
     },
     {
@@ -472,7 +472,7 @@
         "moWQ30GH":"F_EXTRA_PASSIVE_SKILL_MST"
     },
     {
-        "d2RFtP8T":"3028",
+        "d2RFtP8T":"3029",
         "moWQ30GH":"F_RESOURCE_MST"
     },
     {
@@ -492,7 +492,7 @@
         "moWQ30GH":"F_EFFECT_GROUP_MST"
     },
     {
-        "d2RFtP8T":"651",
+        "d2RFtP8T":"652",
         "moWQ30GH":"F_LEADER_SKILL_MST"
     },
     {
