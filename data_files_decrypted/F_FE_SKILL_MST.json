@@ -23663,6 +23663,28 @@
     {
         "DESCRIPTION":"",
         "EFFECT_AREA*":"1",
+        "LEVEL":"5",
+        "PROC/PASSIVE_ID(S)":"66",
+        "PROC/PASSIVE_PARAMETERS":"47,200&500&0&200&0&0&0&0,2,2,0,0,1,0",
+        "SP_ID":"1010700135",
+        "SP_NAME":"Add to SBB (27 combo Thunder attack on all foes (damage relative to remaining HP))",
+        "SP_NEED_BP":"25",
+        "SP_SERIES":"1010700135"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
+        "LEVEL":"4",
+        "PROC/PASSIVE_ID(S)":"66",
+        "PROC/PASSIVE_PARAMETERS":"9,0&1&-60&50&2&-60&50&2&0,2,2,0,0,1,0",
+        "SP_ID":"1010700136",
+        "SP_NAME":"Add to SBB (probable 2 turns Atk, Def reduction infliction)",
+        "SP_NEED_BP":"20",
+        "SP_SERIES":"1010700136"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
         "LEVEL":"4",
         "PROC/PASSIVE_ID(S)":"1",
         "PROC/PASSIVE_PARAMETERS":"0,130,0,0,130",

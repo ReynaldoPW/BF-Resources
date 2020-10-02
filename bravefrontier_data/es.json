@@ -27722,6 +27722,40 @@
         "name":"MST_EXTRAPASSIVESKILL_840900_NAME",
         "rarity":7
     },
+    "840958":{
+        "conditions":"1#5,1%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0",
+        "desc":"MST_EXTRAPASSIVESKILL_840958_DESCRIPTION",
+        "effects":[
+            {
+                "params":"0,60,0,60,0,0,1,3",
+                "passive id":"105"
+            },
+            {
+                "passive id":"49",
+                "reduced bc used chance%":100,
+                "reduced bc used% high":20,
+                "reduced bc used% low":10
+            },
+            {
+                "atk% buff":40,
+                "def% buff":40,
+                "hp% buff":40,
+                "passive id":"1",
+                "rec% buff":40
+            },
+            {
+                "params":"100,100",
+                "passive id":"77"
+            },
+            {
+                "params":"100",
+                "passive id":"92"
+            }
+        ],
+        "id":"840958",
+        "name":"MST_EXTRAPASSIVESKILL_840958_NAME",
+        "rarity":8
+    },
     "8500":{
         "conditions":"1#0,0%0,0%0,0@1#0,0%0,0%0,0@1#0,0%0,0%0,0@1#0,0%0,0%0,0",
         "desc":"MST_EXTRAPASSIVESKILL_8500_DESCRIPTION",
