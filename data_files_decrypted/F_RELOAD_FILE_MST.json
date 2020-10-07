@@ -2150,5 +2150,9 @@
     {
         "RELOAD_FILES":"Banner_NewUnit_Gilbert.png",
         "RELOAD_ID":"3110"
+    },
+    {
+        "RELOAD_FILES":"Halloween2020_Heroes_Selector_ticket_event.png",
+        "RELOAD_ID":"3111"
     }
 ]
