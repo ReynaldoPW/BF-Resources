@@ -13809,5 +13809,29 @@
         "short desc":"Set, Inoko and Charlie are available through the Summon Gate!",
         "start time":"2020-10-07 15:00:00",
         "summon button image":"gacha_rare_summons_btn1.png"
+    },
+    "19580":{
+        "background image":"gacha_img_20201007PAD_s1.png",
+        "desc":"From 7 Oct 7:00 PST ~ 14 Oct 6:59 PST, summon minimum 5* Regil to Roglizer and Global exclusive units with Omni Potential, and stand a chance to summon Noel! Collect your free daily Pre-Anniversary Ticket I and summon now!",
+        "door image":"gacha_rare_door.png",
+        "end time":"2020-10-14 14:59:59",
+        "gem cost":5,
+        "name":"Pre-Anniversary Daily Summon I",
+        "priority":"2",
+        "short desc":"Noel is available through the Summon Gate! Collect your free daily Pre-Anniversary Ticket I and summon now!",
+        "start time":"2020-10-07 15:00:00",
+        "summon button image":"gacha_rare_summons_btn1.png"
+    },
+    "19590":{
+        "background image":"gacha_img_20201007DU_s1.png",
+        "desc":"From 7 Oct 7:00 PST ~ 14 Oct 6:59 PST, summon minimum 5* Global exclusive units with Omni Potential and enjoy Increased Rates with each summon on Hypaea and Suizen!",
+        "door image":"gacha_rare_door.png",
+        "end time":"2020-10-14 14:59:59",
+        "gem cost":5,
+        "name":"Destiny Unite Summon",
+        "priority":"2",
+        "short desc":"Hypaea and Suizen is are available through the Summon Gate! Get a Earth & Thunder DBB Mystery Chest for every 7 Summons from the same gate!",
+        "start time":"2020-10-07 15:00:00",
+        "summon button image":"gacha_rare_summons_btn1.png"
     }
 }

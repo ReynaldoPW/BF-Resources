@@ -76,7 +76,7 @@
         "moWQ30GH":"M_NPC_MST"
     },
     {
-        "d2RFtP8T":"1596",
+        "d2RFtP8T":"1597",
         "moWQ30GH":"M_GACHA_EFFECT_MST"
     },
     {
@@ -128,7 +128,7 @@
         "moWQ30GH":"F_AREA_MST"
     },
     {
-        "d2RFtP8T":"808",
+        "d2RFtP8T":"0",
         "moWQ30GH":"F_DUNGEON_MST"
     },
     {
@@ -220,7 +220,7 @@
         "moWQ30GH":"F_CHRONOLOGY_WORD_MST"
     },
     {
-        "d2RFtP8T":"406",
+        "d2RFtP8T":"408",
         "moWQ30GH":"F_FROGATE_MST"
     },
     {
@@ -612,7 +612,7 @@
         "moWQ30GH":"F_GUILD_INFO_MST"
     },
     {
-        "d2RFtP8T":"225",
+        "d2RFtP8T":"0",
         "moWQ30GH":"F_GUILD_POINT_EXCHANGE_MST"
     },
     {
