@@ -782,5 +782,12 @@
         "SCENARIO_SUPERSECTION*":"70000",
         "SP_CAT_ID":"100021",
         "SP_CAT_NAME":"Beach Paradise"
+    },
+    {
+        "DESCRIPTION":"A record of a strange memory you don't recall having.\t",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"35",
+        "SCENARIO_SUPERSECTION*":"0",
+        "SP_CAT_ID":"100022",
+        "SP_CAT_NAME":"Shadow of Memories"
     }
 ]

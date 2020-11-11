@@ -23850,6 +23850,61 @@
     {
         "DESCRIPTION":"",
         "EFFECT_AREA*":"1",
+        "LEVEL":"5",
+        "PROC/PASSIVE_ID(S)":"107",
+        "PROC/PASSIVE_PARAMETERS":"50,2$0$0$0$0$0$2.5",
+        "SP_ID":"1010700152",
+        "SP_NAME":"Add to LS (250% Water elemental damage)",
+        "SP_NEED_BP":"30",
+        "SP_SERIES":"1010700152"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
+        "LEVEL":"4",
+        "PROC/PASSIVE_ID(S)":"66",
+        "PROC/PASSIVE_PARAMETERS":"10015,125&3&0&2,1,2,0,0,1,0",
+        "SP_ID":"1010700153",
+        "SP_NAME":"Add to SBB (boosts spark damage [125%] (Water) for 3 turns)",
+        "SP_NEED_BP":"20",
+        "SP_SERIES":"1010700153"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"2@2@2@2",
+        "LEVEL":"4",
+        "PROC/PASSIVE_ID(S)":"52@84@10001@87",
+        "PROC/PASSIVE_PARAMETERS":"0,1,0@0,1,0@0,0,0,0,1,0@0,0,0,1,0",
+        "SP_ID":"1010700154",
+        "SP_NAME":"Allows BB's effects to last additional 1 turn",
+        "SP_NEED_BP":"10",
+        "SP_SERIES":"1010700154"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
+        "LEVEL":"4",
+        "PROC/PASSIVE_ID(S)":"66",
+        "PROC/PASSIVE_PARAMETERS":"47,200&500&0&200&0&0&0&0,2,2,0,0,1,0",
+        "SP_ID":"1010700155",
+        "SP_NAME":"Add to SBB (27 combo Water attack [200-500%] on all foes (damage relative to remaining HP))",
+        "SP_NEED_BP":"20",
+        "SP_SERIES":"1010700155"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
+        "LEVEL":"4",
+        "PROC/PASSIVE_ID(S)":"66",
+        "PROC/PASSIVE_PARAMETERS":"19,1400&3&0,1,2,0,1,0,0",
+        "SP_ID":"1010700156",
+        "SP_NAME":"Add to BB (Fills BB gauge [14 BC] for 3 turns)",
+        "SP_NEED_BP":"20",
+        "SP_SERIES":"1010700156"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
         "LEVEL":"4",
         "PROC/PASSIVE_ID(S)":"1",
         "PROC/PASSIVE_PARAMETERS":"0,130,0,0,130",

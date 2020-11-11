@@ -11088,12 +11088,12 @@
         "ky1xsH0h":"1"
     },
     {
-        "AI_CHANCE":"0",
+        "AI_CHANCE":"5",
         "DESCRIPTION":"Episode 12 Clear",
         "MISSION_ID":"5008011",
         "REQUIREMENT_ID":"8711",
-        "REQUIREMENT_RARITY*":"0",
-        "Ufm6c7RA":"0",
+        "REQUIREMENT_RARITY*":"3",
+        "Ufm6c7RA":"1",
         "ky1xsH0h":"1"
     },
     {
@@ -11124,12 +11124,48 @@
         "ky1xsH0h":"1"
     },
     {
-        "AI_CHANCE":"1",
+        "AI_CHANCE":"0",
+        "DESCRIPTION":" ",
+        "MISSION_ID":"5008011",
+        "REQUIREMENT_ID":"8715",
+        "REQUIREMENT_RARITY*":"0",
+        "Ufm6c7RA":"0",
+        "ky1xsH0h":"1"
+    },
+    {
+        "AI_CHANCE":"0",
+        "DESCRIPTION":" ",
+        "MISSION_ID":"5008011",
+        "REQUIREMENT_ID":"8716",
+        "REQUIREMENT_RARITY*":"0",
+        "Ufm6c7RA":"0",
+        "ky1xsH0h":"1"
+    },
+    {
+        "AI_CHANCE":"5",
+        "DESCRIPTION":"Defeated Kranus",
+        "MISSION_ID":"5008011",
+        "REQUIREMENT_ID":"8717",
+        "REQUIREMENT_RARITY*":"1",
+        "Ufm6c7RA":"1",
+        "ky1xsH0h":"1"
+    },
+    {
+        "AI_CHANCE":"5",
+        "DESCRIPTION":"Defeated S'eljah",
+        "MISSION_ID":"5008011",
+        "REQUIREMENT_ID":"8718",
+        "REQUIREMENT_RARITY*":"1",
+        "Ufm6c7RA":"1",
+        "ky1xsH0h":"1"
+    },
+    {
+        "AI_CHANCE":"0",
         "DESCRIPTION":"More episodes coming soon!",
         "MISSION_ID":"5008011",
         "REQUIREMENT_ID":"8799",
-        "REQUIREMENT_RARITY*":"1",
-        "Ufm6c7RA":"1",
+        "REQUIREMENT_RARITY*":"0",
+        "Ufm6c7RA":"0",
         "ky1xsH0h":"1"
     },
     {
@@ -11686,6 +11722,33 @@
         "DESCRIPTION":" ",
         "MISSION_ID":"5008011",
         "REQUIREMENT_ID":"87246",
+        "REQUIREMENT_RARITY*":"0",
+        "Ufm6c7RA":"0",
+        "ky1xsH0h":"2"
+    },
+    {
+        "AI_CHANCE":"0",
+        "DESCRIPTION":" ",
+        "MISSION_ID":"5008011",
+        "REQUIREMENT_ID":"87247",
+        "REQUIREMENT_RARITY*":"0",
+        "Ufm6c7RA":"0",
+        "ky1xsH0h":"2"
+    },
+    {
+        "AI_CHANCE":"0",
+        "DESCRIPTION":" ",
+        "MISSION_ID":"5008011",
+        "REQUIREMENT_ID":"87248",
+        "REQUIREMENT_RARITY*":"0",
+        "Ufm6c7RA":"0",
+        "ky1xsH0h":"2"
+    },
+    {
+        "AI_CHANCE":"0",
+        "DESCRIPTION":" ",
+        "MISSION_ID":"5008011",
+        "REQUIREMENT_ID":"87249",
         "REQUIREMENT_RARITY*":"0",
         "Ufm6c7RA":"0",
         "ky1xsH0h":"2"

@@ -58625,6 +58625,76 @@
         "EFFECT_AREA*":"2"
     },
     {
+        "1NijIP2a":"80",
+        "BATTLE_EFFECT_FILE":"effect_prt_1124.plist",
+        "BATTLE_EFFECT_ID":"9400223",
+        "BATTLE_EFFECT_NAME":"bf2sheena_pointy",
+        "EFFECT_AREA*":"2"
+    },
+    {
+        "1NijIP2a":"50",
+        "BATTLE_EFFECT_FILE":"effect_prt_1180.plist",
+        "BATTLE_EFFECT_ID":"9400224",
+        "BATTLE_EFFECT_NAME":"bf2sheena_blueflame",
+        "EFFECT_AREA*":"2"
+    },
+    {
+        "1NijIP2a":"50",
+        "BATTLE_EFFECT_FILE":"effect_prt_104_2_2.plist",
+        "BATTLE_EFFECT_ID":"9400225",
+        "BATTLE_EFFECT_NAME":"bf2sheena_bluespark",
+        "EFFECT_AREA*":"2"
+    },
+    {
+        "1NijIP2a":"30",
+        "BATTLE_EFFECT_FILE":"effect_prt_1087_blue.plist",
+        "BATTLE_EFFECT_ID":"9400226",
+        "BATTLE_EFFECT_NAME":"bf2sheena_hit",
+        "EFFECT_AREA*":"2"
+    },
+    {
+        "1NijIP2a":"80",
+        "BATTLE_EFFECT_FILE":"effect_prt_10071_height_blue_re.plist",
+        "BATTLE_EFFECT_ID":"9400227",
+        "BATTLE_EFFECT_NAME":"bf2sheena_circlering",
+        "EFFECT_AREA*":"2"
+    },
+    {
+        "1NijIP2a":"80",
+        "BATTLE_EFFECT_FILE":"effect_prt_10071_height_blue.plist",
+        "BATTLE_EFFECT_ID":"9400228",
+        "BATTLE_EFFECT_NAME":"bf2sheena_circlering_R",
+        "EFFECT_AREA*":"2"
+    },
+    {
+        "1NijIP2a":"80",
+        "BATTLE_EFFECT_FILE":"effect_prt_1180.plist",
+        "BATTLE_EFFECT_ID":"9400229",
+        "BATTLE_EFFECT_NAME":"bf2sheena_blueflameSBB",
+        "EFFECT_AREA*":"2"
+    },
+    {
+        "1NijIP2a":"80",
+        "BATTLE_EFFECT_FILE":"effect_prt_104_2_2.plist",
+        "BATTLE_EFFECT_ID":"9400230",
+        "BATTLE_EFFECT_NAME":"bf2sheena_bluesparkSBB",
+        "EFFECT_AREA*":"2"
+    },
+    {
+        "1NijIP2a":"120",
+        "BATTLE_EFFECT_FILE":"effect_prt_1020R_blue.plist",
+        "BATTLE_EFFECT_ID":"9400231",
+        "BATTLE_EFFECT_NAME":"bf2sheena_speedline",
+        "EFFECT_AREA*":"2"
+    },
+    {
+        "1NijIP2a":"140",
+        "BATTLE_EFFECT_FILE":"effect_prt_1165_blue.plist",
+        "BATTLE_EFFECT_ID":"9400232",
+        "BATTLE_EFFECT_NAME":"bf2sheena_bluexplodUBB",
+        "EFFECT_AREA*":"2"
+    },
+    {
         "1NijIP2a":"120",
         "BATTLE_EFFECT_FILE":"effect_prt_142_1_purple.plist",
         "BATTLE_EFFECT_ID":"9500027",

@@ -23848,6 +23848,61 @@
         "yRlCNyvk":"Add to SBB (125% Spark DMG to Light, Dark (ALL) 3Turns)"
     },
     {
+        "2Smu5Mtq":"50,2$0$0$0$0$0$2.5",
+        "9PsmH7tz":"1010700152",
+        "D9wXQI2V":"5",
+        "G5wFDad6":"30",
+        "hjAy9St3":"107",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010700152",
+        "yRlCNyvk":"Add to LS (250% Water elemental damage)"
+    },
+    {
+        "2Smu5Mtq":"10015,125&3&0&2,1,2,0,0,1,0",
+        "9PsmH7tz":"1010700153",
+        "D9wXQI2V":"4",
+        "G5wFDad6":"20",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010700153",
+        "yRlCNyvk":"Add to SBB (boosts spark damage [125%] (Water) for 3 turns)"
+    },
+    {
+        "2Smu5Mtq":"0,1,0@0,1,0@0,0,0,0,1,0@0,0,0,1,0",
+        "9PsmH7tz":"1010700154",
+        "D9wXQI2V":"4",
+        "G5wFDad6":"10",
+        "hjAy9St3":"52@84@10001@87",
+        "jeR2rN3V":"2@2@2@2",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010700154",
+        "yRlCNyvk":"Allows BB's effects to last additional 1 turn"
+    },
+    {
+        "2Smu5Mtq":"47,200&500&0&200&0&0&0&0,2,2,0,0,1,0",
+        "9PsmH7tz":"1010700155",
+        "D9wXQI2V":"4",
+        "G5wFDad6":"20",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010700155",
+        "yRlCNyvk":"Add to SBB (27 combo Water attack [200-500%] on all foes (damage relative to remaining HP))"
+    },
+    {
+        "2Smu5Mtq":"19,1400&3&0,1,2,0,1,0,0",
+        "9PsmH7tz":"1010700156",
+        "D9wXQI2V":"4",
+        "G5wFDad6":"20",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010700156",
+        "yRlCNyvk":"Add to BB (Fills BB gauge [14 BC] for 3 turns)"
+    },
+    {
         "2Smu5Mtq":"0,130,0,0,130",
         "9PsmH7tz":"1010800029",
         "D9wXQI2V":"4",
