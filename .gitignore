@@ -3,3 +3,7 @@ bravefrontier_data/globalUnits.json
 *.py
 *.pyc
 __pycache__/filesGet.cpython-38.pyc
+data_files_decrypted/F_DUNGEON_MST.json
+data_files/F_GUILD_POINT_EXCHANGE_MST.json
+data_files_decrypted/F_DUNGEON_MST.json
+data_files_decrypted/F_GUILD_POINT_EXCHANGE_MST.json
