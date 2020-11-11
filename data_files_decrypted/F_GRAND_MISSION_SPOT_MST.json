@@ -3823,6 +3823,32 @@
     },
     {
         "0se8qAz1":"1",
+        "??SOME_SORT_OF_MISSION_IDS_LIST??":"3:83400,0:83401",
+        "DUNGEON_IMAGE":"dungeon_battle_80040.jpg",
+        "FLAGS_TRIGGERED?":"",
+        "IMAGE":"",
+        "LOCATIONS_NAME":"Scorching Cradle",
+        "LOCATIONS_NUMBER":"23",
+        "M6C1aXfR":"300",
+        "MISSION_ID":"5008011",
+        "MISSION_SOUNDTRACK":"",
+        "SnNtTh51":"750"
+    },
+    {
+        "0se8qAz1":"1",
+        "??SOME_SORT_OF_MISSION_IDS_LIST??":"1:93000,0:93001",
+        "DUNGEON_IMAGE":"dungeon_battle_80160.jpg",
+        "FLAGS_TRIGGERED?":"",
+        "IMAGE":"",
+        "LOCATIONS_NAME":"Maw of the Earth",
+        "LOCATIONS_NUMBER":"24",
+        "M6C1aXfR":"500",
+        "MISSION_ID":"5008011",
+        "MISSION_SOUNDTRACK":"",
+        "SnNtTh51":"969"
+    },
+    {
+        "0se8qAz1":"1",
         "??SOME_SORT_OF_MISSION_IDS_LIST??":"3:50300,1:50301,0:50302",
         "DUNGEON_IMAGE":"dungeon_battle_50300.jpg",
         "FLAGS_TRIGGERED?":"",

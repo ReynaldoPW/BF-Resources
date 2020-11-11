@@ -9126,6 +9126,69 @@
         "SP_CAT_ID":"85007"
     },
     {
+        "DESCRIPTION":"To listen, and to remember that memories flow--sometimes between minds.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"41",
+        "SCENARIO_ID":"87140",
+        "SCENARIO_NAME":"Flow",
+        "SCENARIO_TEXT_FILE":"X7_Arc5_Ep2_1.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"85007"
+    },
+    {
+        "DESCRIPTION":"To wander was the Hound's instinct. To wonder was not; and now she pays the ultimate price.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"42",
+        "SCENARIO_ID":"87141",
+        "SCENARIO_NAME":"Wander",
+        "SCENARIO_TEXT_FILE":"X7_Arc5_Ep2_2.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"85007"
+    },
+    {
+        "DESCRIPTION":"To be of one mind and one purpose, and to learn from those before you.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"43",
+        "SCENARIO_ID":"87142",
+        "SCENARIO_NAME":"Return",
+        "SCENARIO_TEXT_FILE":"X7_Arc5_Ep2_3A.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"85007"
+    },
+    {
+        "DESCRIPTION":"To be reborn, again and again, until you reach a perfect form--even if it is not yours.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"44",
+        "SCENARIO_ID":"87143",
+        "SCENARIO_NAME":"Rebirth",
+        "SCENARIO_TEXT_FILE":"X7_Arc5_Ep2_3B.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"85007"
+    },
+    {
+        "DESCRIPTION":"Forbidden is the rite, sacred the soul-",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"45",
+        "SCENARIO_ID":"87144",
+        "SCENARIO_NAME":"Cradle to Grave",
+        "SCENARIO_TEXT_FILE":"X7_Arc6_Ep1_1.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"85007"
+    },
+    {
+        "DESCRIPTION":"Through the Devourer all things must go-",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"46",
+        "SCENARIO_ID":"87145",
+        "SCENARIO_NAME":"Grave to Memory",
+        "SCENARIO_TEXT_FILE":"X7_Arc6_Ep1_2A.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"85007"
+    },
+    {
+        "DESCRIPTION":"Only ashes remain in neverending cold.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"47",
+        "SCENARIO_ID":"87146",
+        "SCENARIO_NAME":"Memory to Silence",
+        "SCENARIO_TEXT_FILE":"X7_Arc6_Ep1_2B.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"85007"
+    },
+    {
         "DESCRIPTION":"Welcome to an odd sort of theater - your audience awaits you with bated breath. Don't die.",
         "QUEST_MAP_NUMBER/GUIDE_ID":"97",
         "SCENARIO_ID":"88400",
@@ -11131,6 +11194,69 @@
         "SCENARIO_TEXT_FILE":"MF_Harakhte_CB.txt",
         "SOUNDTRACK_FILE":"",
         "SP_CAT_ID":"100019"
+    },
+    {
+        "DESCRIPTION":"Passing out and waking up in a cell isn't a normal night out, but Saya seems to have plenty of experience.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"1",
+        "SCENARIO_ID":"10002001",
+        "SCENARIO_NAME":"Blackout",
+        "SCENARIO_TEXT_FILE":"Halloween2020_S1.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"100020"
+    },
+    {
+        "DESCRIPTION":"The last thing Saya needed was another person without their head in the right place.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"2",
+        "SCENARIO_ID":"10002002",
+        "SCENARIO_NAME":"Loose Screws",
+        "SCENARIO_TEXT_FILE":"Halloween2020_S2.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"100020"
+    },
+    {
+        "DESCRIPTION":"Easier said than done when you have to compete with a score of panicked prisoners.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"3",
+        "SCENARIO_ID":"10002003",
+        "SCENARIO_NAME":"Flying the Coop",
+        "SCENARIO_TEXT_FILE":"Halloween2020_S3A.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"100020"
+    },
+    {
+        "DESCRIPTION":"It was never this easy to begin with. There was a girl here, and now she's gone?--or is she?",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"4",
+        "SCENARIO_ID":"10002004",
+        "SCENARIO_NAME":"Hole in the Fence",
+        "SCENARIO_TEXT_FILE":"Halloween2020_S3B.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"100020"
+    },
+    {
+        "DESCRIPTION":"Staying in your mind all the time isn't healthy, but some of us don't have a choice.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"5",
+        "SCENARIO_ID":"10002005",
+        "SCENARIO_NAME":"Room of One's Own",
+        "SCENARIO_TEXT_FILE":"Halloween2020_CA.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"100020"
+    },
+    {
+        "DESCRIPTION":"Some favors don't deserve one in return, because they aren't really favors at all.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"6",
+        "SCENARIO_ID":"10002006",
+        "SCENARIO_NAME":"One Good Turn",
+        "SCENARIO_TEXT_FILE":"Halloween2020_CB.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"100020"
+    },
+    {
+        "DESCRIPTION":"Exploring the island does, in fact, come with long walks on the beach.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"1",
+        "SCENARIO_ID":"10002101",
+        "SCENARIO_NAME":"Long Walks",
+        "SCENARIO_TEXT_FILE":"7thAnniv_T_Daily.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"100021"
     },
     {
         "DESCRIPTION":"Two worlds collide as a happy celebration brings adventure to some lucky souls! Who are they? Find out!",

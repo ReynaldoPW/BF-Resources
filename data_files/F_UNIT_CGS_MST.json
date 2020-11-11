@@ -6960,6 +6960,10 @@
         "pn16CNah":"810858"
     },
     {
+        "Kn51uR4Y":"1:unit_idle_cgs_810888.csv|2:unit_move_cgs_810888.csv|3:unit_atk_cgs_810888.csv|4:unit_atk_cgs_810888.csv",
+        "pn16CNah":"810888"
+    },
+    {
         "Kn51uR4Y":"1:unit_idle_cgs_810898.csv|2:unit_move_cgs_810898.csv|3:unit_atk_cgs_810898.csv|4:unit_atk_cgs_810898.csv",
         "pn16CNah":"810898"
     },
@@ -8152,6 +8156,10 @@
         "pn16CNah":"840958"
     },
     {
+        "Kn51uR4Y":"1:unit_idle_cgs_840968.csv|2:unit_move_cgs_840968.csv|3:unit_atk_cgs_840968.csv|4:unit_atk_cgs_840968.csv",
+        "pn16CNah":"840968"
+    },
+    {
         "Kn51uR4Y":"1:unit_idle_cgs_850003.csv|2:unit_move_cgs_850003.csv|3:unit_atk_cgs_850003.csv|4:unit_atk_cgs_850003.csv",
         "pn16CNah":"850003"
     },
@@ -8576,12 +8584,20 @@
         "pn16CNah":"850928"
     },
     {
+        "Kn51uR4Y":"1:unit_idle_cgs_850958.csv|2:unit_idle_cgs_850958.csv|3:unit_atk_cgs_850958.csv|4:unit_atk_cgs_850958.csv",
+        "pn16CNah":"850958"
+    },
+    {
         "Kn51uR4Y":"1:unit_idle_cgs_50975.csv|2:unit_move_cgs_50975.csv|3:unit_atk_cgs_50975.csv|4:unit_atk_cgs_50975.csv",
         "pn16CNah":"850977"
     },
     {
         "Kn51uR4Y":"1:unit_idle_cgs_50976.csv|2:unit_move_cgs_50976.csv|3:unit_atk_cgs_50976.csv|4:unit_atk_cgs_50976.csv",
         "pn16CNah":"850978"
+    },
+    {
+        "Kn51uR4Y":"1:unit_idle_cgs_850988.csv|2:unit_move_cgs_850988.csv|3:unit_atk_cgs_850988.csv|4:unit_atk_cgs_850988.csv",
+        "pn16CNah":"850988"
     },
     {
         "Kn51uR4Y":"1:unit_idle_cgs_860003.csv|2:unit_move_cgs_860003.csv|3:unit_atk_cgs_860003.csv|4:unit_atk_cgs_860003.csv",
@@ -8998,6 +9014,10 @@
     {
         "Kn51uR4Y":"1:unit_idle_cgs_860900.csv|2:unit_idle_cgs_860900.csv|3:unit_atk_cgs_860900.csv|4:unit_atk_cgs_860900.csv",
         "pn16CNah":"860900"
+    },
+    {
+        "Kn51uR4Y":"1:unit_idle_cgs_860968.csv|2:unit_move_cgs_810908.csv|3:unit_atk_cgs_860968.csv|4:unit_atk_cgs_860968.csv",
+        "pn16CNah":"860968"
     },
     {
         "Kn51uR4Y":"1:unit_idle_cgs_870034.csv|2:unit_move_cgs_870034.csv|3:unit_atk_cgs_870034.csv|4:unit_atk_cgs_870034.csv",

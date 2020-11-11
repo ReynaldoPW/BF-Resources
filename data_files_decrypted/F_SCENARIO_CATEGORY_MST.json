@@ -768,5 +768,19 @@
         "SCENARIO_SUPERSECTION*":"70000",
         "SP_CAT_ID":"100019",
         "SP_CAT_NAME":"Wings of Destiny"
+    },
+    {
+        "DESCRIPTION":"A series of harrowing logs on what transpired in the 13th Correctional Facility following an incident.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"33",
+        "SCENARIO_SUPERSECTION*":"70000",
+        "SP_CAT_ID":"100020",
+        "SP_CAT_NAME":"Survivor Games"
+    },
+    {
+        "DESCRIPTION":"Memories of strolling along the beach during an off-season holiday.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"34",
+        "SCENARIO_SUPERSECTION*":"70000",
+        "SP_CAT_ID":"100021",
+        "SP_CAT_NAME":"Beach Paradise"
     }
 ]
