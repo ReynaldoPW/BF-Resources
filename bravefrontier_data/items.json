@@ -6718,6 +6718,28 @@
         "thumbnail":"item_thum_22210.png",
         "type":"battle item"
     },
+    "13383":{
+        "desc":"MST_ITEMS_BATTLEITEMS_13383_SHORTDESCRIPTION",
+        "effects":[
+            {
+                "params":"",
+                "proc id":"0"
+            }
+        ],
+        "from raid":"false",
+        "guide id":"222",
+        "id":"13383",
+        "lore":"MST_ITEMS_BATTLEITEMS_13383_LONGDESCRIPTION",
+        "max equip":99,
+        "max stack":99,
+        "name":"MST_ITEMS_BATTLEITEMS_13383_NAME",
+        "rarity":0,
+        "sale caution":"false",
+        "sale price":100,
+        "target":"party",
+        "thumbnail":"item_thum_21100.png",
+        "type":"battle item"
+    },
     "13384":{
         "desc":"MST_ITEMS_BATTLEITEMS_13384_SHORTDESCRIPTION",
         "effects":[
@@ -6740,6 +6762,28 @@
         "thumbnail":"item_thum_21100.png",
         "type":"battle item"
     },
+    "13385":{
+        "desc":"MST_ITEMS_BATTLEITEMS_13385_SHORTDESCRIPTION",
+        "effects":[
+            {
+                "params":"",
+                "proc id":"0"
+            }
+        ],
+        "from raid":"false",
+        "guide id":"222",
+        "id":"13385",
+        "lore":"MST_ITEMS_BATTLEITEMS_13385_LONGDESCRIPTION",
+        "max equip":99,
+        "max stack":99,
+        "name":"MST_ITEMS_BATTLEITEMS_13385_NAME",
+        "rarity":0,
+        "sale caution":"false",
+        "sale price":100,
+        "target":"single",
+        "thumbnail":"item_thum_22210.png",
+        "type":"battle item"
+    },
     "20000":{
         "desc":"MST_ITEMS_BATTLEITEMS_20000_SHORTDESCRIPTION",
         "effects":[
@@ -6760,6 +6804,28 @@
         "sale price":30,
         "target":"single",
         "thumbnail":"item_thum_20000.png",
+        "type":"battle item"
+    },
+    "20000803":{
+        "desc":"MST_ITEMS_BATTLEITEMS_20000803_SHORTDESCRIPTION",
+        "effects":[
+            {
+                "params":"",
+                "proc id":"0"
+            }
+        ],
+        "from raid":"false",
+        "guide id":"222",
+        "id":"20000803",
+        "lore":"MST_ITEMS_BATTLEITEMS_20000803_LONGDESCRIPTION",
+        "max equip":99,
+        "max stack":99,
+        "name":"MST_ITEMS_BATTLEITEMS_20000803_NAME",
+        "rarity":0,
+        "sale caution":"false",
+        "sale price":100,
+        "target":"single",
+        "thumbnail":"item_thum_22210.png",
         "type":"battle item"
     },
     "20001":{
@@ -35356,7 +35422,7 @@
                 "proc id":"81"
             }
         ],
-        "from raid":"true",
+        "from raid":"false",
         "guide id":"819234",
         "id":"819234",
         "lore":"A charming, well-crafted hairclip of unknown metal belonging to Giselle. The eerie emerald gem set prominently at its base seems to reflect your bewildered gaze.<br><br>You're not quite sure why such an innocuous item would provoke anxiety, but suddenly, you hear it: vague strains of flutes playing the same thin, monotonous note, accompanied by a slow drumbeat that seems to mimic the living pulse of something far beyond your knowledge.<br><br>Giselle, you think, is truly a woman of mystery... Though, at this point, you're starting to wonder if she was ever human to begin with.",
@@ -36571,7 +36637,7 @@
         "max stack":1,
         "name":"MST_SPHERES_819263_NAME",
         "rarity":4,
-        "sale caution":"true",
+        "sale caution":"false",
         "sale price":1000000,
         "sphere type":"SPHERE_TYPE_NAME_14",
         "target":"none",
@@ -36606,7 +36672,7 @@
         "max stack":1,
         "name":"MST_SPHERES_819264_NAME",
         "rarity":5,
-        "sale caution":"true",
+        "sale caution":"false",
         "sale price":1000000,
         "sphere type":"SPHERE_TYPE_NAME_14",
         "target":"none",
@@ -36645,7 +36711,7 @@
         "max stack":1,
         "name":"MST_SPHERES_819265_NAME",
         "rarity":6,
-        "sale caution":"true",
+        "sale caution":"false",
         "sale price":1000000,
         "sphere type":"SPHERE_TYPE_NAME_14",
         "target":"none",
@@ -36720,14 +36786,14 @@
             }
         ],
         "from raid":"false",
-        "guide id":"1",
+        "guide id":"1000041",
         "id":"819267",
         "lore":"MST_SPHERES_819267_LONGDESCRIPTION",
         "max equip":1,
         "max stack":1,
         "name":"MST_SPHERES_819267_NAME",
         "rarity":6,
-        "sale caution":"true",
+        "sale caution":"false",
         "sale price":1000000,
         "sphere type":"SPHERE_TYPE_NAME_14",
         "target":"none",
@@ -36763,7 +36829,7 @@
             }
         ],
         "from raid":"false",
-        "guide id":"2",
+        "guide id":"1000042",
         "id":"819268",
         "lore":"MST_SPHERES_819268_LONGDESCRIPTION",
         "max equip":1,
@@ -36809,7 +36875,7 @@
         "max stack":1,
         "name":"MST_SPHERES_819269_NAME",
         "rarity":6,
-        "sale caution":"true",
+        "sale caution":"false",
         "sale price":1000000,
         "sphere type":"SPHERE_TYPE_NAME_14",
         "target":"none",
@@ -37267,6 +37333,88 @@
         "sphere type":"SPHERE_TYPE_NAME_9",
         "target":"none",
         "thumbnail":"sphere_thum_819280.png",
+        "type":"sphere"
+    },
+    "819281":{
+        "desc":"MST_SPHERES_819281_SHORTDESCRIPTION",
+        "effects":[
+            {
+                "params":"6,0,55,55,55,0,55",
+                "proc id":"2"
+            },
+            {
+                "params":"200,400,100",
+                "proc id":"25"
+            },
+            {
+                "params":"20,20,60",
+                "proc id":"24"
+            },
+            {
+                "params":"100,0,0,0,0,0",
+                "proc id":"31"
+            },
+            {
+                "params":"50,75,100",
+                "proc id":"26"
+            }
+        ],
+        "from raid":"false",
+        "guide id":"819281",
+        "id":"819281",
+        "lore":"A polished silver spiked collar belonging to Kirke, one of the twelve celestial creatures competing to become Emperor Yu's trusted assistant. As one well-attuned to mankind, Dog had an intrinsic advantage over his peers, but the modern world was much more different than he could have imagined.<br><br>Gone were the old days of faithful companionship; modern man was much too engrossed in their personal lives. But even so, Dog would prove himself their stalwart companion. Perhaps a new coat and collar would do; after all, pets tended to take after their masters...",
+        "max equip":1,
+        "max stack":1,
+        "name":"MST_SPHERES_819281_NAME",
+        "rarity":6,
+        "sale caution":"true",
+        "sale price":30000,
+        "sphere type":"SPHERE_TYPE_NAME_9",
+        "target":"none",
+        "thumbnail":"sphere_thum_819281.png",
+        "type":"sphere"
+    },
+    "819282":{
+        "desc":"MST_SPHERES_819282_SHORTDESCRIPTION",
+        "effects":[
+            {
+                "params":"6,0,65,65,65,0,65",
+                "proc id":"2"
+            },
+            {
+                "params":"300,400,100",
+                "proc id":"25"
+            },
+            {
+                "params":"30,30,60",
+                "proc id":"24"
+            },
+            {
+                "params":"125,0,0,0,0,0",
+                "proc id":"31"
+            },
+            {
+                "params":"75,75,100",
+                "proc id":"26"
+            },
+            {
+                "params":"20",
+                "proc id":"43"
+            }
+        ],
+        "from raid":"false",
+        "guide id":"819282",
+        "id":"819282",
+        "lore":"A spiked collar with a garish golden hue, the signature accessory of Kirke. The celestial dog followed his instincts and became the self-appointed guardian of mankind's new generation, assuming a form most befitting the spirit of their time.<br><br>Even in human form, Kirke has a distinctive doglike demeanor about him, though one of good breeding and obedience. He speaks little, preferring actions over words, but will always offer an encouraging nudge when it's most needed.<br><br>Though some believe this collar to be only for show, those who have crossed Kirke's charges tend to say otherwise...",
+        "max equip":1,
+        "max stack":1,
+        "name":"MST_SPHERES_819282_NAME",
+        "rarity":7,
+        "sale caution":"true",
+        "sale price":30000,
+        "sphere type":"SPHERE_TYPE_NAME_9",
+        "target":"none",
+        "thumbnail":"sphere_thum_819282.png",
         "type":"sphere"
     },
     "819284":{
@@ -38724,7 +38872,7 @@
         "from raid":"false",
         "guide id":"819321",
         "id":"819321",
-        "lore":"MST_SPHERES_819321_LONGDESCRIPTION",
+        "lore":"A medal set with jewelled petals. It is said that the contrasting powers contained within, unleashed to full effect, can cause recurring nightmares in foes that survive the onslaught. Grants its bearer power over light and darkness.",
         "max equip":1,
         "max stack":1,
         "name":"MST_SPHERES_819321_NAME",
@@ -38759,7 +38907,7 @@
         "from raid":"false",
         "guide id":"819322",
         "id":"819322",
-        "lore":"MST_SPHERES_819322_LONGDESCRIPTION",
+        "lore":"A medal set with jewelled petal motifs, reminiscent of a blooming flower. It lives up to its namesake, harnessing the powerful, yet contrasting pulses of both light and dark energy. Grants its bearer great power over light and darkness.",
         "max equip":1,
         "max stack":1,
         "name":"MST_SPHERES_819322_NAME",
@@ -38769,6 +38917,838 @@
         "sphere type":"SPHERE_TYPE_NAME_14",
         "target":"none",
         "thumbnail":"sphere_thum_819322.png",
+        "type":"sphere"
+    },
+    "819323":{
+        "desc":"MST_SPHERES_819323_SHORTDESCRIPTION",
+        "effects":[
+            {
+                "params":"2,0,60,60,60,0,60",
+                "proc id":"2"
+            },
+            {
+                "params":"2,175,0,0,0,0,0",
+                "proc id":"11004"
+            },
+            {
+                "params":"10019,144&0&0&0&0&0&0&0&0&35,100,2,0,1,1,0",
+                "proc id":"66"
+            },
+            {
+                "params":"180000",
+                "proc id":"143"
+            },
+            {
+                "params":"150,0,0,0,50,2",
+                "proc id":"11"
+            }
+        ],
+        "from raid":"false",
+        "guide id":"819323",
+        "id":"819323",
+        "lore":"\"There are few words that can encapsulate the grief and anguish of losing a beloved parent. This pure, concentrated fury drives the sisters Hilda and Ren\u00e9, two of the Seven Demonlords, to seek vengeance against the King, whom they believed the perpetrator of their father's death. Spurred on by Elhaza, they bring down biting winds and piercing icicles upon all who stand in their way.<br><br>Revenge, after all, is a dish best served ice-cold.\"",
+        "max equip":1,
+        "max stack":1,
+        "name":"MST_SPHERES_819323_NAME",
+        "rarity":7,
+        "sale caution":"true",
+        "sale price":1000000,
+        "sphere type":"SPHERE_TYPE_NAME_11",
+        "target":"none",
+        "thumbnail":"ls_sphere_thum_4_2.png",
+        "type":"sphere"
+    },
+    "819324":{
+        "desc":"MST_SPHERES_819324_SHORTDESCRIPTION",
+        "effects":[
+            {
+                "params":"5,6,60,60,60,0,60",
+                "proc id":"2"
+            },
+            {
+                "params":"5,6,0,0,0,0,2",
+                "proc id":"50"
+            },
+            {
+                "params":"2500",
+                "proc id":"9"
+            },
+            {
+                "params":"50,5$6$0$0$0$0$0.3",
+                "proc id":"107"
+            },
+            {
+                "params":"10019,25&26&0&0&0&0&0&0&0&30,100,2,0,1,1,0",
+                "proc id":"66"
+            }
+        ],
+        "from raid":"false",
+        "guide id":"819324",
+        "id":"819324",
+        "lore":"Unlike most others, Joshua never felt it necessary to bestow upon his sword some fanciful, unnecessarily obscure name. As a practical man who lived\u2014and perhaps would someday die\u2014by the sword, he preferred actions to words.<br><br>For those who had already dubbed him \"\"Joshua of Sanjelo\"\", it was a crime not to name his blade something impressive. After hours of arguing over which of the increasingly verbose names the weapon deserved, Joshua interjected in his usual abrasive manner with his final verdict.<br>A Silver Knight armed with the Silver Blade is as apt as it gets, he supposed.",
+        "max equip":1,
+        "max stack":1,
+        "name":"MST_SPHERES_819324_NAME",
+        "rarity":7,
+        "sale caution":"true",
+        "sale price":30000,
+        "sphere type":"SPHERE_TYPE_NAME_12",
+        "target":"none",
+        "thumbnail":"sphere_thum_2_5.png",
+        "type":"sphere"
+    },
+    "819325":{
+        "desc":"MST_SPHERES_819325_SHORTDESCRIPTION",
+        "effects":[
+            {
+                "params":"1,4,60,60,60,0,60",
+                "proc id":"2"
+            },
+            {
+                "params":"150,0,0,0,0,0",
+                "proc id":"31"
+            },
+            {
+                "params":"1,4,0,0,0,0,10",
+                "proc id":"62"
+            },
+            {
+                "params":"300,400,100",
+                "proc id":"47"
+            }
+        ],
+        "from raid":"false",
+        "guide id":"819325",
+        "id":"819325",
+        "lore":"A medal with jewel carved into the image of a fallen leave. The power contained in the artifact brings the withering of all life form. Granting its bearer power over Fire and Thunder.",
+        "max equip":1,
+        "max stack":1,
+        "name":"MST_SPHERES_819325_NAME",
+        "rarity":7,
+        "sale caution":"true",
+        "sale price":30000,
+        "sphere type":"SPHERE_TYPE_NAME_14",
+        "target":"none",
+        "thumbnail":"sphere_thum_819325.png",
+        "type":"sphere"
+    },
+    "819326":{
+        "desc":"MST_SPHERES_819326_SHORTDESCRIPTION",
+        "effects":[
+            {
+                "params":"1,4,65,65,65,0,65",
+                "proc id":"2"
+            },
+            {
+                "params":"200,0,0,0,0,0",
+                "proc id":"31"
+            },
+            {
+                "params":"1,4,0,0,0,0,15",
+                "proc id":"62"
+            },
+            {
+                "params":"300,400,100",
+                "proc id":"47"
+            }
+        ],
+        "from raid":"false",
+        "guide id":"819326",
+        "id":"819326",
+        "lore":"A medal with jewels carved into the image of a fallen leave, reminding all the presence of Autumn. The artifact harnesses the life force from the living in its surrounding. Granting its bearer great power over Fire and Thunder.",
+        "max equip":1,
+        "max stack":1,
+        "name":"MST_SPHERES_819326_NAME",
+        "rarity":7,
+        "sale caution":"true",
+        "sale price":30000,
+        "sphere type":"SPHERE_TYPE_NAME_14",
+        "target":"none",
+        "thumbnail":"sphere_thum_819326.png",
+        "type":"sphere"
+    },
+    "819332":{
+        "desc":"MST_SPHERES_819332_SHORTDESCRIPTION",
+        "effects":[
+            {
+                "params":"0,0,0,0,0",
+                "proc id":"1"
+            }
+        ],
+        "from raid":"false",
+        "guide id":"1000034",
+        "id":"819332",
+        "lore":"The result of a happy accident in Noel's laboratory.<br><br>There is immense power radiating from the orb, but its boons have been sealed to all but the most worthy.",
+        "max equip":1,
+        "max stack":1,
+        "name":"MST_SPHERES_819332_NAME",
+        "rarity":7,
+        "sale caution":"true",
+        "sale price":1000,
+        "sphere type":"SPHERE_TYPE_NAME_14",
+        "target":"none",
+        "thumbnail":"sphere_thum_empty.png",
+        "type":"sphere"
+    },
+    "819333":{
+        "desc":"MST_SPHERES_819333_SHORTDESCRIPTION",
+        "effects":[
+            {
+                "params":"1,2,3,4,5,6,2",
+                "proc id":"50"
+            },
+            {
+                "params":"175,0,0,0,0",
+                "proc id":"1"
+            },
+            {
+                "params":"200000",
+                "proc id":"143"
+            },
+            {
+                "params":"3,20,20,20,0,20",
+                "proc id":"3"
+            },
+            {
+                "params":"10019,1&13&0&0&0&0&0&0&0&25,2,2,0,1,1,0",
+                "proc id":"66"
+            },
+            {
+                "params":"135,0,0,0,0,0",
+                "proc id":"31"
+            },
+            {
+                "params":"-15",
+                "proc id":"48"
+            }
+        ],
+        "from raid":"true",
+        "guide id":"1000027",
+        "id":"819333",
+        "lore":"Bestowed upon the best to walk the Halls of Akras.<br><br>The gods themselves tremble before your fury.",
+        "max equip":1,
+        "max stack":1,
+        "name":"MST_SPHERES_819333_NAME",
+        "rarity":7,
+        "sale caution":"true",
+        "sale price":999999,
+        "sphere type":"SPHERE_TYPE_NAME_13",
+        "target":"none",
+        "thumbnail":"sphere_thum_819239.png",
+        "type":"sphere"
+    },
+    "819334":{
+        "desc":"MST_SPHERES_819334_SHORTDESCRIPTION",
+        "effects":[
+            {
+                "params":"100,100,100,100,100,100",
+                "proc id":"4"
+            },
+            {
+                "params":"3000",
+                "proc id":"9"
+            },
+            {
+                "params":"38,1&2&3&4&5&6&7&8&9,1,2,0,1,1,0",
+                "proc id":"66"
+            },
+            {
+                "params":"5,55,55,55,0,55",
+                "proc id":"3"
+            },
+            {
+                "params":"10019,31&34&0&0&0&0&0&0&0&25,2,2,0,1,1,0",
+                "proc id":"66"
+            },
+            {
+                "params":"10500,0&9000&9000&9000,-1,15,2",
+                "proc id":"82"
+            }
+        ],
+        "from raid":"true",
+        "guide id":"1000028",
+        "id":"819334",
+        "lore":"Bestowed upon the best to walk the Halls of Akras.<br><br>The gods themselves submit to your infinite wisdom.",
+        "max equip":1,
+        "max stack":1,
+        "name":"MST_SPHERES_819334_NAME",
+        "rarity":7,
+        "sale caution":"true",
+        "sale price":999999,
+        "sphere type":"SPHERE_TYPE_NAME_5",
+        "target":"none",
+        "thumbnail":"sphere_thum_819243.png",
+        "type":"sphere"
+    },
+    "819335":{
+        "desc":"MST_SPHERES_819335_SHORTDESCRIPTION",
+        "effects":[
+            {
+                "params":"25",
+                "proc id":"43"
+            },
+            {
+                "params":"6000,8000,100",
+                "proc id":"33"
+            },
+            {
+                "params":"40,40,50",
+                "proc id":"24"
+            },
+            {
+                "params":"4,55,55,55,0,55",
+                "proc id":"3"
+            },
+            {
+                "params":"10019,120&121&122&0&0&0&0&0&0&25,2,2,0,1,1,0",
+                "proc id":"66"
+            },
+            {
+                "params":"-15",
+                "proc id":"48"
+            },
+            {
+                "params":"600,800,100",
+                "proc id":"25"
+            }
+        ],
+        "from raid":"true",
+        "guide id":"1000029",
+        "id":"819335",
+        "lore":"Bestowed upon the best to walk the Halls of Akras.<br><br>The gods themselves dare not speak out of turn in your presence.",
+        "max equip":1,
+        "max stack":1,
+        "name":"MST_SPHERES_819335_NAME",
+        "rarity":7,
+        "sale caution":"true",
+        "sale price":999999,
+        "sphere type":"SPHERE_TYPE_NAME_10",
+        "target":"none",
+        "thumbnail":"sphere_thum_819244.png",
+        "type":"sphere"
+    },
+    "819336":{
+        "desc":"MST_SPHERES_819336_SHORTDESCRIPTION",
+        "effects":[
+            {
+                "params":"55,55,55,0,55",
+                "proc id":"1"
+            },
+            {
+                "params":"1,2,3,4,5,6,15",
+                "proc id":"62"
+            },
+            {
+                "params":"91,25&100,3,100000,999",
+                "proc id":"78"
+            },
+            {
+                "params":"2,35,35,35,0,35",
+                "proc id":"3"
+            },
+            {
+                "params":"10019,33&35&0&0&0&0&0&0&0&25,2,2,0,1,1,0",
+                "proc id":"66"
+            },
+            {
+                "params":"-10",
+                "proc id":"48"
+            }
+        ],
+        "from raid":"true",
+        "guide id":"1000030",
+        "id":"819336",
+        "lore":"Bestowed upon the best to walk the Halls of Akras.<br><br>The gods themselves rally around your banner unquestioningly.",
+        "max equip":1,
+        "max stack":1,
+        "name":"MST_SPHERES_819336_NAME",
+        "rarity":7,
+        "sale caution":"true",
+        "sale price":999999,
+        "sphere type":"SPHERE_TYPE_NAME_1",
+        "target":"none",
+        "thumbnail":"sphere_thum_819242.png",
+        "type":"sphere"
+    },
+    "819337":{
+        "desc":"MST_SPHERES_819337_SHORTDESCRIPTION",
+        "effects":[
+            {
+                "params":"170,0,0,0,0,0",
+                "proc id":"31"
+            },
+            {
+                "params":"600,800,100",
+                "proc id":"101"
+            },
+            {
+                "params":"300,400,100",
+                "proc id":"47"
+            },
+            {
+                "params":"50,175",
+                "proc id":"100"
+            },
+            {
+                "params":"1,45,45,45,0,45",
+                "proc id":"42"
+            },
+            {
+                "params":"0,45,45,45,0,45",
+                "proc id":"42"
+            },
+            {
+                "params":"10019,30&32&0&0&0&0&0&0&0&25,2,2,0,1,1,0",
+                "proc id":"66"
+            },
+            {
+                "params":"-15",
+                "proc id":"48"
+            }
+        ],
+        "from raid":"true",
+        "guide id":"1000031",
+        "id":"819337",
+        "lore":"Bestowed upon the best to walk the Halls of Akras.<br><br>The gods themselves could not hope to match your grace and beauty.",
+        "max equip":1,
+        "max stack":1,
+        "name":"MST_SPHERES_819337_NAME",
+        "rarity":7,
+        "sale caution":"true",
+        "sale price":999999,
+        "sphere type":"SPHERE_TYPE_NAME_11",
+        "target":"none",
+        "thumbnail":"sphere_thum_819240.png",
+        "type":"sphere"
+    },
+    "819338":{
+        "desc":"MST_SPHERES_819338_SHORTDESCRIPTION",
+        "effects":[
+            {
+                "params":"55,55,55,0,55",
+                "proc id":"1"
+            },
+            {
+                "params":"1,2,3,4,5,6,2",
+                "proc id":"50"
+            },
+            {
+                "params":"2000,0,10000",
+                "proc id":"81"
+            },
+            {
+                "params":"2,35,35,35,0,35",
+                "proc id":"42"
+            },
+            {
+                "params":"0,35,35,35,0,35",
+                "proc id":"42"
+            },
+            {
+                "params":"10019,120&121&122&0&0&0&0&0&0&25,2,2,0,1,1,0",
+                "proc id":"66"
+            },
+            {
+                "params":"-10",
+                "proc id":"48"
+            }
+        ],
+        "from raid":"true",
+        "guide id":"1000032",
+        "id":"819338",
+        "lore":"Bestowed upon the best to walk the Halls of Akras.<br><br>The gods themselves lack your tenacity and fortitude.",
+        "max equip":1,
+        "max stack":1,
+        "name":"MST_SPHERES_819338_NAME",
+        "rarity":7,
+        "sale caution":"true",
+        "sale price":999999,
+        "sphere type":"SPHERE_TYPE_NAME_1",
+        "target":"none",
+        "thumbnail":"sphere_thum_819241.png",
+        "type":"sphere"
+    },
+    "819339":{
+        "desc":"MST_SPHERES_819339_SHORTDESCRIPTION",
+        "effects":[
+            {
+                "params":"1,0:\u7121\u3057,60,60,60,0,60",
+                "proc id":"2"
+            },
+            {
+                "params":"1,0:\u7121\u3057,0:\u7121\u3057,0:\u7121\u3057,0:\u7121\u3057,0:\u7121\u3057,2",
+                "proc id":"50"
+            },
+            {
+                "params":"1.2",
+                "proc id":"34"
+            },
+            {
+                "params":"25,100,1,0",
+                "proc id":"75"
+            },
+            {
+                "params":"10019,21&0&0&0&0&0&0&0&0&40,100,2,0,1,1,0",
+                "proc id":"66"
+            }
+        ],
+        "from raid":"false",
+        "guide id":"819339",
+        "id":"819339",
+        "lore":"A powerful orb bestowed upon the best of the best in the 31st Division of the Demon Slayers. Despite its fiercely valiant origins, it is surprisingly gently warm, much like the commander's personable nature.<br><br>Named for the fairy that follows the commander on his various adventures, Sun Cuore's demure shyness makes her a rare sight even when Roy is around. However, there is no doubt that she is his\u2014and by association, the division's\u2014first source of inspiration and strength.",
+        "max equip":1,
+        "max stack":1,
+        "name":"MST_SPHERES_819339_NAME",
+        "rarity":7,
+        "sale caution":"true",
+        "sale price":30000,
+        "sphere type":"SPHERE_TYPE_NAME_12",
+        "target":"none",
+        "thumbnail":"sphere_thum_4_1.png",
+        "type":"sphere"
+    },
+    "819340":{
+        "desc":"MST_SPHERES_819340_SHORTDESCRIPTION",
+        "effects":[
+            {
+                "params":"3,0:\u7121\u3057,60,60,60,0,60",
+                "proc id":"2"
+            },
+            {
+                "params":"25,100,1,0",
+                "proc id":"75"
+            },
+            {
+                "params":"200,300,100",
+                "proc id":"25"
+            },
+            {
+                "params":"150,0,0,0,0,0",
+                "proc id":"31"
+            },
+            {
+                "params":"10019,23&0&0&0&0&0&0&0&0&40,100,2,0,1,1,0",
+                "proc id":"66"
+            }
+        ],
+        "from raid":"false",
+        "guide id":"819340",
+        "id":"819340",
+        "lore":"Teresa's fervent belief in justice was a function of deep-seated devotion to her faith. With the gods as her witness and her trusty shotguns by her side, the wicked would cower before the righteous and repent for their sins, and all would be well.<br><br>But life was never that easy. No self-respecting ruffian would so willingly abandon their vices with mere words. No, sometimes justice had to administered with iron.",
+        "max equip":1,
+        "max stack":1,
+        "name":"MST_SPHERES_819340_NAME",
+        "rarity":7,
+        "sale caution":"true",
+        "sale price":30000,
+        "sphere type":"SPHERE_TYPE_NAME_12",
+        "target":"none",
+        "thumbnail":"ls_sphere_thum_7_3.png",
+        "type":"sphere"
+    },
+    "819343":{
+        "desc":"MST_SPHERES_819343_SHORTDESCRIPTION",
+        "effects":[
+            {
+                "params":"30,30,30,0,30",
+                "proc id":"1"
+            },
+            {
+                "params":"170000",
+                "proc id":"143"
+            },
+            {
+                "params":"1.2",
+                "proc id":"34"
+            },
+            {
+                "params":"15",
+                "proc id":"43"
+            },
+            {
+                "params":"1,100,-1,300000,2",
+                "proc id":"80"
+            }
+        ],
+        "from raid":"false",
+        "guide id":"819343",
+        "id":"819343",
+        "lore":"A pulsing core\u2014all that remains of Ascha, the Devourer.<br><br>The core's oppressive aura is enough to overwhelm most people several times over. Much like the Devourer, it appears to passively siphon energy from its surroundings, and those careless enough to remain too long in its vicinity end up in a comatose state.",
+        "max equip":1,
+        "max stack":1,
+        "name":"MST_SPHERES_819343_NAME",
+        "rarity":6,
+        "sale caution":"true",
+        "sale price":30000,
+        "sphere type":"SPHERE_TYPE_NAME_14",
+        "target":"none",
+        "thumbnail":"item_thum_801901.png",
+        "type":"sphere"
+    },
+    "819344":{
+        "desc":"MST_SPHERES_819344_SHORTDESCRIPTION",
+        "effects":[
+            {
+                "params":"60,60,60,0,60",
+                "proc id":"1"
+            },
+            {
+                "params":"190000",
+                "proc id":"143"
+            },
+            {
+                "params":"160,0,0,0,0,0",
+                "proc id":"31"
+            },
+            {
+                "params":"100,40$150",
+                "proc id":"107"
+            },
+            {
+                "params":"1,150,-1,300000,2",
+                "proc id":"80"
+            },
+            {
+                "params":"10016,0.75&2&0&1,1,2,0,0,1,0",
+                "proc id":"66"
+            },
+            {
+                "params":"10016,0.75&2&0&2,1,2,0,0,1,0",
+                "proc id":"66"
+            },
+            {
+                "params":"10016,0.75&2&0&3,1,2,0,0,1,0",
+                "proc id":"66"
+            },
+            {
+                "params":"10016,0.75&2&0&4,1,2,0,0,1,0",
+                "proc id":"66"
+            },
+            {
+                "params":"10016,0.75&2&0&5,1,2,0,0,1,0",
+                "proc id":"66"
+            },
+            {
+                "params":"10016,0.75&2&0&6,1,2,0,0,1,0\n",
+                "proc id":"66"
+            }
+        ],
+        "from raid":"false",
+        "guide id":"819344",
+        "id":"819344",
+        "lore":"A sickly golden orb, infused with the Queen's triumph.<br><br>The core's powers have been silenced by the Queen, and are now in a state of quiescence. Despite this, the hollow thrumming calls to mind thin, whining flutes of some unknowable, fearful origin. <br><br>Emblematic of the Queen's favor, it is a gift to the most deserving of her subjects\u2014and all are her subjects, whether they know this or not.",
+        "max equip":1,
+        "max stack":1,
+        "name":"MST_SPHERES_819344_NAME",
+        "rarity":7,
+        "sale caution":"true",
+        "sale price":30000,
+        "sphere type":"SPHERE_TYPE_NAME_14",
+        "target":"none",
+        "thumbnail":"sphere_thum_818894.png",
+        "type":"sphere"
+    },
+    "819345":{
+        "desc":"MST_SPHERES_819345_SHORTDESCRIPTION",
+        "effects":[
+            {
+                "params":"60,60,60,0,60",
+                "proc id":"1"
+            },
+            {
+                "params":"190000",
+                "proc id":"143"
+            },
+            {
+                "params":"1.75",
+                "proc id":"34"
+            },
+            {
+                "params":"20",
+                "proc id":"43"
+            },
+            {
+                "params":"1,2,3,4,5,6,2",
+                "proc id":"50"
+            },
+            {
+                "params":"1,100,-1,300000,2",
+                "proc id":"80"
+            },
+            {
+                "params":"3,25,-1,300000,2",
+                "proc id":"80"
+            },
+            {
+                "params":"5,25,-1,300000,2",
+                "proc id":"80"
+            }
+        ],
+        "from raid":"false",
+        "guide id":"819345",
+        "id":"819345",
+        "lore":"A perfectly black orb, infused with the Void's chaos.<br><br>The core's powers have been touched by a different sort of energy, and now ebb and flow like black tides. Staring too deeply into its surface brings forth whispers in the mind.<br><br>A token of respect for one who bows in subservience to the unpredictable will of the Void, and a symbol of alliance among those who walk this tumultuous path.",
+        "max equip":1,
+        "max stack":1,
+        "name":"MST_SPHERES_819345_NAME",
+        "rarity":7,
+        "sale caution":"true",
+        "sale price":30000,
+        "sphere type":"SPHERE_TYPE_NAME_14",
+        "target":"none",
+        "thumbnail":"sphere_thum_818895.png",
+        "type":"sphere"
+    },
+    "819346":{
+        "desc":"MST_SPHERES_819346_SHORTDESCRIPTION",
+        "effects":[
+            {
+                "params":"100,0,0,30,30",
+                "proc id":"1"
+            },
+            {
+                "params":"20,100,2,0",
+                "proc id":"75"
+            },
+            {
+                "params":"1,2,3,4,5,6,1.5",
+                "proc id":"50"
+            },
+            {
+                "params":"200,300,100",
+                "proc id":"47"
+            },
+            {
+                "params":"20,30",
+                "proc id":"14"
+            }
+        ],
+        "from raid":"false",
+        "guide id":"819346",
+        "id":"819346",
+        "lore":"An impossibly dark core pulsing in erratic patterns. Said to possess the essence of chaos, a fundamental element of the Void.When Gazia distilled the madness from Draegar's mind, he needed a mechanical husk to contain the entity. Every being, no matter how nebulous, must have a core\u2014so the Mad Tinkerer postulated. Though Kranus was every bit the perfect servant, its burgeoning sapience ensured that it would someday seek the truth of its origin.",
+        "max equip":1,
+        "max stack":1,
+        "name":"MST_SPHERES_819346_NAME",
+        "rarity":7,
+        "sale caution":"true",
+        "sale price":30000,
+        "sphere type":"SPHERE_TYPE_NAME_13",
+        "target":"none",
+        "thumbnail":"sphere_thum_819346.png",
+        "type":"sphere"
+    },
+    "819347":{
+        "desc":"MST_SPHERES_819347_SHORTDESCRIPTION",
+        "effects":[
+            {
+                "params":"150,0,0,30,30",
+                "proc id":"1"
+            },
+            {
+                "params":"30,100,2,0",
+                "proc id":"75"
+            },
+            {
+                "params":"1,2,3,4,5,6,2",
+                "proc id":"50"
+            },
+            {
+                "params":"300,400,100",
+                "proc id":"47"
+            },
+            {
+                "params":"30,30",
+                "proc id":"14"
+            },
+            {
+                "params":"200",
+                "proc id":"70"
+            }
+        ],
+        "from raid":"false",
+        "guide id":"819347",
+        "id":"819347",
+        "lore":"A powerful nova of a core, radiating pure chaos energy.<br>Once infused with memory fragments, a Chaos core will begin to break them down, releasing the essence within. The core then processes and attempts to understand them\u2014a feat normally only possible in sapient creatures. Over time, it can take on a will of its own\u2014more than the sum of its consumed memories.<br>This is but one of many theories on how some Slivers are born. However, without a suitable host-body, this core remains just that\u2014a core.",
+        "max equip":1,
+        "max stack":1,
+        "name":"MST_SPHERES_819347_NAME",
+        "rarity":7,
+        "sale caution":"true",
+        "sale price":30000,
+        "sphere type":"SPHERE_TYPE_NAME_13",
+        "target":"none",
+        "thumbnail":"sphere_thum_819347.png",
+        "type":"sphere"
+    },
+    "819348":{
+        "desc":"MST_SPHERES_819348_SHORTDESCRIPTION",
+        "effects":[
+            {
+                "params":"70,70,70,0,70",
+                "proc id":"1"
+            },
+            {
+                "params":"20",
+                "proc id":"43"
+            },
+            {
+                "params":"60,200",
+                "proc id":"100"
+            },
+            {
+                "params":"2500",
+                "proc id":"9"
+            }
+        ],
+        "from raid":"false",
+        "guide id":"819348",
+        "id":"819348",
+        "lore":"A brilliant medal ensconced in a spectrum of colors. As befits its title, this medal is the crowning achievement bestowed upon those who master all the disciplines\u2014including those of the heart. Only the greatest of champions can invoke its tremendous powers and reach even higher heights.",
+        "max equip":1,
+        "max stack":1,
+        "name":"MST_SPHERES_819348_NAME",
+        "rarity":7,
+        "sale caution":"true",
+        "sale price":30000,
+        "sphere type":"SPHERE_TYPE_NAME_14",
+        "target":"none",
+        "thumbnail":"sphere_thum_819348.png",
+        "type":"sphere"
+    },
+    "819349":{
+        "desc":"MST_SPHERES_819349_SHORTDESCRIPTION",
+        "effects":[
+            {
+                "params":"65,65,65,0,65",
+                "proc id":"1"
+            },
+            {
+                "params":"20",
+                "proc id":"43"
+            },
+            {
+                "params":"60,150",
+                "proc id":"100"
+            },
+            {
+                "params":"2000",
+                "proc id":"9"
+            }
+        ],
+        "from raid":"false",
+        "guide id":"819349",
+        "id":"819349",
+        "lore":"A brilliant medal in the shape of a heart, bearing a small prism upon its head. Bestowed upon those who have walked a most long and arduous path for seven years, this special commemorative medal also harnesses the power of its bearer and amplifies their strengths.",
+        "max equip":1,
+        "max stack":1,
+        "name":"MST_SPHERES_819349_NAME",
+        "rarity":7,
+        "sale caution":"true",
+        "sale price":30000,
+        "sphere type":"SPHERE_TYPE_NAME_14",
+        "target":"none",
+        "thumbnail":"sphere_thum_819349.png",
         "type":"sphere"
     },
     "819901":{
@@ -44939,6 +45919,259 @@
         "sale price":1000,
         "target":"none",
         "thumbnail":"item_thum_91100.png",
+        "type":"material"
+    },
+    "890065":{
+        "color":"blue",
+        "desc":"MST_ITEMS_MATERIAL_890065_SHORTDESCRIPTION",
+        "effects":[
+            {
+                "params":"",
+                "proc id":"0"
+            }
+        ],
+        "from raid":"false",
+        "guide id":"8169",
+        "id":"890065",
+        "item type":"claw",
+        "lore":"MST_ITEMS_MATERIAL_890065_LONGDESCRIPTION",
+        "max stack":99,
+        "name":"MST_ITEMS_MATERIAL_890065_NAME",
+        "rarity":3,
+        "sale caution":"false",
+        "sale price":1000,
+        "target":"none",
+        "thumbnail":"item_thum_601.png",
+        "type":"material"
+    },
+    "890066":{
+        "color":"yellow",
+        "desc":"MST_ITEMS_MATERIAL_890066_SHORTDESCRIPTION",
+        "effects":[
+            {
+                "params":"",
+                "proc id":"0"
+            }
+        ],
+        "from raid":"false",
+        "guide id":"8171",
+        "id":"890066",
+        "item type":"stone",
+        "lore":"MST_ITEMS_MATERIAL_890066_LONGDESCRIPTION",
+        "max stack":99,
+        "name":"MST_ITEMS_MATERIAL_890066_NAME",
+        "rarity":3,
+        "sale caution":"false",
+        "sale price":1000,
+        "target":"none",
+        "thumbnail":"item_thum_800505.png",
+        "type":"material"
+    },
+    "890067":{
+        "color":"yellow",
+        "desc":"MST_ITEMS_MATERIAL_890067_SHORTDESCRIPTION",
+        "effects":[
+            {
+                "params":"",
+                "proc id":"0"
+            }
+        ],
+        "from raid":"false",
+        "guide id":"8171",
+        "id":"890067",
+        "item type":"stone",
+        "lore":"MST_ITEMS_MATERIAL_890067_LONGDESCRIPTION",
+        "max stack":99,
+        "name":"MST_ITEMS_MATERIAL_890067_NAME",
+        "rarity":3,
+        "sale caution":"false",
+        "sale price":1000,
+        "target":"none",
+        "thumbnail":"item_thum_700.png",
+        "type":"material"
+    },
+    "890068":{
+        "color":"yellow",
+        "desc":"MST_ITEMS_MATERIAL_890068_SHORTDESCRIPTION",
+        "effects":[
+            {
+                "params":"",
+                "proc id":"0"
+            }
+        ],
+        "from raid":"false",
+        "guide id":"8173",
+        "id":"890068",
+        "item type":"stone",
+        "lore":"MST_ITEMS_MATERIAL_890068_LONGDESCRIPTION",
+        "max stack":99,
+        "name":"MST_ITEMS_MATERIAL_890068_NAME",
+        "rarity":3,
+        "sale caution":"false",
+        "sale price":1000,
+        "target":"none",
+        "thumbnail":"item_thum_880238.png",
+        "type":"material"
+    },
+    "890071":{
+        "color":"yellow",
+        "desc":"MST_ITEMS_MATERIAL_890071_SHORTDESCRIPTION",
+        "effects":[
+            {
+                "params":"",
+                "proc id":"0"
+            }
+        ],
+        "from raid":"false",
+        "guide id":"8173",
+        "id":"890071",
+        "item type":"stone",
+        "lore":"MST_ITEMS_MATERIAL_890071_LONGDESCRIPTION",
+        "max stack":99,
+        "name":"MST_ITEMS_MATERIAL_890071_NAME",
+        "rarity":3,
+        "sale caution":"false",
+        "sale price":1000,
+        "target":"none",
+        "thumbnail":"item_thum_890071.png",
+        "type":"material"
+    },
+    "890072":{
+        "color":"yellow",
+        "desc":"MST_ITEMS_MATERIAL_890072_SHORTDESCRIPTION",
+        "effects":[
+            {
+                "params":"",
+                "proc id":"0"
+            }
+        ],
+        "from raid":"false",
+        "guide id":"8177",
+        "id":"890072",
+        "item type":"stone",
+        "lore":"MST_ITEMS_MATERIAL_890072_LONGDESCRIPTION",
+        "max stack":99,
+        "name":"MST_ITEMS_MATERIAL_890072_NAME",
+        "rarity":3,
+        "sale caution":"false",
+        "sale price":1000,
+        "target":"none",
+        "thumbnail":"item_thum_110000.png",
+        "type":"material"
+    },
+    "890073":{
+        "color":"yellow",
+        "desc":"MST_ITEMS_MATERIAL_890073_SHORTDESCRIPTION",
+        "effects":[
+            {
+                "params":"",
+                "proc id":"0"
+            }
+        ],
+        "from raid":"false",
+        "guide id":"8178",
+        "id":"890073",
+        "item type":"stone",
+        "lore":"MST_ITEMS_MATERIAL_890073_LONGDESCRIPTION",
+        "max stack":99,
+        "name":"MST_ITEMS_MATERIAL_890073_NAME",
+        "rarity":3,
+        "sale caution":"false",
+        "sale price":1000,
+        "target":"none",
+        "thumbnail":"item_thum_110010.png",
+        "type":"material"
+    },
+    "890074":{
+        "color":"yellow",
+        "desc":"MST_ITEMS_MATERIAL_890074_SHORTDESCRIPTION",
+        "effects":[
+            {
+                "params":"",
+                "proc id":"0"
+            }
+        ],
+        "from raid":"false",
+        "guide id":"8179",
+        "id":"890074",
+        "item type":"stone",
+        "lore":"MST_ITEMS_MATERIAL_890074_LONGDESCRIPTION",
+        "max stack":99,
+        "name":"MST_ITEMS_MATERIAL_890074_NAME",
+        "rarity":3,
+        "sale caution":"false",
+        "sale price":1000,
+        "target":"none",
+        "thumbnail":"item_thum_110020.png",
+        "type":"material"
+    },
+    "890075":{
+        "color":"yellow",
+        "desc":"MST_ITEMS_MATERIAL_890075_SHORTDESCRIPTION",
+        "effects":[
+            {
+                "params":"",
+                "proc id":"0"
+            }
+        ],
+        "from raid":"false",
+        "guide id":"8180",
+        "id":"890075",
+        "item type":"stone",
+        "lore":"MST_ITEMS_MATERIAL_890075_LONGDESCRIPTION",
+        "max stack":99,
+        "name":"MST_ITEMS_MATERIAL_890075_NAME",
+        "rarity":3,
+        "sale caution":"false",
+        "sale price":1000,
+        "target":"none",
+        "thumbnail":"item_thum_110030.png",
+        "type":"material"
+    },
+    "890076":{
+        "color":"gray",
+        "desc":"MST_ITEMS_MATERIAL_890076_SHORTDESCRIPTION",
+        "effects":[
+            {
+                "params":"",
+                "proc id":"0"
+            }
+        ],
+        "from raid":"false",
+        "guide id":"8181",
+        "id":"890076",
+        "item type":"stone",
+        "lore":"MST_ITEMS_MATERIAL_890076_LONGDESCRIPTION",
+        "max stack":99,
+        "name":"MST_ITEMS_MATERIAL_890076_NAME",
+        "rarity":3,
+        "sale caution":"false",
+        "sale price":1000,
+        "target":"none",
+        "thumbnail":"item_thum_800704.png",
+        "type":"material"
+    },
+    "890077":{
+        "color":"gray",
+        "desc":"MST_ITEMS_MATERIAL_890077_SHORTDESCRIPTION",
+        "effects":[
+            {
+                "params":"",
+                "proc id":"0"
+            }
+        ],
+        "from raid":"false",
+        "guide id":"8182",
+        "id":"890077",
+        "item type":"stone",
+        "lore":"MST_ITEMS_MATERIAL_890077_LONGDESCRIPTION",
+        "max stack":99,
+        "name":"MST_ITEMS_MATERIAL_890077_NAME",
+        "rarity":3,
+        "sale caution":"false",
+        "sale price":1000,
+        "target":"none",
+        "thumbnail":"item_thum_880224.png",
         "type":"material"
     },
     "899998":{
