@@ -11313,6 +11313,69 @@
         "SP_CAT_ID":"100021"
     },
     {
+        "DESCRIPTION":"Tilith is not about to let another year pass without her summer vacation.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"2",
+        "SCENARIO_ID":"10002102",
+        "SCENARIO_NAME":"Mandatory Vacation",
+        "SCENARIO_TEXT_FILE":"7thAnniv_T_Main.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"100021"
+    },
+    {
+        "DESCRIPTION":"Starfall Island is home to more than just starsand?seashells are plenty by the seashore, too.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"2",
+        "SCENARIO_ID":"10002103",
+        "SCENARIO_NAME":"She Sells Seashells",
+        "SCENARIO_TEXT_FILE":"7thAnniv_T_S1.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"100021"
+    },
+    {
+        "DESCRIPTION":"The girls stumble into an oddly empty cave resounding with echoes\\/",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"3",
+        "SCENARIO_ID":"10002104",
+        "SCENARIO_NAME":"Wave Echoes",
+        "SCENARIO_TEXT_FILE":"7thAnniv_T_S2.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"100021"
+    },
+    {
+        "DESCRIPTION":"Everyone gathers back at the beach, but an observation prompts Tilith to investigate further.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"4",
+        "SCENARIO_ID":"10002105",
+        "SCENARIO_NAME":"Diving Deep",
+        "SCENARIO_TEXT_FILE":"7thAnniv_T_S3A.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"100021"
+    },
+    {
+        "DESCRIPTION":"Can the intrepid goddess hold her own against the furious monster until help arrives?",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"5",
+        "SCENARIO_ID":"10002106",
+        "SCENARIO_NAME":"Tilith's Plight",
+        "SCENARIO_TEXT_FILE":"7thAnniv_T_S3B.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"100021"
+    },
+    {
+        "DESCRIPTION":"Adventurers will always remain adventurers.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"6",
+        "SCENARIO_ID":"10002107",
+        "SCENARIO_NAME":"Into the Maw",
+        "SCENARIO_TEXT_FILE":"7thAnniv_T_CA.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"100021"
+    },
+    {
+        "DESCRIPTION":"With your holiday coming to a close, it's time to look back on Starfall Island's beautiful beaches\u2026",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"7",
+        "SCENARIO_ID":"10002108",
+        "SCENARIO_NAME":"A Wonderful Holiday",
+        "SCENARIO_TEXT_FILE":"7thAnniv_T_CB.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"100021"
+    },
+    {
         "DESCRIPTION":"Could something as anomalous as a core of pure chaos come to know itself?",
         "QUEST_MAP_NUMBER/GUIDE_ID":"1",
         "SCENARIO_ID":"10002201",

@@ -4052,6 +4052,21 @@
     {
         "DESCRIPTION":"SP Dungeon",
         "IMAGE":"area_sp.jpg",
+        "MAP_OPENING_TEXT_FILE":"7thAnniv_T_Main.txt",
+        "MISSION_AREA":"25550001",
+        "MISSION_IDS_REQUIRED":"0",
+        "QUEST_ALWAYS_EMPTY":"",
+        "QUEST_BANNER_IMG":"sp_quest_banner_20002000.png",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"2020111801",
+        "QUEST_ZONE_MAP_NUMBER":"99",
+        "QUEST_ZONE_NAME":"Memories in Azure",
+        "UNKNOWN_BOOLEAN_QUESTS":"1",
+        "gq73WFmj":"",
+        "sHMai2ZG":"0"
+    },
+    {
+        "DESCRIPTION":"SP Dungeon",
+        "IMAGE":"area_sp.jpg",
         "MAP_OPENING_TEXT_FILE":"0",
         "MISSION_AREA":"25550002",
         "MISSION_IDS_REQUIRED":"0",

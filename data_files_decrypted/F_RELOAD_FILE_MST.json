@@ -2154,5 +2154,9 @@
     {
         "RELOAD_FILES":"Halloween2020_Heroes_Selector_ticket_event.png",
         "RELOAD_ID":"3111"
+    },
+    {
+        "RELOAD_FILES":"unit_cgg_830978.csv,unit_atk_cgs_830978.csv,unit_idle_cgs_830978.csv,unit_anime_830978.png",
+        "RELOAD_ID":"3112"
     }
 ]

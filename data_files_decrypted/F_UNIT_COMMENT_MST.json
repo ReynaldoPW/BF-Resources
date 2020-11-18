@@ -15488,6 +15488,14 @@
         "fBg92Ki7":""
     },
     {
+        "DESCRIPTION":"MST_UNITCOMMENT_830978_DESCRIPTION",
+        "UNIT_EVOLUTION_TEXT":"MST_UNITCOMMENT_830978_EVOLUTION",
+        "UNIT_FUSION_TEXT":"MST_UNITCOMMENT_830978_FUSION",
+        "UNIT_ID":"830978",
+        "UNIT_SUMMON_TEXT":"MST_UNITCOMMENT_830978_SUMMON",
+        "fBg92Ki7":""
+    },
+    {
         "DESCRIPTION":"Renowned as a cheerful witch who specializes in the combination of voodoo and lightning, Fennia used her power to foretell any dangers that might bring an end to the peace of the lands. As chaos descended, she lent her skills to the Battle Maidens in a bid to change the fates of impending doom. Little did she know that the very fabric of time was being manipulated..",
         "UNIT_EVOLUTION_TEXT":" ",
         "UNIT_FUSION_TEXT":"That tickles!<br>I feel charged up and<br>ready to go-go-go!",
@@ -17973,6 +17981,14 @@
         "UNIT_FUSION_TEXT":"MST_UNITCOMMENT_860968_FUSION",
         "UNIT_ID":"860968",
         "UNIT_SUMMON_TEXT":"MST_UNITCOMMENT_860968_SUMMON",
+        "fBg92Ki7":""
+    },
+    {
+        "DESCRIPTION":"MST_UNITCOMMENT_860978_DESCRIPTION",
+        "UNIT_EVOLUTION_TEXT":"MST_UNITCOMMENT_860978_EVOLUTION",
+        "UNIT_FUSION_TEXT":"MST_UNITCOMMENT_860978_FUSION",
+        "UNIT_ID":"860978",
+        "UNIT_SUMMON_TEXT":"MST_UNITCOMMENT_860978_SUMMON",
         "fBg92Ki7":""
     },
     {
