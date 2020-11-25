@@ -24783,6 +24783,39 @@
         "yRlCNyvk":"250% spark damage"
     },
     {
+        "2Smu5Mtq":"44,600&100&0&100&0&3&0,2,2,0,1,1,0",
+        "9PsmH7tz":"1010800117",
+        "D9wXQI2V":"4",
+        "G5wFDad6":"10",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010800117",
+        "yRlCNyvk":"Add to BB\\/SBB (3 turns DoT [600%] infliction)"
+    },
+    {
+        "2Smu5Mtq":"44,1100&100&0&100&0&3&0,2,2,0,1,1,0",
+        "9PsmH7tz":"1010800118",
+        "D9wXQI2V":"4",
+        "G5wFDad6":"15",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010800118",
+        "yRlCNyvk":"Enhances BB\\/SBB's DoT infliction effect [+500%]"
+    },
+    {
+        "2Smu5Mtq":"0,0,0,0,8,0@0,0,0,0,0,0,8,0",
+        "9PsmH7tz":"1010800119",
+        "D9wXQI2V":"4",
+        "G5wFDad6":"30",
+        "hjAy9St3":"78@88",
+        "jeR2rN3V":"4@4",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010800119",
+        "yRlCNyvk":"Allows UBB self damage boost effects to last for 12 turns"
+    },
+    {
         "2Smu5Mtq":"100,100,100,60,100",
         "9PsmH7tz":"1010800120",
         "D9wXQI2V":"4",

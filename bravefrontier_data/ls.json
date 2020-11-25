@@ -33698,15 +33698,20 @@
         "desc":"MST_LEADERSKILLS_850558_DESCRIPTION",
         "effects":[
             {
-                "atk% buff":80,
-                "def% buff":120,
-                "hp% buff":80,
+                "atk% buff":100,
+                "def% buff":140,
+                "hp% buff":100,
                 "passive id":"2",
-                "rec% buff":120
+                "rec% buff":140
             },
             {
-                "params":"-50,35",
+                "params":"-50,40",
                 "passive id":"96"
+            },
+            {
+                "extra hits":1,
+                "extra hits dmg%":-25,
+                "passive id":"37"
             },
             {
                 "passive id":"43",

@@ -76,7 +76,7 @@
         "moWQ30GH":"M_NPC_MST"
     },
     {
-        "d2RFtP8T":"1606",
+        "d2RFtP8T":"1610",
         "moWQ30GH":"M_GACHA_EFFECT_MST"
     },
     {
@@ -116,15 +116,15 @@
         "moWQ30GH":"M_FROHUN_RANKING_REWARD_MST"
     },
     {
-        "d2RFtP8T":"54",
+        "d2RFtP8T":"64",
         "moWQ30GH":"F_GATE_MST"
     },
     {
-        "d2RFtP8T":"106",
+        "d2RFtP8T":"116",
         "moWQ30GH":"F_LAND_MST"
     },
     {
-        "d2RFtP8T":"524",
+        "d2RFtP8T":"534",
         "moWQ30GH":"F_AREA_MST"
     },
     {
@@ -196,11 +196,11 @@
         "moWQ30GH":"F_RAID_MISSION_BOSS_MST"
     },
     {
-        "d2RFtP8T":"141",
+        "d2RFtP8T":"151",
         "moWQ30GH":"F_SCENARIO_CATEGORY_MST"
     },
     {
-        "d2RFtP8T":"259",
+        "d2RFtP8T":"269",
         "moWQ30GH":"F_SCENARIO_MST"
     },
     {
@@ -220,15 +220,15 @@
         "moWQ30GH":"F_CHRONOLOGY_WORD_MST"
     },
     {
-        "d2RFtP8T":"437",
+        "d2RFtP8T":"447",
         "moWQ30GH":"F_FROGATE_MST"
     },
     {
-        "d2RFtP8T":"214",
+        "d2RFtP8T":"224",
         "moWQ30GH":"F_FROGATE_REWARD_MST"
     },
     {
-        "d2RFtP8T":"107",
+        "d2RFtP8T":"117",
         "moWQ30GH":"F_FROGATE_SUPPORT_MST"
     },
     {
@@ -236,7 +236,7 @@
         "moWQ30GH":"F_FROGATE_AREA_MST"
     },
     {
-        "d2RFtP8T":"165",
+        "d2RFtP8T":"175",
         "moWQ30GH":"F_MISSION_NPC_UNIT_MST"
     },
     {
@@ -308,15 +308,15 @@
         "moWQ30GH":"F_COLOSSEUM_SUPPORT_MST"
     },
     {
-        "d2RFtP8T":"480",
+        "d2RFtP8T":"490",
         "moWQ30GH":"F_UNIT_FE_CATEGORY_MST"
     },
     {
-        "d2RFtP8T":"536",
+        "d2RFtP8T":"546",
         "moWQ30GH":"F_UNIT_FE_SKILL_MST"
     },
     {
-        "d2RFtP8T":"556",
+        "d2RFtP8T":"566",
         "moWQ30GH":"F_FE_SKILL_MST"
     },
     {
@@ -428,19 +428,19 @@
         "moWQ30GH":"F_PARTICLE"
     },
     {
-        "d2RFtP8T":"1012",
+        "d2RFtP8T":"1022",
         "moWQ30GH":"F_UNIT_MST"
     },
     {
-        "d2RFtP8T":"650",
+        "d2RFtP8T":"660",
         "moWQ30GH":"F_UNIT_COMMENT_MST"
     },
     {
-        "d2RFtP8T":"555",
+        "d2RFtP8T":"565",
         "moWQ30GH":"F_UNIT_EVO_MST"
     },
     {
-        "d2RFtP8T":"98",
+        "d2RFtP8T":"108",
         "moWQ30GH":"F_UNIT_EVO_CATALYST_COMMENT_MST"
     },
     {
@@ -448,7 +448,7 @@
         "moWQ30GH":"F_UNIT_EXT_MST"
     },
     {
-        "d2RFtP8T":"743",
+        "d2RFtP8T":"753",
         "moWQ30GH":"F_UNIT_CGS_MST"
     },
     {
@@ -460,39 +460,39 @@
         "moWQ30GH":"F_MISSION_MST"
     },
     {
-        "d2RFtP8T":"1436",
+        "d2RFtP8T":"1447",
         "moWQ30GH":"F_SKILL_MST"
     },
     {
-        "d2RFtP8T":"1392",
+        "d2RFtP8T":"1403",
         "moWQ30GH":"F_SKILL_LEVEL_MST"
     },
     {
-        "d2RFtP8T":"693",
+        "d2RFtP8T":"705",
         "moWQ30GH":"F_EXTRA_PASSIVE_SKILL_MST"
     },
     {
-        "d2RFtP8T":"3094",
+        "d2RFtP8T":"3100",
         "moWQ30GH":"F_RESOURCE_MST"
     },
     {
-        "d2RFtP8T":"949",
+        "d2RFtP8T":"959",
         "moWQ30GH":"F_ITEM_MST"
     },
     {
-        "d2RFtP8T":"296",
+        "d2RFtP8T":"307",
         "moWQ30GH":"F_RECIPE_MST"
     },
     {
-        "d2RFtP8T":"527",
+        "d2RFtP8T":"537",
         "moWQ30GH":"F_EFFECT_MST"
     },
     {
-        "d2RFtP8T":"552",
+        "d2RFtP8T":"562",
         "moWQ30GH":"F_EFFECT_GROUP_MST"
     },
     {
-        "d2RFtP8T":"691",
+        "d2RFtP8T":"701",
         "moWQ30GH":"F_LEADER_SKILL_MST"
     },
     {
@@ -500,7 +500,7 @@
         "moWQ30GH":"F_HELP_DETAIL_MST"
     },
     {
-        "d2RFtP8T":"239",
+        "d2RFtP8T":"249",
         "moWQ30GH":"F_MISSION_SCRIPT_MST"
     },
     {
@@ -620,11 +620,11 @@
         "moWQ30GH":"F_GUILD_SKILL_DETAILS_MST"
     },
     {
-        "d2RFtP8T":"53",
+        "d2RFtP8T":"63",
         "moWQ30GH":"F_UNIT_EVO_OMNI_MST"
     },
     {
-        "d2RFtP8T":"54",
+        "d2RFtP8T":"64",
         "moWQ30GH":"F_UNIT_EVO_OMNI_TYPE_MST"
     },
     {
