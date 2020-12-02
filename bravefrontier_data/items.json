@@ -39751,6 +39751,49 @@
         "thumbnail":"sphere_thum_819349.png",
         "type":"sphere"
     },
+    "819350":{
+        "desc":"MST_SPHERES_819350_SHORTDESCRIPTION",
+        "effects":[
+            {
+                "params":"70,70,70,0,70",
+                "proc id":"1"
+            },
+            {
+                "params":"40,150,-1,20,2",
+                "proc id":"86"
+            },
+            {
+                "params":"300,500,100",
+                "proc id":"25"
+            },
+            {
+                "params":"30,30,60",
+                "proc id":"24"
+            },
+            {
+                "params":"100,100",
+                "proc id":"77"
+            },
+            {
+                "params":"100",
+                "proc id":"70"
+            }
+        ],
+        "from raid":"false",
+        "guide id":"819350",
+        "id":"819350",
+        "lore":"A radiant, seven-pointed star bearing all the colors of the rainbow.<br>Harnessing the combined powers of courage, wisdom, endurance, and fortune, the gods themselves smile upon you and bestow the pinnacle of achievement. Look into its brilliant, beaming surface, and recall the deeds of heroes past and present\u2014and never forget what you fight for.<br>Through laughter, joy, anger, and sorrow, may the Omni Star light your path to greatness and beyond.",
+        "max equip":1,
+        "max stack":1,
+        "name":"MST_SPHERES_819350_NAME",
+        "rarity":7,
+        "sale caution":"true",
+        "sale price":30000,
+        "sphere type":"SPHERE_TYPE_NAME_1",
+        "target":"none",
+        "thumbnail":"sphere_thum_819350.png",
+        "type":"sphere"
+    },
     "819901":{
         "desc":"MST_SPHERES_819901_SHORTDESCRIPTION",
         "effects":[

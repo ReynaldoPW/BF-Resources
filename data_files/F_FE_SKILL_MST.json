@@ -23903,6 +23903,72 @@
         "yRlCNyvk":"Add to BB (Fills BB gauge [14 BC] for 3 turns)"
     },
     {
+        "2Smu5Mtq":"100,100,0,0,50,1",
+        "9PsmH7tz":"1010700161",
+        "D9wXQI2V":"4",
+        "G5wFDad6":"10",
+        "hjAy9St3":"30",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010700161",
+        "yRlCNyvk":"100% Atk, Def when BB gauge is above 50%"
+    },
+    {
+        "2Smu5Mtq":"85,25&30&50&3&0,1,2,0,1,1,0",
+        "9PsmH7tz":"1010700162",
+        "D9wXQI2V":"5",
+        "G5wFDad6":"25",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010700162",
+        "yRlCNyvk":"Add to BB\\/SBB (Damage taken may [50%] restore HP [25-30% damage] for 3 turns)"
+    },
+    {
+        "2Smu5Mtq":"1,850&200&0&0&0&0,2,1,0,0,1,0",
+        "9PsmH7tz":"1010700163",
+        "D9wXQI2V":"5",
+        "G5wFDad6":"25",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010700163",
+        "yRlCNyvk":"Add to SBB (23 combo Thunder attack [850%] on single foe )"
+    },
+    {
+        "2Smu5Mtq":"0,0,0,0,1,0@0,1,0@0,0,0,1,0@0,0,0,0,0,0,0,0,1,0@0,1,0",
+        "9PsmH7tz":"1010700164",
+        "D9wXQI2V":"5",
+        "G5wFDad6":"15",
+        "hjAy9St3":"24@54@85@40@19",
+        "jeR2rN3V":"4@4@4@4@4",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010700164",
+        "yRlCNyvk":"Allows UBB's effects to last additional 1 turn"
+    },
+    {
+        "2Smu5Mtq":"10016,0.75&3&0&1,1,2,0,0,1,0",
+        "9PsmH7tz":"1010700166",
+        "D9wXQI2V":"6",
+        "G5wFDad6":"20",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010700166",
+        "yRlCNyvk":"Add to SBB (Boosts critical damage [75%] (Fire) for 3 turns)"
+    },
+    {
+        "2Smu5Mtq":"1,850&200&0&0&0&0,2,1,0,0,1,0",
+        "9PsmH7tz":"1010700167",
+        "D9wXQI2V":"5",
+        "G5wFDad6":"25",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010700167",
+        "yRlCNyvk":"Add to SBB (25 combo Fire attack [850%] on single foe )"
+    },
+    {
         "2Smu5Mtq":"0,130,0,0,130",
         "9PsmH7tz":"1010800029",
         "D9wXQI2V":"4",

@@ -25686,14 +25686,15 @@
         "desc":"MST_LEADERSKILLS_810288_DESCRIPTION",
         "effects":[
             {
-                "atk% buff":60,
-                "hp% buff":60,
+                "atk% buff":150,
+                "crit% buff":30,
+                "hp% buff":150,
                 "passive id":"1"
             },
             {
                 "bc fill when attacked chance%":100,
-                "bc fill when attacked high":7,
-                "bc fill when attacked low":5,
+                "bc fill when attacked high":10,
+                "bc fill when attacked low":6,
                 "passive id":"25"
             },
             {
@@ -25703,8 +25704,12 @@
                 "passive id":"24"
             },
             {
-                "params":"300,300,300,50,1",
+                "params":"550,550,550,50,1",
                 "passive id":"103"
+            },
+            {
+                "passive id":"43",
+                "take 1 dmg%":20
             }
         ],
         "id":"810288",
@@ -31445,24 +31450,28 @@
         "desc":"MST_LEADERSKILLS_840288_DESCRIPTION",
         "effects":[
             {
-                "atk% buff":60,
+                "atk% buff":150,
                 "crit% buff":30,
-                "hp% buff":60,
+                "hp% buff":150,
                 "passive id":"1"
             },
             {
-                "crit dmg%":175,
+                "crit dmg%":250,
                 "passive id":"34"
             },
             {
-                "params":"100,100,100,100,100,100,0,0,0",
+                "params":"100,100,100,100,100,100,100,100,100",
                 "passive id":"73"
             },
             {
                 "bc fill when attacked chance%":100,
-                "bc fill when attacked high":7,
-                "bc fill when attacked low":5,
+                "bc fill when attacked high":10,
+                "bc fill when attacked low":6,
                 "passive id":"25"
+            },
+            {
+                "passive id":"48",
+                "reduced bc cost%":25
             }
         ],
         "id":"840288",
