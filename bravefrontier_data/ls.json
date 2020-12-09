@@ -36719,6 +36719,41 @@
         "id":"860900",
         "name":"MST_LEADERSKILLS_860900_NAME"
     },
+    "860958":{
+        "desc":"MST_LEADERSKILLS_860958_DESCRIPTION",
+        "effects":[
+            {
+                "atk% buff":200,
+                "crit% buff":30,
+                "def% buff":140,
+                "hp% buff":140,
+                "passive id":"2"
+            },
+            {
+                "crit dmg%":250,
+                "passive id":"34"
+            },
+            {
+                "params":"400,400,400",
+                "passive id":"64"
+            },
+            {
+                "bc fill per turn":10,
+                "passive id":"9"
+            },
+            {
+                "base crit chance resist%":100,
+                "base crit dmg resist%":100,
+                "base elemental damage resist%":100,
+                "buffed crit chance resist%":100,
+                "buffed crit dmg resist%":100,
+                "buffed elemental damage resist%":100,
+                "passive id":"53"
+            }
+        ],
+        "id":"860958",
+        "name":"MST_LEADERSKILLS_860958_NAME"
+    },
     "860968":{
         "desc":"MST_LEADERSKILLS_860968_DESCRIPTION",
         "effects":[

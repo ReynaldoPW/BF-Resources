@@ -32402,6 +32402,40 @@
         "name":"MST_EXTRAPASSIVESKILL_860900_NAME",
         "rarity":7
     },
+    "860958":{
+        "conditions":"2#4,820958%6,2%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0",
+        "desc":"MST_EXTRAPASSIVESKILL_860958_DESCRIPTION",
+        "effects":[
+            {
+                "crit dmg%":200,
+                "passive id":"34"
+            },
+            {
+                "passive id":"49",
+                "reduced bc used chance%":100,
+                "reduced bc used% high":20,
+                "reduced bc used% low":10
+            },
+            {
+                "atk% buff":20,
+                "def% buff":20,
+                "hp% buff":20,
+                "passive id":"1",
+                "rec% buff":20
+            },
+            {
+                "passive id":"43",
+                "take 1 dmg%":15
+            },
+            {
+                "params":"100,100,100,100,100,100,100,100,100",
+                "passive id":"73"
+            }
+        ],
+        "id":"860958",
+        "name":"MST_EXTRAPASSIVESKILL_860958_NAME",
+        "rarity":8
+    },
     "860968":{
         "conditions":"1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0",
         "desc":"MST_EXTRAPASSIVESKILL_860968_DESCRIPTION",
