@@ -2162,5 +2162,9 @@
     {
         "RELOAD_FILES":"Winter2020_Heroes_Selector_ticket_event_icon.png",
         "RELOAD_ID":"3113"
+    },
+    {
+        "RELOAD_FILES":"unit_ills_thum_860958.png,unit_ills_battle_860958.png,unit_ills_full_860958.png,unit_anime_860958.png,unit_ills_thum_860958_100.png",
+        "RELOAD_ID":"3114"
     }
 ]

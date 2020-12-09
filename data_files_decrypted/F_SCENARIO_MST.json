@@ -11034,6 +11034,15 @@
         "SP_CAT_ID":"100013"
     },
     {
+        "DESCRIPTION":"A record of your duel against the Righteous Sheriff, Gilbert.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"1",
+        "SCENARIO_ID":"10001309",
+        "SCENARIO_NAME":"The Righteous Sheriff",
+        "SCENARIO_TEXT_FILE":"BF2_09_Gilbert.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"100013"
+    },
+    {
         "DESCRIPTION":"Shadows oft follow in the wake of a demigod's decline.",
         "QUEST_MAP_NUMBER/GUIDE_ID":"1",
         "SCENARIO_ID":"10001601",
