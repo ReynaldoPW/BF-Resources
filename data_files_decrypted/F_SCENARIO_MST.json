@@ -9234,6 +9234,24 @@
         "SP_CAT_ID":"85007"
     },
     {
+        "DESCRIPTION":"On borrowed time we soldier on...",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"53",
+        "SCENARIO_ID":"87152",
+        "SCENARIO_NAME":"Borrowed Time",
+        "SCENARIO_TEXT_FILE":"X7_Epilogue_A.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"85007"
+    },
+    {
+        "DESCRIPTION":"...Unaware of the ones we've lost.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"54",
+        "SCENARIO_ID":"87153",
+        "SCENARIO_NAME":"Shattered Memory",
+        "SCENARIO_TEXT_FILE":"X7_Epilogue_B.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"85007"
+    },
+    {
         "DESCRIPTION":"Welcome to an odd sort of theater - your audience awaits you with bated breath. Don't die.",
         "QUEST_MAP_NUMBER/GUIDE_ID":"97",
         "SCENARIO_ID":"88400",

@@ -11161,6 +11161,15 @@
     },
     {
         "AI_CHANCE":"0",
+        "DESCRIPTION":"Revisited the Choice.",
+        "MISSION_ID":"5008011",
+        "REQUIREMENT_ID":"8719",
+        "REQUIREMENT_RARITY*":"1",
+        "Ufm6c7RA":"1",
+        "ky1xsH0h":"1"
+    },
+    {
+        "AI_CHANCE":"0",
         "DESCRIPTION":"More episodes coming soon!",
         "MISSION_ID":"5008011",
         "REQUIREMENT_ID":"8799",

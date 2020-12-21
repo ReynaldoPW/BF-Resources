@@ -4758,6 +4758,58 @@
         "REWARD_TYPE*":"5"
     },
     {
+        "64hAvkZX":"1",
+        "ELGIF_REWARD*":"0",
+        "MISSION_ID":"5008011",
+        "PRESENT_AMOUNT":"1",
+        "REQUIREMENT_PARAMETER":"8719",
+        "REQUIREMENT_TYPE*":"2",
+        "REWARD_CONDITION":"Secret Objective 4 Complete",
+        "REWARD_CONDITION_DESCRIPTION":"Secret Objective 4 Complete",
+        "REWARD_ID":"87053",
+        "REWARD_ITEM_ID":"0",
+        "REWARD_TYPE*":"8"
+    },
+    {
+        "64hAvkZX":"1",
+        "ELGIF_REWARD*":"1:0",
+        "MISSION_ID":"5008011",
+        "PRESENT_AMOUNT":"1",
+        "REQUIREMENT_PARAMETER":"8719",
+        "REQUIREMENT_TYPE*":"2",
+        "REWARD_CONDITION":"Secret Objective 4 Complete",
+        "REWARD_CONDITION_DESCRIPTION":"Secret Objective 4 Complete",
+        "REWARD_ID":"87054",
+        "REWARD_ITEM_ID":"87102602",
+        "REWARD_TYPE*":"6"
+    },
+    {
+        "64hAvkZX":"1",
+        "ELGIF_REWARD*":"0",
+        "MISSION_ID":"5008011",
+        "PRESENT_AMOUNT":"5",
+        "REQUIREMENT_PARAMETER":"100",
+        "REQUIREMENT_TYPE*":"1",
+        "REWARD_CONDITION":"100% Completion Bonus",
+        "REWARD_CONDITION_DESCRIPTION":"100% Completion Bonus",
+        "REWARD_ID":"87055",
+        "REWARD_ITEM_ID":"0",
+        "REWARD_TYPE*":"8"
+    },
+    {
+        "64hAvkZX":"1",
+        "ELGIF_REWARD*":"1:0",
+        "MISSION_ID":"5008011",
+        "PRESENT_AMOUNT":"1",
+        "REQUIREMENT_PARAMETER":"100",
+        "REQUIREMENT_TYPE*":"1",
+        "REWARD_CONDITION":"100% Completion Bonus",
+        "REWARD_CONDITION_DESCRIPTION":"100% Completion Bonus",
+        "REWARD_ID":"87056",
+        "REWARD_ITEM_ID":"730362",
+        "REWARD_TYPE*":"6"
+    },
+    {
         "64hAvkZX":"0",
         "ELGIF_REWARD*":"0",
         "MISSION_ID":"5008011",

@@ -14016,9 +14016,9 @@
     },
     "19750":{
         "background image":"gacha_img_20201104LS_s1.png",
-        "desc":"From 4 Nov 7:00 PST ~ 16 Dec 6:59 PST, summon minimum 5* Global exclusive units with Omni Potential and enjoy Increased Rates for units in the Post-Osiris Summon Pool! Total rates at 10%!",
+        "desc":"From 4 Nov 7:00 PST ~ 17 Dec 23:59 PST, summon minimum 5* Global exclusive units with Omni Potential and enjoy Increased Rates for units in the Post-Osiris Summon Pool! Total rates at 10%!",
         "door image":"gacha_rare_door.png",
-        "end time":"2020-12-16 14:59:59",
+        "end time":"2020-12-18 07:59:59",
         "gem cost":5,
         "name":"7th Anniversary Luxury Summon",
         "priority":"2",
@@ -14148,9 +14148,9 @@
     },
     "19860":{
         "background image":"gacha_img_20201125DS_s1.png",
-        "desc":"From 25 Nov 7:00 PST ~ 16 Dec 6:59 PST, summon minimum 5* Global exclusive units with Omni Potential and enjoy Increased Rates on Sidonie,  Feora and  QiuTong!",
+        "desc":"From 25 Nov 7:00 PST ~ 17 Dec 23:59 PST, summon minimum 5* Global exclusive units with Omni Potential and enjoy Increased Rates on Sidonie,  Feora and  QiuTong!",
         "door image":"gacha_rare_door.png",
-        "end time":"2020-12-16 14:59:59",
+        "end time":"2020-12-18 07:59:59",
         "gem cost":5,
         "name":"Anniversary Diamond Summon IV",
         "priority":"2",
@@ -14228,6 +14228,42 @@
         "priority":"2",
         "short desc":"Vanessa is available through the Summon Gate! Get a Global Exclusive Elgif for every 10 Summons from the same gate!",
         "start time":"2020-12-09 15:00:00",
+        "summon button image":"gacha_rare_summons_btn1.png"
+    },
+    "19930":{
+        "background image":"gacha_img_20200408GG_s1.png",
+        "desc":"From 16 Dec 7:00 PST ~ 23 Dec 6:59 PST, summon minimum 5* Global exclusive units with Omni Potential and enjoy Increased Rates are applied on Osiris, Azius and Saskya!",
+        "door image":"gacha_rare_door.png",
+        "end time":"2020-12-23 14:59:59",
+        "gem cost":5,
+        "name":"Gallant Guard Summon",
+        "priority":"2",
+        "short desc":"Osiris, Azius and Saskya are available through the Summon Gate!",
+        "start time":"2020-12-16 15:00:00",
+        "summon button image":"gacha_rare_summons_btn1.png"
+    },
+    "19940":{
+        "background image":"gacha_img_20201216HU_s1.png",
+        "desc":"From 16 Dec 7:00 PST ~ 23 Dec 6:59 PST, summon minimum 5* Global exclusive units with Omni Potential and enjoy Increased Rates with each summon on Teresa and Gilbert!",
+        "door image":"gacha_rare_door.png",
+        "end time":"2020-12-23 14:59:59",
+        "gem cost":5,
+        "name":"Heroes Unite Summon",
+        "priority":"2",
+        "short desc":"Teresa and Gilbert is are available through the Summon Gate! Get a Earth & Thunder DBB Mystery Chest for every 7 Summons from the same gate!",
+        "start time":"2020-12-16 15:00:00",
+        "summon button image":"gacha_rare_summons_btn1.png"
+    },
+    "19950":{
+        "background image":"gacha_img_20201216HS.png",
+        "desc":"From 20 Dec 20:00 PST ~ 31 Jan 6:59 PST, use your Winter & New year Hero Selector Ticket to summon one of the selected units from the Heroes Across Time series along with past Winter and New Year units! Remember, this ticket is only valid till 31st January.",
+        "door image":"gacha_rare_door.png",
+        "end time":"2021-01-31 14:59:59",
+        "gem cost":999,
+        "name":"Winter & New Year Hero Selector",
+        "priority":"2",
+        "short desc":"Summon any one of the units, selected from Heroes Across Time and past Winter & New Year exclusive!",
+        "start time":"2020-12-21 04:00:00",
         "summon button image":"gacha_rare_summons_btn1.png"
     }
 }

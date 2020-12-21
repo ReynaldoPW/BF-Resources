@@ -35657,15 +35657,15 @@
         "desc":"MST_LEADERSKILLS_860558_DESCRIPTION",
         "effects":[
             {
-                "atk% buff":80,
-                "def% buff":120,
-                "hp% buff":80,
+                "atk% buff":100,
+                "def% buff":140,
+                "hp% buff":100,
                 "passive id":"2",
-                "rec% buff":120
+                "rec% buff":140
             },
             {
-                "first x turns atk%":100,
-                "first x turns def%":100,
+                "first x turns atk%":150,
+                "first x turns def%":150,
                 "passive id":"21",
                 "turns":3
             },
@@ -35678,6 +35678,13 @@
                 "bc fill when attacked high":10,
                 "bc fill when attacked low":6,
                 "passive id":"25"
+            },
+            {
+                "elemental weakness dmg%":225,
+                "elements":[
+                    "dark"
+                ],
+                "passive id":"50"
             }
         ],
         "id":"860558",

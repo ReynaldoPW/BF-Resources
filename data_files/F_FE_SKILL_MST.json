@@ -25003,6 +25003,50 @@
         "yRlCNyvk":"Allows UBB's self-buff effects to last for 10 turns"
     },
     {
+        "2Smu5Mtq":"88,120&0&0&0&0&0&3&95,3,1,0,0,1,0",
+        "9PsmH7tz":"1010800129",
+        "D9wXQI2V":"4",
+        "G5wFDad6":"20",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010800129",
+        "yRlCNyvk":"Add to SBB (Boosts own spark damage [120%] for 3 turns)"
+    },
+    {
+        "2Smu5Mtq":"10015,125&3&0&6,1,2,0,0,1,0",
+        "9PsmH7tz":"1010800130",
+        "D9wXQI2V":"3",
+        "G5wFDad6":"20",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010800130",
+        "yRlCNyvk":"Add to SBB (Boosts spark damage [125%] (Dark) for 3 turns)"
+    },
+    {
+        "2Smu5Mtq":"55,6&0&0&0&0&0&2.25&3&0,1,2,0,0,1,0",
+        "9PsmH7tz":"1010800131",
+        "D9wXQI2V":"3",
+        "G5wFDad6":"25",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010800131",
+        "yRlCNyvk":"Add to SBB (Boosts Dark elemental damage [225%] for 3 turns)"
+    },
+    {
+        "2Smu5Mtq":"40,1&25&2&25&3&25&0&0&3&105,1,2,0,1,1,0@40,4&25&5&25&6&25&0&0&3&105,1,2,0,1,1,0",
+        "9PsmH7tz":"1010800132",
+        "D9wXQI2V":"2",
+        "G5wFDad6":"10",
+        "hjAy9St3":"66@66",
+        "jeR2rN3V":"1@1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010800132",
+        "yRlCNyvk":"Add to BB\\/SBB (Adds probable [25%] all status ailments infliction to attack for 3 turns)"
+    },
+    {
         "2Smu5Mtq":"100,100,100,100,100,100,100,100,100",
         "9PsmH7tz":"1010900001",
         "D9wXQI2V":"3",
@@ -30151,7 +30195,7 @@
         "yRlCNyvk":"Add to SBB (17 combo Water attack [200-500%] on all foes (damage relative to remaining HP))"
     },
     {
-        "2Smu5Mtq":"31,2.5",
+        "2Smu5Mtq":"31,250$0$0$0$0$0",
         "9PsmH7tz":"1100000501",
         "D9wXQI2V":"5",
         "G5wFDad6":"45",

@@ -39446,6 +39446,45 @@
         "thumbnail":"ls_sphere_thum_7_3.png",
         "type":"sphere"
     },
+    "819341":{
+        "desc":"MST_SPHERES_819341_SHORTDESCRIPTION",
+        "effects":[
+            {
+                "params":"4,25,0,0,0,0,0",
+                "proc id":"11004"
+            },
+            {
+                "params":"4,0,60,60,60,0,60",
+                "proc id":"2"
+            },
+            {
+                "params":"2500",
+                "proc id":"9"
+            },
+            {
+                "params":"125,0,0,0,0,0",
+                "proc id":"31"
+            },
+            {
+                "params":"10019,24&0&0&0&0&0&0&0&0&40,100,2,0,1,1,0",
+                "proc id":"66"
+            }
+        ],
+        "from raid":"false",
+        "guide id":"819341",
+        "id":"819341",
+        "lore":"The bell Gilbert wears around his neck was a gift from a child in the town he governed. Though the sheriff is now regarded as a hero, it was not always so; his overwhelming appearance struck fear into criminals and locals alike.<br>One day, after accosting a livestock thief, the farmer stammered his thanks but stayed his distance. However, his young son bravely presented Gilbert with the bell\u2014\"\"Sheriff, sir, you're the big bull that watches over the pen!\"\"<br>With a boisterous laugh, Gilbert accepted the gift, and has not stopped wearing it since.",
+        "max equip":1,
+        "max stack":1,
+        "name":"MST_SPHERES_819341_NAME",
+        "rarity":7,
+        "sale caution":"true",
+        "sale price":30000,
+        "sphere type":"SPHERE_TYPE_NAME_12",
+        "target":"none",
+        "thumbnail":"sphere_thum_819341.png",
+        "type":"sphere"
+    },
     "819343":{
         "desc":"MST_SPHERES_819343_SHORTDESCRIPTION",
         "effects":[
@@ -46020,7 +46059,7 @@
             }
         ],
         "from raid":"false",
-        "guide id":"8171",
+        "guide id":"8172",
         "id":"890067",
         "item type":"stone",
         "lore":"MST_ITEMS_MATERIAL_890067_LONGDESCRIPTION",
@@ -46215,6 +46254,29 @@
         "sale price":1000,
         "target":"none",
         "thumbnail":"item_thum_880224.png",
+        "type":"material"
+    },
+    "890078":{
+        "color":"yellow",
+        "desc":"MST_ITEMS_MATERIAL_890078_SHORTDESCRIPTION",
+        "effects":[
+            {
+                "params":"",
+                "proc id":"0"
+            }
+        ],
+        "from raid":"false",
+        "guide id":"8183",
+        "id":"890078",
+        "item type":"stone",
+        "lore":"MST_ITEMS_MATERIAL_890078_LONGDESCRIPTION",
+        "max stack":99,
+        "name":"MST_ITEMS_MATERIAL_890078_NAME",
+        "rarity":3,
+        "sale caution":"false",
+        "sale price":1000,
+        "target":"none",
+        "thumbnail":"item_thum_800501.png",
         "type":"material"
     },
     "899998":{
