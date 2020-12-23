@@ -29230,6 +29230,36 @@
         "id":"820958",
         "name":"MST_LEADERSKILLS_820958_NAME"
     },
+    "820998":{
+        "desc":"MST_LEADERSKILLS_820998_DESCRIPTION",
+        "effects":[
+            {
+                "atk% buff":150,
+                "def% buff":150,
+                "hp% buff":150,
+                "passive id":"1",
+                "rec% buff":100
+            },
+            {
+                "params":"36,20,-1,5000,1",
+                "passive id":"78"
+            },
+            {
+                "passive id":"48",
+                "reduced bc cost%":30
+            },
+            {
+                "dmg% for spark":300,
+                "passive id":"31"
+            },
+            {
+                "params":"30",
+                "passive id":"70"
+            }
+        ],
+        "id":"820998",
+        "name":"MST_LEADERSKILLS_820998_NAME"
+    },
     "8300":{
         "desc":"MST_LEADERSKILLS_8300_DESCRIPTION",
         "effects":[
@@ -31138,6 +31168,43 @@
         ],
         "id":"830978",
         "name":"MST_LEADERSKILLS_830978_NAME"
+    },
+    "830998":{
+        "desc":"MST_LEADERSKILLS_830998_DESCRIPTION",
+        "effects":[
+            {
+                "atk% buff":150,
+                "crit% buff":30,
+                "hp% buff":100,
+                "passive id":"1"
+            },
+            {
+                "params":"100,15",
+                "passive id":"127"
+            },
+            {
+                "params":"0,1,25,25,0",
+                "passive id":"69"
+            },
+            {
+                "elemental weakness dmg%":200,
+                "elements":[
+                    "fire",
+                    "water",
+                    "earth",
+                    "thunder",
+                    "light",
+                    "dark"
+                ],
+                "passive id":"50"
+            },
+            {
+                "params":"100,100,100,100,100,100,100,100,100",
+                "passive id":"73"
+            }
+        ],
+        "id":"830998",
+        "name":"MST_LEADERSKILLS_830998_NAME"
     },
     "8400":{
         "desc":"MST_LEADERSKILLS_8400_DESCRIPTION",

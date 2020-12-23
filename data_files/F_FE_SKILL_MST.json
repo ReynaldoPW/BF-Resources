@@ -25047,6 +25047,50 @@
         "yRlCNyvk":"Add to BB\\/SBB (Adds probable [25%] all status ailments infliction to attack for 3 turns)"
     },
     {
+        "2Smu5Mtq":"47,300&550&0&200&0&0&0&0,2,2,0,0,1,0",
+        "9PsmH7tz":"1010800133",
+        "D9wXQI2V":"5",
+        "G5wFDad6":"25",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010800133",
+        "yRlCNyvk":"Add to SBB (29 combo Water attack [300-550%] on all foes (damage relative to remaining HP))"
+    },
+    {
+        "2Smu5Mtq":"54,1.5&3&60,1,2,0,0,1,0@54,5&4&60,1,2,0,0,0,1",
+        "9PsmH7tz":"1010800134",
+        "D9wXQI2V":"5",
+        "G5wFDad6":"25",
+        "hjAy9St3":"66@66",
+        "jeR2rN3V":"1@1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010800134",
+        "yRlCNyvk":"Add to SBB (Boosts critical damage [150%] for 3 turns), Add to UBB (Boosts critical damage [500%] for 4 turns)"
+    },
+    {
+        "2Smu5Mtq":"74,1&2&3&4&5&6$150",
+        "9PsmH7tz":"1010800135",
+        "D9wXQI2V":"5",
+        "G5wFDad6":"30",
+        "hjAy9St3":"107",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010800135",
+        "yRlCNyvk":"Add to LS (150% damage against status afflicted foes)"
+    },
+    {
+        "2Smu5Mtq":"44,600&100&0&100&0&2&110.,2,2,0,1,1,0",
+        "9PsmH7tz":"1010800136",
+        "D9wXQI2V":"5",
+        "G5wFDad6":"25",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010800136",
+        "yRlCNyvk":"Add to BB\\/SBB (2 turns DoT [600%] infliction)"
+    },
+    {
         "2Smu5Mtq":"100,100,100,100,100,100,100,100,100",
         "9PsmH7tz":"1010900001",
         "D9wXQI2V":"3",

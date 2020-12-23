@@ -789,5 +789,12 @@
         "SCENARIO_SUPERSECTION*":"0",
         "SP_CAT_ID":"100022",
         "SP_CAT_NAME":"Shadow of Memories"
+    },
+    {
+        "DESCRIPTION":"Recollections of the first tale in Maeri's book.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"36",
+        "SCENARIO_SUPERSECTION*":"0",
+        "SP_CAT_ID":"100023",
+        "SP_CAT_NAME":"Dreams of Frost"
     }
 ]

@@ -14728,6 +14728,14 @@
         "fBg92Ki7":""
     },
     {
+        "DESCRIPTION":"MST_UNITCOMMENT_820998_DESCRIPTION",
+        "UNIT_EVOLUTION_TEXT":"MST_UNITCOMMENT_820998_EVOLUTION",
+        "UNIT_FUSION_TEXT":"MST_UNITCOMMENT_820998_FUSION",
+        "UNIT_ID":"820998",
+        "UNIT_SUMMON_TEXT":"MST_UNITCOMMENT_820998_SUMMON",
+        "fBg92Ki7":""
+    },
+    {
         "DESCRIPTION":"A practitioner of the lost \"Nyan-jutsu\" style of martial arts. Born in the jungle, she joined the Battle Maidens in a quest to find out more about her hazy past. Despite the many hardships she faced growing up she always has a cat-like smile on her face. Entrusted with the legendary rifle \"Liebe,\" she interestingly uses it more as a close quarters weapon than a firearm.",
         "UNIT_EVOLUTION_TEXT":" ",
         "UNIT_FUSION_TEXT":"Many a treat! <br>That really hit the spot! <br>Nya!",
@@ -15493,6 +15501,14 @@
         "UNIT_FUSION_TEXT":"MST_UNITCOMMENT_830978_FUSION",
         "UNIT_ID":"830978",
         "UNIT_SUMMON_TEXT":"MST_UNITCOMMENT_830978_SUMMON",
+        "fBg92Ki7":""
+    },
+    {
+        "DESCRIPTION":"MST_UNITCOMMENT_830998_DESCRIPTION",
+        "UNIT_EVOLUTION_TEXT":"MST_UNITCOMMENT_830998_EVOLUTION",
+        "UNIT_FUSION_TEXT":"MST_UNITCOMMENT_830998_FUSION",
+        "UNIT_ID":"830998",
+        "UNIT_SUMMON_TEXT":"MST_UNITCOMMENT_830998_SUMMON",
         "fBg92Ki7":""
     },
     {

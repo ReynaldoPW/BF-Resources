@@ -11421,6 +11421,87 @@
         "SP_CAT_ID":"100022"
     },
     {
+        "DESCRIPTION":"Maeri is eager to dive into her new book of tales.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"1",
+        "SCENARIO_ID":"10002301",
+        "SCENARIO_NAME":"Prologue",
+        "SCENARIO_TEXT_FILE":"Winter2020_Prologue.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"100023"
+    },
+    {
+        "DESCRIPTION":"Wolves. Why did it have to be wolves?",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"2",
+        "SCENARIO_ID":"10002302",
+        "SCENARIO_NAME":"Snow Business",
+        "SCENARIO_TEXT_FILE":"Winter2020_W1_M1.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"100023"
+    },
+    {
+        "DESCRIPTION":"Maeri finds some strange pages in the aftermath of the unprovoked attack.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"3",
+        "SCENARIO_ID":"10002303",
+        "SCENARIO_NAME":"Scattered Pages",
+        "SCENARIO_TEXT_FILE":"Winter2020_W1_M2.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"100023"
+    },
+    {
+        "DESCRIPTION":"Don't wake sleeping bears. (This advice also applies to other large creatures.)",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"4",
+        "SCENARIO_ID":"10002304",
+        "SCENARIO_NAME":"Beary Nasty",
+        "SCENARIO_TEXT_FILE":"Winter2020_W1_M3A.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"100023"
+    },
+    {
+        "DESCRIPTION":"Glaes acquires a new party member, whether he wanted it to happen or not.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"5",
+        "SCENARIO_ID":"10002305",
+        "SCENARIO_NAME":"Voice of the Forest",
+        "SCENARIO_TEXT_FILE":"Winter2020_W1_M3B.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"100023"
+    },
+    {
+        "DESCRIPTION":"Do dragons dream of cuddly sheep?",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"6",
+        "SCENARIO_ID":"10002306",
+        "SCENARIO_NAME":"How Rumors Start",
+        "SCENARIO_TEXT_FILE":"Winter2020_W2_M1.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"100023"
+    },
+    {
+        "DESCRIPTION":"There are few things scarier than tiptoeing around the mountainous abode of an enormous red dragon.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"7",
+        "SCENARIO_ID":"10002307",
+        "SCENARIO_NAME":"In the Hall of the Dragon Queen",
+        "SCENARIO_TEXT_FILE":"Winter2020_W2_M2.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"100023"
+    },
+    {
+        "DESCRIPTION":"Never wake a sleeping dragon without gifts. Making yourself a gift is also ill-advised.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"8",
+        "SCENARIO_ID":"10002308",
+        "SCENARIO_NAME":"Dragon's Fire",
+        "SCENARIO_TEXT_FILE":"Winter2020_W2_M3A.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"100023"
+    },
+    {
+        "DESCRIPTION":"Placated, Vyrr apologizes for her outburst...mostly because of Maeri's weeping.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"9",
+        "SCENARIO_ID":"10002309",
+        "SCENARIO_NAME":"Winter's Fiery Heart",
+        "SCENARIO_TEXT_FILE":"Winter2020_W2_M3B.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"100023"
+    },
+    {
         "DESCRIPTION":"Two worlds collide as a happy celebration brings adventure to some lucky souls! Who are they? Find out!",
         "QUEST_MAP_NUMBER/GUIDE_ID":"1",
         "SCENARIO_ID":"100001501",

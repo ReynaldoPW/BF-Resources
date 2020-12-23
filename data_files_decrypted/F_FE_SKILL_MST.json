@@ -25049,6 +25049,50 @@
     {
         "DESCRIPTION":"",
         "EFFECT_AREA*":"1",
+        "LEVEL":"5",
+        "PROC/PASSIVE_ID(S)":"66",
+        "PROC/PASSIVE_PARAMETERS":"47,300&550&0&200&0&0&0&0,2,2,0,0,1,0",
+        "SP_ID":"1010800133",
+        "SP_NAME":"Add to SBB (29 combo Water attack [300-550%] on all foes (damage relative to remaining HP))",
+        "SP_NEED_BP":"25",
+        "SP_SERIES":"1010800133"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1@1",
+        "LEVEL":"5",
+        "PROC/PASSIVE_ID(S)":"66@66",
+        "PROC/PASSIVE_PARAMETERS":"54,1.5&3&60,1,2,0,0,1,0@54,5&4&60,1,2,0,0,0,1",
+        "SP_ID":"1010800134",
+        "SP_NAME":"Add to SBB (Boosts critical damage [150%] for 3 turns), Add to UBB (Boosts critical damage [500%] for 4 turns)",
+        "SP_NEED_BP":"25",
+        "SP_SERIES":"1010800134"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
+        "LEVEL":"5",
+        "PROC/PASSIVE_ID(S)":"107",
+        "PROC/PASSIVE_PARAMETERS":"74,1&2&3&4&5&6$150",
+        "SP_ID":"1010800135",
+        "SP_NAME":"Add to LS (150% damage against status afflicted foes)",
+        "SP_NEED_BP":"30",
+        "SP_SERIES":"1010800135"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
+        "LEVEL":"5",
+        "PROC/PASSIVE_ID(S)":"66",
+        "PROC/PASSIVE_PARAMETERS":"44,600&100&0&100&0&2&110.,2,2,0,1,1,0",
+        "SP_ID":"1010800136",
+        "SP_NAME":"Add to BB\\/SBB (2 turns DoT [600%] infliction)",
+        "SP_NEED_BP":"25",
+        "SP_SERIES":"1010800136"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
         "LEVEL":"3",
         "PROC/PASSIVE_ID(S)":"73",
         "PROC/PASSIVE_PARAMETERS":"100,100,100,100,100,100,100,100,100",

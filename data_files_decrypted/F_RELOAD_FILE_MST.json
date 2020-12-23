@@ -2166,5 +2166,49 @@
     {
         "RELOAD_FILES":"unit_ills_thum_860958.png,unit_ills_battle_860958.png,unit_ills_full_860958.png,unit_anime_860958.png,unit_ills_thum_860958_100.png",
         "RELOAD_ID":"3114"
+    },
+    {
+        "RELOAD_FILES":"bfwinterny2020_login_banner.png,bfwinterny2020_login_icon_day1.png,bfwinterny2020_login_icon_day10.png,bfwinterny2020_login_icon_day11.png,bfwinterny2020_login_icon_day15.png",
+        "RELOAD_ID":"3115"
+    },
+    {
+        "RELOAD_FILES":"bfwinterny2020_login_icon_day16.png,bfwinterny2020_login_icon_day17.png,bfwinterny2020_login_icon_day18.png,bfwinterny2020_login_icon_day19.png,bfwinterny2020_login_icon_day2.png,bfwinterny2020_login_icon_day20.png,bfwinterny2020_login_icon_day21.png,bfwinterny2020_login_icon_day22.png,",
+        "RELOAD_ID":"3116"
+    },
+    {
+        "RELOAD_FILES":"bfwinterny2020_login_icon_day23.png,bfwinterny2020_login_icon_day24.png,bfwinterny2020_login_icon_day25.png,bfwinterny2020_login_icon_day26.png,bfwinterny2020_login_icon_day27.png,bfwinterny2020_login_icon_day28.png,bfwinterny2020_login_icon_day29.png,bfwinterny2020_login_icon_day3.png,",
+        "RELOAD_ID":"3117"
+    },
+    {
+        "RELOAD_FILES":"bfwinterny2020_login_icon_day30.png,bfwinterny2020_login_icon_day31.png,bfwinterny2020_login_icon_day32.png,bfwinterny2020_login_icon_day4.png,bfwinterny2020_login_icon_day5.png,bfwinterny2020_login_icon_day6.png,bfwinterny2020_login_icon_day7.png,bfwinterny2020_login_icon_day8.png,bfwinterny2020_login_icon_day9.png",
+        "RELOAD_ID":"3118"
+    },
+    {
+        "RELOAD_FILES":"bfwinterny2020_login_banner.png",
+        "RELOAD_ID":"3119"
+    },
+    {
+        "RELOAD_FILES":"bfwinterny2020_login_icon_day1.png",
+        "RELOAD_ID":"3120"
+    },
+    {
+        "RELOAD_FILES":"bfwinterny2020_login_icon_day11.png",
+        "RELOAD_ID":"3121"
+    },
+    {
+        "RELOAD_FILES":"bfwinterny2020_login_icon_day13.png",
+        "RELOAD_ID":"3122"
+    },
+    {
+        "RELOAD_FILES":"bfwinterny2020_login_icon_day15.png",
+        "RELOAD_ID":"3123"
+    },
+    {
+        "RELOAD_FILES":"bfwinterny2020_login_icon_day17.png",
+        "RELOAD_ID":"3124"
+    },
+    {
+        "RELOAD_FILES":"bfwinterny2020_login_icon_day19.png",
+        "RELOAD_ID":"3125"
     }
 ]

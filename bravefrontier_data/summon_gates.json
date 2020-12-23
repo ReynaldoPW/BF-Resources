@@ -14184,9 +14184,9 @@
     },
     "19890":{
         "background image":"gacha_img_20201202DS_s1.png",
-        "desc":"From 2 Dec 7:00 PST ~ 23 Dec 6:59 PST, summon minimum 5* Global exclusive units with Omni Potential and enjoy Increased Rates on Bjorn & Linlin,  Annette and Armaiti!",
+        "desc":"From 2 Dec 7:00 PST ~ 30 Dec 6:59 PST, summon minimum 5* Global exclusive units with Omni Potential and enjoy Increased Rates on Bjorn & Linlin,  Annette and Armaiti!",
         "door image":"gacha_rare_door.png",
-        "end time":"2020-12-23 14:59:59",
+        "end time":"2020-12-30 14:59:59",
         "gem cost":5,
         "name":"Winter Daily Summon",
         "priority":"2",
@@ -14264,6 +14264,42 @@
         "priority":"2",
         "short desc":"Summon any one of the units, selected from Heroes Across Time and past Winter & New Year exclusive!",
         "start time":"2020-12-21 04:00:00",
+        "summon button image":"gacha_rare_summons_btn1.png"
+    },
+    "19960":{
+        "background image":"gacha_img_20200413DS_s1.png",
+        "desc":"From 23 Dec 7:00 PST ~ 30 Dec 6:59 PST, summon minimum 5* Global exclusive units with Omni Potential and enjoy Increased Rates are applied on Serin, Ophiuchus and Rhyne!",
+        "door image":"gacha_rare_door.png",
+        "end time":"2020-12-30 14:59:59",
+        "gem cost":5,
+        "name":"Double Step Summon",
+        "priority":"2",
+        "short desc":"Serin, Ophiuchus and Rhyne are available through the Summon Gate!",
+        "start time":"2020-12-23 15:00:00",
+        "summon button image":"gacha_rare_summons_btn1.png"
+    },
+    "19970":{
+        "background image":"gacha_img_20201223M_s1.png",
+        "desc":"From 23 Dec 7:00 PST ~ 6 Jan 6:59 PST, summon minimum 5* Global exclusive units with Omni Potential and enjoy Increased Rates with each summon on Maeri up to the 8th Summon!",
+        "door image":"gacha_rare_door.png",
+        "end time":"2021-01-06 14:59:59",
+        "gem cost":5,
+        "name":"Winter Summon",
+        "priority":"2",
+        "short desc":"Maeri is available through the Summon Gate! Get a Global Exclusive Elgif for every 10 Summons from the same gate!",
+        "start time":"2020-12-23 15:00:00",
+        "summon button image":"gacha_rare_summons_btn1.png"
+    },
+    "19980":{
+        "background image":"Winter2020GemSummon_gacha_oddstep.png",
+        "desc":"From 23 Dec 7:00 PST ~ 6 Jan 6:59 PST, summon minimum 5* Global exclusive units with Omni Potential and enjoy Increased Rates on Maeri! Get a Winter Mystery Chest on every odd number summon and a Super Winter Mystery Chest every 10 summons!",
+        "door image":"gacha_rare_door.png",
+        "end time":"2021-01-06 14:59:59",
+        "gem cost":5,
+        "name":"Winter Gem Summon",
+        "priority":"2",
+        "short desc":"Get a Winter Mystery Chest on every odd number summon and a Super Winter Mystery Chest every 10 summons!",
+        "start time":"2020-12-23 15:00:00",
         "summon button image":"gacha_rare_summons_btn1.png"
     }
 }
