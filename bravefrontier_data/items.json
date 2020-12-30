@@ -46279,6 +46279,52 @@
         "thumbnail":"item_thum_800501.png",
         "type":"material"
     },
+    "890079":{
+        "color":"yellow",
+        "desc":"MST_ITEMS_MATERIAL_890079_SHORTDESCRIPTION",
+        "effects":[
+            {
+                "params":"",
+                "proc id":"0"
+            }
+        ],
+        "from raid":"false",
+        "guide id":"8184",
+        "id":"890079",
+        "item type":"stone",
+        "lore":"MST_ITEMS_MATERIAL_890079_LONGDESCRIPTION",
+        "max stack":99,
+        "name":"MST_ITEMS_MATERIAL_890079_NAME",
+        "rarity":3,
+        "sale caution":"false",
+        "sale price":1000,
+        "target":"none",
+        "thumbnail":"item_thum_200.png",
+        "type":"material"
+    },
+    "890080":{
+        "color":"yellow",
+        "desc":"MST_ITEMS_MATERIAL_890080_SHORTDESCRIPTION",
+        "effects":[
+            {
+                "params":"",
+                "proc id":"0"
+            }
+        ],
+        "from raid":"false",
+        "guide id":"8185",
+        "id":"890080",
+        "item type":"stone",
+        "lore":"MST_ITEMS_MATERIAL_890080_LONGDESCRIPTION",
+        "max stack":99,
+        "name":"MST_ITEMS_MATERIAL_890080_NAME",
+        "rarity":3,
+        "sale caution":"false",
+        "sale price":1000,
+        "target":"none",
+        "thumbnail":"item_thum_201.png",
+        "type":"material"
+    },
     "899998":{
         "desc":"MST_SPHERES_899998_SHORTDESCRIPTION",
         "effects":[

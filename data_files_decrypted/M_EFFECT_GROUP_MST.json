@@ -69990,6 +69990,66 @@
         "BATTLE_EFFECT_GROUP_SOUNDS":"0:bf205_se_critical.mp3"
     },
     {
+        "BATTLE_EFFECT_GROUP":"9500331",
+        "BATTLE_EFFECT_GROUP_FRAMES":"12:9500093:1:2:2:0:10,20:9500093:1:2:2:0:10,26:8800345:1:2:2:0:0,24:1851:1:2:2:0:0",
+        "BATTLE_EFFECT_GROUP_SOUNDS":"20:bf206_se_fire1.mp3,10:bf207_se_fire2.mp3"
+    },
+    {
+        "BATTLE_EFFECT_GROUP":"9500332",
+        "BATTLE_EFFECT_GROUP_FRAMES":"0:9200021:2:2:2:0:0",
+        "BATTLE_EFFECT_GROUP_SOUNDS":"0:bf210_se_water2.mp3"
+    },
+    {
+        "BATTLE_EFFECT_GROUP":"9500333",
+        "BATTLE_EFFECT_GROUP_FRAMES":"0:13:2:2:2:0:0,12:14:2:2:2:0:0",
+        "BATTLE_EFFECT_GROUP_SOUNDS":"0:bf222_se_dark2.mp3,12:bf218_se_saint1.mp3"
+    },
+    {
+        "BATTLE_EFFECT_GROUP":"9500334",
+        "BATTLE_EFFECT_GROUP_FRAMES":"0:9500091:2:2:2:-70:-40",
+        "BATTLE_EFFECT_GROUP_SOUNDS":"0:bf207_se_fire2.mp3"
+    },
+    {
+        "BATTLE_EFFECT_GROUP":"9500335",
+        "BATTLE_EFFECT_GROUP_FRAMES":"0:9500092:2:2:2:-80:-50",
+        "BATTLE_EFFECT_GROUP_SOUNDS":"0:bf206_se_fire1.mp3"
+    },
+    {
+        "BATTLE_EFFECT_GROUP":"9500336",
+        "BATTLE_EFFECT_GROUP_FRAMES":"0:9500093:2:2:2:-60:50,8:9500093:2:2:2:-60:50",
+        "BATTLE_EFFECT_GROUP_SOUNDS":"0:bf206_se_fire1.mp3"
+    },
+    {
+        "BATTLE_EFFECT_GROUP":"9500337",
+        "BATTLE_EFFECT_GROUP_FRAMES":"0:9500094:2:2:2:-42:70",
+        "BATTLE_EFFECT_GROUP_SOUNDS":"0:bf207_se_fire2.mp3"
+    },
+    {
+        "BATTLE_EFFECT_GROUP":"9500338",
+        "BATTLE_EFFECT_GROUP_FRAMES":"0:9500095:2:2:2:-98:-50",
+        "BATTLE_EFFECT_GROUP_SOUNDS":"0:bf206_se_fire1.mp3"
+    },
+    {
+        "BATTLE_EFFECT_GROUP":"9500339",
+        "BATTLE_EFFECT_GROUP_FRAMES":"0:8800345:2:2:2:-80:-5",
+        "BATTLE_EFFECT_GROUP_SOUNDS":"0:bf208_se_fire3.mp3"
+    },
+    {
+        "BATTLE_EFFECT_GROUP":"9500340",
+        "BATTLE_EFFECT_GROUP_FRAMES":"0:1851:2:2:2:-70:10",
+        "BATTLE_EFFECT_GROUP_SOUNDS":"0:bf223_se_dark3.mp3"
+    },
+    {
+        "BATTLE_EFFECT_GROUP":"9500341",
+        "BATTLE_EFFECT_GROUP_FRAMES":"0:600046:2:2:2:-70:50",
+        "BATTLE_EFFECT_GROUP_SOUNDS":"0:bf221_se_dark1.mp3"
+    },
+    {
+        "BATTLE_EFFECT_GROUP":"9500342",
+        "BATTLE_EFFECT_GROUP_FRAMES":"0:9700017:2:2:2:-70:10",
+        "BATTLE_EFFECT_GROUP_SOUNDS":"0:bf207_se_fire2.mp3"
+    },
+    {
         "BATTLE_EFFECT_GROUP":"9600001",
         "BATTLE_EFFECT_GROUP_FRAMES":"0:12:2:2:2:0:0,30:12:2:2:2:0:1,60:12:2:2:2:1:0",
         "BATTLE_EFFECT_GROUP_SOUNDS":"0:bf215_se_thunder1.mp3"

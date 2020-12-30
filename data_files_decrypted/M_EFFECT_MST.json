@@ -50736,6 +50736,36 @@
         "EFFECT_AREA*":"2"
     },
     {
+        "1NijIP2a":"120",
+        "BATTLE_EFFECT_FILE":"810998BattleEffectExplosionADD.sam",
+        "BATTLE_EFFECT_ID":"9500091",
+        "EFFECT_AREA*":"4"
+    },
+    {
+        "1NijIP2a":"100",
+        "BATTLE_EFFECT_FILE":"810998BattleEffectFlameStringsADD.sam",
+        "BATTLE_EFFECT_ID":"9500092",
+        "EFFECT_AREA*":"4"
+    },
+    {
+        "1NijIP2a":"120",
+        "BATTLE_EFFECT_FILE":"810998BattleEffectGlowADD.sam",
+        "BATTLE_EFFECT_ID":"9500093",
+        "EFFECT_AREA*":"4"
+    },
+    {
+        "1NijIP2a":"100",
+        "BATTLE_EFFECT_FILE":"810998BattleEffectGroundcrack.sam",
+        "BATTLE_EFFECT_ID":"9500094",
+        "EFFECT_AREA*":"3"
+    },
+    {
+        "1NijIP2a":"130",
+        "BATTLE_EFFECT_FILE":"810998BattleEffectSparks.sam",
+        "BATTLE_EFFECT_ID":"9500095",
+        "EFFECT_AREA*":"3"
+    },
+    {
         "1NijIP2a":"30",
         "BATTLE_EFFECT_FILE":"effect_prt_1138_yellow.plist",
         "BATTLE_EFFECT_ID":"9600001",

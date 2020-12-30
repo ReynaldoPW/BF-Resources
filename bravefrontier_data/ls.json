@@ -27232,6 +27232,37 @@
         "id":"810958",
         "name":"MST_LEADERSKILLS_810958_NAME"
     },
+    "810998":{
+        "desc":"MST_LEADERSKILLS_810998_DESCRIPTION",
+        "effects":[
+            {
+                "atk% buff":150,
+                "crit% buff":30,
+                "def% buff":100,
+                "hp% buff":150,
+                "passive id":"1",
+                "rec% buff":150
+            },
+            {
+                "crit dmg%":300,
+                "passive id":"34"
+            },
+            {
+                "params":"0,1,25,25,0",
+                "passive id":"69"
+            },
+            {
+                "params":"50,100",
+                "passive id":"100"
+            },
+            {
+                "passive id":"43",
+                "take 1 dmg%":20
+            }
+        ],
+        "id":"810998",
+        "name":"MST_LEADERSKILLS_810998_NAME"
+    },
     "811118":{
         "desc":"MST_LEADERSKILLS_811118_DESCRIPTION",
         "effects":[

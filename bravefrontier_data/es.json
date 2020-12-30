@@ -22024,6 +22024,43 @@
         "name":"MST_EXTRAPASSIVESKILL_810958_NAME",
         "rarity":8
     },
+    "810998":{
+        "conditions":"2#4,820990%6,2%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0",
+        "desc":"MST_EXTRAPASSIVESKILL_810998_DESCRIPTION",
+        "effects":[
+            {
+                "crit dmg%":200,
+                "passive id":"34"
+            },
+            {
+                "elemental weakness dmg%":20,
+                "elements":[
+                    "fire"
+                ],
+                "passive id":"50"
+            },
+            {
+                "passive id":"33",
+                "rec% added":360.0,
+                "turn heal high":3500,
+                "turn heal low":3500
+            },
+            {
+                "atk% extra buff based on hp":100,
+                "buff proportional to hp":"remaining",
+                "def% extra buff based on hp":100,
+                "passive id":"46",
+                "rec% extra buff based on hp":100
+            },
+            {
+                "bc fill per turn":10,
+                "passive id":"9"
+            }
+        ],
+        "id":"810998",
+        "name":"MST_EXTRAPASSIVESKILL_810998_NAME",
+        "rarity":7
+    },
     "811017":{
         "conditions":"1#0,0%0,0%0,0@1#0,0%0,0%0,0@1#0,0%0,0%0,0@1#0,0%0,0%0,0",
         "desc":"MST_EXTRAPASSIVESKILL_811017_DESCRIPTION",

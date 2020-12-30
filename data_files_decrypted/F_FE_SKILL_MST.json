@@ -25093,6 +25093,50 @@
     {
         "DESCRIPTION":"",
         "EFFECT_AREA*":"1",
+        "LEVEL":"4",
+        "PROC/PASSIVE_ID(S)":"107",
+        "PROC/PASSIVE_PARAMETERS":"50,1$0$0$0$0$0$2.5",
+        "SP_ID":"1010800137",
+        "SP_NAME":"Add to LS (250% Fire elemental damage)",
+        "SP_NEED_BP":"30",
+        "SP_SERIES":"1010800137"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
+        "LEVEL":"4",
+        "PROC/PASSIVE_ID(S)":"66",
+        "PROC/PASSIVE_PARAMETERS":"47,300&550&0&200&0&0&0&0,2,2,0,0,1,0",
+        "SP_ID":"1010800138",
+        "SP_NAME":"Add to SBB (31 combo Fire attack [300-550%] on all foes (damage relative to remaining HP))",
+        "SP_NEED_BP":"25",
+        "SP_SERIES":"1010800138"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
+        "LEVEL":"4",
+        "PROC/PASSIVE_ID(S)":"66",
+        "PROC/PASSIVE_PARAMETERS":"62,1&7000&0&100&0,1,2,0,1,1,0",
+        "SP_ID":"1010800139",
+        "SP_NAME":"Add to BB\\/SBB (Adds Fire barrier [7000 HP])",
+        "SP_NEED_BP":"20",
+        "SP_SERIES":"1010800139"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1@1",
+        "LEVEL":"4",
+        "PROC/PASSIVE_ID(S)":"66@66",
+        "PROC/PASSIVE_PARAMETERS":"70002,0.25&3&0&0&0&0&0&0&0,1,2,0,0,1,0@70002,1&3&0&0&0&0&0&0&0,1,2,0,0,0,1",
+        "SP_ID":"1010800140",
+        "SP_NAME":"Add to SBB (May [25%] activate BB\\/SBB\\/UBB twice for 3 turns), UBB (Activates BB\\/SBB\\/UBB twice for 3 turns)",
+        "SP_NEED_BP":"30",
+        "SP_SERIES":"1010800140"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
         "LEVEL":"3",
         "PROC/PASSIVE_ID(S)":"73",
         "PROC/PASSIVE_PARAMETERS":"100,100,100,100,100,100,100,100,100",
