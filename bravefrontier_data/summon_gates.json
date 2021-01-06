@@ -14184,9 +14184,9 @@
     },
     "19890":{
         "background image":"gacha_img_20201202DS_s1.png",
-        "desc":"From 2 Dec 7:00 PST ~ 31 Dec 6:59 PST, summon minimum 5* Global exclusive units with Omni Potential and enjoy Increased Rates on Bjorn & Linlin,  Annette and Armaiti!",
+        "desc":"From 2 Dec 7:00 PST ~ 11 Jan 6:59 PST, summon minimum 5* Global exclusive units with Omni Potential and enjoy Increased Rates on Bjorn & Linlin,  Annette and Armaiti!",
         "door image":"gacha_rare_door.png",
-        "end time":"2020-12-31 14:59:59",
+        "end time":"2021-01-11 14:59:59",
         "gem cost":5,
         "name":"Winter Daily Summon",
         "priority":"2",
@@ -14336,6 +14336,42 @@
         "priority":"2",
         "short desc":"Get a Winter Fiery Chest on every odd number summon and a Super Winter Fiery Chest every 10 summons!",
         "start time":"2020-12-30 15:00:00",
+        "summon button image":"gacha_rare_summons_btn1.png"
+    },
+    "20020":{
+        "background image":"gacha_img_20200401NTS_s1.png",
+        "desc":"From 6 Jan 7:00 PST ~ 13 Jan 6:59 PST, summon minimum 5* Global exclusive units with Omni Potential and enjoy Increased Rates are applied on Set, Inoko and Charlie!",
+        "door image":"gacha_rare_door.png",
+        "end time":"2021-01-13 14:59:59",
+        "gem cost":5,
+        "name":"Triple Strike Summon",
+        "priority":"2",
+        "short desc":"Set, Inoko and Charlie are available through the Summon Gate!",
+        "start time":"2021-01-06 15:00:00",
+        "summon button image":"gacha_rare_summons_btn1.png"
+    },
+    "20030":{
+        "background image":"gacha_img_20210106DS_s1.png",
+        "desc":"From 6 Jan 7:00 PST ~ 2 Feb 23:59 PST, summon minimum 5* Global exclusive units with Omni Potential and enjoy Increased Rates on past Winter exclusives, New Year exclusives and Luro!",
+        "door image":"gacha_rare_door.png",
+        "end time":"2021-02-03 07:59:59",
+        "gem cost":5,
+        "name":"Dawn Free Summon",
+        "priority":"2",
+        "short desc":"Past Winter exclusives, New Year exclusives and Luro are now available through the Summon Gate!  Obtain your Dawn Ticket from the daily dungeon and summon now!",
+        "start time":"2021-01-06 15:00:00",
+        "summon button image":"gacha_rare_summons_btn1.png"
+    },
+    "20040":{
+        "background image":"gacha_img_20210106L_s1.png",
+        "desc":"From 6 Jan 7:00 PST ~ 20 Jan 6:59 PST, summon minimum 5* Global exclusive units with Omni Potential and enjoy Increased Rates with each summon on Luro up to the 8th Summon!",
+        "door image":"gacha_rare_door.png",
+        "end time":"2021-01-20 14:59:59",
+        "gem cost":5,
+        "name":"New Year Summon",
+        "priority":"2",
+        "short desc":"Luro is available through the Summon Gate! Get a Global Exclusive Elgif for every 10 Summons from the same gate!",
+        "start time":"2021-01-06 15:00:00",
         "summon button image":"gacha_rare_summons_btn1.png"
     }
 }

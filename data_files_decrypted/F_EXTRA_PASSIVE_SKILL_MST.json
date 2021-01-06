@@ -13066,6 +13066,19 @@
     },
     {
         "AI_PRIORITY":"0",
+        "CONTRIBUTIONS_TYPE":"1",
+        "DESCRIPTION":"MST_EXTRAPASSIVESKILL_860998_DESCRIPTION",
+        "ES_ID":"860998",
+        "ES_PARAMETERS":"2#4,820990%4,840990%6,1%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0",
+        "FILE_NAME":"0",
+        "NAME":"",
+        "PROC/PASSIVE_ID(S)":"1,1@1,2@29,2@49,1@73,1",
+        "PROC/PASSIVE_PARAMETERS":"50,50,50,0,50@30,30,30,0,30@100@30,50,100@100,100,100,100,100,100,100,100,100",
+        "RARITY":"7",
+        "outas79f":"0"
+    },
+    {
+        "AI_PRIORITY":"0",
         "CONTRIBUTIONS_TYPE":"2",
         "DESCRIPTION":"MST_EXTRAPASSIVESKILL_1000000_DESCRIPTION",
         "ES_ID":"1000000",

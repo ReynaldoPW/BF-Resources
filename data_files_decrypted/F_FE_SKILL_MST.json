@@ -25137,6 +25137,50 @@
     {
         "DESCRIPTION":"",
         "EFFECT_AREA*":"1",
+        "LEVEL":"4",
+        "PROC/PASSIVE_ID(S)":"101",
+        "PROC/PASSIVE_PARAMETERS":"500,800,100",
+        "SP_ID":"1010800141",
+        "SP_NAME":"Spark damage restores HP [500-800]",
+        "SP_NEED_BP":"10",
+        "SP_SERIES":"1010800141"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
+        "LEVEL":"4",
+        "PROC/PASSIVE_ID(S)":"107",
+        "PROC/PASSIVE_PARAMETERS":"50,6$0$0$0$0$0$2.5",
+        "SP_ID":"1010800142",
+        "SP_NAME":"Add to LS (250% Dark elemental damage)",
+        "SP_NEED_BP":"30",
+        "SP_SERIES":"1010800142"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
+        "LEVEL":"4",
+        "PROC/PASSIVE_ID(S)":"66",
+        "PROC/PASSIVE_PARAMETERS":"43,14,3,1,0,1,0,0",
+        "SP_ID":"1010800143",
+        "SP_NAME":"Add to BB (Fills OD gauge [14%])",
+        "SP_NEED_BP":"20",
+        "SP_SERIES":"1010800143"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1@1",
+        "LEVEL":"4",
+        "PROC/PASSIVE_ID(S)":"66@66",
+        "PROC/PASSIVE_PARAMETERS":"55,6&0&0&0&0&0&2.5&3&0,1,2,0,0,1,0@55,6&0&0&0&0&0&5&4&0,1,2,0,0,0,1",
+        "SP_ID":"1010800144",
+        "SP_NAME":"Add to SBB (Boosts Dark elemental damage [250%] for 3 turns), UBB (Boosts Dark elemental damage [500%] for 4 turns)",
+        "SP_NEED_BP":"25",
+        "SP_SERIES":"1010800144"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
         "LEVEL":"3",
         "PROC/PASSIVE_ID(S)":"73",
         "PROC/PASSIVE_PARAMETERS":"100,100,100,100,100,100,100,100,100",

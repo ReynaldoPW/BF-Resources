@@ -25135,6 +25135,50 @@
         "yRlCNyvk":"Add to SBB (May [25%] activate BB\\/SBB\\/UBB twice for 3 turns), UBB (Activates BB\\/SBB\\/UBB twice for 3 turns)"
     },
     {
+        "2Smu5Mtq":"500,800,100",
+        "9PsmH7tz":"1010800141",
+        "D9wXQI2V":"4",
+        "G5wFDad6":"10",
+        "hjAy9St3":"101",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010800141",
+        "yRlCNyvk":"Spark damage restores HP [500-800]"
+    },
+    {
+        "2Smu5Mtq":"50,6$0$0$0$0$0$2.5",
+        "9PsmH7tz":"1010800142",
+        "D9wXQI2V":"4",
+        "G5wFDad6":"30",
+        "hjAy9St3":"107",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010800142",
+        "yRlCNyvk":"Add to LS (250% Dark elemental damage)"
+    },
+    {
+        "2Smu5Mtq":"43,14,3,1,0,1,0,0",
+        "9PsmH7tz":"1010800143",
+        "D9wXQI2V":"4",
+        "G5wFDad6":"20",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010800143",
+        "yRlCNyvk":"Add to BB (Fills OD gauge [14%])"
+    },
+    {
+        "2Smu5Mtq":"55,6&0&0&0&0&0&2.5&3&0,1,2,0,0,1,0@55,6&0&0&0&0&0&5&4&0,1,2,0,0,0,1",
+        "9PsmH7tz":"1010800144",
+        "D9wXQI2V":"4",
+        "G5wFDad6":"25",
+        "hjAy9St3":"66@66",
+        "jeR2rN3V":"1@1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010800144",
+        "yRlCNyvk":"Add to SBB (Boosts Dark elemental damage [250%] for 3 turns), UBB (Boosts Dark elemental damage [500%] for 4 turns)"
+    },
+    {
         "2Smu5Mtq":"100,100,100,100,100,100,100,100,100",
         "9PsmH7tz":"1010900001",
         "D9wXQI2V":"3",

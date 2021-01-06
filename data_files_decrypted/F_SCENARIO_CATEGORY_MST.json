@@ -796,5 +796,12 @@
         "SCENARIO_SUPERSECTION*":"70000",
         "SP_CAT_ID":"100023",
         "SP_CAT_NAME":"Dreams of Frost"
+    },
+    {
+        "DESCRIPTION":"Continuations of the now-extended tale in Maeri's book.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"37",
+        "SCENARIO_SUPERSECTION*":"70000",
+        "SP_CAT_ID":"100024",
+        "SP_CAT_NAME":"Dreams of Dawn"
     }
 ]
