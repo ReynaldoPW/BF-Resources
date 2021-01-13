@@ -11547,6 +11547,42 @@
         "SP_CAT_ID":"100024"
     },
     {
+        "DESCRIPTION":"Usually people have a good reason for mistrusting outsiders. Usually.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"6",
+        "SCENARIO_ID":"10002406",
+        "SCENARIO_NAME":"The Outsider",
+        "SCENARIO_TEXT_FILE":"NY2021_W2_M1.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"100024"
+    },
+    {
+        "DESCRIPTION":"If Ni'en had a choice he'd be punching spirits out of existence, but alas.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"7",
+        "SCENARIO_ID":"10002407",
+        "SCENARIO_NAME":"Riotous Bad Spirits",
+        "SCENARIO_TEXT_FILE":"NY2021_W2_M2.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"100024"
+    },
+    {
+        "DESCRIPTION":"Takes the wrong person at the right time sometimes.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"8",
+        "SCENARIO_ID":"10002408",
+        "SCENARIO_NAME":"Fire's Light",
+        "SCENARIO_TEXT_FILE":"NY2021_W2_M3A.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"100024"
+    },
+    {
+        "DESCRIPTION":"Coming back to reality is a good thing when your dreams get this wild.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"9",
+        "SCENARIO_ID":"10002409",
+        "SCENARIO_NAME":"Home Sweet Home",
+        "SCENARIO_TEXT_FILE":"NY2021_W2_M3B.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"100024"
+    },
+    {
         "DESCRIPTION":"Two worlds collide as a happy celebration brings adventure to some lucky souls! Who are they? Find out!",
         "QUEST_MAP_NUMBER/GUIDE_ID":"1",
         "SCENARIO_ID":"100001501",

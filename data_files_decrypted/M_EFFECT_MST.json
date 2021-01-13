@@ -50766,6 +50766,24 @@
         "EFFECT_AREA*":"3"
     },
     {
+        "1NijIP2a":"80",
+        "BATTLE_EFFECT_FILE":"effect_prt_1084_purple.plist",
+        "BATTLE_EFFECT_ID":"9500096",
+        "EFFECT_AREA*":"2"
+    },
+    {
+        "1NijIP2a":"80",
+        "BATTLE_EFFECT_FILE":"effect_prt_1084_purple.plist",
+        "BATTLE_EFFECT_ID":"9500097",
+        "EFFECT_AREA*":"2"
+    },
+    {
+        "1NijIP2a":"80",
+        "BATTLE_EFFECT_FILE":"effect_prt_1128_blue.plist",
+        "BATTLE_EFFECT_ID":"9500098",
+        "EFFECT_AREA*":"2"
+    },
+    {
         "1NijIP2a":"30",
         "BATTLE_EFFECT_FILE":"effect_prt_1138_yellow.plist",
         "BATTLE_EFFECT_ID":"9600001",

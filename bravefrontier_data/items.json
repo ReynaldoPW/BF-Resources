@@ -39833,6 +39833,45 @@
         "thumbnail":"sphere_thum_819350.png",
         "type":"sphere"
     },
+    "819351":{
+        "desc":"MST_SPHERES_819351_SHORTDESCRIPTION",
+        "effects":[
+            {
+                "params":"1,2,3,4,5,6,1.5",
+                "proc id":"50"
+            },
+            {
+                "params":"150,0,0,0,0,0",
+                "proc id":"31"
+            },
+            {
+                "params":"124,150,-1,10,3",
+                "proc id":"86"
+            },
+            {
+                "params":"100,100",
+                "proc id":"77"
+            },
+            {
+                "params":"100",
+                "proc id":"70"
+            }
+        ],
+        "from raid":"false",
+        "guide id":"819351",
+        "id":"819351",
+        "lore":"Maeri's very best friend and constant companion. Woolie has seen all the ups and downs (sometimes quite literally!) in her young life, appearing even in the Dream World.<br>Though she is a quiet sort, Woolie needs no words to encourage or soothe Maeri\u2014her soft, fluffy presence is more than enough to settle even the shakiest jitters.",
+        "max equip":1,
+        "max stack":1,
+        "name":"MST_SPHERES_819351_NAME",
+        "rarity":7,
+        "sale caution":"true",
+        "sale price":30000,
+        "sphere type":"SPHERE_TYPE_NAME_13",
+        "target":"none",
+        "thumbnail":"sphere_thum_819351.png",
+        "type":"sphere"
+    },
     "819901":{
         "desc":"MST_SPHERES_819901_SHORTDESCRIPTION",
         "effects":[

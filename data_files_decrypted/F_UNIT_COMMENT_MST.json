@@ -16296,6 +16296,14 @@
         "fBg92Ki7":""
     },
     {
+        "DESCRIPTION":"MST_UNITCOMMENT_840998_DESCRIPTION",
+        "UNIT_EVOLUTION_TEXT":"MST_UNITCOMMENT_840998_EVOLUTION",
+        "UNIT_FUSION_TEXT":"MST_UNITCOMMENT_840998_FUSION",
+        "UNIT_ID":"840998",
+        "UNIT_SUMMON_TEXT":"MST_UNITCOMMENT_840998_SUMMON",
+        "fBg92Ki7":""
+    },
+    {
         "DESCRIPTION":"Besides being an orphan and raised to become an elite Mech pilot, little is known about Vanila. Some say she is the first Battle Maiden, a paladin from another world; others say she is more akin to ghosts, her soul broken and shared by a darker twin. However, she refused to speak of these, seeking solace from battle within the desolated clouds above.",
         "UNIT_EVOLUTION_TEXT":" ",
         "UNIT_FUSION_TEXT":"What is this...? <br>It feels like fragments <br>of my soul reuniting...",
@@ -17173,6 +17181,14 @@
         "UNIT_FUSION_TEXT":"MST_UNITCOMMENT_850988_FUSION",
         "UNIT_ID":"850988",
         "UNIT_SUMMON_TEXT":"MST_UNITCOMMENT_850988_SUMMON",
+        "fBg92Ki7":""
+    },
+    {
+        "DESCRIPTION":"MST_UNITCOMMENT_850998_DESCRIPTION",
+        "UNIT_EVOLUTION_TEXT":"MST_UNITCOMMENT_850998_EVOLUTION",
+        "UNIT_FUSION_TEXT":"MST_UNITCOMMENT_850998_FUSION",
+        "UNIT_ID":"850998",
+        "UNIT_SUMMON_TEXT":"MST_UNITCOMMENT_850998_SUMMON",
         "fBg92Ki7":""
     },
     {

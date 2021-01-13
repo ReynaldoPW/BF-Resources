@@ -32966,6 +32966,39 @@
         "id":"840968",
         "name":"MST_LEADERSKILLS_840968_NAME"
     },
+    "840998":{
+        "desc":"MST_LEADERSKILLS_840998_DESCRIPTION",
+        "effects":[
+            {
+                "atk% buff":150,
+                "def% buff":150,
+                "hp% buff":150,
+                "passive id":"1",
+                "rec% buff":100
+            },
+            {
+                "elemental weakness dmg%":250,
+                "elements":[
+                    "thunder"
+                ],
+                "passive id":"50"
+            },
+            {
+                "miti%":15,
+                "passive id":"8"
+            },
+            {
+                "params":"50,100",
+                "passive id":"100"
+            },
+            {
+                "params":"30",
+                "passive id":"70"
+            }
+        ],
+        "id":"840998",
+        "name":"MST_LEADERSKILLS_840998_NAME"
+    },
     "8500":{
         "desc":"MST_LEADERSKILLS_8500_DESCRIPTION",
         "effects":[
@@ -34912,6 +34945,36 @@
         ],
         "id":"850988",
         "name":"MST_LEADERSKILLS_850988_NAME"
+    },
+    "850998":{
+        "desc":"MST_LEADERSKILLS_850998_DESCRIPTION",
+        "effects":[
+            {
+                "atk% buff":120,
+                "def% buff":100,
+                "hp% buff":120,
+                "passive id":"1",
+                "rec% buff":100
+            },
+            {
+                "params":"36,20,-1,5000,1",
+                "passive id":"78"
+            },
+            {
+                "params":"1,2,3,4,5,6,50,2",
+                "passive id":"63"
+            },
+            {
+                "params":"25",
+                "passive id":"111"
+            },
+            {
+                "params":"100,50",
+                "passive id":"112"
+            }
+        ],
+        "id":"850998",
+        "name":"MST_LEADERSKILLS_850998_NAME"
     },
     "8600":{
         "desc":"MST_LEADERSKILLS_8600_DESCRIPTION",
