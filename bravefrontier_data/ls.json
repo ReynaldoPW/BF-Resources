@@ -33297,23 +33297,29 @@
         "desc":"MST_LEADERSKILLS_850288_DESCRIPTION",
         "effects":[
             {
-                "atk% buff":60,
-                "hp% buff":60,
+                "atk% buff":150,
+                "crit% buff":30,
+                "hp% buff":150,
                 "passive id":"1"
             },
             {
-                "crit dmg%":150,
+                "atk% buff":100,
+                "def% buff":100,
+                "hp above% threshold":50,
+                "passive id":"11"
+            },
+            {
+                "crit dmg%":250,
                 "passive id":"34"
             },
             {
-                "bb gauge fill rate%":50,
-                "passive id":"32"
+                "bc fill per turn":10,
+                "passive id":"9"
             },
             {
-                "atk% buff":80,
-                "def% buff":80,
-                "hp above% threshold":50,
-                "passive id":"11"
+                "extra hits":1,
+                "extra hits dmg%":-20,
+                "passive id":"37"
             }
         ],
         "id":"850288",
@@ -35322,23 +35328,28 @@
         "desc":"MST_LEADERSKILLS_860288_DESCRIPTION",
         "effects":[
             {
-                "atk% buff":60,
-                "hp% buff":60,
+                "atk% buff":150,
+                "crit% buff":30,
+                "hp% buff":150,
                 "passive id":"1"
             },
             {
-                "dmg% for spark":130,
+                "dmg% for spark":250,
                 "passive id":"31"
             },
             {
+                "params":"50,50",
+                "passive id":"77"
+            },
+            {
                 "dmg% to hp% when attacked chance%":50,
-                "dmg% to hp% when attacked high":25,
+                "dmg% to hp% when attacked high":30,
                 "dmg% to hp% when attacked low":25,
                 "passive id":"24"
             },
             {
-                "params":"25,25",
-                "passive id":"77"
+                "params":"5,6,0,0,0,0,15",
+                "passive id":"62"
             }
         ],
         "id":"860288",

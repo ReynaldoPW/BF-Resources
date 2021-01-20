@@ -25269,6 +25269,83 @@
     {
         "DESCRIPTION":"",
         "EFFECT_AREA*":"1",
+        "LEVEL":"5",
+        "PROC/PASSIVE_ID(S)":"66",
+        "PROC/PASSIVE_PARAMETERS":"94,0&100&3&0,1,2,0,1,1,0",
+        "SP_ID":"1010800153",
+        "SP_NAME":"Add to BB\\/SBB (Normal attacks hits all foes for 3 turns)",
+        "SP_NEED_BP":"15",
+        "SP_SERIES":"1010800153"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"3@3@3@3",
+        "LEVEL":"5",
+        "PROC/PASSIVE_ID(S)":"5@24@54@78",
+        "PROC/PASSIVE_PARAMETERS":"0,0,0,0,0,1,0@0,0,0,0,1,0@0,1,0@0,0,0,0,1,0",
+        "SP_ID":"1010800154",
+        "SP_NAME":"Allows SBB's buff effects to last for additional turn",
+        "SP_NEED_BP":"20",
+        "SP_SERIES":"1010800154"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
+        "LEVEL":"5",
+        "PROC/PASSIVE_ID(S)":"66",
+        "PROC/PASSIVE_PARAMETERS":"97,5&1100&200&0&0&0&0,2,2,0,0,1,0",
+        "SP_ID":"1010800155",
+        "SP_NAME":"Add to SBB (24 combo Light attack [1100%] on Dark foes)",
+        "SP_NEED_BP":"25",
+        "SP_SERIES":"1010800155"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
+        "LEVEL":"5",
+        "PROC/PASSIVE_ID(S)":"66",
+        "PROC/PASSIVE_PARAMETERS":"83,60&60&3&0,1,2,0,1,1,0",
+        "SP_ID":"1010800156",
+        "SP_NAME":"Add to BB\\/SBB (Probable [60%] spark critical [60%] for 3 turns)",
+        "SP_NEED_BP":"20",
+        "SP_SERIES":"1010800156"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"4@4@4@4",
+        "LEVEL":"5",
+        "PROC/PASSIVE_ID(S)":"23@55@85@19",
+        "PROC/PASSIVE_PARAMETERS":"0,0,0,0,0,0,1,0@0,0,0,0,0,0,0,1,0@0,0,0,1,0@0,1,0",
+        "SP_ID":"1010800157",
+        "SP_NAME":"Allows UBB's effects to last additional 1 turn",
+        "SP_NEED_BP":"25",
+        "SP_SERIES":"1010800157"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
+        "LEVEL":"5",
+        "PROC/PASSIVE_ID(S)":"1",
+        "PROC/PASSIVE_PARAMETERS":"0,130,0,0,130",
+        "SP_ID":"1010800158",
+        "SP_NAME":"130% Def, max HP",
+        "SP_NEED_BP":"15",
+        "SP_SERIES":"1010800158"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
+        "LEVEL":"5",
+        "PROC/PASSIVE_ID(S)":"66",
+        "PROC/PASSIVE_PARAMETERS":"39,1&2&3&4&5&6&15&3&0,1,2,0,1,1,0",
+        "SP_ID":"1010800159",
+        "SP_NAME":"Add to BB\\/SBB (15% damage reduction from all element types for 3 turns)",
+        "SP_NEED_BP":"25",
+        "SP_SERIES":"1010800159"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
         "LEVEL":"3",
         "PROC/PASSIVE_ID(S)":"73",
         "PROC/PASSIVE_PARAMETERS":"100,100,100,100,100,100,100,100,100",

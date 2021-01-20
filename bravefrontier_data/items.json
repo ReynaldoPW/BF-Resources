@@ -39872,6 +39872,76 @@
         "thumbnail":"sphere_thum_819351.png",
         "type":"sphere"
     },
+    "819352":{
+        "desc":"MST_SPHERES_819352_SHORTDESCRIPTION",
+        "effects":[
+            {
+                "params":"2,3,65,65,65,0,65",
+                "proc id":"2"
+            },
+            {
+                "params":"200,0,0,0,0,0",
+                "proc id":"31"
+            },
+            {
+                "params":"300,400,100",
+                "proc id":"47"
+            },
+            {
+                "params":"2,3,0,0,0,0,15",
+                "proc id":"62"
+            }
+        ],
+        "from raid":"false",
+        "guide id":"819352",
+        "id":"819352",
+        "lore":"MST_SPHERES_819352_LONGDESCRIPTION",
+        "max equip":1,
+        "max stack":1,
+        "name":"MST_SPHERES_819352_NAME",
+        "rarity":7,
+        "sale caution":"true",
+        "sale price":30000,
+        "sphere type":"SPHERE_TYPE_NAME_14",
+        "target":"none",
+        "thumbnail":"sphere_thum_819352.png",
+        "type":"sphere"
+    },
+    "819353":{
+        "desc":"MST_SPHERES_819353_SHORTDESCRIPTION",
+        "effects":[
+            {
+                "params":"2,3,60,60,60,0,60",
+                "proc id":"2"
+            },
+            {
+                "params":"150,0,0,0,0,0",
+                "proc id":"31"
+            },
+            {
+                "params":"300,400,100",
+                "proc id":"47"
+            },
+            {
+                "params":"2,3,0,0,0,0,10",
+                "proc id":"62"
+            }
+        ],
+        "from raid":"false",
+        "guide id":"819353",
+        "id":"819353",
+        "lore":"MST_SPHERES_819353_LONGDESCRIPTION",
+        "max equip":1,
+        "max stack":1,
+        "name":"MST_SPHERES_819353_NAME",
+        "rarity":7,
+        "sale caution":"true",
+        "sale price":30000,
+        "sphere type":"SPHERE_TYPE_NAME_14",
+        "target":"none",
+        "thumbnail":"sphere_thum_819353.png",
+        "type":"sphere"
+    },
     "819901":{
         "desc":"MST_SPHERES_819901_SHORTDESCRIPTION",
         "effects":[
