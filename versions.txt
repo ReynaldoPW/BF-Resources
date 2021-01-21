@@ -472,7 +472,7 @@
         "moWQ30GH":"F_EXTRA_PASSIVE_SKILL_MST"
     },
     {
-        "d2RFtP8T":"3151",
+        "d2RFtP8T":"3152",
         "moWQ30GH":"F_RESOURCE_MST"
     },
     {
@@ -600,7 +600,7 @@
         "moWQ30GH":"F_FUNCTION_RELEASE_MST"
     },
     {
-        "d2RFtP8T":"21",
+        "d2RFtP8T":"22",
         "moWQ30GH":"F_RESOURCE_BASE_MST"
     },
     {
