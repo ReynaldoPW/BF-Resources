@@ -1,15 +1,4 @@
 {
-    "0":{
-        "background image":"",
-        "desc":"",
-        "door image":"",
-        "end time":-1,
-        "name":"",
-        "priority":"1",
-        "short desc":"",
-        "start time":-1,
-        "summon button image":""
-    },
     "1000":{
         "background image":"gacha_normal_bg_img.png",
         "desc":"MST_SUMMONDATA_1000_SHORTDESCRIPTION",
@@ -14420,6 +14409,54 @@
         "priority":"2",
         "short desc":"Osiris, Azius and Saskya are available through the Summon Gate!",
         "start time":"2021-01-20 15:00:00",
+        "summon button image":"gacha_rare_summons_btn1.png"
+    },
+    "20081":{
+        "background image":"gacha_img_20210127M_s1.png",
+        "desc":"From 27 Jan 07:00 PST ~ 03 Feb 06:59 PST, summon minimum 5* Global exclusive units with Omni Potential and enjoy Increased Rates with each summon on  Ascha  and Inara up  to the 8th Summon!",
+        "door image":"gacha_rare_door.png",
+        "end time":"2021-02-03 14:59:59",
+        "gem cost":5,
+        "name":"Destiny Unite Summon",
+        "priority":"2",
+        "short desc":"Ascha and Inara is are available through the Summon Gate! Get a Fire & Water DBB Mystery Chest for every 7 Summons from the same gate!",
+        "start time":"2021-01-27 15:00:00",
+        "summon button image":"gacha_rare_summons_btn1.png"
+    },
+    "20082":{
+        "background image":"gacha_img_20210127DS_s1.png",
+        "desc":"From 27 Jan 07:00 PST ~ 03 Feb 06:59 PST, summon minimum 5* Global exclusive units with Omni Potential and enjoy Increased Rates on Rhyne!",
+        "door image":"gacha_rare_door.png",
+        "end time":"2021-02-03 14:59:59",
+        "gem cost":5,
+        "name":"Double Step Summon",
+        "priority":"2",
+        "short desc":"Summon 2 units with Increased Rates on Rhyne with option to Resummon 1!",
+        "start time":"2021-01-27 15:00:00",
+        "summon button image":"gacha_rare_summons_btn1.png"
+    },
+    "20083":{
+        "background image":"gacha_img_20210127VA_s1.png",
+        "desc":"From 27 Jan 07:00 PST ~ 03 Feb 06:59 PST, summon minimum 5* Global exclusive units with Omni Potential and enjoy Increased Rates with each summon on Ydra up to the 8th Summon!",
+        "door image":"gacha_rare_door.png",
+        "end time":"0000-00-00 00:00:00",
+        "gem cost":10,
+        "name":"Vortex Arena Resummon Fire",
+        "priority":"2",
+        "short desc":"Ydra is available through the Summon Gate! Get a Global Exclusive Elgif for every 10 Summons from the same gate!",
+        "start time":"2021-01-27 15:00:00",
+        "summon button image":"gacha_rare_summons_btn1.png"
+    },
+    "20084":{
+        "background image":"gacha_img_20210127VA_s1.png",
+        "desc":"From 27 Jan 07:00 PST ~ 03 Feb 06:59 PST, summon minimum 5* Global exclusive units with Omni Potential and enjoy Increased Rates on Rhyne!",
+        "door image":"gacha_rare_door.png",
+        "end time":"2021-02-03 14:59:59",
+        "gem cost":10,
+        "name":"Vortex Arena Resummon Fire",
+        "priority":"2",
+        "short desc":"Summon 2 units with Increased Rates on Rhyne with option to Resummon 1!",
+        "start time":"2021-01-27 15:00:00",
         "summon button image":"gacha_rare_summons_btn1.png"
     }
 }

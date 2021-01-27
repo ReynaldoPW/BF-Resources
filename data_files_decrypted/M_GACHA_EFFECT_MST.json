@@ -122588,5 +122588,45 @@
         "RARITY":"7",
         "SUMMON_GATE_ID":"20080",
         "TPGXiNmN":"0"
+    },
+    {
+        "AI_CHANCE":"100.0000",
+        "GACHA_SCRIPT_A":"gWaitStone.txt",
+        "GACHA_SCRIPT_B":"",
+        "GACHA_SCRIPT_C":"gOpenStone(N).txt",
+        "GATE_EFFECT_ID":"12365",
+        "RARITY":"1",
+        "SUMMON_GATE_ID":"20081",
+        "TPGXiNmN":"0"
+    },
+    {
+        "AI_CHANCE":"100.0000",
+        "GACHA_SCRIPT_A":"gWaitStone.txt",
+        "GACHA_SCRIPT_B":"",
+        "GACHA_SCRIPT_C":"gOpenStone(N).txt",
+        "GATE_EFFECT_ID":"12366",
+        "RARITY":"1",
+        "SUMMON_GATE_ID":"20082",
+        "TPGXiNmN":"0"
+    },
+    {
+        "AI_CHANCE":"100.0000",
+        "GACHA_SCRIPT_A":"gWaitStone.txt",
+        "GACHA_SCRIPT_B":"",
+        "GACHA_SCRIPT_C":"gOpenStone(N).txt",
+        "GATE_EFFECT_ID":"12367",
+        "RARITY":"1",
+        "SUMMON_GATE_ID":"20083",
+        "TPGXiNmN":"0"
+    },
+    {
+        "AI_CHANCE":"100.0000",
+        "GACHA_SCRIPT_A":"gWaitStone.txt",
+        "GACHA_SCRIPT_B":"",
+        "GACHA_SCRIPT_C":"gOpenStone(N).txt",
+        "GATE_EFFECT_ID":"12368",
+        "RARITY":"1",
+        "SUMMON_GATE_ID":"20084",
+        "TPGXiNmN":"0"
     }
 ]

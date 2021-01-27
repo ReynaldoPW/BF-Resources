@@ -19307,6 +19307,32 @@
     {
         "AI_PRIORITY":"0",
         "CONTRIBUTIONS_TYPE":"2",
+        "DESCRIPTION":"MST_EXTRAPASSIVESKILL_8000704_DESCRIPTION",
+        "ES_ID":"8000704",
+        "ES_PARAMETERS":"1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0",
+        "FILE_NAME":"0",
+        "NAME":"",
+        "PROC/PASSIVE_ID(S)":"48,1@66,1@66,1@66,1",
+        "PROC/PASSIVE_PARAMETERS":"10@4,0&100,1,1,1,1,0,0@2,98999&99999&100&100,1,1,1,0,1,0@56,15&1&999,1,2,0,1,1,0",
+        "RARITY":"7",
+        "outas79f":"0"
+    },
+    {
+        "AI_PRIORITY":"0",
+        "CONTRIBUTIONS_TYPE":"2",
+        "DESCRIPTION":"MST_EXTRAPASSIVESKILL_8000705_DESCRIPTION",
+        "ES_ID":"8000705",
+        "ES_PARAMETERS":"1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0",
+        "FILE_NAME":"0",
+        "NAME":"",
+        "PROC/PASSIVE_ID(S)":"1,1@31,1@34,1@50,1@70,1",
+        "PROC/PASSIVE_PARAMETERS":"50,50,50,30,50@100,0,0,0,0,0@1@1,2,3,4,5,6,1@100",
+        "RARITY":"8",
+        "outas79f":"0"
+    },
+    {
+        "AI_PRIORITY":"0",
+        "CONTRIBUTIONS_TYPE":"2",
         "DESCRIPTION":"MST_EXTRAPASSIVESKILL_8000801_DESCRIPTION",
         "ES_ID":"8000801",
         "ES_PARAMETERS":"1#0,0%0,0%0,0@1#0,0%0,0%0,0@1#0,0%0,0%0,0@1#0,0%0,0%0,0@1#0,0%0,0%0,0@1#0,0%0,0%0,0",

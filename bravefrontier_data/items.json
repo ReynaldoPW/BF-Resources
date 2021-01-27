@@ -39895,7 +39895,7 @@
         "from raid":"false",
         "guide id":"819352",
         "id":"819352",
-        "lore":"MST_SPHERES_819352_LONGDESCRIPTION",
+        "lore":"A brilliant medal framed by an impressive array of sapphire feathers. Granted to the best of the best, the very firmament pales against the majesty of your glory. Be proud!",
         "max equip":1,
         "max stack":1,
         "name":"MST_SPHERES_819352_NAME",
@@ -39930,7 +39930,7 @@
         "from raid":"false",
         "guide id":"819353",
         "id":"819353",
-        "lore":"MST_SPHERES_819353_LONGDESCRIPTION",
+        "lore":"A gilded medal flanked by a pair of sapphire feathers in the shape of wings. Soar to greater heights and aim for the heavens!",
         "max equip":1,
         "max stack":1,
         "name":"MST_SPHERES_819353_NAME",
@@ -39940,6 +39940,88 @@
         "sphere type":"SPHERE_TYPE_NAME_14",
         "target":"none",
         "thumbnail":"sphere_thum_819353.png",
+        "type":"sphere"
+    },
+    "819355":{
+        "desc":"MST_SPHERES_819355_SHORTDESCRIPTION",
+        "effects":[
+            {
+                "params":"1,0,70,70,70,0,70",
+                "proc id":"2"
+            },
+            {
+                "params":"30,100,1,0",
+                "proc id":"75"
+            },
+            {
+                "params":"200,0,0,0,0,0",
+                "proc id":"31"
+            },
+            {
+                "params":"2500",
+                "proc id":"9"
+            },
+            {
+                "params":"12,100,-1,30,2,-1",
+                "proc id":"55"
+            },
+            {
+                "params":"10019,10500&0&0&0&0&0&0&0&0&30,100,2,0,1,1,0",
+                "proc id":"66"
+            }
+        ],
+        "from raid":"false",
+        "guide id":"819355",
+        "id":"819355",
+        "lore":"MST_SPHERES_819355_LONGDESCRIPTION",
+        "max equip":1,
+        "max stack":1,
+        "name":"MST_SPHERES_819355_NAME",
+        "rarity":7,
+        "sale caution":"true",
+        "sale price":30000,
+        "sphere type":"SPHERE_TYPE_NAME_11",
+        "target":"none",
+        "thumbnail":"sphere_thum_819355.png",
+        "type":"sphere"
+    },
+    "819356":{
+        "desc":"MST_SPHERES_819356_SHORTDESCRIPTION",
+        "effects":[
+            {
+                "params":"1,0,60,60,60,0,60",
+                "proc id":"2"
+            },
+            {
+                "params":"20,100,1,0",
+                "proc id":"75"
+            },
+            {
+                "params":"150,0,0,0,0,0",
+                "proc id":"31"
+            },
+            {
+                "params":"1500",
+                "proc id":"9"
+            },
+            {
+                "params":"12,100,-1,30,2,-1",
+                "proc id":"55"
+            }
+        ],
+        "from raid":"false",
+        "guide id":"819356",
+        "id":"819356",
+        "lore":"MST_SPHERES_819356_LONGDESCRIPTION",
+        "max equip":1,
+        "max stack":1,
+        "name":"MST_SPHERES_819356_NAME",
+        "rarity":6,
+        "sale caution":"true",
+        "sale price":30000,
+        "sphere type":"SPHERE_TYPE_NAME_11",
+        "target":"none",
+        "thumbnail":"sphere_thum_819356.png",
         "type":"sphere"
     },
     "819901":{

@@ -1595,159 +1595,319 @@
         "ELGIF_REWARD*":"1:0",
         "FH_RANK_NAME":"201",
         "HR":"201",
-        "PRESENT_AMOUNT":"8",
-        "REWARD_ITEM_ID":"10312",
+        "PRESENT_AMOUNT":"5",
+        "REWARD_ITEM_ID":"750004",
         "REWARD_TYPE*":"6"
     },
     {
-        "ELGIF_REWARD*":"",
+        "ELGIF_REWARD*":"1:0",
         "FH_RANK_NAME":"202",
         "HR":"202",
-        "PRESENT_AMOUNT":"10",
-        "REWARD_ITEM_ID":"800907",
-        "REWARD_TYPE*":"4"
+        "PRESENT_AMOUNT":"2",
+        "REWARD_ITEM_ID":"730302",
+        "REWARD_TYPE*":"6"
     },
     {
         "ELGIF_REWARD*":"1:0",
         "FH_RANK_NAME":"203",
         "HR":"203",
-        "PRESENT_AMOUNT":"5",
-        "REWARD_ITEM_ID":"10313",
+        "PRESENT_AMOUNT":"10",
+        "REWARD_ITEM_ID":"50612",
         "REWARD_TYPE*":"6"
     },
     {
         "ELGIF_REWARD*":"1:0",
         "FH_RANK_NAME":"204",
         "HR":"204",
-        "PRESENT_AMOUNT":"5",
-        "REWARD_ITEM_ID":"20302",
-        "REWARD_TYPE*":"6"
+        "PRESENT_AMOUNT":"1",
+        "REWARD_ITEM_ID":"48223",
+        "REWARD_TYPE*":"7"
     },
     {
         "ELGIF_REWARD*":"1:0",
         "FH_RANK_NAME":"205",
         "HR":"205",
-        "PRESENT_AMOUNT":"5",
-        "REWARD_ITEM_ID":"50612",
+        "PRESENT_AMOUNT":"10",
+        "REWARD_ITEM_ID":"20302",
         "REWARD_TYPE*":"6"
     },
     {
-        "ELGIF_REWARD*":"",
+        "ELGIF_REWARD*":"1:0",
         "FH_RANK_NAME":"206",
         "HR":"206",
-        "PRESENT_AMOUNT":"15",
-        "REWARD_ITEM_ID":"800907",
-        "REWARD_TYPE*":"4"
+        "PRESENT_AMOUNT":"2",
+        "REWARD_ITEM_ID":"730312",
+        "REWARD_TYPE*":"6"
     },
     {
         "ELGIF_REWARD*":"1:0",
         "FH_RANK_NAME":"207",
         "HR":"207",
-        "PRESENT_AMOUNT":"3",
-        "REWARD_ITEM_ID":"750004",
-        "REWARD_TYPE*":"6"
-    },
-    {
-        "ELGIF_REWARD*":"",
-        "FH_RANK_NAME":"208",
-        "HR":"208",
-        "PRESENT_AMOUNT":"1",
-        "REWARD_ITEM_ID":"0",
-        "REWARD_TYPE*":"8"
-    },
-    {
-        "ELGIF_REWARD*":"1:0",
-        "FH_RANK_NAME":"209",
-        "HR":"209",
-        "PRESENT_AMOUNT":"6",
+        "PRESENT_AMOUNT":"5",
         "REWARD_ITEM_ID":"750003",
         "REWARD_TYPE*":"6"
     },
     {
+        "ELGIF_REWARD*":"1:0",
+        "FH_RANK_NAME":"208",
+        "HR":"208",
+        "PRESENT_AMOUNT":"2",
+        "REWARD_ITEM_ID":"730322",
+        "REWARD_TYPE*":"6"
+    },
+    {
         "ELGIF_REWARD*":"",
-        "FH_RANK_NAME":"210",
-        "HR":"210",
-        "PRESENT_AMOUNT":"10",
+        "FH_RANK_NAME":"209",
+        "HR":"209",
+        "PRESENT_AMOUNT":"30",
         "REWARD_ITEM_ID":"800907",
         "REWARD_TYPE*":"4"
     },
     {
-        "ELGIF_REWARD*":"",
+        "ELGIF_REWARD*":"1:0:8000704",
+        "FH_RANK_NAME":"210",
+        "HR":"210",
+        "PRESENT_AMOUNT":"1",
+        "REWARD_ITEM_ID":"50792",
+        "REWARD_TYPE*":"6"
+    },
+    {
+        "ELGIF_REWARD*":"1:0",
         "FH_RANK_NAME":"211",
         "HR":"211",
-        "PRESENT_AMOUNT":"1",
-        "REWARD_ITEM_ID":"0",
-        "REWARD_TYPE*":"8"
+        "PRESENT_AMOUNT":"10",
+        "REWARD_ITEM_ID":"50612",
+        "REWARD_TYPE*":"6"
     },
     {
         "ELGIF_REWARD*":"1:0",
         "FH_RANK_NAME":"212",
         "HR":"212",
-        "PRESENT_AMOUNT":"1",
-        "REWARD_ITEM_ID":"750003",
+        "PRESENT_AMOUNT":"2",
+        "REWARD_ITEM_ID":"730332",
         "REWARD_TYPE*":"6"
     },
     {
         "ELGIF_REWARD*":"1:0",
         "FH_RANK_NAME":"213",
         "HR":"213",
-        "PRESENT_AMOUNT":"1",
-        "REWARD_ITEM_ID":"750003",
+        "PRESENT_AMOUNT":"10",
+        "REWARD_ITEM_ID":"20302",
         "REWARD_TYPE*":"6"
     },
     {
         "ELGIF_REWARD*":"1:0",
         "FH_RANK_NAME":"214",
         "HR":"214",
-        "PRESENT_AMOUNT":"1",
-        "REWARD_ITEM_ID":"750003",
+        "PRESENT_AMOUNT":"2",
+        "REWARD_ITEM_ID":"730342",
         "REWARD_TYPE*":"6"
     },
     {
         "ELGIF_REWARD*":"1:0",
         "FH_RANK_NAME":"215",
         "HR":"215",
-        "PRESENT_AMOUNT":"1",
+        "PRESENT_AMOUNT":"5",
         "REWARD_ITEM_ID":"750003",
         "REWARD_TYPE*":"6"
     },
     {
-        "ELGIF_REWARD*":"1:0",
+        "ELGIF_REWARD*":"1:0:1019700",
         "FH_RANK_NAME":"216",
         "HR":"216",
         "PRESENT_AMOUNT":"1",
-        "REWARD_ITEM_ID":"750003",
+        "REWARD_ITEM_ID":"50792",
         "REWARD_TYPE*":"6"
     },
     {
         "ELGIF_REWARD*":"1:0",
         "FH_RANK_NAME":"217",
         "HR":"217",
-        "PRESENT_AMOUNT":"1",
-        "REWARD_ITEM_ID":"750003",
+        "PRESENT_AMOUNT":"2",
+        "REWARD_ITEM_ID":"730352",
         "REWARD_TYPE*":"6"
     },
     {
-        "ELGIF_REWARD*":"1:0",
+        "ELGIF_REWARD*":"",
         "FH_RANK_NAME":"218",
         "HR":"218",
-        "PRESENT_AMOUNT":"1",
-        "REWARD_ITEM_ID":"750003",
-        "REWARD_TYPE*":"6"
+        "PRESENT_AMOUNT":"30",
+        "REWARD_ITEM_ID":"800907",
+        "REWARD_TYPE*":"4"
     },
     {
         "ELGIF_REWARD*":"1:0",
         "FH_RANK_NAME":"219",
         "HR":"219",
         "PRESENT_AMOUNT":"1",
+        "REWARD_ITEM_ID":"730362",
+        "REWARD_TYPE*":"6"
+    },
+    {
+        "ELGIF_REWARD*":"1:0:8000705",
+        "FH_RANK_NAME":"220",
+        "HR":"220",
+        "PRESENT_AMOUNT":"1",
+        "REWARD_ITEM_ID":"50792",
+        "REWARD_TYPE*":"6"
+    },
+    {
+        "ELGIF_REWARD*":"1:0",
+        "FH_RANK_NAME":"221",
+        "HR":"221",
+        "PRESENT_AMOUNT":"8",
+        "REWARD_ITEM_ID":"10312",
+        "REWARD_TYPE*":"6"
+    },
+    {
+        "ELGIF_REWARD*":"",
+        "FH_RANK_NAME":"222",
+        "HR":"222",
+        "PRESENT_AMOUNT":"10",
+        "REWARD_ITEM_ID":"800907",
+        "REWARD_TYPE*":"4"
+    },
+    {
+        "ELGIF_REWARD*":"1:0",
+        "FH_RANK_NAME":"223",
+        "HR":"223",
+        "PRESENT_AMOUNT":"5",
+        "REWARD_ITEM_ID":"10313",
+        "REWARD_TYPE*":"6"
+    },
+    {
+        "ELGIF_REWARD*":"1:0",
+        "FH_RANK_NAME":"224",
+        "HR":"224",
+        "PRESENT_AMOUNT":"5",
+        "REWARD_ITEM_ID":"20302",
+        "REWARD_TYPE*":"6"
+    },
+    {
+        "ELGIF_REWARD*":"1:0",
+        "FH_RANK_NAME":"225",
+        "HR":"225",
+        "PRESENT_AMOUNT":"5",
+        "REWARD_ITEM_ID":"50612",
+        "REWARD_TYPE*":"6"
+    },
+    {
+        "ELGIF_REWARD*":"",
+        "FH_RANK_NAME":"226",
+        "HR":"226",
+        "PRESENT_AMOUNT":"15",
+        "REWARD_ITEM_ID":"800907",
+        "REWARD_TYPE*":"4"
+    },
+    {
+        "ELGIF_REWARD*":"1:0",
+        "FH_RANK_NAME":"227",
+        "HR":"227",
+        "PRESENT_AMOUNT":"3",
+        "REWARD_ITEM_ID":"750004",
+        "REWARD_TYPE*":"6"
+    },
+    {
+        "ELGIF_REWARD*":"",
+        "FH_RANK_NAME":"228",
+        "HR":"228",
+        "PRESENT_AMOUNT":"1",
+        "REWARD_ITEM_ID":"0",
+        "REWARD_TYPE*":"8"
+    },
+    {
+        "ELGIF_REWARD*":"1:0",
+        "FH_RANK_NAME":"229",
+        "HR":"229",
+        "PRESENT_AMOUNT":"6",
+        "REWARD_ITEM_ID":"750003",
+        "REWARD_TYPE*":"6"
+    },
+    {
+        "ELGIF_REWARD*":"",
+        "FH_RANK_NAME":"230",
+        "HR":"230",
+        "PRESENT_AMOUNT":"10",
+        "REWARD_ITEM_ID":"800907",
+        "REWARD_TYPE*":"4"
+    },
+    {
+        "ELGIF_REWARD*":"",
+        "FH_RANK_NAME":"231",
+        "HR":"231",
+        "PRESENT_AMOUNT":"1",
+        "REWARD_ITEM_ID":"0",
+        "REWARD_TYPE*":"8"
+    },
+    {
+        "ELGIF_REWARD*":"1:0",
+        "FH_RANK_NAME":"232",
+        "HR":"232",
+        "PRESENT_AMOUNT":"1",
         "REWARD_ITEM_ID":"750003",
         "REWARD_TYPE*":"6"
     },
     {
         "ELGIF_REWARD*":"1:0",
-        "FH_RANK_NAME":"220",
-        "HR":"220",
+        "FH_RANK_NAME":"233",
+        "HR":"233",
         "PRESENT_AMOUNT":"1",
+        "REWARD_ITEM_ID":"750003",
+        "REWARD_TYPE*":"6"
+    },
+    {
+        "ELGIF_REWARD*":"1:0",
+        "FH_RANK_NAME":"234",
+        "HR":"234",
+        "PRESENT_AMOUNT":"1",
+        "REWARD_ITEM_ID":"750003",
+        "REWARD_TYPE*":"6"
+    },
+    {
+        "ELGIF_REWARD*":"1:0",
+        "FH_RANK_NAME":"235",
+        "HR":"235",
+        "PRESENT_AMOUNT":"1",
+        "REWARD_ITEM_ID":"750003",
+        "REWARD_TYPE*":"6"
+    },
+    {
+        "ELGIF_REWARD*":"1:0",
+        "FH_RANK_NAME":"236",
+        "HR":"236",
+        "PRESENT_AMOUNT":"1",
+        "REWARD_ITEM_ID":"750003",
+        "REWARD_TYPE*":"6"
+    },
+    {
+        "ELGIF_REWARD*":"1:0",
+        "FH_RANK_NAME":"237",
+        "HR":"237",
+        "PRESENT_AMOUNT":"1",
+        "REWARD_ITEM_ID":"750003",
+        "REWARD_TYPE*":"6"
+    },
+    {
+        "ELGIF_REWARD*":"1:0",
+        "FH_RANK_NAME":"238",
+        "HR":"238",
+        "PRESENT_AMOUNT":"1",
+        "REWARD_ITEM_ID":"750003",
+        "REWARD_TYPE*":"6"
+    },
+    {
+        "ELGIF_REWARD*":"1:0",
+        "FH_RANK_NAME":"239",
+        "HR":"239",
+        "PRESENT_AMOUNT":"1",
+        "REWARD_ITEM_ID":"750003",
+        "REWARD_TYPE*":"6"
+    },
+    {
+        "ELGIF_REWARD*":"1:0",
+        "FH_RANK_NAME":"240",
+        "HR":"240",
+        "PRESENT_AMOUNT":"0",
         "REWARD_ITEM_ID":"750003",
         "REWARD_TYPE*":"6"
     }
