@@ -2210,5 +2210,17 @@
     {
         "RELOAD_FILES":"bfwinterny2020_login_icon_day19.png",
         "RELOAD_ID":"3125"
+    },
+    {
+        "RELOAD_FILES":"gacha_img_20210203Y_s8.png",
+        "RELOAD_ID":"3126"
+    },
+    {
+        "RELOAD_FILES":"gacha_img_20210203Y_s1.png,gacha_img_20210203Y_s2.png,gacha_img_20210203Y_s3.png,gacha_img_20210203Y_s4.png",
+        "RELOAD_ID":"3127"
+    },
+    {
+        "RELOAD_FILES":"gacha_img_20210203Y_s5.png,gacha_img_20210203Y_s6.png,gacha_img_20210203Y_s7.png,gacha_img_20210203Y_s8.png",
+        "RELOAD_ID":"3128"
     }
 ]
