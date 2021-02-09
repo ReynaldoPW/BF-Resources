@@ -123686,7 +123686,7 @@
         "TPGXiNmN":"0",
         "YTx3c1jQ":"",
         "tj0i9JhC":"gOpenStone(N).txt",
-        "u0vkt9yH":"12474",
+        "u0vkt9yH":"12489",
         "ug9xV4Fz":"100.0000"
     },
     {
@@ -123696,7 +123696,7 @@
         "TPGXiNmN":"0",
         "YTx3c1jQ":"",
         "tj0i9JhC":"gOpenStone(N).txt",
-        "u0vkt9yH":"12475",
+        "u0vkt9yH":"12490",
         "ug9xV4Fz":"100.0000"
     },
     {
@@ -123706,7 +123706,7 @@
         "TPGXiNmN":"0",
         "YTx3c1jQ":"",
         "tj0i9JhC":"gOpenGold(R).txt",
-        "u0vkt9yH":"12476",
+        "u0vkt9yH":"12491",
         "ug9xV4Fz":"100.0000"
     },
     {
@@ -123716,7 +123716,7 @@
         "TPGXiNmN":"0",
         "YTx3c1jQ":"",
         "tj0i9JhC":"gChange(Gold-Red).txt",
-        "u0vkt9yH":"12477",
+        "u0vkt9yH":"12492",
         "ug9xV4Fz":"80.0000"
     },
     {
@@ -123726,7 +123726,7 @@
         "TPGXiNmN":"0",
         "YTx3c1jQ":"",
         "tj0i9JhC":"gOpenRed(SR).txt",
-        "u0vkt9yH":"12478",
+        "u0vkt9yH":"12493",
         "ug9xV4Fz":"20.0000"
     },
     {
@@ -123736,7 +123736,7 @@
         "TPGXiNmN":"0",
         "YTx3c1jQ":"gChange(Gold-Rainbow).txt",
         "tj0i9JhC":"gOpenRainbow(SSR).txt",
-        "u0vkt9yH":"12479",
+        "u0vkt9yH":"12494",
         "ug9xV4Fz":"45.0000"
     },
     {
@@ -123746,7 +123746,7 @@
         "TPGXiNmN":"0",
         "YTx3c1jQ":"",
         "tj0i9JhC":"gOpenRed(SSR).txt",
-        "u0vkt9yH":"12480",
+        "u0vkt9yH":"12495",
         "ug9xV4Fz":"1.0000"
     },
     {
@@ -123756,7 +123756,7 @@
         "TPGXiNmN":"0",
         "YTx3c1jQ":"gChange(Red-Rainbow).txt",
         "tj0i9JhC":"gOpenRainbow(SSR).txt",
-        "u0vkt9yH":"12481",
+        "u0vkt9yH":"12496",
         "ug9xV4Fz":"44.0000"
     },
     {
@@ -123766,7 +123766,7 @@
         "TPGXiNmN":"0",
         "YTx3c1jQ":"",
         "tj0i9JhC":"gOpenRainbow(SSR).txt",
-        "u0vkt9yH":"12482",
+        "u0vkt9yH":"12497",
         "ug9xV4Fz":"10.0000"
     },
     {
@@ -123776,7 +123776,7 @@
         "TPGXiNmN":"0",
         "YTx3c1jQ":"gChange(Gold-Rainbow).txt",
         "tj0i9JhC":"gOpenRainbow(SSR).txt",
-        "u0vkt9yH":"12483",
+        "u0vkt9yH":"12498",
         "ug9xV4Fz":"45.0000"
     },
     {
@@ -123786,7 +123786,7 @@
         "TPGXiNmN":"0",
         "YTx3c1jQ":"",
         "tj0i9JhC":"gOpenRed(SSR).txt",
-        "u0vkt9yH":"12484",
+        "u0vkt9yH":"12499",
         "ug9xV4Fz":"1.0000"
     },
     {
@@ -123796,7 +123796,7 @@
         "TPGXiNmN":"0",
         "YTx3c1jQ":"",
         "tj0i9JhC":"gChange(Red-Rainbow).txt",
-        "u0vkt9yH":"12485",
+        "u0vkt9yH":"12500",
         "ug9xV4Fz":"44.0000"
     },
     {
@@ -123806,7 +123806,7 @@
         "TPGXiNmN":"0",
         "YTx3c1jQ":"",
         "tj0i9JhC":"gWaitRainbow.txt",
-        "u0vkt9yH":"12486",
+        "u0vkt9yH":"12501",
         "ug9xV4Fz":"10.0000"
     },
     {
@@ -123816,7 +123816,7 @@
         "TPGXiNmN":"0",
         "YTx3c1jQ":"",
         "tj0i9JhC":"gChange(Rainbow-black).txt",
-        "u0vkt9yH":"12487",
+        "u0vkt9yH":"12502",
         "ug9xV4Fz":"80.0000"
     },
     {
@@ -123826,7 +123826,157 @@
         "TPGXiNmN":"0",
         "YTx3c1jQ":"",
         "tj0i9JhC":"gOpenGold(Rare7).txt",
-        "u0vkt9yH":"12488",
+        "u0vkt9yH":"12503",
+        "ug9xV4Fz":"20.0000"
+    },
+    {
+        "7Ffmi96v":"20120",
+        "7ZNcmYS2":"gWaitStone.txt",
+        "7ofj5xa1":"1",
+        "TPGXiNmN":"0",
+        "YTx3c1jQ":"",
+        "tj0i9JhC":"gOpenStone(N).txt",
+        "u0vkt9yH":"12504",
+        "ug9xV4Fz":"100.0000"
+    },
+    {
+        "7Ffmi96v":"20120",
+        "7ZNcmYS2":"gWaitStone.txt",
+        "7ofj5xa1":"2",
+        "TPGXiNmN":"0",
+        "YTx3c1jQ":"",
+        "tj0i9JhC":"gOpenStone(N).txt",
+        "u0vkt9yH":"12505",
+        "ug9xV4Fz":"100.0000"
+    },
+    {
+        "7Ffmi96v":"20120",
+        "7ZNcmYS2":"gWaitGold.txt",
+        "7ofj5xa1":"3",
+        "TPGXiNmN":"0",
+        "YTx3c1jQ":"",
+        "tj0i9JhC":"gOpenGold(R).txt",
+        "u0vkt9yH":"12506",
+        "ug9xV4Fz":"100.0000"
+    },
+    {
+        "7Ffmi96v":"20120",
+        "7ZNcmYS2":"gWaitGold.txt",
+        "7ofj5xa1":"4",
+        "TPGXiNmN":"0",
+        "YTx3c1jQ":"",
+        "tj0i9JhC":"gChange(Gold-Red).txt",
+        "u0vkt9yH":"12507",
+        "ug9xV4Fz":"80.0000"
+    },
+    {
+        "7Ffmi96v":"20120",
+        "7ZNcmYS2":"gWaitRed.txt",
+        "7ofj5xa1":"4",
+        "TPGXiNmN":"0",
+        "YTx3c1jQ":"",
+        "tj0i9JhC":"gOpenRed(SR).txt",
+        "u0vkt9yH":"12508",
+        "ug9xV4Fz":"20.0000"
+    },
+    {
+        "7Ffmi96v":"20120",
+        "7ZNcmYS2":"gWaitGold.txt",
+        "7ofj5xa1":"5",
+        "TPGXiNmN":"0",
+        "YTx3c1jQ":"gChange(Gold-Rainbow).txt",
+        "tj0i9JhC":"gOpenRainbow(SSR).txt",
+        "u0vkt9yH":"12509",
+        "ug9xV4Fz":"45.0000"
+    },
+    {
+        "7Ffmi96v":"20120",
+        "7ZNcmYS2":"gWaitRed.txt",
+        "7ofj5xa1":"5",
+        "TPGXiNmN":"0",
+        "YTx3c1jQ":"",
+        "tj0i9JhC":"gOpenRed(SSR).txt",
+        "u0vkt9yH":"12510",
+        "ug9xV4Fz":"1.0000"
+    },
+    {
+        "7Ffmi96v":"20120",
+        "7ZNcmYS2":"gWaitRed.txt",
+        "7ofj5xa1":"5",
+        "TPGXiNmN":"0",
+        "YTx3c1jQ":"gChange(Red-Rainbow).txt",
+        "tj0i9JhC":"gOpenRainbow(SSR).txt",
+        "u0vkt9yH":"12511",
+        "ug9xV4Fz":"44.0000"
+    },
+    {
+        "7Ffmi96v":"20120",
+        "7ZNcmYS2":"gWaitRainbow.txt",
+        "7ofj5xa1":"5",
+        "TPGXiNmN":"0",
+        "YTx3c1jQ":"",
+        "tj0i9JhC":"gOpenRainbow(SSR).txt",
+        "u0vkt9yH":"12512",
+        "ug9xV4Fz":"10.0000"
+    },
+    {
+        "7Ffmi96v":"20120",
+        "7ZNcmYS2":"gWaitGold.txt",
+        "7ofj5xa1":"6",
+        "TPGXiNmN":"0",
+        "YTx3c1jQ":"gChange(Gold-Rainbow).txt",
+        "tj0i9JhC":"gOpenRainbow(SSR).txt",
+        "u0vkt9yH":"12513",
+        "ug9xV4Fz":"45.0000"
+    },
+    {
+        "7Ffmi96v":"20120",
+        "7ZNcmYS2":"gWaitRed.txt",
+        "7ofj5xa1":"6",
+        "TPGXiNmN":"0",
+        "YTx3c1jQ":"",
+        "tj0i9JhC":"gOpenRed(SSR).txt",
+        "u0vkt9yH":"12514",
+        "ug9xV4Fz":"1.0000"
+    },
+    {
+        "7Ffmi96v":"20120",
+        "7ZNcmYS2":"gWaitRed.txt",
+        "7ofj5xa1":"6",
+        "TPGXiNmN":"0",
+        "YTx3c1jQ":"",
+        "tj0i9JhC":"gChange(Red-Rainbow).txt",
+        "u0vkt9yH":"12515",
+        "ug9xV4Fz":"44.0000"
+    },
+    {
+        "7Ffmi96v":"20120",
+        "7ZNcmYS2":"gWaitRainbow.txt",
+        "7ofj5xa1":"6",
+        "TPGXiNmN":"0",
+        "YTx3c1jQ":"",
+        "tj0i9JhC":"gWaitRainbow.txt",
+        "u0vkt9yH":"12516",
+        "ug9xV4Fz":"10.0000"
+    },
+    {
+        "7Ffmi96v":"20120",
+        "7ZNcmYS2":"gWaitRainbow.txt",
+        "7ofj5xa1":"7",
+        "TPGXiNmN":"0",
+        "YTx3c1jQ":"",
+        "tj0i9JhC":"gChange(Rainbow-black).txt",
+        "u0vkt9yH":"12517",
+        "ug9xV4Fz":"80.0000"
+    },
+    {
+        "7Ffmi96v":"20120",
+        "7ZNcmYS2":"gWaitBlack.txt",
+        "7ofj5xa1":"7",
+        "TPGXiNmN":"0",
+        "YTx3c1jQ":"",
+        "tj0i9JhC":"gOpenGold(Rare7).txt",
+        "u0vkt9yH":"12518",
         "ug9xV4Fz":"20.0000"
     }
 ]

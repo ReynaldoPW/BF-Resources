@@ -123684,7 +123684,7 @@
         "GACHA_SCRIPT_A":"gWaitStone.txt",
         "GACHA_SCRIPT_B":"",
         "GACHA_SCRIPT_C":"gOpenStone(N).txt",
-        "GATE_EFFECT_ID":"12474",
+        "GATE_EFFECT_ID":"12489",
         "RARITY":"1",
         "SUMMON_GATE_ID":"20119",
         "TPGXiNmN":"0"
@@ -123694,7 +123694,7 @@
         "GACHA_SCRIPT_A":"gWaitStone.txt",
         "GACHA_SCRIPT_B":"",
         "GACHA_SCRIPT_C":"gOpenStone(N).txt",
-        "GATE_EFFECT_ID":"12475",
+        "GATE_EFFECT_ID":"12490",
         "RARITY":"2",
         "SUMMON_GATE_ID":"20119",
         "TPGXiNmN":"0"
@@ -123704,7 +123704,7 @@
         "GACHA_SCRIPT_A":"gWaitGold.txt",
         "GACHA_SCRIPT_B":"",
         "GACHA_SCRIPT_C":"gOpenGold(R).txt",
-        "GATE_EFFECT_ID":"12476",
+        "GATE_EFFECT_ID":"12491",
         "RARITY":"3",
         "SUMMON_GATE_ID":"20119",
         "TPGXiNmN":"0"
@@ -123714,7 +123714,7 @@
         "GACHA_SCRIPT_A":"gWaitGold.txt",
         "GACHA_SCRIPT_B":"",
         "GACHA_SCRIPT_C":"gChange(Gold-Red).txt",
-        "GATE_EFFECT_ID":"12477",
+        "GATE_EFFECT_ID":"12492",
         "RARITY":"4",
         "SUMMON_GATE_ID":"20119",
         "TPGXiNmN":"0"
@@ -123724,7 +123724,7 @@
         "GACHA_SCRIPT_A":"gWaitRed.txt",
         "GACHA_SCRIPT_B":"",
         "GACHA_SCRIPT_C":"gOpenRed(SR).txt",
-        "GATE_EFFECT_ID":"12478",
+        "GATE_EFFECT_ID":"12493",
         "RARITY":"4",
         "SUMMON_GATE_ID":"20119",
         "TPGXiNmN":"0"
@@ -123734,7 +123734,7 @@
         "GACHA_SCRIPT_A":"gWaitGold.txt",
         "GACHA_SCRIPT_B":"gChange(Gold-Rainbow).txt",
         "GACHA_SCRIPT_C":"gOpenRainbow(SSR).txt",
-        "GATE_EFFECT_ID":"12479",
+        "GATE_EFFECT_ID":"12494",
         "RARITY":"5",
         "SUMMON_GATE_ID":"20119",
         "TPGXiNmN":"0"
@@ -123744,7 +123744,7 @@
         "GACHA_SCRIPT_A":"gWaitRed.txt",
         "GACHA_SCRIPT_B":"",
         "GACHA_SCRIPT_C":"gOpenRed(SSR).txt",
-        "GATE_EFFECT_ID":"12480",
+        "GATE_EFFECT_ID":"12495",
         "RARITY":"5",
         "SUMMON_GATE_ID":"20119",
         "TPGXiNmN":"0"
@@ -123754,7 +123754,7 @@
         "GACHA_SCRIPT_A":"gWaitRed.txt",
         "GACHA_SCRIPT_B":"gChange(Red-Rainbow).txt",
         "GACHA_SCRIPT_C":"gOpenRainbow(SSR).txt",
-        "GATE_EFFECT_ID":"12481",
+        "GATE_EFFECT_ID":"12496",
         "RARITY":"5",
         "SUMMON_GATE_ID":"20119",
         "TPGXiNmN":"0"
@@ -123764,7 +123764,7 @@
         "GACHA_SCRIPT_A":"gWaitRainbow.txt",
         "GACHA_SCRIPT_B":"",
         "GACHA_SCRIPT_C":"gOpenRainbow(SSR).txt",
-        "GATE_EFFECT_ID":"12482",
+        "GATE_EFFECT_ID":"12497",
         "RARITY":"5",
         "SUMMON_GATE_ID":"20119",
         "TPGXiNmN":"0"
@@ -123774,7 +123774,7 @@
         "GACHA_SCRIPT_A":"gWaitGold.txt",
         "GACHA_SCRIPT_B":"gChange(Gold-Rainbow).txt",
         "GACHA_SCRIPT_C":"gOpenRainbow(SSR).txt",
-        "GATE_EFFECT_ID":"12483",
+        "GATE_EFFECT_ID":"12498",
         "RARITY":"6",
         "SUMMON_GATE_ID":"20119",
         "TPGXiNmN":"0"
@@ -123784,7 +123784,7 @@
         "GACHA_SCRIPT_A":"gWaitRed.txt",
         "GACHA_SCRIPT_B":"",
         "GACHA_SCRIPT_C":"gOpenRed(SSR).txt",
-        "GATE_EFFECT_ID":"12484",
+        "GATE_EFFECT_ID":"12499",
         "RARITY":"6",
         "SUMMON_GATE_ID":"20119",
         "TPGXiNmN":"0"
@@ -123794,7 +123794,7 @@
         "GACHA_SCRIPT_A":"gWaitRed.txt",
         "GACHA_SCRIPT_B":"",
         "GACHA_SCRIPT_C":"gChange(Red-Rainbow).txt",
-        "GATE_EFFECT_ID":"12485",
+        "GATE_EFFECT_ID":"12500",
         "RARITY":"6",
         "SUMMON_GATE_ID":"20119",
         "TPGXiNmN":"0"
@@ -123804,7 +123804,7 @@
         "GACHA_SCRIPT_A":"gWaitRainbow.txt",
         "GACHA_SCRIPT_B":"",
         "GACHA_SCRIPT_C":"gWaitRainbow.txt",
-        "GATE_EFFECT_ID":"12486",
+        "GATE_EFFECT_ID":"12501",
         "RARITY":"6",
         "SUMMON_GATE_ID":"20119",
         "TPGXiNmN":"0"
@@ -123814,7 +123814,7 @@
         "GACHA_SCRIPT_A":"gWaitRainbow.txt",
         "GACHA_SCRIPT_B":"",
         "GACHA_SCRIPT_C":"gChange(Rainbow-black).txt",
-        "GATE_EFFECT_ID":"12487",
+        "GATE_EFFECT_ID":"12502",
         "RARITY":"7",
         "SUMMON_GATE_ID":"20119",
         "TPGXiNmN":"0"
@@ -123824,9 +123824,159 @@
         "GACHA_SCRIPT_A":"gWaitBlack.txt",
         "GACHA_SCRIPT_B":"",
         "GACHA_SCRIPT_C":"gOpenGold(Rare7).txt",
-        "GATE_EFFECT_ID":"12488",
+        "GATE_EFFECT_ID":"12503",
         "RARITY":"7",
         "SUMMON_GATE_ID":"20119",
+        "TPGXiNmN":"0"
+    },
+    {
+        "AI_CHANCE":"100.0000",
+        "GACHA_SCRIPT_A":"gWaitStone.txt",
+        "GACHA_SCRIPT_B":"",
+        "GACHA_SCRIPT_C":"gOpenStone(N).txt",
+        "GATE_EFFECT_ID":"12504",
+        "RARITY":"1",
+        "SUMMON_GATE_ID":"20120",
+        "TPGXiNmN":"0"
+    },
+    {
+        "AI_CHANCE":"100.0000",
+        "GACHA_SCRIPT_A":"gWaitStone.txt",
+        "GACHA_SCRIPT_B":"",
+        "GACHA_SCRIPT_C":"gOpenStone(N).txt",
+        "GATE_EFFECT_ID":"12505",
+        "RARITY":"2",
+        "SUMMON_GATE_ID":"20120",
+        "TPGXiNmN":"0"
+    },
+    {
+        "AI_CHANCE":"100.0000",
+        "GACHA_SCRIPT_A":"gWaitGold.txt",
+        "GACHA_SCRIPT_B":"",
+        "GACHA_SCRIPT_C":"gOpenGold(R).txt",
+        "GATE_EFFECT_ID":"12506",
+        "RARITY":"3",
+        "SUMMON_GATE_ID":"20120",
+        "TPGXiNmN":"0"
+    },
+    {
+        "AI_CHANCE":"80.0000",
+        "GACHA_SCRIPT_A":"gWaitGold.txt",
+        "GACHA_SCRIPT_B":"",
+        "GACHA_SCRIPT_C":"gChange(Gold-Red).txt",
+        "GATE_EFFECT_ID":"12507",
+        "RARITY":"4",
+        "SUMMON_GATE_ID":"20120",
+        "TPGXiNmN":"0"
+    },
+    {
+        "AI_CHANCE":"20.0000",
+        "GACHA_SCRIPT_A":"gWaitRed.txt",
+        "GACHA_SCRIPT_B":"",
+        "GACHA_SCRIPT_C":"gOpenRed(SR).txt",
+        "GATE_EFFECT_ID":"12508",
+        "RARITY":"4",
+        "SUMMON_GATE_ID":"20120",
+        "TPGXiNmN":"0"
+    },
+    {
+        "AI_CHANCE":"45.0000",
+        "GACHA_SCRIPT_A":"gWaitGold.txt",
+        "GACHA_SCRIPT_B":"gChange(Gold-Rainbow).txt",
+        "GACHA_SCRIPT_C":"gOpenRainbow(SSR).txt",
+        "GATE_EFFECT_ID":"12509",
+        "RARITY":"5",
+        "SUMMON_GATE_ID":"20120",
+        "TPGXiNmN":"0"
+    },
+    {
+        "AI_CHANCE":"1.0000",
+        "GACHA_SCRIPT_A":"gWaitRed.txt",
+        "GACHA_SCRIPT_B":"",
+        "GACHA_SCRIPT_C":"gOpenRed(SSR).txt",
+        "GATE_EFFECT_ID":"12510",
+        "RARITY":"5",
+        "SUMMON_GATE_ID":"20120",
+        "TPGXiNmN":"0"
+    },
+    {
+        "AI_CHANCE":"44.0000",
+        "GACHA_SCRIPT_A":"gWaitRed.txt",
+        "GACHA_SCRIPT_B":"gChange(Red-Rainbow).txt",
+        "GACHA_SCRIPT_C":"gOpenRainbow(SSR).txt",
+        "GATE_EFFECT_ID":"12511",
+        "RARITY":"5",
+        "SUMMON_GATE_ID":"20120",
+        "TPGXiNmN":"0"
+    },
+    {
+        "AI_CHANCE":"10.0000",
+        "GACHA_SCRIPT_A":"gWaitRainbow.txt",
+        "GACHA_SCRIPT_B":"",
+        "GACHA_SCRIPT_C":"gOpenRainbow(SSR).txt",
+        "GATE_EFFECT_ID":"12512",
+        "RARITY":"5",
+        "SUMMON_GATE_ID":"20120",
+        "TPGXiNmN":"0"
+    },
+    {
+        "AI_CHANCE":"45.0000",
+        "GACHA_SCRIPT_A":"gWaitGold.txt",
+        "GACHA_SCRIPT_B":"gChange(Gold-Rainbow).txt",
+        "GACHA_SCRIPT_C":"gOpenRainbow(SSR).txt",
+        "GATE_EFFECT_ID":"12513",
+        "RARITY":"6",
+        "SUMMON_GATE_ID":"20120",
+        "TPGXiNmN":"0"
+    },
+    {
+        "AI_CHANCE":"1.0000",
+        "GACHA_SCRIPT_A":"gWaitRed.txt",
+        "GACHA_SCRIPT_B":"",
+        "GACHA_SCRIPT_C":"gOpenRed(SSR).txt",
+        "GATE_EFFECT_ID":"12514",
+        "RARITY":"6",
+        "SUMMON_GATE_ID":"20120",
+        "TPGXiNmN":"0"
+    },
+    {
+        "AI_CHANCE":"44.0000",
+        "GACHA_SCRIPT_A":"gWaitRed.txt",
+        "GACHA_SCRIPT_B":"",
+        "GACHA_SCRIPT_C":"gChange(Red-Rainbow).txt",
+        "GATE_EFFECT_ID":"12515",
+        "RARITY":"6",
+        "SUMMON_GATE_ID":"20120",
+        "TPGXiNmN":"0"
+    },
+    {
+        "AI_CHANCE":"10.0000",
+        "GACHA_SCRIPT_A":"gWaitRainbow.txt",
+        "GACHA_SCRIPT_B":"",
+        "GACHA_SCRIPT_C":"gWaitRainbow.txt",
+        "GATE_EFFECT_ID":"12516",
+        "RARITY":"6",
+        "SUMMON_GATE_ID":"20120",
+        "TPGXiNmN":"0"
+    },
+    {
+        "AI_CHANCE":"80.0000",
+        "GACHA_SCRIPT_A":"gWaitRainbow.txt",
+        "GACHA_SCRIPT_B":"",
+        "GACHA_SCRIPT_C":"gChange(Rainbow-black).txt",
+        "GATE_EFFECT_ID":"12517",
+        "RARITY":"7",
+        "SUMMON_GATE_ID":"20120",
+        "TPGXiNmN":"0"
+    },
+    {
+        "AI_CHANCE":"20.0000",
+        "GACHA_SCRIPT_A":"gWaitBlack.txt",
+        "GACHA_SCRIPT_B":"",
+        "GACHA_SCRIPT_C":"gOpenGold(Rare7).txt",
+        "GATE_EFFECT_ID":"12518",
+        "RARITY":"7",
+        "SUMMON_GATE_ID":"20120",
         "TPGXiNmN":"0"
     }
 ]

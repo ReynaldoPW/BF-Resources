@@ -14549,9 +14549,21 @@
         "door image":"gacha_rare_door.png",
         "end time":"2021-02-24 14:59:59",
         "gem cost":5,
-        "name":"Valentine's Gem Summon",
+        "name":"Valentines Gem Summon",
         "priority":"2",
         "short desc":"Guinne is are available through the Summon Gate! Get a Valentines Mystery Chest for every 10 Summons from the same gate!",
+        "start time":"2021-02-09 15:00:00",
+        "summon button image":"gacha_rare_summons_btn1.png"
+    },
+    "20120":{
+        "background image":"gacha_Daily_img_20210209N_s1.png",
+        "desc":"From 09 Feb 07:00 PST ~ 03 Mar 23:59 PST, summon minimum 5* Global exclusive units with Omni Potential and enjoy Increased Rates on past Valentines exclusives and Guinne! Remember, this ticket is only valid till 3th March.",
+        "door image":"gacha_rare_door.png",
+        "end time":"2021-03-03 23:59:59",
+        "gem cost":5,
+        "name":"Valentines Daily Summon",
+        "priority":"2",
+        "short desc":"Past Valentines exclusives and Guinne are now available through the Summon Gate!  Collect your free daily Valentines Daily Ticket and summon now!",
         "start time":"2021-02-09 15:00:00",
         "summon button image":"gacha_rare_summons_btn1.png"
     }
