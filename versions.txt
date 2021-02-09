@@ -116,19 +116,19 @@
         "moWQ30GH":"M_FROHUN_RANKING_REWARD_MST"
     },
     {
-        "d2RFtP8T":"82",
+        "d2RFtP8T":"83",
         "moWQ30GH":"F_GATE_MST"
     },
     {
-        "d2RFtP8T":"134",
+        "d2RFtP8T":"135",
         "moWQ30GH":"F_LAND_MST"
     },
     {
-        "d2RFtP8T":"606",
+        "d2RFtP8T":"611",
         "moWQ30GH":"F_AREA_MST"
     },
     {
-        "d2RFtP8T":"891",
+        "d2RFtP8T":"896",
         "moWQ30GH":"F_DUNGEON_MST"
     },
     {
@@ -196,11 +196,11 @@
         "moWQ30GH":"F_RAID_MISSION_BOSS_MST"
     },
     {
-        "d2RFtP8T":"173",
+        "d2RFtP8T":"176",
         "moWQ30GH":"F_SCENARIO_CATEGORY_MST"
     },
     {
-        "d2RFtP8T":"292",
+        "d2RFtP8T":"295",
         "moWQ30GH":"F_SCENARIO_MST"
     },
     {
@@ -220,15 +220,15 @@
         "moWQ30GH":"F_CHRONOLOGY_WORD_MST"
     },
     {
-        "d2RFtP8T":"475",
+        "d2RFtP8T":"476",
         "moWQ30GH":"F_FROGATE_MST"
     },
     {
-        "d2RFtP8T":"251",
+        "d2RFtP8T":"252",
         "moWQ30GH":"F_FROGATE_REWARD_MST"
     },
     {
-        "d2RFtP8T":"138",
+        "d2RFtP8T":"139",
         "moWQ30GH":"F_FROGATE_SUPPORT_MST"
     },
     {
@@ -236,7 +236,7 @@
         "moWQ30GH":"F_FROGATE_AREA_MST"
     },
     {
-        "d2RFtP8T":"195",
+        "d2RFtP8T":"197",
         "moWQ30GH":"F_MISSION_NPC_UNIT_MST"
     },
     {
@@ -308,15 +308,15 @@
         "moWQ30GH":"F_COLOSSEUM_SUPPORT_MST"
     },
     {
-        "d2RFtP8T":"516",
+        "d2RFtP8T":"519",
         "moWQ30GH":"F_UNIT_FE_CATEGORY_MST"
     },
     {
-        "d2RFtP8T":"572",
+        "d2RFtP8T":"575",
         "moWQ30GH":"F_UNIT_FE_SKILL_MST"
     },
     {
-        "d2RFtP8T":"592",
+        "d2RFtP8T":"595",
         "moWQ30GH":"F_FE_SKILL_MST"
     },
     {
@@ -428,19 +428,19 @@
         "moWQ30GH":"F_PARTICLE"
     },
     {
-        "d2RFtP8T":"1049",
+        "d2RFtP8T":"1052",
         "moWQ30GH":"F_UNIT_MST"
     },
     {
-        "d2RFtP8T":"683",
+        "d2RFtP8T":"685",
         "moWQ30GH":"F_UNIT_COMMENT_MST"
     },
     {
-        "d2RFtP8T":"584",
+        "d2RFtP8T":"585",
         "moWQ30GH":"F_UNIT_EVO_MST"
     },
     {
-        "d2RFtP8T":"126",
+        "d2RFtP8T":"127",
         "moWQ30GH":"F_UNIT_EVO_CATALYST_COMMENT_MST"
     },
     {
@@ -448,7 +448,7 @@
         "moWQ30GH":"F_UNIT_EXT_MST"
     },
     {
-        "d2RFtP8T":"781",
+        "d2RFtP8T":"783",
         "moWQ30GH":"F_UNIT_CGS_MST"
     },
     {
@@ -456,43 +456,43 @@
         "moWQ30GH":"F_UNIT_TYPE_MST"
     },
     {
-        "d2RFtP8T":"1015",
+        "d2RFtP8T":"1018",
         "moWQ30GH":"F_MISSION_MST"
     },
     {
-        "d2RFtP8T":"1492",
+        "d2RFtP8T":"1495",
         "moWQ30GH":"F_SKILL_MST"
     },
     {
-        "d2RFtP8T":"1446",
+        "d2RFtP8T":"1449",
         "moWQ30GH":"F_SKILL_LEVEL_MST"
     },
     {
-        "d2RFtP8T":"737",
+        "d2RFtP8T":"742",
         "moWQ30GH":"F_EXTRA_PASSIVE_SKILL_MST"
     },
     {
-        "d2RFtP8T":"3165",
+        "d2RFtP8T":"3172",
         "moWQ30GH":"F_RESOURCE_MST"
     },
     {
-        "d2RFtP8T":"999",
+        "d2RFtP8T":"1000",
         "moWQ30GH":"F_ITEM_MST"
     },
     {
-        "d2RFtP8T":"332",
+        "d2RFtP8T":"333",
         "moWQ30GH":"F_RECIPE_MST"
     },
     {
-        "d2RFtP8T":"560",
+        "d2RFtP8T":"562",
         "moWQ30GH":"F_EFFECT_MST"
     },
     {
-        "d2RFtP8T":"586",
+        "d2RFtP8T":"588",
         "moWQ30GH":"F_EFFECT_GROUP_MST"
     },
     {
-        "d2RFtP8T":"726",
+        "d2RFtP8T":"728",
         "moWQ30GH":"F_LEADER_SKILL_MST"
     },
     {
@@ -500,7 +500,7 @@
         "moWQ30GH":"F_HELP_DETAIL_MST"
     },
     {
-        "d2RFtP8T":"272",
+        "d2RFtP8T":"274",
         "moWQ30GH":"F_MISSION_SCRIPT_MST"
     },
     {
@@ -532,7 +532,7 @@
         "moWQ30GH":"F_BANNER_INFO_MST"
     },
     {
-        "d2RFtP8T":"768",
+        "d2RFtP8T":"772",
         "moWQ30GH":"F_RELOAD_FILE_MST"
     },
     {
@@ -620,11 +620,11 @@
         "moWQ30GH":"F_GUILD_SKILL_DETAILS_MST"
     },
     {
-        "d2RFtP8T":"81",
+        "d2RFtP8T":"82",
         "moWQ30GH":"F_UNIT_EVO_OMNI_MST"
     },
     {
-        "d2RFtP8T":"82",
+        "d2RFtP8T":"83",
         "moWQ30GH":"F_UNIT_EVO_OMNI_TYPE_MST"
     },
     {

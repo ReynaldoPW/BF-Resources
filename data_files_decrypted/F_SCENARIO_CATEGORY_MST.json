@@ -803,5 +803,12 @@
         "SCENARIO_SUPERSECTION*":"70000",
         "SP_CAT_ID":"100024",
         "SP_CAT_NAME":"Dreams of Dawn"
+    },
+    {
+        "DESCRIPTION":"Records of a certain mage's tanglings with a darkly alluring spirit.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"37",
+        "SCENARIO_SUPERSECTION*":"70000",
+        "SP_CAT_ID":"100025",
+        "SP_CAT_NAME":"Fiendish Fancies"
     }
 ]

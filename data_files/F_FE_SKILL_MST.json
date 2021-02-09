@@ -25344,6 +25344,39 @@
         "yRlCNyvk":"Add to BB\\/SBB (15% damage reduction from all element types for 3 turns)"
     },
     {
+        "2Smu5Mtq":"31,300$0$0$0$0$0",
+        "9PsmH7tz":"1010800163",
+        "D9wXQI2V":"4",
+        "G5wFDad6":"30",
+        "hjAy9St3":"107",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010800163",
+        "yRlCNyvk":"Add to LS (300% spark damage)"
+    },
+    {
+        "2Smu5Mtq":"47,300&550&0&200&0&0&0&0,2,2,0,0,1,0",
+        "9PsmH7tz":"1010800164",
+        "D9wXQI2V":"4",
+        "G5wFDad6":"25",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010800164",
+        "yRlCNyvk":"Add to SBB (36 combo Fire attack [300-550%] on all foes (damage relative to remaining HP))"
+    },
+    {
+        "2Smu5Mtq":"3,3,30,0,0,0,0,100",
+        "9PsmH7tz":"1010700037",
+        "D9wXQI2V":"2",
+        "G5wFDad6":"10",
+        "hjAy9St3":"37",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010800165",
+        "yRlCNyvk":"Raises normal hit amount [+3 to each hit, +30% damage]"
+    },
+    {
         "2Smu5Mtq":"100,100,100,100,100,100,100,100,100",
         "9PsmH7tz":"1010900001",
         "D9wXQI2V":"3",

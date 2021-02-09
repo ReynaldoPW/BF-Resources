@@ -6992,6 +6992,10 @@
         "UNIT_ID":"810998"
     },
     {
+        "PROCESS_ID":"1:unit_idle_cgs_811008.csv|2:unit_move_cgs_811008.csv|3:unit_atk_cgs_811008.csv|4:unit_atk_cgs_811008.csv",
+        "UNIT_ID":"811008"
+    },
+    {
         "PROCESS_ID":"1:unit_anime_811016.sam|2:unit_anime_811016.sam|3:unit_anime_811016.sam|4:unit_anime_811016.sam",
         "UNIT_ID":"811016"
     },
