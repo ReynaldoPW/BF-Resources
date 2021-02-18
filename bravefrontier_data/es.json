@@ -24823,16 +24823,19 @@
         "rarity":7
     },
     "830288":{
-        "conditions":"1#0,0%0,0%0,0@1#0,0%0,0%0,0@1#0,0%0,0%0,0@1#0,0%0,0%0,0@1#0,0%0,0%0,0@1#0,0%0,0%0,0",
+        "conditions":"1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0",
         "desc":"MST_EXTRAPASSIVESKILL_830288_DESCRIPTION",
         "effects":[
             {
-                "params":"62,3&3500&0&100&0,1,2,0,1,1,0",
-                "passive id":"66"
-            },
-            {
                 "atk% buff":50,
                 "passive id":"2"
+            },
+            {
+                "atk% buff":30,
+                "def% buff":30,
+                "hp% buff":30,
+                "passive id":"1",
+                "rec% buff":30
             },
             {
                 "atk% buff":100,
@@ -24840,8 +24843,8 @@
                 "passive id":"30"
             },
             {
-                "params":"130000",
-                "passive id":"143"
+                "params":"62,3&7000&0&100&0,1,2,0,1,1,0",
+                "passive id":"66"
             }
         ],
         "id":"830288",
@@ -33041,6 +33044,48 @@
         "name":"MST_EXTRAPASSIVESKILL_860998_NAME",
         "rarity":7
     },
+    "861008":{
+        "conditions":"2#4,811000%6,6%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0",
+        "desc":"MST_EXTRAPASSIVESKILL_861008_DESCRIPTION",
+        "effects":[
+            {
+                "passive id":"49",
+                "reduced bc used chance%":100,
+                "reduced bc used% high":50,
+                "reduced bc used% low":30
+            },
+            {
+                "elemental weakness dmg%":20,
+                "elements":[
+                    "fire",
+                    "water",
+                    "earth",
+                    "thunder",
+                    "light",
+                    "dark"
+                ],
+                "passive id":"50"
+            },
+            {
+                "atk% extra buff based on hp":100,
+                "buff proportional to hp":"remaining",
+                "def% extra buff based on hp":100,
+                "passive id":"46",
+                "rec% extra buff based on hp":100
+            },
+            {
+                "miti%":10,
+                "passive id":"8"
+            },
+            {
+                "params":"1&2&3&4&5&6,175",
+                "passive id":"74"
+            }
+        ],
+        "id":"861008",
+        "name":"MST_EXTRAPASSIVESKILL_861008_NAME",
+        "rarity":7
+    },
     "8700":{
         "conditions":"1#0,0%0,0%0,0@1#0,0%0,0%0,0@1#0,0%0,0%0,0@1#0,0%0,0%0,0",
         "desc":"MST_EXTRAPASSIVESKILL_8700_DESCRIPTION",
@@ -33811,6 +33856,40 @@
         "name":"MST_EXTRAPASSIVESKILL_8900013_NAME",
         "rarity":7
     },
+    "8900014":{
+        "conditions":"1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0",
+        "desc":"MST_EXTRAPASSIVESKILL_8900014_DESCRIPTION",
+        "effects":[
+            {
+                "atk% buff":50,
+                "crit% buff":15,
+                "def% buff":50,
+                "passive id":"2"
+            },
+            {
+                "params":"100,15",
+                "passive id":"127"
+            },
+            {
+                "bc fill per turn":10,
+                "passive id":"9"
+            },
+            {
+                "passive id":"33",
+                "rec% added":710.0,
+                "turn heal high":7000,
+                "turn heal low":7000
+            },
+            {
+                "base elemental damage resist%":100,
+                "buffed elemental damage resist%":100,
+                "passive id":"53"
+            }
+        ],
+        "id":"8900014",
+        "name":"MST_EXTRAPASSIVESKILL_8900014_NAME",
+        "rarity":7
+    },
     "8910287":{
         "conditions":"1#0,0%0,0%0,0@1#0,0%0,0%0,0@1#0,0%0,0%0,0@1#0,0%0,0%0,0@1#0,0%0,0%0,0@1#0,0%0,0%0,0",
         "desc":"MST_EXTRAPASSIVESKILL_8910287_DESCRIPTION",
@@ -33917,25 +33996,24 @@
         "rarity":7
     },
     "8930288":{
-        "conditions":"1#0,0%0,0%0,0@1#0,0%0,0%0,0@1#0,0%0,0%0,0@1#0,0%0,0%0,0@1#0,0%0,0%0,0@1#0,0%0,0%0,0",
+        "conditions":"1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0",
         "desc":"MST_EXTRAPASSIVESKILL_8930288_DESCRIPTION",
         "effects":[
-            {
-                "atk% buff":50,
-                "def% buff":50,
-                "hp above% threshold":50,
-                "passive id":"11"
-            },
-            {
-                "extra hits":1,
-                "passive id":"37"
-            },
             {
                 "elemental weakness dmg%":25,
                 "elements":[
                     "earth"
                 ],
                 "passive id":"50"
+            },
+            {
+                "extra hits":2,
+                "extra hits dmg%":120,
+                "passive id":"37"
+            },
+            {
+                "params":"97,3&1100&200&0&0&0&0,2,2,0,0,1,0",
+                "passive id":"66"
             }
         ],
         "id":"8930288",

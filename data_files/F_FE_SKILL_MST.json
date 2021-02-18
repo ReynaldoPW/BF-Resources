@@ -22297,6 +22297,50 @@
         "yRlCNyvk":"Add to SBB (34 combo Thunder attack [300-550%] on all foes (damage relative to remaining HP))"
     },
     {
+        "2Smu5Mtq":"50,50,0,0,50,1",
+        "9PsmH7tz":"1010610101",
+        "D9wXQI2V":"5",
+        "G5wFDad6":"10",
+        "hjAy9St3":"11",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010610101",
+        "yRlCNyvk":"50% Atk, Def when HP is above 50%"
+    },
+    {
+        "2Smu5Mtq":"51,-30&-30&-30&20&20&20&3&3&0,1,2,0,1,1,0",
+        "9PsmH7tz":"1010610102",
+        "D9wXQI2V":"5",
+        "G5wFDad6":"15",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010610102",
+        "yRlCNyvk":"Add to BB\\/SBB (Adds probable [20%] 3 turns Atk, Def, Rec reduction [30%] infliction to attack for 3 turns)"
+    },
+    {
+        "2Smu5Mtq":"8,0&30&0,1,2,0,1,0,0@8,0&55&0,1,2,0,0,0,1",
+        "9PsmH7tz":"1010610103",
+        "D9wXQI2V":"5",
+        "G5wFDad6":"25",
+        "hjAy9St3":"66@66",
+        "jeR2rN3V":"1@1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010610103",
+        "yRlCNyvk":"Add to BB (Boosts max HP [30%]), UBB (Boosts max HP [55%])"
+    },
+    {
+        "2Smu5Mtq":"0,0,0,0,0,0,0,1,0@0,0,0,0,0,0,0,1,0@0,1,0@0,0,0,1,0@0,0,0,1,0",
+        "9PsmH7tz":"1010610104",
+        "D9wXQI2V":"5",
+        "G5wFDad6":"20",
+        "hjAy9St3":"55@51@65@85@20",
+        "jeR2rN3V":"4@4@4@4@4",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010610104",
+        "yRlCNyvk":"Allows UBB's effects to last additional 1 turn"
+    },
+    {
         "2Smu5Mtq":"31,2000&0,1,2,0,1,0,0",
         "9PsmH7tz":"1010700010",
         "D9wXQI2V":"5",
@@ -25342,6 +25386,39 @@
         "qp37xTDh":"",
         "ri6D9yBi":"1010800159",
         "yRlCNyvk":"Add to BB\\/SBB (15% damage reduction from all element types for 3 turns)"
+    },
+    {
+        "2Smu5Mtq":"1,0,30,0,0,0,0,0,0",
+        "9PsmH7tz":"1010800160",
+        "D9wXQI2V":"5",
+        "G5wFDad6":"20",
+        "hjAy9St3":"26",
+        "jeR2rN3V":"4",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010800160",
+        "yRlCNyvk":"Enhances UBB's raises normal hit amount [+1 to each hit, +30% damage] effect"
+    },
+    {
+        "2Smu5Mtq":"1,1200&200&0&0&0&0,2,1,0,0,1,0",
+        "9PsmH7tz":"1010800161",
+        "D9wXQI2V":"5",
+        "G5wFDad6":"20",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010800161",
+        "yRlCNyvk":"Add to SBB (19 combo Earth attack [1200%] on single foe)"
+    },
+    {
+        "2Smu5Mtq":"0,0,0,0,0,1,0@0,0,0,0,1,0@0,0,0,0,0,0,0,1,0@0,0,0,1,0@0,0,0,1,0",
+        "9PsmH7tz":"1010800162",
+        "D9wXQI2V":"5",
+        "G5wFDad6":"20",
+        "hjAy9St3":"5@24@26@6@113",
+        "jeR2rN3V":"3@3@3@3@3",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010800162",
+        "yRlCNyvk":"Allows SBB's buff effects to last for additional turn"
     },
     {
         "2Smu5Mtq":"31,300$0$0$0$0$0",

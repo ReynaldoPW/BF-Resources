@@ -22300,6 +22300,50 @@
         "DESCRIPTION":"",
         "EFFECT_AREA*":"1",
         "LEVEL":"5",
+        "PROC/PASSIVE_ID(S)":"11",
+        "PROC/PASSIVE_PARAMETERS":"50,50,0,0,50,1",
+        "SP_ID":"1010610101",
+        "SP_NAME":"50% Atk, Def when HP is above 50%",
+        "SP_NEED_BP":"10",
+        "SP_SERIES":"1010610101"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
+        "LEVEL":"5",
+        "PROC/PASSIVE_ID(S)":"66",
+        "PROC/PASSIVE_PARAMETERS":"51,-30&-30&-30&20&20&20&3&3&0,1,2,0,1,1,0",
+        "SP_ID":"1010610102",
+        "SP_NAME":"Add to BB\\/SBB (Adds probable [20%] 3 turns Atk, Def, Rec reduction [30%] infliction to attack for 3 turns)",
+        "SP_NEED_BP":"15",
+        "SP_SERIES":"1010610102"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1@1",
+        "LEVEL":"5",
+        "PROC/PASSIVE_ID(S)":"66@66",
+        "PROC/PASSIVE_PARAMETERS":"8,0&30&0,1,2,0,1,0,0@8,0&55&0,1,2,0,0,0,1",
+        "SP_ID":"1010610103",
+        "SP_NAME":"Add to BB (Boosts max HP [30%]), UBB (Boosts max HP [55%])",
+        "SP_NEED_BP":"25",
+        "SP_SERIES":"1010610103"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"4@4@4@4@4",
+        "LEVEL":"5",
+        "PROC/PASSIVE_ID(S)":"55@51@65@85@20",
+        "PROC/PASSIVE_PARAMETERS":"0,0,0,0,0,0,0,1,0@0,0,0,0,0,0,0,1,0@0,1,0@0,0,0,1,0@0,0,0,1,0",
+        "SP_ID":"1010610104",
+        "SP_NAME":"Allows UBB's effects to last additional 1 turn",
+        "SP_NEED_BP":"20",
+        "SP_SERIES":"1010610104"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
+        "LEVEL":"5",
         "PROC/PASSIVE_ID(S)":"66",
         "PROC/PASSIVE_PARAMETERS":"31,2000&0,1,2,0,1,0,0",
         "SP_ID":"1010700010",
@@ -25342,6 +25386,39 @@
         "SP_NAME":"Add to BB\\/SBB (15% damage reduction from all element types for 3 turns)",
         "SP_NEED_BP":"25",
         "SP_SERIES":"1010800159"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"4",
+        "LEVEL":"5",
+        "PROC/PASSIVE_ID(S)":"26",
+        "PROC/PASSIVE_PARAMETERS":"1,0,30,0,0,0,0,0,0",
+        "SP_ID":"1010800160",
+        "SP_NAME":"Enhances UBB's raises normal hit amount [+1 to each hit, +30% damage] effect",
+        "SP_NEED_BP":"20",
+        "SP_SERIES":"1010800160"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
+        "LEVEL":"5",
+        "PROC/PASSIVE_ID(S)":"66",
+        "PROC/PASSIVE_PARAMETERS":"1,1200&200&0&0&0&0,2,1,0,0,1,0",
+        "SP_ID":"1010800161",
+        "SP_NAME":"Add to SBB (19 combo Earth attack [1200%] on single foe)",
+        "SP_NEED_BP":"20",
+        "SP_SERIES":"1010800161"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"3@3@3@3@3",
+        "LEVEL":"5",
+        "PROC/PASSIVE_ID(S)":"5@24@26@6@113",
+        "PROC/PASSIVE_PARAMETERS":"0,0,0,0,0,1,0@0,0,0,0,1,0@0,0,0,0,0,0,0,1,0@0,0,0,1,0@0,0,0,1,0",
+        "SP_ID":"1010800162",
+        "SP_NAME":"Allows SBB's buff effects to last for additional turn",
+        "SP_NEED_BP":"20",
+        "SP_SERIES":"1010800162"
     },
     {
         "DESCRIPTION":"",

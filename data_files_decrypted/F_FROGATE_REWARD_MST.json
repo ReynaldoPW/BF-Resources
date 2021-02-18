@@ -10386,7 +10386,7 @@
         "PRESENT_AMOUNT":"1",
         "REQUIREMENT_PARAMETER":"6",
         "REWARD_ID":"100238",
-        "REWARD_ITEM_ID":"87102603",
+        "REWARD_ITEM_ID":"87302603",
         "REWARD_TYPE*":"6"
     },
     {
@@ -10420,7 +10420,7 @@
         "REWARD_TYPE*":"7"
     },
     {
-        "ELGIF_REWARD*":"1:0:8900006",
+        "ELGIF_REWARD*":"1:0:8900007",
         "FRONTIER_GATE_ID":"100002",
         "Ga6qSJr0":"1",
         "PRESENT_AMOUNT":"1",
@@ -10890,7 +10890,7 @@
         "REWARD_TYPE*":"4"
     },
     {
-        "ELGIF_REWARD*":"1:0:8000012",
+        "ELGIF_REWARD*":"1:0:8000006",
         "FRONTIER_GATE_ID":"100012",
         "Ga6qSJr0":"1",
         "PRESENT_AMOUNT":"1",
@@ -11030,7 +11030,7 @@
         "REWARD_TYPE*":"6"
     },
     {
-        "ELGIF_REWARD*":"1:0:8000201",
+        "ELGIF_REWARD*":"1:0:8000203",
         "FRONTIER_GATE_ID":"100013",
         "Ga6qSJr0":"1",
         "PRESENT_AMOUNT":"1",
@@ -11126,7 +11126,7 @@
         "PRESENT_AMOUNT":"1",
         "REQUIREMENT_PARAMETER":"6",
         "REWARD_ID":"100174",
-        "REWARD_ITEM_ID":"819309",
+        "REWARD_ITEM_ID":"819307",
         "REWARD_TYPE*":"7"
     },
     {
@@ -11480,7 +11480,7 @@
         "REWARD_TYPE*":"8"
     },
     {
-        "ELGIF_REWARD*":"1:0:8900001",
+        "ELGIF_REWARD*":"1:0:8900002",
         "FRONTIER_GATE_ID":"100016",
         "Ga6qSJr0":"1",
         "PRESENT_AMOUNT":"1",
@@ -11680,7 +11680,7 @@
         "REWARD_TYPE*":"4"
     },
     {
-        "ELGIF_REWARD*":"1:0:8900013",
+        "ELGIF_REWARD*":"1:0:8900015",
         "FRONTIER_GATE_ID":"100017",
         "Ga6qSJr0":"1",
         "PRESENT_AMOUNT":"1",
@@ -12210,7 +12210,7 @@
         "REWARD_TYPE*":"5"
     },
     {
-        "ELGIF_REWARD*":"1:0:8000607",
+        "ELGIF_REWARD*":"1:0:8002002",
         "FRONTIER_GATE_ID":"100019",
         "Ga6qSJr0":"1",
         "PRESENT_AMOUNT":"1",
@@ -12780,7 +12780,7 @@
         "REWARD_TYPE*":"6"
     },
     {
-        "ELGIF_REWARD*":"1:0:8000101",
+        "ELGIF_REWARD*":"1:0:8000103",
         "FRONTIER_GATE_ID":"100021",
         "Ga6qSJr0":"1",
         "PRESENT_AMOUNT":"1",

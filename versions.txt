@@ -76,7 +76,7 @@
         "moWQ30GH":"M_NPC_MST"
     },
     {
-        "d2RFtP8T":"1705",
+        "d2RFtP8T":"1706",
         "moWQ30GH":"M_GACHA_EFFECT_MST"
     },
     {
@@ -116,19 +116,19 @@
         "moWQ30GH":"M_FROHUN_RANKING_REWARD_MST"
     },
     {
-        "d2RFtP8T":"83",
+        "d2RFtP8T":"85",
         "moWQ30GH":"F_GATE_MST"
     },
     {
-        "d2RFtP8T":"135",
+        "d2RFtP8T":"137",
         "moWQ30GH":"F_LAND_MST"
     },
     {
-        "d2RFtP8T":"611",
+        "d2RFtP8T":"614",
         "moWQ30GH":"F_AREA_MST"
     },
     {
-        "d2RFtP8T":"896",
+        "d2RFtP8T":"901",
         "moWQ30GH":"F_DUNGEON_MST"
     },
     {
@@ -196,11 +196,11 @@
         "moWQ30GH":"F_RAID_MISSION_BOSS_MST"
     },
     {
-        "d2RFtP8T":"176",
+        "d2RFtP8T":"178",
         "moWQ30GH":"F_SCENARIO_CATEGORY_MST"
     },
     {
-        "d2RFtP8T":"295",
+        "d2RFtP8T":"297",
         "moWQ30GH":"F_SCENARIO_MST"
     },
     {
@@ -220,15 +220,15 @@
         "moWQ30GH":"F_CHRONOLOGY_WORD_MST"
     },
     {
-        "d2RFtP8T":"476",
+        "d2RFtP8T":"483",
         "moWQ30GH":"F_FROGATE_MST"
     },
     {
-        "d2RFtP8T":"252",
+        "d2RFtP8T":"259",
         "moWQ30GH":"F_FROGATE_REWARD_MST"
     },
     {
-        "d2RFtP8T":"139",
+        "d2RFtP8T":"142",
         "moWQ30GH":"F_FROGATE_SUPPORT_MST"
     },
     {
@@ -236,7 +236,7 @@
         "moWQ30GH":"F_FROGATE_AREA_MST"
     },
     {
-        "d2RFtP8T":"197",
+        "d2RFtP8T":"199",
         "moWQ30GH":"F_MISSION_NPC_UNIT_MST"
     },
     {
@@ -308,15 +308,15 @@
         "moWQ30GH":"F_COLOSSEUM_SUPPORT_MST"
     },
     {
-        "d2RFtP8T":"519",
+        "d2RFtP8T":"522",
         "moWQ30GH":"F_UNIT_FE_CATEGORY_MST"
     },
     {
-        "d2RFtP8T":"575",
+        "d2RFtP8T":"578",
         "moWQ30GH":"F_UNIT_FE_SKILL_MST"
     },
     {
-        "d2RFtP8T":"595",
+        "d2RFtP8T":"598",
         "moWQ30GH":"F_FE_SKILL_MST"
     },
     {
@@ -428,19 +428,19 @@
         "moWQ30GH":"F_PARTICLE"
     },
     {
-        "d2RFtP8T":"1052",
+        "d2RFtP8T":"1057",
         "moWQ30GH":"F_UNIT_MST"
     },
     {
-        "d2RFtP8T":"685",
+        "d2RFtP8T":"687",
         "moWQ30GH":"F_UNIT_COMMENT_MST"
     },
     {
-        "d2RFtP8T":"585",
+        "d2RFtP8T":"587",
         "moWQ30GH":"F_UNIT_EVO_MST"
     },
     {
-        "d2RFtP8T":"127",
+        "d2RFtP8T":"129",
         "moWQ30GH":"F_UNIT_EVO_CATALYST_COMMENT_MST"
     },
     {
@@ -448,7 +448,7 @@
         "moWQ30GH":"F_UNIT_EXT_MST"
     },
     {
-        "d2RFtP8T":"783",
+        "d2RFtP8T":"787",
         "moWQ30GH":"F_UNIT_CGS_MST"
     },
     {
@@ -456,43 +456,43 @@
         "moWQ30GH":"F_UNIT_TYPE_MST"
     },
     {
-        "d2RFtP8T":"1018",
+        "d2RFtP8T":"1025",
         "moWQ30GH":"F_MISSION_MST"
     },
     {
-        "d2RFtP8T":"1495",
+        "d2RFtP8T":"1500",
         "moWQ30GH":"F_SKILL_MST"
     },
     {
-        "d2RFtP8T":"1449",
+        "d2RFtP8T":"1454",
         "moWQ30GH":"F_SKILL_LEVEL_MST"
     },
     {
-        "d2RFtP8T":"742",
+        "d2RFtP8T":"746",
         "moWQ30GH":"F_EXTRA_PASSIVE_SKILL_MST"
     },
     {
-        "d2RFtP8T":"3172",
+        "d2RFtP8T":"3175",
         "moWQ30GH":"F_RESOURCE_MST"
     },
     {
-        "d2RFtP8T":"1000",
+        "d2RFtP8T":"1002",
         "moWQ30GH":"F_ITEM_MST"
     },
     {
-        "d2RFtP8T":"333",
+        "d2RFtP8T":"335",
         "moWQ30GH":"F_RECIPE_MST"
     },
     {
-        "d2RFtP8T":"562",
+        "d2RFtP8T":"564",
         "moWQ30GH":"F_EFFECT_MST"
     },
     {
-        "d2RFtP8T":"588",
+        "d2RFtP8T":"590",
         "moWQ30GH":"F_EFFECT_GROUP_MST"
     },
     {
-        "d2RFtP8T":"728",
+        "d2RFtP8T":"731",
         "moWQ30GH":"F_LEADER_SKILL_MST"
     },
     {
@@ -500,7 +500,7 @@
         "moWQ30GH":"F_HELP_DETAIL_MST"
     },
     {
-        "d2RFtP8T":"274",
+        "d2RFtP8T":"276",
         "moWQ30GH":"F_MISSION_SCRIPT_MST"
     },
     {
@@ -612,7 +612,7 @@
         "moWQ30GH":"F_GUILD_INFO_MST"
     },
     {
-        "d2RFtP8T":"226",
+        "d2RFtP8T":"227",
         "moWQ30GH":"F_GUILD_POINT_EXCHANGE_MST"
     },
     {
@@ -620,11 +620,11 @@
         "moWQ30GH":"F_GUILD_SKILL_DETAILS_MST"
     },
     {
-        "d2RFtP8T":"82",
+        "d2RFtP8T":"84",
         "moWQ30GH":"F_UNIT_EVO_OMNI_MST"
     },
     {
-        "d2RFtP8T":"83",
+        "d2RFtP8T":"85",
         "moWQ30GH":"F_UNIT_EVO_OMNI_TYPE_MST"
     },
     {
