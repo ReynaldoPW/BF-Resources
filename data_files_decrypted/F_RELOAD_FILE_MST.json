@@ -2230,5 +2230,13 @@
     {
         "RELOAD_FILES":"layout_unit_filter.csv",
         "RELOAD_ID":"3130"
+    },
+    {
+        "RELOAD_FILES":"gacha_img_210224VA_s1.png",
+        "RELOAD_ID":"3131"
+    },
+    {
+        "RELOAD_FILES":"gacha_img_210224VA_s1.png",
+        "RELOAD_ID":"3132"
     }
 ]

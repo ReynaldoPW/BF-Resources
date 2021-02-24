@@ -39973,7 +39973,7 @@
         "from raid":"false",
         "guide id":"819355",
         "id":"819355",
-        "lore":"MST_SPHERES_819355_LONGDESCRIPTION",
+        "lore":"A majestic crown fit for a champion among champions. Crafted with the finest metals and embedded with precious jewels, it also serves to amplify one's innate strengths to greater heights.<br>Ever blazing, ever burning; may the fires of passion in your soul never fade.",
         "max equip":1,
         "max stack":1,
         "name":"MST_SPHERES_819355_NAME",
@@ -40012,7 +40012,7 @@
         "from raid":"false",
         "guide id":"819356",
         "id":"819356",
-        "lore":"MST_SPHERES_819356_LONGDESCRIPTION",
+        "lore":"A crown fit for a champion, imbued with powerful elemental energies. The bold spires evoke a fiery heat, like that of an inferno.",
         "max equip":1,
         "max stack":1,
         "name":"MST_SPHERES_819356_NAME",
@@ -40022,6 +40022,158 @@
         "sphere type":"SPHERE_TYPE_NAME_11",
         "target":"none",
         "thumbnail":"sphere_thum_819356.png",
+        "type":"sphere"
+    },
+    "819357":{
+        "desc":"MST_SPHERES_819357_SHORTDESCRIPTION",
+        "effects":[
+            {
+                "params":"2,0,70,70,70,0,70",
+                "proc id":"2"
+            },
+            {
+                "params":"30,100,1,0",
+                "proc id":"75"
+            },
+            {
+                "params":"200,0,0,0,0,0",
+                "proc id":"31"
+            },
+            {
+                "params":"2500",
+                "proc id":"9"
+            },
+            {
+                "params":"12,100,-1,30,2,-1",
+                "proc id":"55"
+            },
+            {
+                "params":"10019,10500&0&0&0&0&0&0&0&0&30,100,2,0,1,1,0",
+                "proc id":"66"
+            }
+        ],
+        "from raid":"false",
+        "guide id":"819357",
+        "id":"819357",
+        "lore":"MST_SPHERES_819357_LONGDESCRIPTION",
+        "max equip":1,
+        "max stack":1,
+        "name":"MST_SPHERES_819357_NAME",
+        "rarity":7,
+        "sale caution":"true",
+        "sale price":30000,
+        "sphere type":"SPHERE_TYPE_NAME_11",
+        "target":"none",
+        "thumbnail":"sphere_thum_819357.png",
+        "type":"sphere"
+    },
+    "819358":{
+        "desc":"MST_SPHERES_819358_SHORTDESCRIPTION",
+        "effects":[
+            {
+                "params":"2,0,60,60,60,0,60",
+                "proc id":"2"
+            },
+            {
+                "params":"20,100,1,0",
+                "proc id":"75"
+            },
+            {
+                "params":"150,0,0,0,0,0",
+                "proc id":"31"
+            },
+            {
+                "params":"1500",
+                "proc id":"9"
+            },
+            {
+                "params":"12,100,-1,30,2,-1",
+                "proc id":"55"
+            }
+        ],
+        "from raid":"false",
+        "guide id":"819358",
+        "id":"819358",
+        "lore":"MST_SPHERES_819358_LONGDESCRIPTION",
+        "max equip":1,
+        "max stack":1,
+        "name":"MST_SPHERES_819358_NAME",
+        "rarity":6,
+        "sale caution":"true",
+        "sale price":30000,
+        "sphere type":"SPHERE_TYPE_NAME_11",
+        "target":"none",
+        "thumbnail":"sphere_thum_819358.png",
+        "type":"sphere"
+    },
+    "819367":{
+        "desc":"MST_SPHERES_819367_SHORTDESCRIPTION",
+        "effects":[
+            {
+                "params":"5,6,65,65,65,30,65",
+                "proc id":"2"
+            },
+            {
+                "params":"0,150,0,0,0,0,0",
+                "proc id":"46"
+            },
+            {
+                "params":"2.5",
+                "proc id":"34"
+            },
+            {
+                "params":"15,15,100",
+                "proc id":"17"
+            }
+        ],
+        "from raid":"false",
+        "guide id":"819367",
+        "id":"819367",
+        "lore":"MST_SPHERES_819367_LONGDESCRIPTION",
+        "max equip":1,
+        "max stack":1,
+        "name":"MST_SPHERES_819367_NAME",
+        "rarity":7,
+        "sale caution":"true",
+        "sale price":30000,
+        "sphere type":"SPHERE_TYPE_NAME_13",
+        "target":"none",
+        "thumbnail":"sphere_thum_819367.png",
+        "type":"sphere"
+    },
+    "819368":{
+        "desc":"MST_SPHERES_819368_SHORTDESCRIPTION",
+        "effects":[
+            {
+                "params":"5,6,60,60,60,30,60",
+                "proc id":"2"
+            },
+            {
+                "params":"0,100,0,0,0,0,0",
+                "proc id":"46"
+            },
+            {
+                "params":"2",
+                "proc id":"34"
+            },
+            {
+                "params":"15,15,100",
+                "proc id":"17"
+            }
+        ],
+        "from raid":"false",
+        "guide id":"819368",
+        "id":"819368",
+        "lore":"MST_SPHERES_819368_LONGDESCRIPTION",
+        "max equip":1,
+        "max stack":1,
+        "name":"MST_SPHERES_819368_NAME",
+        "rarity":7,
+        "sale caution":"true",
+        "sale price":30000,
+        "sphere type":"SPHERE_TYPE_NAME_13",
+        "target":"none",
+        "thumbnail":"sphere_thum_819368.png",
         "type":"sphere"
     },
     "819901":{

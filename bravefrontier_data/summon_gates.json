@@ -14602,5 +14602,53 @@
         "short desc":"Carlos and Mariano are available through the Summon Gate! Get a Fire & Light DBB Mystery Chest for every 7 Summons from the same gate!",
         "start time":"2021-02-18 15:00:00",
         "summon button image":"gacha_rare_summons_btn1.png"
+    },
+    "20124":{
+        "background image":"gacha_img_20200413DS_s1.png",
+        "desc":"From 24 Feb 7:00 PST ~ 3 Mar 6:59 PST, summon minimum 5* Global exclusive units with Omni Potential and enjoy Increased Rates are applied on Serin, Ophiuchus and Rhyne!",
+        "door image":"gacha_rare_door.png",
+        "end time":"2021-03-03 14:59:59",
+        "gem cost":5,
+        "name":"Double Step Summon",
+        "priority":"2",
+        "short desc":"Serin, Ophiuchus and Rhyne are available through the Summon Gate!",
+        "start time":"2021-02-24 15:00:00",
+        "summon button image":"gacha_rare_summons_btn1.png"
+    },
+    "20125":{
+        "background image":"gacha_img_210224DS_s1.png",
+        "desc":"From 24 Feb 7:00 PST ~ 31 Mar 6:59 PST, use your Valentine Hero Selector Ticket to summon one of the selected units from the Heroes Across Time series along with past Valentine units! Remember, this ticket is only valid till 31st March.",
+        "door image":"gacha_rare_door.png",
+        "end time":"2021-03-31 14:59:59",
+        "gem cost":999,
+        "name":"Valentine Hero Selector Summon",
+        "priority":"2",
+        "short desc":"Summon any one of the units, selected from Heroes Across Time and past Valentine exclusive!",
+        "start time":"2021-02-24 15:00:00",
+        "summon button image":"gacha_rare_summons_btn1.png"
+    },
+    "20126":{
+        "background image":"gacha_img_210224VA_s1.png",
+        "desc":"From 24 Feb 7:00 PST ~ 3 Mar 6:59 PST, summon minimum 5* Global exclusive units with Omni Potential and enjoy Increased Rates on Kahiki !",
+        "door image":"gacha_rare_door.png",
+        "end time":"2021-03-03 14:59:59",
+        "gem cost":5,
+        "name":"Vortex Arena Resummon",
+        "priority":"2",
+        "short desc":"Summon 2 units with Increased Rates on Kahiki with option to Resummon 1!",
+        "start time":"2021-02-24 15:00:00",
+        "summon button image":"gacha_rare_summons_btn1.png"
+    },
+    "20127":{
+        "background image":"gacha_img_210224hHR_s1.png",
+        "desc":"From 24 Feb 7:00 PST ~ 03 Mar 6:59 PST, summon minimum 5* Global exclusive units with Omni Potential and enjoy Increased Rates on Hilda and  Rene!",
+        "door image":"gacha_rare_door.png",
+        "end time":"2021-03-03 14:59:59",
+        "gem cost":5,
+        "name":"Chilling Beauties Summon",
+        "priority":"2",
+        "short desc":" Hilda and Rene are available through the Summon Gate! Get a Tsunami DBB Mystery Chest for every 7 Summons from the same gate!",
+        "start time":"2021-02-24 15:00:00",
+        "summon button image":"gacha_rare_summons_btn1.png"
     }
 }
