@@ -14650,5 +14650,29 @@
         "short desc":" Hilda and Rene are available through the Summon Gate! Get a Tsunami DBB Mystery Chest for every 7 Summons from the same gate!",
         "start time":"2021-02-24 15:00:00",
         "summon button image":"gacha_rare_summons_btn1.png"
+    },
+    "20128":{
+        "background image":"gacha_img_20200401NTS_s1.png",
+        "desc":"From 03 Mar 07:00 PST ~ 10 Mar 06:59 PST, summon minimum 5* Global exclusive units with Omni Potential and enjoy Increased Rates are applied on Set, Inoko and Charlie!",
+        "door image":"gacha_rare_door.png",
+        "end time":"2021-03-10 14:59:59",
+        "gem cost":5,
+        "name":"Triple Strike Summon",
+        "priority":"2",
+        "short desc":"Set, Inoko and Charlie are available through the Summon Gate!",
+        "start time":"2021-03-03 15:00:00",
+        "summon button image":"gacha_rare_summons_btn1.png"
+    },
+    "20129":{
+        "background image":"gacha_img_210303K_s1.png",
+        "desc":"From 03 Mar 07:00 PST ~ 10 Mar 06:59 PST, summon minimum 5* Global exclusive units with Omni Potential and enjoy Increased Rates with each summon on  Kranus up to the 8th Summon!",
+        "door image":"gacha_rare_door.png",
+        "end time":"2021-03-10 14:59:59",
+        "gem cost":5,
+        "name":"Silver Shadow Summon",
+        "priority":"2",
+        "short desc":"Kranus is available through the Summon Gate! Get a Global Exclusive Elgif for every 10 Summons from the same gate!",
+        "start time":"2021-03-03 15:00:00",
+        "summon button image":"gacha_rare_summons_btn1.png"
     }
 }
