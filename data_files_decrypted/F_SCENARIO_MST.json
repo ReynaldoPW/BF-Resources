@@ -11646,6 +11646,69 @@
         "SP_CAT_ID":"100025"
     },
     {
+        "DESCRIPTION":"There's a giant in the Vale, but that might turn out to be less important than a stranded soldier...",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"1",
+        "SCENARIO_ID":"10002601",
+        "SCENARIO_NAME":"A Giant Problem",
+        "SCENARIO_TEXT_FILE":"Spring2021_Intro.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"100026"
+    },
+    {
+        "DESCRIPTION":"Some things will always carry a gentle melancholy.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"2",
+        "SCENARIO_ID":"10002602",
+        "SCENARIO_NAME":"Dark Days Past",
+        "SCENARIO_TEXT_FILE":"Spring2021_S1.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"100026"
+    },
+    {
+        "DESCRIPTION":"Some things will never leave you be.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"3",
+        "SCENARIO_ID":"10002603",
+        "SCENARIO_NAME":"Ever Shadowed",
+        "SCENARIO_TEXT_FILE":"Spring2021_S2.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"100026"
+    },
+    {
+        "DESCRIPTION":"As secrets are laid bare, so is the truth...or is it?",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"4",
+        "SCENARIO_ID":"10002604",
+        "SCENARIO_NAME":"Once Forgotten",
+        "SCENARIO_TEXT_FILE":"Spring2021_S3A.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"100026"
+    },
+    {
+        "DESCRIPTION":"Phaedra learns what it's like to bear another's burden.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"5",
+        "SCENARIO_ID":"10002605",
+        "SCENARIO_NAME":"Not My War",
+        "SCENARIO_TEXT_FILE":"Spring2021_S3B.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"100026"
+    },
+    {
+        "DESCRIPTION":"Some scars remain forever?in flesh and in soul.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"6",
+        "SCENARIO_ID":"10002606",
+        "SCENARIO_NAME":"Proving",
+        "SCENARIO_TEXT_FILE":"Spring2021_Boss_A.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"100026"
+    },
+    {
+        "DESCRIPTION":"Forgiving yourself is also important.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"7",
+        "SCENARIO_ID":"10002607",
+        "SCENARIO_NAME":"Repentance",
+        "SCENARIO_TEXT_FILE":"Spring2021_Boss_B.txt",
+        "SOUNDTRACK_FILE":"",
+        "SP_CAT_ID":"100026"
+    },
+    {
         "DESCRIPTION":"Two worlds collide as a happy celebration brings adventure to some lucky souls! Who are they? Find out!",
         "QUEST_MAP_NUMBER/GUIDE_ID":"1",
         "SCENARIO_ID":"100001501",

@@ -30524,29 +30524,29 @@
         "desc":"MST_LEADERSKILLS_830698_DESCRIPTION",
         "effects":[
             {
-                "atk% buff":100,
-                "def% buff":100,
-                "hp% buff":120,
+                "atk% buff":120,
+                "def% buff":120,
+                "hp% buff":140,
                 "passive id":"1",
-                "rec% buff":100
+                "rec% buff":120
+            },
+            {
+                "passive id":"33",
+                "rec% added":310.0,
+                "turn heal high":3000,
+                "turn heal low":3000
             },
             {
                 "bc fill per turn":10,
                 "passive id":"9"
             },
             {
-                "passive id":"33",
-                "rec% added":110.0,
-                "turn heal high":1000,
-                "turn heal low":1000
+                "params":"0,1,25,25,0",
+                "passive id":"69"
             },
             {
                 "params":"100,100,100,100,100,100,100,100,100",
                 "passive id":"73"
-            },
-            {
-                "params":"0,1,25,25,0",
-                "passive id":"69"
             }
         ],
         "id":"830698",
@@ -35019,6 +35019,35 @@
         ],
         "id":"850998",
         "name":"MST_LEADERSKILLS_850998_NAME"
+    },
+    "851018":{
+        "desc":"MST_LEADERSKILLS_851018_DESCRIPTION",
+        "effects":[
+            {
+                "atk% buff":200,
+                "crit% buff":30,
+                "hp% buff":150,
+                "passive id":"1"
+            },
+            {
+                "dmg% for spark":300,
+                "passive id":"31"
+            },
+            {
+                "passive id":"43",
+                "take 1 dmg%":20
+            },
+            {
+                "passive id":"48",
+                "reduced bc cost%":30
+            },
+            {
+                "params":"30",
+                "passive id":"70"
+            }
+        ],
+        "id":"851018",
+        "name":"MST_LEADERSKILLS_851018_NAME"
     },
     "8600":{
         "desc":"MST_LEADERSKILLS_8600_DESCRIPTION",

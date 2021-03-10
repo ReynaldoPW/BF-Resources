@@ -810,5 +810,12 @@
         "SCENARIO_SUPERSECTION*":"70000",
         "SP_CAT_ID":"100025",
         "SP_CAT_NAME":"Fiendish Fancies"
+    },
+    {
+        "DESCRIPTION":"A tale of redemption and regret, set in a time after the fires of the Vale.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"38",
+        "SCENARIO_SUPERSECTION*":"70000",
+        "SP_CAT_ID":"100026",
+        "SP_CAT_NAME":"The Light of Life"
     }
 ]

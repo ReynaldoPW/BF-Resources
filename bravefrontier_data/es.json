@@ -19415,6 +19415,33 @@
         "name":"MST_EXTRAPASSIVESKILL_8000533_NAME",
         "rarity":7
     },
+    "8000534":{
+        "conditions":"1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0",
+        "desc":"MST_EXTRAPASSIVESKILL_8000534_DESCRIPTION",
+        "effects":[
+            {
+                "atk% buff":50,
+                "crit% buff":30,
+                "hp% buff":50,
+                "passive id":"2"
+            },
+            {
+                "dmg% for spark":150,
+                "passive id":"31"
+            },
+            {
+                "params":"5,6,0,0,0,0,10",
+                "passive id":"62"
+            },
+            {
+                "params":"60",
+                "passive id":"70"
+            }
+        ],
+        "id":"8000534",
+        "name":"MST_EXTRAPASSIVESKILL_8000534_NAME",
+        "rarity":7
+    },
     "8000601":{
         "conditions":"1#0,0%0,0%0,0@1#0,0%0,0%0,0@1#0,0%0,0%0,0@1#0,0%0,0%0,0@1#0,0%0,0%0,0@1#0,0%0,0%0,0",
         "desc":"MST_EXTRAPASSIVESKILL_8000601_DESCRIPTION",
@@ -25821,15 +25848,24 @@
         "desc":"MST_EXTRAPASSIVESKILL_830698_DESCRIPTION",
         "effects":[
             {
-                "atk% buff":20,
-                "def% buff":20,
-                "hp% buff":20,
+                "atk% buff":25,
+                "def% buff":25,
+                "hp% buff":25,
                 "passive id":"1",
-                "rec% buff":20
+                "rec% buff":25
             },
             {
-                "miti%":3,
+                "miti%":5,
                 "passive id":"8"
+            },
+            {
+                "passive id":"33",
+                "rec% added":360.0,
+                "turn heal high":3500,
+                "turn heal low":3500
+            },
+            {
+                "passive id":"55"
             },
             {
                 "base crit chance resist%":100,
@@ -25839,15 +25875,6 @@
                 "buffed crit dmg resist%":100,
                 "buffed elemental damage resist%":100,
                 "passive id":"53"
-            },
-            {
-                "passive id":"33",
-                "rec% added":310.0,
-                "turn heal high":3000,
-                "turn heal low":3000
-            },
-            {
-                "passive id":"55"
             }
         ],
         "id":"830698",
@@ -30817,6 +30844,38 @@
         "name":"MST_EXTRAPASSIVESKILL_850998_NAME",
         "rarity":7
     },
+    "851018":{
+        "conditions":"2#4,831010%4,830690%6,11%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0",
+        "desc":"MST_EXTRAPASSIVESKILL_851018_DESCRIPTION",
+        "effects":[
+            {
+                "params":"0,2,60,60,0",
+                "passive id":"69"
+            },
+            {
+                "params":"100,100,100,100,100,100,0,0,0",
+                "passive id":"73"
+            },
+            {
+                "dmg% for spark":25,
+                "passive id":"31"
+            },
+            {
+                "params":"0,120,0,120,0,120,1,3",
+                "passive id":"105"
+            },
+            {
+                "elemental weakness dmg%":150,
+                "elements":[
+                    "light"
+                ],
+                "passive id":"50"
+            }
+        ],
+        "id":"851018",
+        "name":"MST_EXTRAPASSIVESKILL_851018_NAME",
+        "rarity":7
+    },
     "8600":{
         "conditions":"1#1,37600%0,0%0,0@1#0,0%0,0%0,0@1#0,0%0,0%0,0@1#0,0%0,0%0,0",
         "desc":"MST_EXTRAPASSIVESKILL_8600_DESCRIPTION",
@@ -33930,6 +33989,142 @@
         ],
         "id":"8900014",
         "name":"MST_EXTRAPASSIVESKILL_8900014_NAME",
+        "rarity":7
+    },
+    "8900015":{
+        "conditions":"1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0",
+        "desc":"MST_EXTRAPASSIVESKILL_8900015_DESCRIPTION",
+        "effects":[
+            {
+                "atk% buff":50,
+                "crit% buff":15,
+                "def% buff":50,
+                "passive id":"2"
+            },
+            {
+                "params":"100,15",
+                "passive id":"127"
+            },
+            {
+                "bc fill per turn":10,
+                "passive id":"9"
+            },
+            {
+                "passive id":"33",
+                "rec% added":710.0,
+                "turn heal high":7000,
+                "turn heal low":7000
+            },
+            {
+                "base elemental damage resist%":100,
+                "buffed elemental damage resist%":100,
+                "passive id":"53"
+            }
+        ],
+        "id":"8900015",
+        "name":"MST_EXTRAPASSIVESKILL_8900015_NAME",
+        "rarity":7
+    },
+    "8900016":{
+        "conditions":"1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0",
+        "desc":"MST_EXTRAPASSIVESKILL_8900016_DESCRIPTION",
+        "effects":[
+            {
+                "atk% buff":50,
+                "crit% buff":15,
+                "def% buff":50,
+                "passive id":"2"
+            },
+            {
+                "params":"100,15",
+                "passive id":"127"
+            },
+            {
+                "bc fill per turn":10,
+                "passive id":"9"
+            },
+            {
+                "passive id":"33",
+                "rec% added":710.0,
+                "turn heal high":7000,
+                "turn heal low":7000
+            },
+            {
+                "base elemental damage resist%":100,
+                "buffed elemental damage resist%":100,
+                "passive id":"53"
+            }
+        ],
+        "id":"8900016",
+        "name":"MST_EXTRAPASSIVESKILL_8900016_NAME",
+        "rarity":7
+    },
+    "8900017":{
+        "conditions":"1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0",
+        "desc":"MST_EXTRAPASSIVESKILL_8900017_DESCRIPTION",
+        "effects":[
+            {
+                "atk% buff":50,
+                "crit% buff":15,
+                "def% buff":50,
+                "passive id":"2"
+            },
+            {
+                "params":"100,15",
+                "passive id":"127"
+            },
+            {
+                "bc fill per turn":10,
+                "passive id":"9"
+            },
+            {
+                "passive id":"33",
+                "rec% added":710.0,
+                "turn heal high":7000,
+                "turn heal low":7000
+            },
+            {
+                "base elemental damage resist%":100,
+                "buffed elemental damage resist%":100,
+                "passive id":"53"
+            }
+        ],
+        "id":"8900017",
+        "name":"MST_EXTRAPASSIVESKILL_8900017_NAME",
+        "rarity":7
+    },
+    "8900018":{
+        "conditions":"1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0",
+        "desc":"MST_EXTRAPASSIVESKILL_8900018_DESCRIPTION",
+        "effects":[
+            {
+                "atk% buff":50,
+                "crit% buff":15,
+                "def% buff":50,
+                "passive id":"2"
+            },
+            {
+                "params":"100,15",
+                "passive id":"127"
+            },
+            {
+                "bc fill per turn":10,
+                "passive id":"9"
+            },
+            {
+                "passive id":"33",
+                "rec% added":710.0,
+                "turn heal high":7000,
+                "turn heal low":7000
+            },
+            {
+                "base elemental damage resist%":100,
+                "buffed elemental damage resist%":100,
+                "passive id":"53"
+            }
+        ],
+        "id":"8900018",
+        "name":"MST_EXTRAPASSIVESKILL_8900018_NAME",
         "rarity":7
     },
     "8910287":{

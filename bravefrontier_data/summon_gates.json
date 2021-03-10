@@ -14674,5 +14674,65 @@
         "short desc":"Kranus is available through the Summon Gate! Get a Global Exclusive Elgif for every 10 Summons from the same gate!",
         "start time":"2021-03-03 15:00:00",
         "summon button image":"gacha_rare_summons_btn1.png"
+    },
+    "20130":{
+        "background image":"gacha_img_20200406SB_s1.png",
+        "desc":"From 10 Mar 07:00 PST ~ 17 Mar 06:59 PST, summon minimum 5* Global exclusive units with Omni Potential and enjoy Increased Rates are applied on Ulagan, Kassia and Utheria!",
+        "door image":"gacha_rare_door.png",
+        "end time":"2021-03-17 14:59:59",
+        "gem cost":5,
+        "name":"Second Burst Summon",
+        "priority":"2",
+        "short desc":"Ulagan, Kassia and Utheria are available through the Summon Gate!",
+        "start time":"2021-03-10 15:00:00",
+        "summon button image":"gacha_rare_summons_btn1.png"
+    },
+    "20131":{
+        "background image":"gacha_img_210310P_s1.png",
+        "desc":"From 10 Mar 07:00 PST ~ 24 Mar 06:59 PST, summon minimum 5* Global exclusive units with Omni Potential and enjoy Increased Rates with each summon on  Phaedra up to the 8th Summon!",
+        "door image":"gacha_rare_door.png",
+        "end time":"2021-03-24 14:59:59",
+        "gem cost":5,
+        "name":"Spring Summon",
+        "priority":"2",
+        "short desc":"Phaedra is available through the Summon Gate! Get a Global Exclusive Elgif for every 10 Summons from the same gate!",
+        "start time":"2021-03-10 15:00:00",
+        "summon button image":"gacha_rare_summons_btn1.png"
+    },
+    "20132":{
+        "background image":"gacha_Gem_img_210310P_s1.png",
+        "desc":"From 10 Mar 07:00 PST ~ 24 Mar 06:59 PST, summon minimum 5* Global exclusive units with Omni Potential and enjoy Increased Rates on  Phaedra! Get a Spring Mystery Chest every 10 summons!",
+        "door image":"gacha_rare_door.png",
+        "end time":"2021-03-24 14:59:59",
+        "gem cost":5,
+        "name":"Spring Gem Summon",
+        "priority":"2",
+        "short desc":"Phaedra is available through the Summon Gate! Get a Spring Mystery Chest for every 10 Summons from the same gate!",
+        "start time":"2021-03-10 15:00:00",
+        "summon button image":"gacha_rare_summons_btn1.png"
+    },
+    "20133":{
+        "background image":"gacha_Daily_img_210310P_s1.png",
+        "desc":"From 10 Mar 07:00 PST ~ 07 April 23:59 PST, summon minimum 5* Global exclusive units with Omni Potential and enjoy Increased Rates on past Spring exclusives and Phaedra! Remember, this ticket is only valid till 7th April.",
+        "door image":"gacha_rare_door.png",
+        "end time":"2021-04-07 23:59:59",
+        "gem cost":5,
+        "name":"Spring Daily Summon",
+        "priority":"2",
+        "short desc":"Past Spring exclusives and Phaedra are now available through the Summon Gate!  Collect your free daily Spring Daily Ticket and summon now!",
+        "start time":"2021-03-10 15:00:00",
+        "summon button image":"gacha_rare_summons_btn1.png"
+    },
+    "20134":{
+        "background image":"gacha_ForTest_img_s1.png",
+        "desc":"From 17 Mar 7:00 PST ~ 14 April 6:59 PST, use your Spring Heroes Selector Ticket to summon one of the selected units from the Heroes Across Time series along with past Spring units! Remember, this ticket is only valid till 14st April.",
+        "door image":"gacha_rare_door.png",
+        "end time":"2021-04-14 14:59:59",
+        "gem cost":999,
+        "name":"Spring Heroes Selector Summon",
+        "priority":"2",
+        "short desc":"Summon any one of the units, selected from Heroes Across Time and past Spring exclusive!",
+        "start time":"2021-03-17 15:00:00",
+        "summon button image":"gacha_rare_summons_btn1.png"
     }
 }

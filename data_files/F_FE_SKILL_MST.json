@@ -25454,6 +25454,116 @@
         "yRlCNyvk":"Raises normal hit amount [+3 to each hit, +30% damage]"
     },
     {
+        "2Smu5Mtq":"300,400,100",
+        "9PsmH7tz":"1010610106",
+        "D9wXQI2V":"5",
+        "G5wFDad6":"10",
+        "hjAy9St3":"25",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010800166",
+        "yRlCNyvk":"Damage taken fills BB gauge [3-4 BC]"
+    },
+    {
+        "2Smu5Mtq":"20",
+        "9PsmH7tz":"1010610107",
+        "D9wXQI2V":"5",
+        "G5wFDad6":"15",
+        "hjAy9St3":"43",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010800167",
+        "yRlCNyvk":"Probable [20%] damage reduction to 1"
+    },
+    {
+        "2Smu5Mtq":"15,10",
+        "9PsmH7tz":"1010610108",
+        "D9wXQI2V":"5",
+        "G5wFDad6":"25",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"3",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010800168",
+        "yRlCNyvk":"Enhances SBB's may [+10%] raise allies from KO [+15% HP]"
+    },
+    {
+        "2Smu5Mtq":"17,100&100&100&100&100&100&3&70,1,2,0,1,0,0@73,100&100&100&3&70,1,2,0,1,0,0",
+        "9PsmH7tz":"1010610109",
+        "D9wXQI2V":"5",
+        "G5wFDad6":"15",
+        "hjAy9St3":"66@66",
+        "jeR2rN3V":"1@1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010800169",
+        "yRlCNyvk":"Add to BB (Negates all status ailments and Atk, Def, Rec reduction for 3 turns)"
+    },
+    {
+        "2Smu5Mtq":"5,0&220&220&220&60&3&0,1,2,0,0,1,0",
+        "9PsmH7tz":"1010610110",
+        "D9wXQI2V":"5",
+        "G5wFDad6":"20",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010800170",
+        "yRlCNyvk":"Add to SBB (Boosts Atk, Def, Rec [220%] and critical rate [60%] for 3 turns)"
+    },
+    {
+        "2Smu5Mtq":"20,600&900&100&3&0,1,2,0,1,1,0",
+        "9PsmH7tz":"1010610111",
+        "D9wXQI2V":"5",
+        "G5wFDad6":"20",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010800171",
+        "yRlCNyvk":"Add to BB\\/SBB (Damage taken fills BB gauge [6-9 BC] for 3 turns)"
+    },
+    {
+        "2Smu5Mtq":"85,25&30&50&3&0,1,2,0,1,1,0",
+        "9PsmH7tz":"1010610112",
+        "D9wXQI2V":"5",
+        "G5wFDad6":"10",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010800172",
+        "yRlCNyvk":"Add to BB\\/SBB (Damage taken may [50%] restore HP [25-30% damage] for 3 turns)"
+    },
+    {
+        "2Smu5Mtq":"50,5$0$0$0$0$0$3",
+        "9PsmH7tz":"1010800173",
+        "D9wXQI2V":"5",
+        "G5wFDad6":"30",
+        "hjAy9St3":"107",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010800173",
+        "yRlCNyvk":"Add to LS (300% Light elemental damage)"
+    },
+    {
+        "2Smu5Mtq":"47,300&550&0&200&0&0&0&0,2,2,0,0,1,0",
+        "9PsmH7tz":"1010800174",
+        "D9wXQI2V":"5",
+        "G5wFDad6":"25",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010800174",
+        "yRlCNyvk":"Add to SBB (39 combo Light attack [300-550%] on all foes (damage relative to remaining HP))"
+    },
+    {
+        "2Smu5Mtq":"55,5&0&0&0&0&0&2.5&3&0,1,2,0,0,1,0@55,5&0&0&0&0&0&5&4&0,1,2,0,0,0,1",
+        "9PsmH7tz":"1010800175",
+        "D9wXQI2V":"5",
+        "G5wFDad6":"25",
+        "hjAy9St3":"66@66",
+        "jeR2rN3V":"1@1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010800175",
+        "yRlCNyvk":"Add to SBB (Boosts Light elemental damage [250%] for 3 turns), UBB (Boosts Light elemental damage [500%] for 4 turns)"
+    },
+    {
         "2Smu5Mtq":"100,100,100,100,100,100,100,100,100",
         "9PsmH7tz":"1010900001",
         "D9wXQI2V":"3",
