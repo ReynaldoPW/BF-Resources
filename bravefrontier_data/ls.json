@@ -31275,6 +31275,41 @@
         "id":"830998",
         "name":"MST_LEADERSKILLS_830998_NAME"
     },
+    "831018":{
+        "desc":"MST_LEADERSKILLS_831018_DESCRIPTION",
+        "effects":[
+            {
+                "atk% buff":140,
+                "def% buff":140,
+                "hp% buff":140,
+                "passive id":"1",
+                "rec% buff":140
+            },
+            {
+                "dmg% for spark":250,
+                "passive id":"31"
+            },
+            {
+                "miti%":15,
+                "passive id":"8"
+            },
+            {
+                "params":"3,4,0,0,0,0,20",
+                "passive id":"62"
+            },
+            {
+                "base crit chance resist%":100,
+                "base crit dmg resist%":100,
+                "base elemental damage resist%":100,
+                "buffed crit chance resist%":100,
+                "buffed crit dmg resist%":100,
+                "buffed elemental damage resist%":100,
+                "passive id":"53"
+            }
+        ],
+        "id":"831018",
+        "name":"MST_LEADERSKILLS_831018_NAME"
+    },
     "8400":{
         "desc":"MST_LEADERSKILLS_8400_DESCRIPTION",
         "effects":[

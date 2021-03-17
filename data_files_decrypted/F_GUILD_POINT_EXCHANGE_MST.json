@@ -396,6 +396,17 @@
         "ra4iFR6T":""
     },
     {
+        "AVAILABILITY_TIME_END":"2021-04-07 08:59:59",
+        "AVAILABILITY_TIME_START/AMOUNT_REQUIRED":"2021-03-15 00:00:00",
+        "DESCRIPTION":"Increased chance to obtain Ceulfan, Savei, Global Exclusive Elgifs & Spheres from this Mystery Chest",
+        "EXCHANGE_HALL_COST":"1500",
+        "EXCHANGE_HALL_ITEM*":"9000:321:1:chest_large_gold_thum.png",
+        "EXCHANGE_HALL_ITEM_ID":"8002",
+        "EXCHANGE_HALL_LIMIT":"3",
+        "EXCHANGE_HALL_NAME":"Premium Elemental Mystery Chest (Water & Earth)",
+        "ra4iFR6T":""
+    },
+    {
         "AVAILABILITY_TIME_END":"2019-03-10 23:59:59",
         "AVAILABILITY_TIME_START/AMOUNT_REQUIRED":"2019-02-11 00:00:00",
         "DESCRIPTION":"Geminus Tome",

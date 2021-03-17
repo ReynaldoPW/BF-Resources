@@ -25566,6 +25566,72 @@
     {
         "DESCRIPTION":"",
         "EFFECT_AREA*":"1",
+        "LEVEL":"5",
+        "PROC/PASSIVE_ID(S)":"1",
+        "PROC/PASSIVE_PARAMETERS":"120,120,120,60,120",
+        "SP_ID":"1010800176",
+        "SP_NAME":"120% all parameters, 60% critical rate",
+        "SP_NEED_BP":"15",
+        "SP_SERIES":"1010800176"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
+        "LEVEL":"5",
+        "PROC/PASSIVE_ID(S)":"14",
+        "PROC/PASSIVE_PARAMETERS":"25,30",
+        "SP_ID":"1010800177",
+        "SP_NAME":"Probable [30%] 25% damage reduction",
+        "SP_NEED_BP":"15",
+        "SP_SERIES":"1010800177"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
+        "LEVEL":"5",
+        "PROC/PASSIVE_ID(S)":"66",
+        "PROC/PASSIVE_PARAMETERS":"130,-25&-25&-25&30&30&30&2&3&0,1,2,0,1,0,0",
+        "SP_ID":"1010800178",
+        "SP_NAME":"Add to BB (Adds probable [30%] 2 turns Atk, Def, Rec reduction [25%] infliction counter for 3 turns)",
+        "SP_NEED_BP":"15",
+        "SP_SERIES":"1010800178"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
+        "LEVEL":"5",
+        "PROC/PASSIVE_ID(S)":"66",
+        "PROC/PASSIVE_PARAMETERS":"10017,3&7000&7000&3&0,1,2,0,1,1,0",
+        "SP_ID":"1010800179",
+        "SP_NAME":"Add to BB\\/SBB (Adds Earth shield [7000 HP, 7000 Def] for 3 turns)",
+        "SP_NEED_BP":"20",
+        "SP_SERIES":"1010800179"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
+        "LEVEL":"5",
+        "PROC/PASSIVE_ID(S)":"66",
+        "PROC/PASSIVE_PARAMETERS":"53,30&30&30&30&30&30&3&120,1,2,0,1,0,0",
+        "SP_ID":"1010800180",
+        "SP_NAME":"Add to BB (Probable [30%] all status ailments infliction counter for 3 turns)",
+        "SP_NEED_BP":"25",
+        "SP_SERIES":"1010800180"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"4@4@4@4@4",
+        "LEVEL":"5",
+        "PROC/PASSIVE_ID(S)":"58@18@5@19@88",
+        "PROC/PASSIVE_PARAMETERS":"0,0,1,0@0,1,0@0,0,0,0,0,1,0@0,1,0@0,0,0,0,0,0,1,0",
+        "SP_ID":"1010800181",
+        "SP_NAME":"Allows UBB's effects to last additional 1 turn",
+        "SP_NEED_BP":"25",
+        "SP_SERIES":"1010800181"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
         "LEVEL":"3",
         "PROC/PASSIVE_ID(S)":"73",
         "PROC/PASSIVE_PARAMETERS":"100,100,100,100,100,100,100,100,100",

@@ -14724,7 +14724,7 @@
         "summon button image":"gacha_rare_summons_btn1.png"
     },
     "20134":{
-        "background image":"gacha_ForTest_img_s1.png",
+        "background image":"gacha_img_210317HS_s1.png",
         "desc":"From 17 Mar 7:00 PST ~ 14 April 6:59 PST, use your Spring Heroes Selector Ticket to summon one of the selected units from the Heroes Across Time series along with past Spring units! Remember, this ticket is only valid till 14st April.",
         "door image":"gacha_rare_door.png",
         "end time":"2021-04-14 14:59:59",
@@ -14732,6 +14732,30 @@
         "name":"Spring Heroes Selector Summon",
         "priority":"2",
         "short desc":"Summon any one of the units, selected from Heroes Across Time and past Spring exclusive!",
+        "start time":"2021-03-17 15:00:00",
+        "summon button image":"gacha_rare_summons_btn1.png"
+    },
+    "20135":{
+        "background image":"gacha_img_20200408GG_s1.png",
+        "desc":"From 17 Mar 07:00 PST ~ 24 Mar 06:59 PST, summon minimum 5* Global exclusive units with Omni Potential and enjoy Increased Rates are applied on Osiris, Azius and Saskya!",
+        "door image":"gacha_rare_door.png",
+        "end time":"2021-03-24 14:59:59",
+        "gem cost":5,
+        "name":"Gallant Guard Summon",
+        "priority":"2",
+        "short desc":"Osiris, Azius and Saskya are available through the Summon Gate!",
+        "start time":"2021-03-17 15:00:00",
+        "summon button image":"gacha_rare_summons_btn1.png"
+    },
+    "20136":{
+        "background image":"gacha_img_210317KG_s1.png",
+        "desc":"From 17 Mar 7:00 PST ~ 24 Mar 6:59 PST, summon minimum 5* Global exclusive units with Omni Potential and enjoy Increased Rates on Kyria and  Gwyll!",
+        "door image":"gacha_rare_door.png",
+        "end time":"2021-03-24 14:59:59",
+        "gem cost":5,
+        "name":"Destiny Unite Summon",
+        "priority":"2",
+        "short desc":"  Kyria and Gwyll are available through the Summon Gate! Get a Light & Dark DBB Mystery Chest for every 7 Summons from the same gate!",
         "start time":"2021-03-17 15:00:00",
         "summon button image":"gacha_rare_summons_btn1.png"
     }
