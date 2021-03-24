@@ -76,7 +76,7 @@
         "moWQ30GH":"M_NPC_MST"
     },
     {
-        "d2RFtP8T":"1714",
+        "d2RFtP8T":"1715",
         "moWQ30GH":"M_GACHA_EFFECT_MST"
     },
     {
@@ -124,11 +124,11 @@
         "moWQ30GH":"F_LAND_MST"
     },
     {
-        "d2RFtP8T":"629",
+        "d2RFtP8T":"632",
         "moWQ30GH":"F_AREA_MST"
     },
     {
-        "d2RFtP8T":"921",
+        "d2RFtP8T":"923",
         "moWQ30GH":"F_DUNGEON_MST"
     },
     {
@@ -284,7 +284,7 @@
         "moWQ30GH":"F_ACHIEVEMENT_SUBJECT_MST"
     },
     {
-        "d2RFtP8T":"421",
+        "d2RFtP8T":"424",
         "moWQ30GH":"F_ACHIEVEMENT_TRADE_MST"
     },
     {
@@ -428,7 +428,7 @@
         "moWQ30GH":"F_PARTICLE"
     },
     {
-        "d2RFtP8T":"1069",
+        "d2RFtP8T":"1070",
         "moWQ30GH":"F_UNIT_MST"
     },
     {
@@ -448,7 +448,7 @@
         "moWQ30GH":"F_UNIT_EXT_MST"
     },
     {
-        "d2RFtP8T":"799",
+        "d2RFtP8T":"800",
         "moWQ30GH":"F_UNIT_CGS_MST"
     },
     {
@@ -456,15 +456,15 @@
         "moWQ30GH":"F_UNIT_TYPE_MST"
     },
     {
-        "d2RFtP8T":"1040",
+        "d2RFtP8T":"1041",
         "moWQ30GH":"F_MISSION_MST"
     },
     {
-        "d2RFtP8T":"1516",
+        "d2RFtP8T":"1517",
         "moWQ30GH":"F_SKILL_MST"
     },
     {
-        "d2RFtP8T":"1468",
+        "d2RFtP8T":"1469",
         "moWQ30GH":"F_SKILL_LEVEL_MST"
     },
     {
@@ -472,7 +472,7 @@
         "moWQ30GH":"F_EXTRA_PASSIVE_SKILL_MST"
     },
     {
-        "d2RFtP8T":"3195",
+        "d2RFtP8T":"3200",
         "moWQ30GH":"F_RESOURCE_MST"
     },
     {
@@ -612,7 +612,7 @@
         "moWQ30GH":"F_GUILD_INFO_MST"
     },
     {
-        "d2RFtP8T":"228",
+        "d2RFtP8T":"229",
         "moWQ30GH":"F_GUILD_POINT_EXCHANGE_MST"
     },
     {
