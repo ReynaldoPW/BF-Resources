@@ -14794,5 +14794,17 @@
         "short desc":"Summon 2 units with Increased Rates on Alphie with option to Resummon 1!",
         "start time":"2021-03-24 15:00:00",
         "summon button image":"gacha_rare_summons_btn1.png"
+    },
+    "20140":{
+        "background image":"gacha_img_210331T_s1.png",
+        "desc":"From 31 Mar 07:00 PST ~ 07 April 06:59 PST, summon minimum 5* Global exclusive units with Omni Potential and enjoy Increased Rates with each summon on  Tilith up to the 8th Summon!",
+        "door image":"gacha_rare_door.png",
+        "end time":"2021-04-07 14:59:59",
+        "gem cost":5,
+        "name":"Shiny Summon",
+        "priority":"2",
+        "short desc":"Tilith is available through the Summon Gate! Get a Global Exclusive Elgif for every 10 Summons from the same gate!",
+        "start time":"2021-03-31 15:00:00",
+        "summon button image":"gacha_rare_summons_btn1.png"
     }
 }

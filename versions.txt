@@ -76,7 +76,7 @@
         "moWQ30GH":"M_NPC_MST"
     },
     {
-        "d2RFtP8T":"1715",
+        "d2RFtP8T":"1716",
         "moWQ30GH":"M_GACHA_EFFECT_MST"
     },
     {
@@ -472,7 +472,7 @@
         "moWQ30GH":"F_EXTRA_PASSIVE_SKILL_MST"
     },
     {
-        "d2RFtP8T":"3200",
+        "d2RFtP8T":"3202",
         "moWQ30GH":"F_RESOURCE_MST"
     },
     {
