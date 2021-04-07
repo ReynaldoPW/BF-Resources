@@ -806,16 +806,23 @@
     },
     {
         "DESCRIPTION":"Records of a certain mage's tanglings with a darkly alluring spirit.",
-        "QUEST_MAP_NUMBER/GUIDE_ID":"37",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"38",
         "SCENARIO_SUPERSECTION*":"70000",
         "SP_CAT_ID":"100025",
         "SP_CAT_NAME":"Fiendish Fancies"
     },
     {
         "DESCRIPTION":"A tale of redemption and regret, set in a time after the fires of the Vale.",
-        "QUEST_MAP_NUMBER/GUIDE_ID":"38",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"39",
         "SCENARIO_SUPERSECTION*":"70000",
         "SP_CAT_ID":"100026",
         "SP_CAT_NAME":"The Light of Life"
+    },
+    {
+        "DESCRIPTION":"A Rezcorps report detailing one rather outlandish operation involving portals in a sealed-off laboratory.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"40",
+        "SCENARIO_SUPERSECTION*":"70000",
+        "SP_CAT_ID":"100027",
+        "SP_CAT_NAME":"Full Metal Hare"
     }
 ]

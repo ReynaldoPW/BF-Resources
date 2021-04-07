@@ -10353,6 +10353,13 @@
         "qp37xTDh":"MST_LEADERSKILLS_811008_DESCRIPTION"
     },
     {
+        "2Smu5Mtq":"140,140,140,30,140@2.5@250,0,0,0,0,0@30@50,50,18,60,60@25",
+        "dJPf9a5v":"Siege Tactics",
+        "hjAy9St3":"1@34@31@70@19@97",
+        "oS3kTZ2W":"811028",
+        "qp37xTDh":"MST_LEADERSKILLS_811028_DESCRIPTION"
+    },
+    {
         "2Smu5Mtq":"60,0,0,0,60@100,0,0,0,0,0@40,120,-1,15,2@1,2,0,0,0,0,1.25",
         "dJPf9a5v":"Gunnhildrs Anathema",
         "hjAy9St3":"1@31@86@50",
@@ -11263,9 +11270,9 @@
         "qp37xTDh":"MST_LEADERSKILLS_840048_DESCRIPTION"
     },
     {
-        "2Smu5Mtq":"80,80,80,0,80@60@25@300,300,300@200,400,100",
+        "2Smu5Mtq":"140,120,120,0,140@400,400,400@300,400,100@70@30",
         "dJPf9a5v":"Hareband Goggles",
-        "hjAy9St3":"1@32@48@64@47",
+        "hjAy9St3":"1@64@47@32@48",
         "oS3kTZ2W":"840118",
         "qp37xTDh":"MST_LEADERSKILLS_840118_DESCRIPTION"
     },
@@ -11639,6 +11646,13 @@
         "hjAy9St3":"1@50@8@100@70",
         "oS3kTZ2W":"840998",
         "qp37xTDh":"MST_LEADERSKILLS_840998_DESCRIPTION"
+    },
+    {
+        "2Smu5Mtq":"150,100,150,30,150@300,0,0,0,0,0@4000,4500,10@30@36,20,-1,5000,1",
+        "dJPf9a5v":"Shock Vanguard",
+        "hjAy9St3":"1@31@33@48@78",
+        "oS3kTZ2W":"841028",
+        "qp37xTDh":"MST_LEADERSKILLS_841028_DESCRIPTION"
     },
     {
         "2Smu5Mtq":"0,80,80,0,80@0,0,0,50,0,50,0@10@1000,1500,0",

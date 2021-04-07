@@ -19234,6 +19234,102 @@
     {
         "QUEST_MAP_NUMBER/GUIDE_ID":"1",
         "SP_CAT_ID":"1",
+        "SP_ID":"1010800109",
+        "SP_TERM_COMMENT":"",
+        "SP_TERM_SKILL":"",
+        "UNIT_ID":"811028"
+    },
+    {
+        "QUEST_MAP_NUMBER/GUIDE_ID":"1",
+        "SP_CAT_ID":"2",
+        "SP_ID":"1010500033",
+        "SP_TERM_COMMENT":"",
+        "SP_TERM_SKILL":"",
+        "UNIT_ID":"811028"
+    },
+    {
+        "QUEST_MAP_NUMBER/GUIDE_ID":"1",
+        "SP_CAT_ID":"4",
+        "SP_ID":"1010500073",
+        "SP_TERM_COMMENT":"",
+        "SP_TERM_SKILL":"",
+        "UNIT_ID":"811028"
+    },
+    {
+        "QUEST_MAP_NUMBER/GUIDE_ID":"1",
+        "SP_CAT_ID":"5",
+        "SP_ID":"1010800079",
+        "SP_TERM_COMMENT":"",
+        "SP_TERM_SKILL":"",
+        "UNIT_ID":"811028"
+    },
+    {
+        "QUEST_MAP_NUMBER/GUIDE_ID":"1",
+        "SP_CAT_ID":"6",
+        "SP_ID":"1010800073",
+        "SP_TERM_COMMENT":"",
+        "SP_TERM_SKILL":"",
+        "UNIT_ID":"811028"
+    },
+    {
+        "QUEST_MAP_NUMBER/GUIDE_ID":"1",
+        "SP_CAT_ID":"8",
+        "SP_ID":"1100000418",
+        "SP_TERM_COMMENT":"",
+        "SP_TERM_SKILL":"",
+        "UNIT_ID":"811028"
+    },
+    {
+        "QUEST_MAP_NUMBER/GUIDE_ID":"1",
+        "SP_CAT_ID":"11",
+        "SP_ID":"1010100176",
+        "SP_TERM_COMMENT":"",
+        "SP_TERM_SKILL":"",
+        "UNIT_ID":"811028"
+    },
+    {
+        "QUEST_MAP_NUMBER/GUIDE_ID":"2",
+        "SP_CAT_ID":"11",
+        "SP_ID":"1010800143",
+        "SP_TERM_COMMENT":"",
+        "SP_TERM_SKILL":"",
+        "UNIT_ID":"811028"
+    },
+    {
+        "QUEST_MAP_NUMBER/GUIDE_ID":"3",
+        "SP_CAT_ID":"11",
+        "SP_ID":"1010800038",
+        "SP_TERM_COMMENT":"",
+        "SP_TERM_SKILL":"",
+        "UNIT_ID":"811028"
+    },
+    {
+        "QUEST_MAP_NUMBER/GUIDE_ID":"4",
+        "SP_CAT_ID":"11",
+        "SP_ID":"1010700114",
+        "SP_TERM_COMMENT":"",
+        "SP_TERM_SKILL":"",
+        "UNIT_ID":"811028"
+    },
+    {
+        "QUEST_MAP_NUMBER/GUIDE_ID":"5",
+        "SP_CAT_ID":"11",
+        "SP_ID":"1010700072",
+        "SP_TERM_COMMENT":"",
+        "SP_TERM_SKILL":"",
+        "UNIT_ID":"811028"
+    },
+    {
+        "QUEST_MAP_NUMBER/GUIDE_ID":"6",
+        "SP_CAT_ID":"11",
+        "SP_ID":"1010800192",
+        "SP_TERM_COMMENT":"",
+        "SP_TERM_SKILL":"",
+        "UNIT_ID":"811028"
+    },
+    {
+        "QUEST_MAP_NUMBER/GUIDE_ID":"1",
+        "SP_CAT_ID":"1",
         "SP_ID":"710001",
         "SP_TERM_COMMENT":"",
         "SP_TERM_SKILL":"",
@@ -27698,7 +27794,7 @@
     {
         "QUEST_MAP_NUMBER/GUIDE_ID":"1",
         "SP_CAT_ID":"1",
-        "SP_ID":"750004",
+        "SP_ID":"1010800109",
         "SP_TERM_COMMENT":"",
         "SP_TERM_SKILL":"",
         "UNIT_ID":"840118"
@@ -27706,7 +27802,7 @@
     {
         "QUEST_MAP_NUMBER/GUIDE_ID":"1",
         "SP_CAT_ID":"2",
-        "SP_ID":"1100000207",
+        "SP_ID":"1010800116",
         "SP_TERM_COMMENT":"",
         "SP_TERM_SKILL":"",
         "UNIT_ID":"840118"
@@ -27714,7 +27810,15 @@
     {
         "QUEST_MAP_NUMBER/GUIDE_ID":"1",
         "SP_CAT_ID":"4",
-        "SP_ID":"1100000272",
+        "SP_ID":"1010500017",
+        "SP_TERM_COMMENT":"",
+        "SP_TERM_SKILL":"",
+        "UNIT_ID":"840118"
+    },
+    {
+        "QUEST_MAP_NUMBER/GUIDE_ID":"2",
+        "SP_CAT_ID":"4",
+        "SP_ID":"1100000464",
         "SP_TERM_COMMENT":"",
         "SP_TERM_SKILL":"",
         "UNIT_ID":"840118"
@@ -27722,7 +27826,7 @@
     {
         "QUEST_MAP_NUMBER/GUIDE_ID":"1",
         "SP_CAT_ID":"8",
-        "SP_ID":"1000000105",
+        "SP_ID":"1010100197",
         "SP_TERM_COMMENT":"",
         "SP_TERM_SKILL":"",
         "UNIT_ID":"840118"
@@ -27730,7 +27834,7 @@
     {
         "QUEST_MAP_NUMBER/GUIDE_ID":"1",
         "SP_CAT_ID":"11",
-        "SP_ID":"10800003",
+        "SP_ID":"1010700079",
         "SP_TERM_COMMENT":"",
         "SP_TERM_SKILL":"",
         "UNIT_ID":"840118"
@@ -27738,7 +27842,7 @@
     {
         "QUEST_MAP_NUMBER/GUIDE_ID":"2",
         "SP_CAT_ID":"11",
-        "SP_ID":"1010100117",
+        "SP_ID":"1010800169",
         "SP_TERM_COMMENT":"",
         "SP_TERM_SKILL":"",
         "UNIT_ID":"840118"
@@ -27746,7 +27850,7 @@
     {
         "QUEST_MAP_NUMBER/GUIDE_ID":"3",
         "SP_CAT_ID":"11",
-        "SP_ID":"1000000199",
+        "SP_ID":"1010800182",
         "SP_TERM_COMMENT":"",
         "SP_TERM_SKILL":"",
         "UNIT_ID":"840118"
@@ -27754,7 +27858,7 @@
     {
         "QUEST_MAP_NUMBER/GUIDE_ID":"4",
         "SP_CAT_ID":"11",
-        "SP_ID":"51000012",
+        "SP_ID":"1010800183",
         "SP_TERM_COMMENT":"",
         "SP_TERM_SKILL":"",
         "UNIT_ID":"840118"
@@ -27762,7 +27866,7 @@
     {
         "QUEST_MAP_NUMBER/GUIDE_ID":"5",
         "SP_CAT_ID":"11",
-        "SP_ID":"9770002",
+        "SP_ID":"1010800184",
         "SP_TERM_COMMENT":"",
         "SP_TERM_SKILL":"",
         "UNIT_ID":"840118"
@@ -27770,7 +27874,7 @@
     {
         "QUEST_MAP_NUMBER/GUIDE_ID":"6",
         "SP_CAT_ID":"11",
-        "SP_ID":"1010100116",
+        "SP_ID":"1010800185",
         "SP_TERM_COMMENT":"",
         "SP_TERM_SKILL":"",
         "UNIT_ID":"840118"
@@ -27778,7 +27882,7 @@
     {
         "QUEST_MAP_NUMBER/GUIDE_ID":"7",
         "SP_CAT_ID":"11",
-        "SP_ID":"1100000181",
+        "SP_ID":"1010800186",
         "SP_TERM_COMMENT":"",
         "SP_TERM_SKILL":"",
         "UNIT_ID":"840118"
@@ -31390,6 +31494,102 @@
         "SP_TERM_COMMENT":"",
         "SP_TERM_SKILL":"",
         "UNIT_ID":"840998"
+    },
+    {
+        "QUEST_MAP_NUMBER/GUIDE_ID":"1",
+        "SP_CAT_ID":"1",
+        "SP_ID":"1010800109",
+        "SP_TERM_COMMENT":"",
+        "SP_TERM_SKILL":"",
+        "UNIT_ID":"841028"
+    },
+    {
+        "QUEST_MAP_NUMBER/GUIDE_ID":"1",
+        "SP_CAT_ID":"2",
+        "SP_ID":"1010500033",
+        "SP_TERM_COMMENT":"",
+        "SP_TERM_SKILL":"",
+        "UNIT_ID":"841028"
+    },
+    {
+        "QUEST_MAP_NUMBER/GUIDE_ID":"1",
+        "SP_CAT_ID":"4",
+        "SP_ID":"1010500088",
+        "SP_TERM_COMMENT":"",
+        "SP_TERM_SKILL":"",
+        "UNIT_ID":"841028"
+    },
+    {
+        "QUEST_MAP_NUMBER/GUIDE_ID":"1",
+        "SP_CAT_ID":"11",
+        "SP_ID":"1010700116",
+        "SP_TERM_COMMENT":"",
+        "SP_TERM_SKILL":"",
+        "UNIT_ID":"841028"
+    },
+    {
+        "QUEST_MAP_NUMBER/GUIDE_ID":"2",
+        "SP_CAT_ID":"11",
+        "SP_ID":"1010500037",
+        "SP_TERM_COMMENT":"",
+        "SP_TERM_SKILL":"",
+        "UNIT_ID":"841028"
+    },
+    {
+        "QUEST_MAP_NUMBER/GUIDE_ID":"3",
+        "SP_CAT_ID":"11",
+        "SP_ID":"1010800187",
+        "SP_TERM_COMMENT":"",
+        "SP_TERM_SKILL":"",
+        "UNIT_ID":"841028"
+    },
+    {
+        "QUEST_MAP_NUMBER/GUIDE_ID":"4",
+        "SP_CAT_ID":"11",
+        "SP_ID":"1010700023",
+        "SP_TERM_COMMENT":"",
+        "SP_TERM_SKILL":"",
+        "UNIT_ID":"841028"
+    },
+    {
+        "QUEST_MAP_NUMBER/GUIDE_ID":"5",
+        "SP_CAT_ID":"11",
+        "SP_ID":"1010700156",
+        "SP_TERM_COMMENT":"",
+        "SP_TERM_SKILL":"",
+        "UNIT_ID":"841028"
+    },
+    {
+        "QUEST_MAP_NUMBER/GUIDE_ID":"6",
+        "SP_CAT_ID":"11",
+        "SP_ID":"1010800188",
+        "SP_TERM_COMMENT":"",
+        "SP_TERM_SKILL":"",
+        "UNIT_ID":"841028"
+    },
+    {
+        "QUEST_MAP_NUMBER/GUIDE_ID":"7",
+        "SP_CAT_ID":"11",
+        "SP_ID":"1010800189",
+        "SP_TERM_COMMENT":"",
+        "SP_TERM_SKILL":"",
+        "UNIT_ID":"841028"
+    },
+    {
+        "QUEST_MAP_NUMBER/GUIDE_ID":"8",
+        "SP_CAT_ID":"11",
+        "SP_ID":"1010800190",
+        "SP_TERM_COMMENT":"",
+        "SP_TERM_SKILL":"",
+        "UNIT_ID":"841028"
+    },
+    {
+        "QUEST_MAP_NUMBER/GUIDE_ID":"9",
+        "SP_CAT_ID":"11",
+        "SP_ID":"1010800191",
+        "SP_TERM_COMMENT":"",
+        "SP_TERM_SKILL":"",
+        "UNIT_ID":"841028"
     },
     {
         "QUEST_MAP_NUMBER/GUIDE_ID":"1",

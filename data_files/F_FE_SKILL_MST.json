@@ -25630,6 +25630,127 @@
         "yRlCNyvk":"Allows UBB's effects to last additional 1 turn"
     },
     {
+        "2Smu5Mtq":"54,1.5&3&80,1,2,0,0,1,0@5,0&0&0&0&60&3&0,1,2,0,0,1,0",
+        "9PsmH7tz":"1010800182",
+        "D9wXQI2V":"5",
+        "G5wFDad6":"20",
+        "hjAy9St3":"66@66",
+        "jeR2rN3V":"1@1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010800182",
+        "yRlCNyvk":"Add to SBB (Boosts critical damage [150%] and critical rate [60%] for 3 turns)"
+    },
+    {
+        "2Smu5Mtq":"23,220&0&0&0&0&0&3&80,1,2,0,1,1,0",
+        "9PsmH7tz":"1010800183",
+        "D9wXQI2V":"5",
+        "G5wFDad6":"25",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010800183",
+        "yRlCNyvk":"Add to BB\\/SBB (Boosts spark damage [220%] for 3 turns)"
+    },
+    {
+        "2Smu5Mtq":"83,60&60&3&0,1,2,0,1,1,0",
+        "9PsmH7tz":"1010800184",
+        "D9wXQI2V":"5",
+        "G5wFDad6":"15",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010800184",
+        "yRlCNyvk":"Add to BB\\/SBB (Probable [60%] spark critical [60%] for 3 turns)"
+    },
+    {
+        "2Smu5Mtq":"24,4&80&80&80&3&0,1,2,0,1,1,0",
+        "9PsmH7tz":"1010800185",
+        "D9wXQI2V":"5",
+        "G5wFDad6":"25",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010800185",
+        "yRlCNyvk":"Add to BB\\/SBB (Boosts Atk, Def, Rec relative to max HP [80%] for 3 turns)"
+    },
+    {
+        "2Smu5Mtq":"6,50&50&0&3&0,1,2,0,1,1,0",
+        "9PsmH7tz":"1010800186",
+        "D9wXQI2V":"5",
+        "G5wFDad6":"20",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010800186",
+        "yRlCNyvk":"Add to BB\\/SBB (Boosts BC, HC drop rate [50%] for 3 turns)"
+    },
+    {
+        "2Smu5Mtq":"50,4$0$0$0$0$0$3",
+        "9PsmH7tz":"1010800187",
+        "D9wXQI2V":"5",
+        "G5wFDad6":"30",
+        "hjAy9St3":"107",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010800187",
+        "yRlCNyvk":"Add to LS (300% Thunder elemental damage)"
+    },
+    {
+        "2Smu5Mtq":"93,100&100&100&100&100&100&5&0,1,2,0,1,0,0",
+        "9PsmH7tz":"1010800188",
+        "D9wXQI2V":"5",
+        "G5wFDad6":"20",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010800188",
+        "yRlCNyvk":"Add to BB (100% critical, elemental and spark damage reduction for 5 turns)"
+    },
+    {
+        "2Smu5Mtq":"24,2&120&0&120&3&0,1,2,0,1,0,0",
+        "9PsmH7tz":"1010800189",
+        "D9wXQI2V":"5",
+        "G5wFDad6":"20",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010800189",
+        "yRlCNyvk":"Add to BB (Boosts Atk, Rec relative to Def [120%] for 3 turns)"
+    },
+    {
+        "2Smu5Mtq":"43,3,1,2,0,0,1,0",
+        "9PsmH7tz":"1010800190",
+        "D9wXQI2V":"5",
+        "G5wFDad6":"15",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010800190",
+        "yRlCNyvk":"Add to SBB (Fills OD gauge [3%] per ally)"
+    },
+    {
+        "2Smu5Mtq":"47,300&550&0&200&0&0&0&0,2,2,0,0,1,0",
+        "9PsmH7tz":"1010800191",
+        "D9wXQI2V":"5",
+        "G5wFDad6":"25",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010800191",
+        "yRlCNyvk":"Add to SBB (29 combo Thunder attack [300-550%] on all foes (damage relative to remaining HP))"
+    },
+    {
+        "2Smu5Mtq":"0,1,0@0,0,0,0,0,0,1,0@0,0,0,1,0",
+        "9PsmH7tz":"1010800192",
+        "D9wXQI2V":"5",
+        "G5wFDad6":"20",
+        "hjAy9St3":"54@23@6",
+        "jeR2rN3V":"4@4@4",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010800192",
+        "yRlCNyvk":"Allows UBB's effects to last additional 1 turn"
+    },
+    {
         "2Smu5Mtq":"100,100,100,100,100,100,100,100,100",
         "9PsmH7tz":"1010900001",
         "D9wXQI2V":"3",

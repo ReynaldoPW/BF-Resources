@@ -27293,6 +27293,45 @@
         "id":"811008",
         "name":"MST_LEADERSKILLS_811008_NAME"
     },
+    "811028":{
+        "desc":"MST_LEADERSKILLS_811028_DESCRIPTION",
+        "effects":[
+            {
+                "atk% buff":140,
+                "crit% buff":30,
+                "def% buff":140,
+                "hp% buff":140,
+                "passive id":"1",
+                "rec% buff":140
+            },
+            {
+                "crit dmg%":250,
+                "passive id":"34"
+            },
+            {
+                "dmg% for spark":250,
+                "passive id":"31"
+            },
+            {
+                "params":"30",
+                "passive id":"70"
+            },
+            {
+                "bc drop rate% buff":50,
+                "hc drop rate% buff":50,
+                "item drop rate% buff":18,
+                "karma drop rate% buff":60,
+                "passive id":"19",
+                "zel drop rate% buff":60
+            },
+            {
+                "params":"25",
+                "passive id":"97"
+            }
+        ],
+        "id":"811028",
+        "name":"MST_LEADERSKILLS_811028_NAME"
+    },
     "811118":{
         "desc":"MST_LEADERSKILLS_811118_DESCRIPTION",
         "effects":[
@@ -31404,29 +31443,29 @@
         "desc":"MST_LEADERSKILLS_840118_DESCRIPTION",
         "effects":[
             {
-                "atk% buff":80,
-                "def% buff":80,
-                "hp% buff":80,
+                "atk% buff":140,
+                "def% buff":120,
+                "hp% buff":140,
                 "passive id":"1",
-                "rec% buff":80
+                "rec% buff":120
             },
             {
-                "bb gauge fill rate%":60,
+                "params":"400,400,400",
+                "passive id":"64"
+            },
+            {
+                "bc fill on spark high":3,
+                "bc fill on spark low":3,
+                "bc fill on spark%":300,
+                "passive id":"47"
+            },
+            {
+                "bb gauge fill rate%":70,
                 "passive id":"32"
             },
             {
                 "passive id":"48",
-                "reduced bc cost%":25
-            },
-            {
-                "params":"300,300,300",
-                "passive id":"64"
-            },
-            {
-                "bc fill on spark high":2,
-                "bc fill on spark low":2,
-                "bc fill on spark%":200,
-                "passive id":"47"
+                "reduced bc cost%":30
             }
         ],
         "id":"840118",
@@ -33071,6 +33110,39 @@
         ],
         "id":"840998",
         "name":"MST_LEADERSKILLS_840998_NAME"
+    },
+    "841028":{
+        "desc":"MST_LEADERSKILLS_841028_DESCRIPTION",
+        "effects":[
+            {
+                "atk% buff":150,
+                "crit% buff":30,
+                "def% buff":100,
+                "hp% buff":150,
+                "passive id":"1",
+                "rec% buff":150
+            },
+            {
+                "dmg% for spark":300,
+                "passive id":"31"
+            },
+            {
+                "passive id":"33",
+                "rec% added":410.0,
+                "turn heal high":4000,
+                "turn heal low":4000
+            },
+            {
+                "passive id":"48",
+                "reduced bc cost%":30
+            },
+            {
+                "params":"36,20,-1,5000,1",
+                "passive id":"78"
+            }
+        ],
+        "id":"841028",
+        "name":"MST_LEADERSKILLS_841028_NAME"
     },
     "8500":{
         "desc":"MST_LEADERSKILLS_8500_DESCRIPTION",

@@ -8140,6 +8140,19 @@
     {
         "AI_PRIORITY":"0",
         "CONTRIBUTIONS_TYPE":"1",
+        "DESCRIPTION":"MST_EXTRAPASSIVESKILL_811028_DESCRIPTION",
+        "ES_ID":"811028",
+        "ES_PARAMETERS":"2#4,841020%4,840110%6,11%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0",
+        "FILE_NAME":"0",
+        "NAME":"",
+        "PROC/PASSIVE_ID(S)":"31,1@46,1@43,1@55,1",
+        "PROC/PASSIVE_PARAMETERS":"150,0,0,0,0,0@0,100,0,100,0,100,0@20@12,100,1,40,2,-1",
+        "RARITY":"7",
+        "outas79f":"0"
+    },
+    {
+        "AI_PRIORITY":"0",
+        "CONTRIBUTIONS_TYPE":"1",
         "DESCRIPTION":"MST_EXTRAPASSIVESKILL_811118_DESCRIPTION",
         "ES_ID":"811118",
         "ES_PARAMETERS":"1#0,0%0,0%0,0@1#0,0%0,0%0,0@1#0,0%0,0%0,0@1#0,0%0,0%0,0@1#0,0%0,0%0,0@1#0,0%0,0%0,0",
@@ -11033,6 +11046,19 @@
         "NAME":"",
         "PROC/PASSIVE_ID(S)":"31,1@50,2@127,2@1,1@73,1",
         "PROC/PASSIVE_PARAMETERS":"120,0,0,0,0,0@4,0,0,0,0,0,0.2@100,15@40,40,40,0,40@100,100,100,100,100,100,100,100,100",
+        "RARITY":"7",
+        "outas79f":"0"
+    },
+    {
+        "AI_PRIORITY":"0",
+        "CONTRIBUTIONS_TYPE":"1",
+        "DESCRIPTION":"MST_EXTRAPASSIVESKILL_841028_DESCRIPTION",
+        "ES_ID":"841028",
+        "ES_PARAMETERS":"2#4,811020%4,840110%6,13%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0",
+        "FILE_NAME":"0",
+        "NAME":"",
+        "PROC/PASSIVE_ID(S)":"50,1@34,2@9,1@73,1@66,1",
+        "PROC/PASSIVE_PARAMETERS":"4,0,0,0,0,0,1.5@0.25@1000@100,100,100,100,100,100,100,100,100@38,1&2&3&4&5&6&7&8&9,1,2,0,1,1,0",
         "RARITY":"7",
         "outas79f":"0"
     },
@@ -19275,6 +19301,19 @@
         "NAME":"",
         "PROC/PASSIVE_ID(S)":"2,2@2,1@34,1@9,1@70,1",
         "PROC/PASSIVE_PARAMETERS":"1,4,15,15,15,15,15@1,4,30,30,30,0,30@1@1000@25",
+        "RARITY":"7",
+        "outas79f":"0"
+    },
+    {
+        "AI_PRIORITY":"0",
+        "CONTRIBUTIONS_TYPE":"2",
+        "DESCRIPTION":"MST_EXTRAPASSIVESKILL_8000537_DESCRIPTION",
+        "ES_ID":"8000537",
+        "ES_PARAMETERS":"1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0",
+        "FILE_NAME":"0",
+        "NAME":"",
+        "PROC/PASSIVE_ID(S)":"2,2@50,1@55,1@70,1",
+        "PROC/PASSIVE_PARAMETERS":"4,0,50,0,0,30,50@4,0,0,0,0,0,1.5@12,100,1,50,2,-1@60",
         "RARITY":"7",
         "outas79f":"0"
     },
