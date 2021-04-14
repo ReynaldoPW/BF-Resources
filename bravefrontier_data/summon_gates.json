@@ -14854,5 +14854,53 @@
         "short desc":"Set, Inoko and Charlie are available through the Summon Gate!",
         "start time":"2021-04-07 15:00:00",
         "summon button image":"gacha_rare_summons_btn1.png"
+    },
+    "20145":{
+        "background image":"gacha_img_210414SH_s1.png",
+        "desc":"From 14 April 7:00 PST ~ 21 April 6:59 PST, summon minimum 5* Global exclusive units with Omni Potential and enjoy Increased Rates on Suizen and  Hypaea!",
+        "door image":"gacha_rare_door.png",
+        "end time":"2021-04-21 14:59:59",
+        "gem cost":5,
+        "name":"Destiny Unite Summon",
+        "priority":"2",
+        "short desc":"  Suizen and Hypaea are available through the Summon Gate! Get a Earth & Thunder DBB Mystery Chest for every 7 Summons from the same gate!",
+        "start time":"2021-04-14 15:00:00",
+        "summon button image":"gacha_rare_summons_btn1.png"
+    },
+    "20146":{
+        "background image":"gacha_ForTest_img_s1.png",
+        "desc":"From 5 May 07:00 PST ~ 12 May 06:59 PST, summon minimum 5* Global exclusive units with Omni Potential and enjoy Increased Rates on Guinne! Get a Global Exclusive Elgif for every 10 summons!",
+        "door image":"gacha_rare_door.png",
+        "end time":"2021-05-12 15:00:00",
+        "gem cost":5,
+        "name":"New type summon test",
+        "priority":"2",
+        "short desc":"Guinne is available through the Summon Gate! Get a Global Exclusive Elgif for every 10 Summons from the same gate!",
+        "start time":"2021-05-05 15:00:00",
+        "summon button image":"gacha_rare_summons_btn1.png"
+    },
+    "20147":{
+        "background image":"gacha_img_20200406SB_s1.png",
+        "desc":"From 14 April 07:00 PST ~ 21 April 06:59 PST, summon minimum 5* Global exclusive units with Omni Potential and enjoy Increased Rates are applied on Ulagan, Kassia and Utheria!",
+        "door image":"gacha_rare_door.png",
+        "end time":"2021-04-21 14:59:59",
+        "gem cost":5,
+        "name":"Second Burst Summon",
+        "priority":"2",
+        "short desc":"Ulagan, Kassia and Utheria are available through the Summon Gate!",
+        "start time":"2021-04-14 15:00:00",
+        "summon button image":"gacha_rare_summons_btn1.png"
+    },
+    "20148":{
+        "background image":"gacha_img_210414HS_s1.png",
+        "desc":"From 14 April 7:00 PST ~ 12 May 6:59 PST, use your Easter Heroes Selector Ticket to summon one of the selected units from the Heroes Across Time series along with past Easter units! Remember, this ticket is only valid till 12th May.",
+        "door image":"gacha_rare_door.png",
+        "end time":"2021-05-12 14:59:59",
+        "gem cost":999,
+        "name":"Easter Heroes Selector Summon",
+        "priority":"2",
+        "short desc":"Summon any one of the units, selected from Heroes Across Time and past Easter exclusive!",
+        "start time":"2021-04-14 15:00:00",
+        "summon button image":"gacha_rare_summons_btn1.png"
     }
 }
