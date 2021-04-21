@@ -76,7 +76,7 @@
         "moWQ30GH":"M_NPC_MST"
     },
     {
-        "d2RFtP8T":"1718",
+        "d2RFtP8T":"1720",
         "moWQ30GH":"M_GACHA_EFFECT_MST"
     },
     {
@@ -124,11 +124,11 @@
         "moWQ30GH":"F_LAND_MST"
     },
     {
-        "d2RFtP8T":"636",
+        "d2RFtP8T":"637",
         "moWQ30GH":"F_AREA_MST"
     },
     {
-        "d2RFtP8T":"928",
+        "d2RFtP8T":"929",
         "moWQ30GH":"F_DUNGEON_MST"
     },
     {
@@ -428,7 +428,7 @@
         "moWQ30GH":"F_PARTICLE"
     },
     {
-        "d2RFtP8T":"1079",
+        "d2RFtP8T":"1080",
         "moWQ30GH":"F_UNIT_MST"
     },
     {
@@ -448,7 +448,7 @@
         "moWQ30GH":"F_UNIT_EXT_MST"
     },
     {
-        "d2RFtP8T":"808",
+        "d2RFtP8T":"809",
         "moWQ30GH":"F_UNIT_CGS_MST"
     },
     {
@@ -472,7 +472,7 @@
         "moWQ30GH":"F_EXTRA_PASSIVE_SKILL_MST"
     },
     {
-        "d2RFtP8T":"3210",
+        "d2RFtP8T":"3213",
         "moWQ30GH":"F_RESOURCE_MST"
     },
     {
