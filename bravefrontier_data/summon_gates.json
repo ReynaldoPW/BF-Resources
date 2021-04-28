@@ -14926,5 +14926,29 @@
         "short desc":" Carlos and Gilbert are available through the Summon Gate! Get a Thunder & Light DBB Mystery Chest for every 7 Summons from the same gate!",
         "start time":"2021-04-21 15:00:00",
         "summon button image":"gacha_rare_summons_btn1.png"
+    },
+    "20152":{
+        "background image":"gacha_img_20200413DS_s1.png",
+        "desc":"From 28 April 7:00 PST ~ 5 May 6:59 PST, summon minimum 5* Global exclusive units with Omni Potential and enjoy Increased Rates are applied on Serin, Ophiuchus and Rhyne!",
+        "door image":"gacha_rare_door.png",
+        "end time":"2021-05-05 14:59:59",
+        "gem cost":5,
+        "name":"Double Step Summon",
+        "priority":"2",
+        "short desc":"Serin, Ophiuchus and Rhyne are available through the Summon Gate!",
+        "start time":"2021-04-28 15:00:00",
+        "summon button image":"gacha_rare_summons_btn1.png"
+    },
+    "20153":{
+        "background image":"gacha_img_210428T_s1.png",
+        "desc":"From 28 April 07:00 PST ~ 5 May 06:59 PST, summon minimum 5* Global exclusive units with Omni Potential and enjoy Increased Rates with each summon on  Joshua up to the 8th Summon!",
+        "door image":"gacha_rare_door.png",
+        "end time":"2021-05-05 14:59:59",
+        "gem cost":5,
+        "name":"Silver Knight Summon",
+        "priority":"2",
+        "short desc":"Joshua is available through the Summon Gate! Get a Global Exclusive Elgif for every 10 Summons from the same gate!",
+        "start time":"2021-04-28 15:00:00",
+        "summon button image":"gacha_rare_summons_btn1.png"
     }
 }

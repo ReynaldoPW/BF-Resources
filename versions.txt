@@ -76,7 +76,7 @@
         "moWQ30GH":"M_NPC_MST"
     },
     {
-        "d2RFtP8T":"1720",
+        "d2RFtP8T":"1721",
         "moWQ30GH":"M_GACHA_EFFECT_MST"
     },
     {
@@ -284,7 +284,7 @@
         "moWQ30GH":"F_ACHIEVEMENT_SUBJECT_MST"
     },
     {
-        "d2RFtP8T":"424",
+        "d2RFtP8T":"425",
         "moWQ30GH":"F_ACHIEVEMENT_TRADE_MST"
     },
     {
@@ -460,11 +460,11 @@
         "moWQ30GH":"F_MISSION_MST"
     },
     {
-        "d2RFtP8T":"1524",
+        "d2RFtP8T":"1525",
         "moWQ30GH":"F_SKILL_MST"
     },
     {
-        "d2RFtP8T":"1476",
+        "d2RFtP8T":"1477",
         "moWQ30GH":"F_SKILL_LEVEL_MST"
     },
     {
@@ -472,7 +472,7 @@
         "moWQ30GH":"F_EXTRA_PASSIVE_SKILL_MST"
     },
     {
-        "d2RFtP8T":"3213",
+        "d2RFtP8T":"3216",
         "moWQ30GH":"F_RESOURCE_MST"
     },
     {
