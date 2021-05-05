@@ -557,7 +557,7 @@
     {
         "3v1qg7Uj":"1",
         "9C64Qwe0":"99",
-        "H0UB8pqm":"sp_quest_banner_legacy3.png",
+        "H0UB8pqm":"sp_quest_banner_legacy3_1.png",
         "HSRhkf70":"0",
         "N4XVE1uA":"0",
         "V84mzqoX":"Seasons Past",
@@ -566,7 +566,22 @@
         "b5VveUd8":"area_sp.jpg",
         "gq73WFmj":"",
         "np4K1xtq":"",
-        "qp37xTDh":"",
+        "qp37xTDh":"SP Dungeon",
+        "sHMai2ZG":"0"
+    },
+    {
+        "3v1qg7Uj":"1",
+        "9C64Qwe0":"99",
+        "H0UB8pqm":"sp_quest_banner_legacy3_2.png",
+        "HSRhkf70":"0",
+        "N4XVE1uA":"0",
+        "V84mzqoX":"Seasons Past",
+        "VjCY7rX4":"100005",
+        "XuJL4pc5":"2",
+        "b5VveUd8":"area_sp.jpg",
+        "gq73WFmj":"",
+        "np4K1xtq":"",
+        "qp37xTDh":"SP Dungeon",
         "sHMai2ZG":"0"
     },
     {
@@ -1942,7 +1957,7 @@
         "N4XVE1uA":"0",
         "V84mzqoX":"Hellborn Nightmare",
         "VjCY7rX4":"800052",
-        "XuJL4pc5":"1",
+        "XuJL4pc5":"20141029",
         "b5VveUd8":"area_sp.jpg",
         "gq73WFmj":"",
         "np4K1xtq":"",
@@ -2077,7 +2092,7 @@
         "N4XVE1uA":"0",
         "V84mzqoX":"Easter Madness",
         "VjCY7rX4":"800080",
-        "XuJL4pc5":"1",
+        "XuJL4pc5":"20150402",
         "b5VveUd8":"area_sp.jpg",
         "gq73WFmj":"",
         "np4K1xtq":"",
@@ -2092,7 +2107,7 @@
         "N4XVE1uA":"0",
         "V84mzqoX":"A Colorful Hunt",
         "VjCY7rX4":"800081",
-        "XuJL4pc5":"1",
+        "XuJL4pc5":"20170414",
         "b5VveUd8":"area_sp.jpg",
         "gq73WFmj":"",
         "np4K1xtq":"",
@@ -2227,7 +2242,7 @@
         "N4XVE1uA":"0",
         "V84mzqoX":"Midnight Reverie",
         "VjCY7rX4":"800117",
-        "XuJL4pc5":"127",
+        "XuJL4pc5":"20171020",
         "b5VveUd8":"area_sp.jpg",
         "gq73WFmj":"",
         "np4K1xtq":"",
@@ -2240,9 +2255,9 @@
         "H0UB8pqm":"sp_quest_banner_800118.png",
         "HSRhkf70":"0",
         "N4XVE1uA":"0",
-        "V84mzqoX":"XMAS",
+        "V84mzqoX":"Midwinter's Tale",
         "VjCY7rX4":"800118",
-        "XuJL4pc5":"127",
+        "XuJL4pc5":"20171221",
         "b5VveUd8":"area_sp.jpg",
         "gq73WFmj":"",
         "np4K1xtq":"",
@@ -2317,7 +2332,7 @@
         "N4XVE1uA":"0",
         "V84mzqoX":"Ellie's Folly",
         "VjCY7rX4":"800123",
-        "XuJL4pc5":"127",
+        "XuJL4pc5":"20180401",
         "b5VveUd8":"area_sp.jpg",
         "gq73WFmj":"",
         "np4K1xtq":"",
@@ -2362,7 +2377,7 @@
         "N4XVE1uA":"0",
         "V84mzqoX":"Moonlight Harvest",
         "VjCY7rX4":"800126",
-        "XuJL4pc5":"190803",
+        "XuJL4pc5":"20180906",
         "b5VveUd8":"area_sp.jpg",
         "gq73WFmj":"",
         "np4K1xtq":"",
@@ -2377,7 +2392,7 @@
         "N4XVE1uA":"Halloween2018_Intro.txt",
         "V84mzqoX":"Manor of Horror",
         "VjCY7rX4":"800127",
-        "XuJL4pc5":"191020",
+        "XuJL4pc5":"20181018",
         "b5VveUd8":"area_sp.jpg",
         "gq73WFmj":"",
         "np4K1xtq":"",
@@ -2422,7 +2437,7 @@
         "N4XVE1uA":"Xmas18_Snow_1_a.txt",
         "V84mzqoX":"Of Snow and Flames",
         "VjCY7rX4":"800134",
-        "XuJL4pc5":"12611",
+        "XuJL4pc5":"20181230",
         "b5VveUd8":"area_sp.jpg",
         "gq73WFmj":"",
         "np4K1xtq":"",
@@ -2435,14 +2450,14 @@
         "H0UB8pqm":"sp_quest_banner_800138.png",
         "HSRhkf70":"0",
         "N4XVE1uA":"0",
-        "V84mzqoX":"5th Anni. Trivia",
+        "V84mzqoX":"5th Anniversary Trivia",
         "VjCY7rX4":"800138",
-        "XuJL4pc5":"12610",
+        "XuJL4pc5":"20181206",
         "b5VveUd8":"area_sp.jpg",
         "gq73WFmj":"",
         "np4K1xtq":"",
         "qp37xTDh":"SP Dungeon",
-        "sHMai2ZG":-1
+        "sHMai2ZG":"100004"
     },
     {
         "3v1qg7Uj":"1",
@@ -2452,12 +2467,12 @@
         "N4XVE1uA":"0",
         "V84mzqoX":"Glitch in the Heart",
         "VjCY7rX4":"800139",
-        "XuJL4pc5":"12612",
+        "XuJL4pc5":"20190213",
         "b5VveUd8":"area_sp.jpg",
         "gq73WFmj":"",
         "np4K1xtq":"",
         "qp37xTDh":"SP Dungeon",
-        "sHMai2ZG":-1
+        "sHMai2ZG":"100005"
     },
     {
         "3v1qg7Uj":"1",
@@ -2467,12 +2482,12 @@
         "N4XVE1uA":"0",
         "V84mzqoX":"Palette of the Gods",
         "VjCY7rX4":"800140",
-        "XuJL4pc5":"12610",
+        "XuJL4pc5":"20190417",
         "b5VveUd8":"area_sp.jpg",
         "gq73WFmj":"",
         "np4K1xtq":"",
         "qp37xTDh":"SP Dungeon",
-        "sHMai2ZG":-1
+        "sHMai2ZG":"100005"
     },
     {
         "3v1qg7Uj":"10",
@@ -2540,14 +2555,14 @@
         "H0UB8pqm":"sp_quest_banner_800151.png",
         "HSRhkf70":"0",
         "N4XVE1uA":"0",
-        "V84mzqoX":"Brave Autumn 2019",
+        "V84mzqoX":"Re:Generations",
         "VjCY7rX4":"800146",
-        "XuJL4pc5":"190805",
+        "XuJL4pc5":"20190819",
         "b5VveUd8":"area_sp.jpg",
         "gq73WFmj":"",
         "np4K1xtq":"",
         "qp37xTDh":"SP Dungeon",
-        "sHMai2ZG":-1
+        "sHMai2ZG":"100005"
     },
     {
         "3v1qg7Uj":"1",
@@ -2555,14 +2570,14 @@
         "H0UB8pqm":"sp_quest_banner_800163.png",
         "HSRhkf70":"0",
         "N4XVE1uA":"0",
-        "V84mzqoX":"Halloween 2019",
+        "V84mzqoX":"Candy Crash",
         "VjCY7rX4":"800147",
-        "XuJL4pc5":"20201104",
+        "XuJL4pc5":"20191104",
         "b5VveUd8":"area_sp.jpg",
         "gq73WFmj":"",
         "np4K1xtq":"",
         "qp37xTDh":"SP Dungeon",
-        "sHMai2ZG":-1
+        "sHMai2ZG":"100005"
     },
     {
         "3v1qg7Uj":"1",
@@ -2662,12 +2677,12 @@
         "N4XVE1uA":"2019_Winter_M01.txt",
         "V84mzqoX":"The Longest Night",
         "VjCY7rX4":"800159",
-        "XuJL4pc5":"20201230",
+        "XuJL4pc5":"20191230",
         "b5VveUd8":"area_sp.jpg",
         "gq73WFmj":"",
         "np4K1xtq":"",
         "qp37xTDh":"SP Dungeon",
-        "sHMai2ZG":-1
+        "sHMai2ZG":"100005"
     },
     {
         "3v1qg7Uj":"10",
@@ -2767,12 +2782,12 @@
         "N4XVE1uA":"0",
         "V84mzqoX":"Altered Destinies",
         "VjCY7rX4":"800168",
-        "XuJL4pc5":"191126",
+        "XuJL4pc5":"20191204",
         "b5VveUd8":"area_sp.jpg",
         "gq73WFmj":"",
         "np4K1xtq":"",
         "qp37xTDh":"",
-        "sHMai2ZG":-1
+        "sHMai2ZG":"100005"
     },
     {
         "3v1qg7Uj":"1",
@@ -2932,12 +2947,12 @@
         "N4XVE1uA":"0",
         "V84mzqoX":"Brave Summer 2019",
         "VjCY7rX4":"801007",
-        "XuJL4pc5":"127",
+        "XuJL4pc5":"20190617",
         "b5VveUd8":"area_sp.jpg",
         "gq73WFmj":"",
         "np4K1xtq":"",
         "qp37xTDh":"SP Dungeon",
-        "sHMai2ZG":-1
+        "sHMai2ZG":"100005"
     },
     {
         "3v1qg7Uj":"10",
@@ -3022,7 +3037,7 @@
         "N4XVE1uA":"0",
         "V84mzqoX":"Winter Glades Blitz",
         "VjCY7rX4":"802011",
-        "XuJL4pc5":"1",
+        "XuJL4pc5":"20141223",
         "b5VveUd8":"area_sp.jpg",
         "gq73WFmj":"",
         "np4K1xtq":"",
@@ -3037,7 +3052,7 @@
         "N4XVE1uA":"0",
         "V84mzqoX":"Glittering Wintertide",
         "VjCY7rX4":"802012",
-        "XuJL4pc5":"1",
+        "XuJL4pc5":"20151223",
         "b5VveUd8":"area_sp.jpg",
         "gq73WFmj":"",
         "np4K1xtq":"",
@@ -3052,7 +3067,7 @@
         "N4XVE1uA":"0",
         "V84mzqoX":"Jubilant Jingles",
         "VjCY7rX4":"802013",
-        "XuJL4pc5":"1",
+        "XuJL4pc5":"20161221",
         "b5VveUd8":"area_sp.jpg",
         "gq73WFmj":"",
         "np4K1xtq":"",
@@ -3202,7 +3217,7 @@
         "N4XVE1uA":"0",
         "V84mzqoX":"Witch of the Abyss",
         "VjCY7rX4":"806050",
-        "XuJL4pc5":"1",
+        "XuJL4pc5":"20150213",
         "b5VveUd8":"area_sp.jpg",
         "gq73WFmj":"",
         "np4K1xtq":"",
@@ -3217,7 +3232,7 @@
         "N4XVE1uA":"0",
         "V84mzqoX":"Forgotten Shadows",
         "VjCY7rX4":"806051",
-        "XuJL4pc5":"1",
+        "XuJL4pc5":"20170214",
         "b5VveUd8":"area_sp.jpg",
         "gq73WFmj":"",
         "np4K1xtq":"",
@@ -3755,14 +3770,14 @@
         "H0UB8pqm":"sp_quest_banner_20001701.png",
         "HSRhkf70":"0",
         "N4XVE1uA":"0",
-        "V84mzqoX":"Brave Halloween 2020",
+        "V84mzqoX":"Survivor Games",
         "VjCY7rX4":"9000003",
-        "XuJL4pc5":"20201010",
+        "XuJL4pc5":"20201028",
         "b5VveUd8":"area_sp.jpg",
         "gq73WFmj":"",
         "np4K1xtq":"",
         "qp37xTDh":"SP Dungeon",
-        "sHMai2ZG":"0"
+        "sHMai2ZG":"100005"
     },
     {
         "3v1qg7Uj":"10",
@@ -3785,14 +3800,14 @@
         "H0UB8pqm":"sp_quest_banner_gortius_2.png",
         "HSRhkf70":"0",
         "N4XVE1uA":"0",
-        "V84mzqoX":"Gortius Dungeon",
+        "V84mzqoX":"House of Valen",
         "VjCY7rX4":"9500001",
-        "XuJL4pc5":"20200709",
+        "XuJL4pc5":"20200708",
         "b5VveUd8":"area_sp.jpg",
         "gq73WFmj":"",
         "np4K1xtq":"",
         "qp37xTDh":"Gortius Event Dungeon",
-        "sHMai2ZG":-1
+        "sHMai2ZG":"100005"
     },
     {
         "3v1qg7Uj":"10",
@@ -3817,12 +3832,12 @@
         "N4XVE1uA":"0",
         "V84mzqoX":"The Fiend Zone",
         "VjCY7rX4":"20000200",
-        "XuJL4pc5":"20210210",
+        "XuJL4pc5":"20200212",
         "b5VveUd8":"area_sp.jpg",
         "gq73WFmj":"",
         "np4K1xtq":"",
         "qp37xTDh":"SP Dungeon",
-        "sHMai2ZG":-1
+        "sHMai2ZG":"100005"
     },
     {
         "3v1qg7Uj":"10",
@@ -3852,7 +3867,7 @@
         "gq73WFmj":"",
         "np4K1xtq":"",
         "qp37xTDh":"SP Dungeon",
-        "sHMai2ZG":-1
+        "sHMai2ZG":"100005"
     },
     {
         "3v1qg7Uj":"10",
@@ -3875,14 +3890,14 @@
         "H0UB8pqm":"sp_quest_banner_20001000.png",
         "HSRhkf70":"0",
         "N4XVE1uA":"0",
-        "V84mzqoX":"Summer 2020",
+        "V84mzqoX":"Brave Summer 2020",
         "VjCY7rX4":"20001000",
         "XuJL4pc5":"20200610",
         "b5VveUd8":"area_sp.jpg",
         "gq73WFmj":"",
         "np4K1xtq":"",
         "qp37xTDh":"SP Dungeon",
-        "sHMai2ZG":-1
+        "sHMai2ZG":"100005"
     },
     {
         "3v1qg7Uj":"10",
@@ -3972,7 +3987,7 @@
         "gq73WFmj":"",
         "np4K1xtq":"",
         "qp37xTDh":"SP Dungeon",
-        "sHMai2ZG":"0"
+        "sHMai2ZG":"100005"
     },
     {
         "3v1qg7Uj":"1",
@@ -4010,14 +4025,14 @@
         "H0UB8pqm":"sp_quest_banner_20001400.png",
         "HSRhkf70":"0",
         "N4XVE1uA":"0",
-        "V84mzqoX":"Autumn 2020",
+        "V84mzqoX":"Red Moon Rising",
         "VjCY7rX4":"25520001",
         "XuJL4pc5":"20200812",
         "b5VveUd8":"area_sp.jpg",
         "gq73WFmj":"",
         "np4K1xtq":"",
         "qp37xTDh":"SP Dungeon",
-        "sHMai2ZG":"0"
+        "sHMai2ZG":"100005"
     },
     {
         "3v1qg7Uj":"10",
@@ -4047,7 +4062,7 @@
         "gq73WFmj":"",
         "np4K1xtq":"",
         "qp37xTDh":"SP Dungeon",
-        "sHMai2ZG":"0"
+        "sHMai2ZG":"100005"
     },
     {
         "3v1qg7Uj":"10",
@@ -4077,7 +4092,7 @@
         "gq73WFmj":"",
         "np4K1xtq":"",
         "qp37xTDh":"SP Dungeon",
-        "sHMai2ZG":"0"
+        "sHMai2ZG":"100005"
     },
     {
         "3v1qg7Uj":"10",
@@ -4102,12 +4117,12 @@
         "N4XVE1uA":"0",
         "V84mzqoX":"Dreams of Frost",
         "VjCY7rX4":"25570001",
-        "XuJL4pc5":"20201230",
+        "XuJL4pc5":"20201224",
         "b5VveUd8":"area_sp.jpg",
         "gq73WFmj":"",
         "np4K1xtq":"",
         "qp37xTDh":"SP Dungeon",
-        "sHMai2ZG":"0"
+        "sHMai2ZG":"100005"
     },
     {
         "3v1qg7Uj":"10",
@@ -4132,12 +4147,12 @@
         "N4XVE1uA":"NY2021_Intro.txt",
         "V84mzqoX":"Dreams of Dawn",
         "VjCY7rX4":"25570003",
-        "XuJL4pc5":"20210113",
+        "XuJL4pc5":"20210106",
         "b5VveUd8":"area_sp.jpg",
         "gq73WFmj":"",
         "np4K1xtq":"",
         "qp37xTDh":"SP Dungeon",
-        "sHMai2ZG":"0"
+        "sHMai2ZG":"100005"
     },
     {
         "3v1qg7Uj":"1",
@@ -4147,12 +4162,12 @@
         "N4XVE1uA":"VDay2021_Intro.txt",
         "V84mzqoX":"Fiendish Fancies",
         "VjCY7rX4":"25580001",
-        "XuJL4pc5":"20210210",
+        "XuJL4pc5":"20210209",
         "b5VveUd8":"area_sp.jpg",
         "gq73WFmj":"",
         "np4K1xtq":"",
         "qp37xTDh":"SP Dungeon",
-        "sHMai2ZG":"0"
+        "sHMai2ZG":"100005"
     },
     {
         "3v1qg7Uj":"10",
@@ -4177,12 +4192,12 @@
         "N4XVE1uA":"Spring2021_Intro.txt",
         "V84mzqoX":"The Light of Life",
         "VjCY7rX4":"25590001",
-        "XuJL4pc5":"202103172",
+        "XuJL4pc5":"20210310",
         "b5VveUd8":"area_sp.jpg",
         "gq73WFmj":"",
         "np4K1xtq":"",
         "qp37xTDh":"SP Dungeon",
-        "sHMai2ZG":"0"
+        "sHMai2ZG":"100005"
     },
     {
         "3v1qg7Uj":"10",
@@ -4212,7 +4227,7 @@
         "gq73WFmj":"",
         "np4K1xtq":"",
         "qp37xTDh":"SP Dungeon",
-        "sHMai2ZG":"0"
+        "sHMai2ZG":"100005"
     },
     {
         "3v1qg7Uj":"10",

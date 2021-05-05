@@ -76,7 +76,7 @@
         "moWQ30GH":"M_NPC_MST"
     },
     {
-        "d2RFtP8T":"1721",
+        "d2RFtP8T":"1724",
         "moWQ30GH":"M_GACHA_EFFECT_MST"
     },
     {
@@ -124,11 +124,11 @@
         "moWQ30GH":"F_LAND_MST"
     },
     {
-        "d2RFtP8T":"637",
+        "d2RFtP8T":"640",
         "moWQ30GH":"F_AREA_MST"
     },
     {
-        "d2RFtP8T":"929",
+        "d2RFtP8T":"934",
         "moWQ30GH":"F_DUNGEON_MST"
     },
     {
@@ -220,15 +220,15 @@
         "moWQ30GH":"F_CHRONOLOGY_WORD_MST"
     },
     {
-        "d2RFtP8T":"507",
+        "d2RFtP8T":"509",
         "moWQ30GH":"F_FROGATE_MST"
     },
     {
-        "d2RFtP8T":"284",
+        "d2RFtP8T":"286",
         "moWQ30GH":"F_FROGATE_REWARD_MST"
     },
     {
-        "d2RFtP8T":"152",
+        "d2RFtP8T":"153",
         "moWQ30GH":"F_FROGATE_SUPPORT_MST"
     },
     {
@@ -456,15 +456,15 @@
         "moWQ30GH":"F_UNIT_TYPE_MST"
     },
     {
-        "d2RFtP8T":"1048",
+        "d2RFtP8T":"1054",
         "moWQ30GH":"F_MISSION_MST"
     },
     {
-        "d2RFtP8T":"1525",
+        "d2RFtP8T":"1529",
         "moWQ30GH":"F_SKILL_MST"
     },
     {
-        "d2RFtP8T":"1477",
+        "d2RFtP8T":"1481",
         "moWQ30GH":"F_SKILL_LEVEL_MST"
     },
     {
@@ -472,7 +472,7 @@
         "moWQ30GH":"F_EXTRA_PASSIVE_SKILL_MST"
     },
     {
-        "d2RFtP8T":"3216",
+        "d2RFtP8T":"3223",
         "moWQ30GH":"F_RESOURCE_MST"
     },
     {

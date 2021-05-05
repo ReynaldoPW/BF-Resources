@@ -555,13 +555,28 @@
         "sHMai2ZG":"0"
     },
     {
-        "DESCRIPTION":"",
+        "DESCRIPTION":"SP Dungeon",
         "IMAGE":"area_sp.jpg",
         "MAP_OPENING_TEXT_FILE":"0",
         "MISSION_AREA":"100004",
         "MISSION_IDS_REQUIRED":"0",
         "QUEST_ALWAYS_EMPTY":"",
-        "QUEST_BANNER_IMG":"sp_quest_banner_legacy3.png",
+        "QUEST_BANNER_IMG":"sp_quest_banner_legacy3_1.png",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"2",
+        "QUEST_ZONE_MAP_NUMBER":"99",
+        "QUEST_ZONE_NAME":"Seasons Past",
+        "UNKNOWN_BOOLEAN_QUESTS":"1",
+        "gq73WFmj":"",
+        "sHMai2ZG":"0"
+    },
+    {
+        "DESCRIPTION":"SP Dungeon",
+        "IMAGE":"area_sp.jpg",
+        "MAP_OPENING_TEXT_FILE":"0",
+        "MISSION_AREA":"100005",
+        "MISSION_IDS_REQUIRED":"0",
+        "QUEST_ALWAYS_EMPTY":"",
+        "QUEST_BANNER_IMG":"sp_quest_banner_legacy3_2.png",
         "QUEST_MAP_NUMBER/GUIDE_ID":"2",
         "QUEST_ZONE_MAP_NUMBER":"99",
         "QUEST_ZONE_NAME":"Seasons Past",
@@ -1942,7 +1957,7 @@
         "MISSION_IDS_REQUIRED":"0",
         "QUEST_ALWAYS_EMPTY":"",
         "QUEST_BANNER_IMG":"sp_quest_banner_807000.png",
-        "QUEST_MAP_NUMBER/GUIDE_ID":"1",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"20141029",
         "QUEST_ZONE_MAP_NUMBER":"99",
         "QUEST_ZONE_NAME":"Hellborn Nightmare",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
@@ -2077,7 +2092,7 @@
         "MISSION_IDS_REQUIRED":"0",
         "QUEST_ALWAYS_EMPTY":"",
         "QUEST_BANNER_IMG":"sp_quest_banner_801040.png",
-        "QUEST_MAP_NUMBER/GUIDE_ID":"1",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"20150402",
         "QUEST_ZONE_MAP_NUMBER":"99",
         "QUEST_ZONE_NAME":"Easter Madness",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
@@ -2092,7 +2107,7 @@
         "MISSION_IDS_REQUIRED":"0",
         "QUEST_ALWAYS_EMPTY":"",
         "QUEST_BANNER_IMG":"sp_quest_banner_800081.png",
-        "QUEST_MAP_NUMBER/GUIDE_ID":"1",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"20170414",
         "QUEST_ZONE_MAP_NUMBER":"99",
         "QUEST_ZONE_NAME":"A Colorful Hunt",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
@@ -2227,7 +2242,7 @@
         "MISSION_IDS_REQUIRED":"0",
         "QUEST_ALWAYS_EMPTY":"",
         "QUEST_BANNER_IMG":"sp_quest_banner_800117.png",
-        "QUEST_MAP_NUMBER/GUIDE_ID":"127",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"20171020",
         "QUEST_ZONE_MAP_NUMBER":"99",
         "QUEST_ZONE_NAME":"Midnight Reverie",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
@@ -2242,9 +2257,9 @@
         "MISSION_IDS_REQUIRED":"0",
         "QUEST_ALWAYS_EMPTY":"",
         "QUEST_BANNER_IMG":"sp_quest_banner_800118.png",
-        "QUEST_MAP_NUMBER/GUIDE_ID":"127",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"20171221",
         "QUEST_ZONE_MAP_NUMBER":"99",
-        "QUEST_ZONE_NAME":"XMAS",
+        "QUEST_ZONE_NAME":"Midwinter's Tale",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
         "gq73WFmj":"",
         "sHMai2ZG":"100004"
@@ -2317,7 +2332,7 @@
         "MISSION_IDS_REQUIRED":"0",
         "QUEST_ALWAYS_EMPTY":"",
         "QUEST_BANNER_IMG":"sp_quest_banner_800123.png",
-        "QUEST_MAP_NUMBER/GUIDE_ID":"127",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"20180401",
         "QUEST_ZONE_MAP_NUMBER":"99",
         "QUEST_ZONE_NAME":"Ellie's Folly",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
@@ -2362,7 +2377,7 @@
         "MISSION_IDS_REQUIRED":"0",
         "QUEST_ALWAYS_EMPTY":"",
         "QUEST_BANNER_IMG":"sp_quest_banner_830126_2.png",
-        "QUEST_MAP_NUMBER/GUIDE_ID":"190803",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"20180906",
         "QUEST_ZONE_MAP_NUMBER":"99",
         "QUEST_ZONE_NAME":"Moonlight Harvest",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
@@ -2377,7 +2392,7 @@
         "MISSION_IDS_REQUIRED":"0",
         "QUEST_ALWAYS_EMPTY":"",
         "QUEST_BANNER_IMG":"sp_quest_banner_800127.png",
-        "QUEST_MAP_NUMBER/GUIDE_ID":"191020",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"20181018",
         "QUEST_ZONE_MAP_NUMBER":"99",
         "QUEST_ZONE_NAME":"Manor of Horror",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
@@ -2422,7 +2437,7 @@
         "MISSION_IDS_REQUIRED":"0",
         "QUEST_ALWAYS_EMPTY":"",
         "QUEST_BANNER_IMG":"sp_quest_banner_800135_0.png",
-        "QUEST_MAP_NUMBER/GUIDE_ID":"12611",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"20181230",
         "QUEST_ZONE_MAP_NUMBER":"99",
         "QUEST_ZONE_NAME":"Of Snow and Flames",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
@@ -2437,12 +2452,12 @@
         "MISSION_IDS_REQUIRED":"0",
         "QUEST_ALWAYS_EMPTY":"",
         "QUEST_BANNER_IMG":"sp_quest_banner_800138.png",
-        "QUEST_MAP_NUMBER/GUIDE_ID":"12610",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"20181206",
         "QUEST_ZONE_MAP_NUMBER":"99",
-        "QUEST_ZONE_NAME":"5th Anni. Trivia",
+        "QUEST_ZONE_NAME":"5th Anniversary Trivia",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
         "gq73WFmj":"",
-        "sHMai2ZG":-1
+        "sHMai2ZG":"100004"
     },
     {
         "DESCRIPTION":"SP Dungeon",
@@ -2452,12 +2467,12 @@
         "MISSION_IDS_REQUIRED":"0",
         "QUEST_ALWAYS_EMPTY":"",
         "QUEST_BANNER_IMG":"sp_quest_banner_800139.png",
-        "QUEST_MAP_NUMBER/GUIDE_ID":"12612",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"20190213",
         "QUEST_ZONE_MAP_NUMBER":"99",
         "QUEST_ZONE_NAME":"Glitch in the Heart",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
         "gq73WFmj":"",
-        "sHMai2ZG":-1
+        "sHMai2ZG":"100005"
     },
     {
         "DESCRIPTION":"SP Dungeon",
@@ -2467,12 +2482,12 @@
         "MISSION_IDS_REQUIRED":"0",
         "QUEST_ALWAYS_EMPTY":"",
         "QUEST_BANNER_IMG":"sp_quest_banner_800140.png",
-        "QUEST_MAP_NUMBER/GUIDE_ID":"12610",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"20190417",
         "QUEST_ZONE_MAP_NUMBER":"99",
         "QUEST_ZONE_NAME":"Palette of the Gods",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
         "gq73WFmj":"",
-        "sHMai2ZG":-1
+        "sHMai2ZG":"100005"
     },
     {
         "DESCRIPTION":"SP Dungeon",
@@ -2542,12 +2557,12 @@
         "MISSION_IDS_REQUIRED":"0",
         "QUEST_ALWAYS_EMPTY":"",
         "QUEST_BANNER_IMG":"sp_quest_banner_800151.png",
-        "QUEST_MAP_NUMBER/GUIDE_ID":"190805",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"20190819",
         "QUEST_ZONE_MAP_NUMBER":"99",
-        "QUEST_ZONE_NAME":"Brave Autumn 2019",
+        "QUEST_ZONE_NAME":"Re:Generations",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
         "gq73WFmj":"",
-        "sHMai2ZG":-1
+        "sHMai2ZG":"100005"
     },
     {
         "DESCRIPTION":"SP Dungeon",
@@ -2557,12 +2572,12 @@
         "MISSION_IDS_REQUIRED":"0",
         "QUEST_ALWAYS_EMPTY":"",
         "QUEST_BANNER_IMG":"sp_quest_banner_800163.png",
-        "QUEST_MAP_NUMBER/GUIDE_ID":"20201104",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"20191104",
         "QUEST_ZONE_MAP_NUMBER":"99",
-        "QUEST_ZONE_NAME":"Halloween 2019",
+        "QUEST_ZONE_NAME":"Candy Crash",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
         "gq73WFmj":"",
-        "sHMai2ZG":-1
+        "sHMai2ZG":"100005"
     },
     {
         "DESCRIPTION":"",
@@ -2662,12 +2677,12 @@
         "MISSION_IDS_REQUIRED":"0",
         "QUEST_ALWAYS_EMPTY":"",
         "QUEST_BANNER_IMG":"sp_quest_banner_800159.png",
-        "QUEST_MAP_NUMBER/GUIDE_ID":"20201230",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"20191230",
         "QUEST_ZONE_MAP_NUMBER":"99",
         "QUEST_ZONE_NAME":"The Longest Night",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
         "gq73WFmj":"",
-        "sHMai2ZG":-1
+        "sHMai2ZG":"100005"
     },
     {
         "DESCRIPTION":"",
@@ -2767,12 +2782,12 @@
         "MISSION_IDS_REQUIRED":"0",
         "QUEST_ALWAYS_EMPTY":"",
         "QUEST_BANNER_IMG":"sp_quest_banner_auopening3.png",
-        "QUEST_MAP_NUMBER/GUIDE_ID":"191126",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"20191204",
         "QUEST_ZONE_MAP_NUMBER":"99",
         "QUEST_ZONE_NAME":"Altered Destinies",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
         "gq73WFmj":"",
-        "sHMai2ZG":-1
+        "sHMai2ZG":"100005"
     },
     {
         "DESCRIPTION":"SP Dungeon",
@@ -2932,12 +2947,12 @@
         "MISSION_IDS_REQUIRED":"0",
         "QUEST_ALWAYS_EMPTY":"",
         "QUEST_BANNER_IMG":"sp_quest_banner_801008.png",
-        "QUEST_MAP_NUMBER/GUIDE_ID":"127",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"20190617",
         "QUEST_ZONE_MAP_NUMBER":"99",
         "QUEST_ZONE_NAME":"Brave Summer 2019",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
         "gq73WFmj":"",
-        "sHMai2ZG":-1
+        "sHMai2ZG":"100005"
     },
     {
         "DESCRIPTION":"SP Dungeon",
@@ -3022,7 +3037,7 @@
         "MISSION_IDS_REQUIRED":"0",
         "QUEST_ALWAYS_EMPTY":"",
         "QUEST_BANNER_IMG":"sp_quest_banner_802999.png",
-        "QUEST_MAP_NUMBER/GUIDE_ID":"1",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"20141223",
         "QUEST_ZONE_MAP_NUMBER":"99",
         "QUEST_ZONE_NAME":"Winter Glades Blitz",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
@@ -3037,7 +3052,7 @@
         "MISSION_IDS_REQUIRED":"0",
         "QUEST_ALWAYS_EMPTY":"",
         "QUEST_BANNER_IMG":"sp_quest_banner_803001.png",
-        "QUEST_MAP_NUMBER/GUIDE_ID":"1",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"20151223",
         "QUEST_ZONE_MAP_NUMBER":"99",
         "QUEST_ZONE_NAME":"Glittering Wintertide",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
@@ -3052,7 +3067,7 @@
         "MISSION_IDS_REQUIRED":"0",
         "QUEST_ALWAYS_EMPTY":"",
         "QUEST_BANNER_IMG":"sp_quest_banner_803002.png",
-        "QUEST_MAP_NUMBER/GUIDE_ID":"1",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"20161221",
         "QUEST_ZONE_MAP_NUMBER":"99",
         "QUEST_ZONE_NAME":"Jubilant Jingles",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
@@ -3202,7 +3217,7 @@
         "MISSION_IDS_REQUIRED":"0",
         "QUEST_ALWAYS_EMPTY":"",
         "QUEST_BANNER_IMG":"sp_quest_banner_806050.png",
-        "QUEST_MAP_NUMBER/GUIDE_ID":"1",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"20150213",
         "QUEST_ZONE_MAP_NUMBER":"99",
         "QUEST_ZONE_NAME":"Witch of the Abyss",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
@@ -3217,7 +3232,7 @@
         "MISSION_IDS_REQUIRED":"0",
         "QUEST_ALWAYS_EMPTY":"",
         "QUEST_BANNER_IMG":"sp_quest_banner_806051.png",
-        "QUEST_MAP_NUMBER/GUIDE_ID":"1",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"20170214",
         "QUEST_ZONE_MAP_NUMBER":"99",
         "QUEST_ZONE_NAME":"Forgotten Shadows",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
@@ -3757,12 +3772,12 @@
         "MISSION_IDS_REQUIRED":"0",
         "QUEST_ALWAYS_EMPTY":"",
         "QUEST_BANNER_IMG":"sp_quest_banner_20001701.png",
-        "QUEST_MAP_NUMBER/GUIDE_ID":"20201010",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"20201028",
         "QUEST_ZONE_MAP_NUMBER":"99",
-        "QUEST_ZONE_NAME":"Brave Halloween 2020",
+        "QUEST_ZONE_NAME":"Survivor Games",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
         "gq73WFmj":"",
-        "sHMai2ZG":"0"
+        "sHMai2ZG":"100005"
     },
     {
         "DESCRIPTION":"SP Dungeon",
@@ -3787,12 +3802,12 @@
         "MISSION_IDS_REQUIRED":"0",
         "QUEST_ALWAYS_EMPTY":"",
         "QUEST_BANNER_IMG":"sp_quest_banner_gortius_2.png",
-        "QUEST_MAP_NUMBER/GUIDE_ID":"20200709",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"20200708",
         "QUEST_ZONE_MAP_NUMBER":"99",
-        "QUEST_ZONE_NAME":"Gortius Dungeon",
+        "QUEST_ZONE_NAME":"House of Valen",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
         "gq73WFmj":"",
-        "sHMai2ZG":-1
+        "sHMai2ZG":"100005"
     },
     {
         "DESCRIPTION":"Gortius Daily Dungeon",
@@ -3817,12 +3832,12 @@
         "MISSION_IDS_REQUIRED":"0",
         "QUEST_ALWAYS_EMPTY":"",
         "QUEST_BANNER_IMG":"sp_quest_banner_vday2020_2.png",
-        "QUEST_MAP_NUMBER/GUIDE_ID":"20210210",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"20200212",
         "QUEST_ZONE_MAP_NUMBER":"99",
         "QUEST_ZONE_NAME":"The Fiend Zone",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
         "gq73WFmj":"",
-        "sHMai2ZG":-1
+        "sHMai2ZG":"100005"
     },
     {
         "DESCRIPTION":"SP Dungeon",
@@ -3852,7 +3867,7 @@
         "QUEST_ZONE_NAME":"Realm of the Gods",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
         "gq73WFmj":"",
-        "sHMai2ZG":-1
+        "sHMai2ZG":"100005"
     },
     {
         "DESCRIPTION":"SP Dungeon",
@@ -3879,10 +3894,10 @@
         "QUEST_BANNER_IMG":"sp_quest_banner_20001000.png",
         "QUEST_MAP_NUMBER/GUIDE_ID":"20200610",
         "QUEST_ZONE_MAP_NUMBER":"99",
-        "QUEST_ZONE_NAME":"Summer 2020",
+        "QUEST_ZONE_NAME":"Brave Summer 2020",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
         "gq73WFmj":"",
-        "sHMai2ZG":-1
+        "sHMai2ZG":"100005"
     },
     {
         "DESCRIPTION":"SP Dungeon",
@@ -3972,7 +3987,7 @@
         "QUEST_ZONE_NAME":"Shadow of Memories",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
         "gq73WFmj":"",
-        "sHMai2ZG":"0"
+        "sHMai2ZG":"100005"
     },
     {
         "DESCRIPTION":"SP Dungeon",
@@ -4014,10 +4029,10 @@
         "QUEST_BANNER_IMG":"sp_quest_banner_20001400.png",
         "QUEST_MAP_NUMBER/GUIDE_ID":"20200812",
         "QUEST_ZONE_MAP_NUMBER":"99",
-        "QUEST_ZONE_NAME":"Autumn 2020",
+        "QUEST_ZONE_NAME":"Red Moon Rising",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
         "gq73WFmj":"",
-        "sHMai2ZG":"0"
+        "sHMai2ZG":"100005"
     },
     {
         "DESCRIPTION":"SP Dungeon",
@@ -4047,7 +4062,7 @@
         "QUEST_ZONE_NAME":"Wings of Destiny",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
         "gq73WFmj":"",
-        "sHMai2ZG":"0"
+        "sHMai2ZG":"100005"
     },
     {
         "DESCRIPTION":"SP Dungeon",
@@ -4077,7 +4092,7 @@
         "QUEST_ZONE_NAME":"Memories in Azure",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
         "gq73WFmj":"",
-        "sHMai2ZG":"0"
+        "sHMai2ZG":"100005"
     },
     {
         "DESCRIPTION":"SP Dungeon",
@@ -4102,12 +4117,12 @@
         "MISSION_IDS_REQUIRED":"0",
         "QUEST_ALWAYS_EMPTY":"",
         "QUEST_BANNER_IMG":"sp_quest_banner_25570001.png",
-        "QUEST_MAP_NUMBER/GUIDE_ID":"20201230",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"20201224",
         "QUEST_ZONE_MAP_NUMBER":"99",
         "QUEST_ZONE_NAME":"Dreams of Frost",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
         "gq73WFmj":"",
-        "sHMai2ZG":"0"
+        "sHMai2ZG":"100005"
     },
     {
         "DESCRIPTION":"SP Dungeon",
@@ -4132,12 +4147,12 @@
         "MISSION_IDS_REQUIRED":"0",
         "QUEST_ALWAYS_EMPTY":"",
         "QUEST_BANNER_IMG":"sp_quest_banner_25570003.png",
-        "QUEST_MAP_NUMBER/GUIDE_ID":"20210113",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"20210106",
         "QUEST_ZONE_MAP_NUMBER":"99",
         "QUEST_ZONE_NAME":"Dreams of Dawn",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
         "gq73WFmj":"",
-        "sHMai2ZG":"0"
+        "sHMai2ZG":"100005"
     },
     {
         "DESCRIPTION":"SP Dungeon",
@@ -4147,12 +4162,12 @@
         "MISSION_IDS_REQUIRED":"0",
         "QUEST_ALWAYS_EMPTY":"",
         "QUEST_BANNER_IMG":"sp_quest_banner_25580001.png",
-        "QUEST_MAP_NUMBER/GUIDE_ID":"20210210",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"20210209",
         "QUEST_ZONE_MAP_NUMBER":"99",
         "QUEST_ZONE_NAME":"Fiendish Fancies",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
         "gq73WFmj":"",
-        "sHMai2ZG":"0"
+        "sHMai2ZG":"100005"
     },
     {
         "DESCRIPTION":"SP Dungeon",
@@ -4177,12 +4192,12 @@
         "MISSION_IDS_REQUIRED":"0",
         "QUEST_ALWAYS_EMPTY":"",
         "QUEST_BANNER_IMG":"sp_quest_banner_25590001.png",
-        "QUEST_MAP_NUMBER/GUIDE_ID":"202103172",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"20210310",
         "QUEST_ZONE_MAP_NUMBER":"99",
         "QUEST_ZONE_NAME":"The Light of Life",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
         "gq73WFmj":"",
-        "sHMai2ZG":"0"
+        "sHMai2ZG":"100005"
     },
     {
         "DESCRIPTION":"SP Dungeon",
@@ -4212,7 +4227,7 @@
         "QUEST_ZONE_NAME":"Full Metal Hare",
         "UNKNOWN_BOOLEAN_QUESTS":"1",
         "gq73WFmj":"",
-        "sHMai2ZG":"0"
+        "sHMai2ZG":"100005"
     },
     {
         "DESCRIPTION":"SP Dungeon",

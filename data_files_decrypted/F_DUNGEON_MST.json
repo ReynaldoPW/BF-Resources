@@ -7200,7 +7200,7 @@
         "THUMBNAIL":""
     },
     {
-        "0u1nvMeS":"99",
+        "0u1nvMeS":"1",
         "3hPeI1RV":"0",
         "DESCRIPTION":"",
         "DUNGEON_ID":"800135",
@@ -7218,7 +7218,7 @@
         "THUMBNAIL":""
     },
     {
-        "0u1nvMeS":"99",
+        "0u1nvMeS":"1",
         "3hPeI1RV":"0",
         "DESCRIPTION":"",
         "DUNGEON_ID":"800136",
@@ -7236,7 +7236,7 @@
         "THUMBNAIL":""
     },
     {
-        "0u1nvMeS":"99",
+        "0u1nvMeS":"1",
         "3hPeI1RV":"0",
         "DESCRIPTION":"",
         "DUNGEON_ID":"800137",
@@ -7254,7 +7254,7 @@
         "THUMBNAIL":""
     },
     {
-        "0u1nvMeS":"800138",
+        "0u1nvMeS":"1",
         "3hPeI1RV":"0",
         "DESCRIPTION":"",
         "DUNGEON_ID":"800138",
@@ -7272,7 +7272,7 @@
         "THUMBNAIL":""
     },
     {
-        "0u1nvMeS":"200002003",
+        "0u1nvMeS":"1",
         "3hPeI1RV":"0",
         "DESCRIPTION":"",
         "DUNGEON_ID":"800140",
@@ -7434,7 +7434,7 @@
         "THUMBNAIL":""
     },
     {
-        "0u1nvMeS":"800151",
+        "0u1nvMeS":"1",
         "3hPeI1RV":"0",
         "DESCRIPTION":"",
         "DUNGEON_ID":"800151",
@@ -7452,7 +7452,7 @@
         "THUMBNAIL":""
     },
     {
-        "0u1nvMeS":"200002021",
+        "0u1nvMeS":"1",
         "3hPeI1RV":"0",
         "DESCRIPTION":"",
         "DUNGEON_ID":"800152",
@@ -7470,7 +7470,7 @@
         "THUMBNAIL":""
     },
     {
-        "0u1nvMeS":"200002021",
+        "0u1nvMeS":"1",
         "3hPeI1RV":"0",
         "DESCRIPTION":"",
         "DUNGEON_ID":"800153",
@@ -7974,7 +7974,7 @@
         "THUMBNAIL":""
     },
     {
-        "0u1nvMeS":"200002012",
+        "0u1nvMeS":"1",
         "3hPeI1RV":"0",
         "DESCRIPTION":"",
         "DUNGEON_ID":"801008",
@@ -10170,6 +10170,24 @@
         "THUMBNAIL":""
     },
     {
+        "0u1nvMeS":"100000",
+        "3hPeI1RV":"1",
+        "DESCRIPTION":"",
+        "DUNGEON_ID":"1008700",
+        "DUNGEON_IMAGE":"dungeon_battle_1000000.jpg",
+        "DUNGEON_NAME":"FH_87",
+        "M6C1aXfR":"300",
+        "MAP_OPENING_TEXT_FILE":"0,0",
+        "MISSION_AREA":"1000010",
+        "MISSION_IDS_REQUIRED":"0",
+        "QUEST_ALWAYS_EMPTY":"",
+        "QUEST_BANNER_IMAGE":"sp_quest_banner_challenge.png",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"1",
+        "QUEST_ZONE_MAP_NUMBER":"99",
+        "SnNtTh51":"300",
+        "THUMBNAIL":""
+    },
+    {
         "0u1nvMeS":"1",
         "3hPeI1RV":"2",
         "DESCRIPTION":"MST_DUNGEONS_DUNGEON_2000000_DESCRIPTION",
@@ -11304,7 +11322,7 @@
         "THUMBNAIL":""
     },
     {
-        "0u1nvMeS":"200002011",
+        "0u1nvMeS":"1",
         "3hPeI1RV":"0",
         "DESCRIPTION":"",
         "DUNGEON_ID":"8001391",
@@ -11322,7 +11340,7 @@
         "THUMBNAIL":""
     },
     {
-        "0u1nvMeS":"200002011",
+        "0u1nvMeS":"1",
         "3hPeI1RV":"0",
         "DESCRIPTION":"",
         "DUNGEON_ID":"8001392",
@@ -11340,7 +11358,7 @@
         "THUMBNAIL":""
     },
     {
-        "0u1nvMeS":"200002011",
+        "0u1nvMeS":"1",
         "3hPeI1RV":"0",
         "DESCRIPTION":"",
         "DUNGEON_ID":"8001393",
@@ -11412,7 +11430,7 @@
         "THUMBNAIL":""
     },
     {
-        "0u1nvMeS":"80015901",
+        "0u1nvMeS":"1",
         "3hPeI1RV":"0",
         "DESCRIPTION":"",
         "DUNGEON_ID":"8001590",
@@ -11430,7 +11448,7 @@
         "THUMBNAIL":""
     },
     {
-        "0u1nvMeS":"80015902",
+        "0u1nvMeS":"1",
         "3hPeI1RV":"0",
         "DESCRIPTION":"",
         "DUNGEON_ID":"8001591",
@@ -11448,7 +11466,7 @@
         "THUMBNAIL":""
     },
     {
-        "0u1nvMeS":"8001681",
+        "0u1nvMeS":"1",
         "3hPeI1RV":"0",
         "DESCRIPTION":"",
         "DUNGEON_ID":"8001681",
@@ -11466,7 +11484,7 @@
         "THUMBNAIL":""
     },
     {
-        "0u1nvMeS":"8001681",
+        "0u1nvMeS":"1",
         "3hPeI1RV":"0",
         "DESCRIPTION":"",
         "DUNGEON_ID":"8001682",
@@ -11682,7 +11700,7 @@
         "THUMBNAIL":""
     },
     {
-        "0u1nvMeS":"200002001",
+        "0u1nvMeS":"1",
         "3hPeI1RV":"0",
         "DESCRIPTION":"",
         "DUNGEON_ID":"20000200",
@@ -11700,7 +11718,7 @@
         "THUMBNAIL":""
     },
     {
-        "0u1nvMeS":"200002001",
+        "0u1nvMeS":"1",
         "3hPeI1RV":"0",
         "DESCRIPTION":"",
         "DUNGEON_ID":"20000201",
@@ -11718,7 +11736,7 @@
         "THUMBNAIL":""
     },
     {
-        "0u1nvMeS":"200002002",
+        "0u1nvMeS":"1",
         "3hPeI1RV":"0",
         "DESCRIPTION":"",
         "DUNGEON_ID":"20000202",
@@ -11754,7 +11772,7 @@
         "THUMBNAIL":""
     },
     {
-        "0u1nvMeS":"200002009",
+        "0u1nvMeS":"1",
         "3hPeI1RV":"0",
         "DESCRIPTION":"",
         "DUNGEON_ID":"20000901",
@@ -11772,7 +11790,7 @@
         "THUMBNAIL":""
     },
     {
-        "0u1nvMeS":"200002009",
+        "0u1nvMeS":"1",
         "3hPeI1RV":"0",
         "DESCRIPTION":"",
         "DUNGEON_ID":"20000902",
@@ -11790,7 +11808,7 @@
         "THUMBNAIL":""
     },
     {
-        "0u1nvMeS":"200002010",
+        "0u1nvMeS":"1",
         "3hPeI1RV":"0",
         "DESCRIPTION":"",
         "DUNGEON_ID":"20000903",
@@ -11826,7 +11844,7 @@
         "THUMBNAIL":""
     },
     {
-        "0u1nvMeS":"200002011",
+        "0u1nvMeS":"1",
         "3hPeI1RV":"0",
         "DESCRIPTION":"",
         "DUNGEON_ID":"20001000",
@@ -11844,7 +11862,7 @@
         "THUMBNAIL":""
     },
     {
-        "0u1nvMeS":"200002012",
+        "0u1nvMeS":"1",
         "3hPeI1RV":"0",
         "DESCRIPTION":"",
         "DUNGEON_ID":"20001001",
@@ -11862,7 +11880,7 @@
         "THUMBNAIL":""
     },
     {
-        "0u1nvMeS":"200002011",
+        "0u1nvMeS":"1",
         "3hPeI1RV":"0",
         "DESCRIPTION":"",
         "DUNGEON_ID":"20001002",
@@ -11970,7 +11988,7 @@
         "THUMBNAIL":""
     },
     {
-        "0u1nvMeS":"200002022",
+        "0u1nvMeS":"1",
         "3hPeI1RV":"0",
         "DESCRIPTION":"",
         "DUNGEON_ID":"20002100",
@@ -12024,7 +12042,7 @@
         "THUMBNAIL":""
     },
     {
-        "0u1nvMeS":"200002016",
+        "0u1nvMeS":"1",
         "3hPeI1RV":"0",
         "DESCRIPTION":"",
         "DUNGEON_ID":"25520001",
@@ -12042,7 +12060,7 @@
         "THUMBNAIL":""
     },
     {
-        "0u1nvMeS":"200002016",
+        "0u1nvMeS":"1",
         "3hPeI1RV":"0",
         "DESCRIPTION":"",
         "DUNGEON_ID":"25520002",
@@ -12060,7 +12078,7 @@
         "THUMBNAIL":""
     },
     {
-        "0u1nvMeS":"200002017",
+        "0u1nvMeS":"1",
         "3hPeI1RV":"0",
         "DESCRIPTION":"",
         "DUNGEON_ID":"25520003",
@@ -12096,7 +12114,7 @@
         "THUMBNAIL":""
     },
     {
-        "0u1nvMeS":"200002018",
+        "0u1nvMeS":"1",
         "3hPeI1RV":"0",
         "DESCRIPTION":"",
         "DUNGEON_ID":"25530001",
@@ -12114,7 +12132,7 @@
         "THUMBNAIL":""
     },
     {
-        "0u1nvMeS":"200002019",
+        "0u1nvMeS":"1",
         "3hPeI1RV":"0",
         "DESCRIPTION":"",
         "DUNGEON_ID":"25530002",
@@ -12132,7 +12150,7 @@
         "THUMBNAIL":""
     },
     {
-        "0u1nvMeS":"200002018",
+        "0u1nvMeS":"1",
         "3hPeI1RV":"0",
         "DESCRIPTION":"",
         "DUNGEON_ID":"25530003",
@@ -12168,7 +12186,7 @@
         "THUMBNAIL":""
     },
     {
-        "0u1nvMeS":"200002023",
+        "0u1nvMeS":"1",
         "3hPeI1RV":"0",
         "DESCRIPTION":"Memories in Azure",
         "DUNGEON_ID":"25550001",
@@ -12186,7 +12204,7 @@
         "THUMBNAIL":""
     },
     {
-        "0u1nvMeS":"200002024",
+        "0u1nvMeS":"1",
         "3hPeI1RV":"0",
         "DESCRIPTION":"Memories in Azure",
         "DUNGEON_ID":"25550002",
@@ -12204,7 +12222,7 @@
         "THUMBNAIL":""
     },
     {
-        "0u1nvMeS":"200002023",
+        "0u1nvMeS":"1",
         "3hPeI1RV":"0",
         "DESCRIPTION":"Memories in Azure",
         "DUNGEON_ID":"25550003",
@@ -12240,7 +12258,7 @@
         "THUMBNAIL":""
     },
     {
-        "0u1nvMeS":"200002025",
+        "0u1nvMeS":"1",
         "3hPeI1RV":"0",
         "DESCRIPTION":"Dreams of Frost",
         "DUNGEON_ID":"25570001",
@@ -12258,7 +12276,7 @@
         "THUMBNAIL":""
     },
     {
-        "0u1nvMeS":"200002026",
+        "0u1nvMeS":"1",
         "3hPeI1RV":"0",
         "DESCRIPTION":"Dreams of Frost",
         "DUNGEON_ID":"25570002",
@@ -12276,7 +12294,7 @@
         "THUMBNAIL":""
     },
     {
-        "0u1nvMeS":"200002025",
+        "0u1nvMeS":"1",
         "3hPeI1RV":"0",
         "DESCRIPTION":"Dreams of Frost",
         "DUNGEON_ID":"25570003",
@@ -12312,7 +12330,7 @@
         "THUMBNAIL":""
     },
     {
-        "0u1nvMeS":"200002027",
+        "0u1nvMeS":"1",
         "3hPeI1RV":"0",
         "DESCRIPTION":"Dreams of Dawn",
         "DUNGEON_ID":"25570005",
@@ -12330,7 +12348,7 @@
         "THUMBNAIL":""
     },
     {
-        "0u1nvMeS":"200002028",
+        "0u1nvMeS":"1",
         "3hPeI1RV":"0",
         "DESCRIPTION":"Dreams of Dawn",
         "DUNGEON_ID":"25570006",
@@ -12348,7 +12366,7 @@
         "THUMBNAIL":""
     },
     {
-        "0u1nvMeS":"200002029",
+        "0u1nvMeS":"1",
         "3hPeI1RV":"0",
         "DESCRIPTION":"Fiendish Fancies",
         "DUNGEON_ID":"25580001",
@@ -12366,7 +12384,7 @@
         "THUMBNAIL":""
     },
     {
-        "0u1nvMeS":"200002030",
+        "0u1nvMeS":"1",
         "3hPeI1RV":"0",
         "DESCRIPTION":"Fiendish Fancies",
         "DUNGEON_ID":"25580002",
@@ -12384,7 +12402,7 @@
         "THUMBNAIL":""
     },
     {
-        "0u1nvMeS":"200002029",
+        "0u1nvMeS":"1",
         "3hPeI1RV":"0",
         "DESCRIPTION":"Fiendish Fancies",
         "DUNGEON_ID":"25580003",
@@ -12420,7 +12438,7 @@
         "THUMBNAIL":""
     },
     {
-        "0u1nvMeS":"200002031",
+        "0u1nvMeS":"1",
         "3hPeI1RV":"0",
         "DESCRIPTION":"The Light of Life",
         "DUNGEON_ID":"25590001",
@@ -12438,7 +12456,7 @@
         "THUMBNAIL":""
     },
     {
-        "0u1nvMeS":"200002032",
+        "0u1nvMeS":"1",
         "3hPeI1RV":"0",
         "DESCRIPTION":"The Light of Life",
         "DUNGEON_ID":"25590002",
@@ -12456,7 +12474,7 @@
         "THUMBNAIL":""
     },
     {
-        "0u1nvMeS":"200002031",
+        "0u1nvMeS":"1",
         "3hPeI1RV":"0",
         "DESCRIPTION":"The Light of Life",
         "DUNGEON_ID":"25590003",
@@ -12492,7 +12510,7 @@
         "THUMBNAIL":""
     },
     {
-        "0u1nvMeS":"200002033",
+        "0u1nvMeS":"1",
         "3hPeI1RV":"0",
         "DESCRIPTION":"Full Metal Hare",
         "DUNGEON_ID":"25600001",
@@ -12510,7 +12528,7 @@
         "THUMBNAIL":""
     },
     {
-        "0u1nvMeS":"200002034",
+        "0u1nvMeS":"1",
         "3hPeI1RV":"0",
         "DESCRIPTION":"Full Metal Hare",
         "DUNGEON_ID":"25600002",
@@ -12528,7 +12546,7 @@
         "THUMBNAIL":""
     },
     {
-        "0u1nvMeS":"200002033",
+        "0u1nvMeS":"1",
         "3hPeI1RV":"0",
         "DESCRIPTION":"Full Metal Hare",
         "DUNGEON_ID":"25600003",
@@ -14634,7 +14652,7 @@
         "THUMBNAIL":""
     },
     {
-        "0u1nvMeS":"90010020",
+        "0u1nvMeS":"1",
         "3hPeI1RV":"0",
         "DESCRIPTION":"",
         "DUNGEON_ID":"90010020",
@@ -14652,7 +14670,7 @@
         "THUMBNAIL":""
     },
     {
-        "0u1nvMeS":"90010021",
+        "0u1nvMeS":"1",
         "3hPeI1RV":"0",
         "DESCRIPTION":"",
         "DUNGEON_ID":"90010021",
@@ -14670,7 +14688,7 @@
         "THUMBNAIL":""
     },
     {
-        "0u1nvMeS":"90010020",
+        "0u1nvMeS":"1",
         "3hPeI1RV":"0",
         "DESCRIPTION":"",
         "DUNGEON_ID":"90010022",
@@ -14706,7 +14724,7 @@
         "THUMBNAIL":""
     },
     {
-        "0u1nvMeS":"200002020",
+        "0u1nvMeS":"1",
         "3hPeI1RV":"0",
         "DESCRIPTION":"",
         "DUNGEON_ID":"90010024",
@@ -14724,7 +14742,7 @@
         "THUMBNAIL":""
     },
     {
-        "0u1nvMeS":"200002021",
+        "0u1nvMeS":"1",
         "3hPeI1RV":"0",
         "DESCRIPTION":"",
         "DUNGEON_ID":"90010025",
@@ -14742,7 +14760,7 @@
         "THUMBNAIL":""
     },
     {
-        "0u1nvMeS":"200002020",
+        "0u1nvMeS":"1",
         "3hPeI1RV":"0",
         "DESCRIPTION":"",
         "DUNGEON_ID":"90010026",
@@ -22702,6 +22720,384 @@
         "3hPeI1RV":"5",
         "DESCRIPTION":"Frontier Spire Sector 21",
         "DUNGEON_ID":"100005020",
+        "DUNGEON_IMAGE":"dungeon_battle_3000001.jpg",
+        "DUNGEON_NAME":"Sector: Unknown",
+        "M6C1aXfR":"300",
+        "MAP_OPENING_TEXT_FILE":"0,0",
+        "MISSION_AREA":"3000001",
+        "MISSION_IDS_REQUIRED":"0",
+        "QUEST_ALWAYS_EMPTY":"",
+        "QUEST_BANNER_IMAGE":"sp_quest_banner_frontier.png",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"1",
+        "QUEST_ZONE_MAP_NUMBER":"99",
+        "SnNtTh51":"300",
+        "THUMBNAIL":""
+    },
+    {
+        "0u1nvMeS":"1",
+        "3hPeI1RV":"5",
+        "DESCRIPTION":"Frontier Spire Sector 1",
+        "DUNGEON_ID":"100006000",
+        "DUNGEON_IMAGE":"dungeon_battle_3000001.jpg",
+        "DUNGEON_NAME":"Sector 1",
+        "M6C1aXfR":"300",
+        "MAP_OPENING_TEXT_FILE":"0,0",
+        "MISSION_AREA":"3000001",
+        "MISSION_IDS_REQUIRED":"0",
+        "QUEST_ALWAYS_EMPTY":"",
+        "QUEST_BANNER_IMAGE":"sp_quest_banner_frontier.png",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"1",
+        "QUEST_ZONE_MAP_NUMBER":"99",
+        "SnNtTh51":"300",
+        "THUMBNAIL":""
+    },
+    {
+        "0u1nvMeS":"1",
+        "3hPeI1RV":"5",
+        "DESCRIPTION":"Frontier Spire Sector 2",
+        "DUNGEON_ID":"100006001",
+        "DUNGEON_IMAGE":"dungeon_battle_3000001.jpg",
+        "DUNGEON_NAME":"Sector 2",
+        "M6C1aXfR":"300",
+        "MAP_OPENING_TEXT_FILE":"0,0",
+        "MISSION_AREA":"3000001",
+        "MISSION_IDS_REQUIRED":"0",
+        "QUEST_ALWAYS_EMPTY":"",
+        "QUEST_BANNER_IMAGE":"sp_quest_banner_frontier.png",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"1",
+        "QUEST_ZONE_MAP_NUMBER":"99",
+        "SnNtTh51":"300",
+        "THUMBNAIL":""
+    },
+    {
+        "0u1nvMeS":"1",
+        "3hPeI1RV":"5",
+        "DESCRIPTION":"Frontier Spire Sector 3",
+        "DUNGEON_ID":"100006002",
+        "DUNGEON_IMAGE":"dungeon_battle_3000001.jpg",
+        "DUNGEON_NAME":"Sector 3",
+        "M6C1aXfR":"300",
+        "MAP_OPENING_TEXT_FILE":"0,0",
+        "MISSION_AREA":"3000001",
+        "MISSION_IDS_REQUIRED":"0",
+        "QUEST_ALWAYS_EMPTY":"",
+        "QUEST_BANNER_IMAGE":"sp_quest_banner_frontier.png",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"1",
+        "QUEST_ZONE_MAP_NUMBER":"99",
+        "SnNtTh51":"300",
+        "THUMBNAIL":""
+    },
+    {
+        "0u1nvMeS":"1",
+        "3hPeI1RV":"5",
+        "DESCRIPTION":"Frontier Spire Sector 4",
+        "DUNGEON_ID":"100006003",
+        "DUNGEON_IMAGE":"dungeon_battle_3000001.jpg",
+        "DUNGEON_NAME":"Sector 4",
+        "M6C1aXfR":"300",
+        "MAP_OPENING_TEXT_FILE":"0,0",
+        "MISSION_AREA":"3000001",
+        "MISSION_IDS_REQUIRED":"0",
+        "QUEST_ALWAYS_EMPTY":"",
+        "QUEST_BANNER_IMAGE":"sp_quest_banner_frontier.png",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"1",
+        "QUEST_ZONE_MAP_NUMBER":"99",
+        "SnNtTh51":"300",
+        "THUMBNAIL":""
+    },
+    {
+        "0u1nvMeS":"1",
+        "3hPeI1RV":"5",
+        "DESCRIPTION":"Frontier Spire Sector 5",
+        "DUNGEON_ID":"100006004",
+        "DUNGEON_IMAGE":"dungeon_battle_3000001.jpg",
+        "DUNGEON_NAME":"Sector 5",
+        "M6C1aXfR":"300",
+        "MAP_OPENING_TEXT_FILE":"0,0",
+        "MISSION_AREA":"3000001",
+        "MISSION_IDS_REQUIRED":"0",
+        "QUEST_ALWAYS_EMPTY":"",
+        "QUEST_BANNER_IMAGE":"sp_quest_banner_frontier.png",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"1",
+        "QUEST_ZONE_MAP_NUMBER":"99",
+        "SnNtTh51":"300",
+        "THUMBNAIL":""
+    },
+    {
+        "0u1nvMeS":"1",
+        "3hPeI1RV":"5",
+        "DESCRIPTION":"Frontier Spire Sector 6",
+        "DUNGEON_ID":"100006005",
+        "DUNGEON_IMAGE":"dungeon_battle_3000001.jpg",
+        "DUNGEON_NAME":"Sector 6",
+        "M6C1aXfR":"300",
+        "MAP_OPENING_TEXT_FILE":"0,0",
+        "MISSION_AREA":"3000001",
+        "MISSION_IDS_REQUIRED":"0",
+        "QUEST_ALWAYS_EMPTY":"",
+        "QUEST_BANNER_IMAGE":"sp_quest_banner_frontier.png",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"1",
+        "QUEST_ZONE_MAP_NUMBER":"99",
+        "SnNtTh51":"300",
+        "THUMBNAIL":""
+    },
+    {
+        "0u1nvMeS":"1",
+        "3hPeI1RV":"5",
+        "DESCRIPTION":"Frontier Spire Sector 7",
+        "DUNGEON_ID":"100006006",
+        "DUNGEON_IMAGE":"dungeon_battle_3000001.jpg",
+        "DUNGEON_NAME":"Sector 7",
+        "M6C1aXfR":"300",
+        "MAP_OPENING_TEXT_FILE":"0,0",
+        "MISSION_AREA":"3000001",
+        "MISSION_IDS_REQUIRED":"0",
+        "QUEST_ALWAYS_EMPTY":"",
+        "QUEST_BANNER_IMAGE":"sp_quest_banner_frontier.png",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"1",
+        "QUEST_ZONE_MAP_NUMBER":"99",
+        "SnNtTh51":"300",
+        "THUMBNAIL":""
+    },
+    {
+        "0u1nvMeS":"1",
+        "3hPeI1RV":"5",
+        "DESCRIPTION":"Frontier Spire Sector 8",
+        "DUNGEON_ID":"100006007",
+        "DUNGEON_IMAGE":"dungeon_battle_3000001.jpg",
+        "DUNGEON_NAME":"Sector 8",
+        "M6C1aXfR":"300",
+        "MAP_OPENING_TEXT_FILE":"0,0",
+        "MISSION_AREA":"3000001",
+        "MISSION_IDS_REQUIRED":"0",
+        "QUEST_ALWAYS_EMPTY":"",
+        "QUEST_BANNER_IMAGE":"sp_quest_banner_frontier.png",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"1",
+        "QUEST_ZONE_MAP_NUMBER":"99",
+        "SnNtTh51":"300",
+        "THUMBNAIL":""
+    },
+    {
+        "0u1nvMeS":"1",
+        "3hPeI1RV":"5",
+        "DESCRIPTION":"Frontier Spire Sector 9",
+        "DUNGEON_ID":"100006008",
+        "DUNGEON_IMAGE":"dungeon_battle_3000001.jpg",
+        "DUNGEON_NAME":"Sector 9",
+        "M6C1aXfR":"300",
+        "MAP_OPENING_TEXT_FILE":"0,0",
+        "MISSION_AREA":"3000001",
+        "MISSION_IDS_REQUIRED":"0",
+        "QUEST_ALWAYS_EMPTY":"",
+        "QUEST_BANNER_IMAGE":"sp_quest_banner_frontier.png",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"1",
+        "QUEST_ZONE_MAP_NUMBER":"99",
+        "SnNtTh51":"300",
+        "THUMBNAIL":""
+    },
+    {
+        "0u1nvMeS":"1",
+        "3hPeI1RV":"5",
+        "DESCRIPTION":"Frontier Spire Sector 10",
+        "DUNGEON_ID":"100006009",
+        "DUNGEON_IMAGE":"dungeon_battle_3000001.jpg",
+        "DUNGEON_NAME":"Sector 10",
+        "M6C1aXfR":"300",
+        "MAP_OPENING_TEXT_FILE":"0,0",
+        "MISSION_AREA":"3000001",
+        "MISSION_IDS_REQUIRED":"0",
+        "QUEST_ALWAYS_EMPTY":"",
+        "QUEST_BANNER_IMAGE":"sp_quest_banner_frontier.png",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"1",
+        "QUEST_ZONE_MAP_NUMBER":"99",
+        "SnNtTh51":"300",
+        "THUMBNAIL":""
+    },
+    {
+        "0u1nvMeS":"1",
+        "3hPeI1RV":"5",
+        "DESCRIPTION":"Frontier Spire Sector 11",
+        "DUNGEON_ID":"100006010",
+        "DUNGEON_IMAGE":"dungeon_battle_3000001.jpg",
+        "DUNGEON_NAME":"Sector 11",
+        "M6C1aXfR":"300",
+        "MAP_OPENING_TEXT_FILE":"0,0",
+        "MISSION_AREA":"3000001",
+        "MISSION_IDS_REQUIRED":"0",
+        "QUEST_ALWAYS_EMPTY":"",
+        "QUEST_BANNER_IMAGE":"sp_quest_banner_frontier.png",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"1",
+        "QUEST_ZONE_MAP_NUMBER":"99",
+        "SnNtTh51":"300",
+        "THUMBNAIL":""
+    },
+    {
+        "0u1nvMeS":"1",
+        "3hPeI1RV":"5",
+        "DESCRIPTION":"Frontier Spire Sector 12",
+        "DUNGEON_ID":"100006011",
+        "DUNGEON_IMAGE":"dungeon_battle_3000001.jpg",
+        "DUNGEON_NAME":"Sector 12",
+        "M6C1aXfR":"300",
+        "MAP_OPENING_TEXT_FILE":"0,0",
+        "MISSION_AREA":"3000001",
+        "MISSION_IDS_REQUIRED":"0",
+        "QUEST_ALWAYS_EMPTY":"",
+        "QUEST_BANNER_IMAGE":"sp_quest_banner_frontier.png",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"1",
+        "QUEST_ZONE_MAP_NUMBER":"99",
+        "SnNtTh51":"300",
+        "THUMBNAIL":""
+    },
+    {
+        "0u1nvMeS":"1",
+        "3hPeI1RV":"5",
+        "DESCRIPTION":"Frontier Spire Sector 13",
+        "DUNGEON_ID":"100006012",
+        "DUNGEON_IMAGE":"dungeon_battle_3000001.jpg",
+        "DUNGEON_NAME":"Sector 13",
+        "M6C1aXfR":"300",
+        "MAP_OPENING_TEXT_FILE":"0,0",
+        "MISSION_AREA":"3000001",
+        "MISSION_IDS_REQUIRED":"0",
+        "QUEST_ALWAYS_EMPTY":"",
+        "QUEST_BANNER_IMAGE":"sp_quest_banner_frontier.png",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"1",
+        "QUEST_ZONE_MAP_NUMBER":"99",
+        "SnNtTh51":"300",
+        "THUMBNAIL":""
+    },
+    {
+        "0u1nvMeS":"1",
+        "3hPeI1RV":"5",
+        "DESCRIPTION":"Frontier Spire Sector 14",
+        "DUNGEON_ID":"100006013",
+        "DUNGEON_IMAGE":"dungeon_battle_3000001.jpg",
+        "DUNGEON_NAME":"Sector 14",
+        "M6C1aXfR":"300",
+        "MAP_OPENING_TEXT_FILE":"0,0",
+        "MISSION_AREA":"3000001",
+        "MISSION_IDS_REQUIRED":"0",
+        "QUEST_ALWAYS_EMPTY":"",
+        "QUEST_BANNER_IMAGE":"sp_quest_banner_frontier.png",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"1",
+        "QUEST_ZONE_MAP_NUMBER":"99",
+        "SnNtTh51":"300",
+        "THUMBNAIL":""
+    },
+    {
+        "0u1nvMeS":"1",
+        "3hPeI1RV":"5",
+        "DESCRIPTION":"Frontier Spire Sector 15",
+        "DUNGEON_ID":"100006014",
+        "DUNGEON_IMAGE":"dungeon_battle_3000001.jpg",
+        "DUNGEON_NAME":"Sector 15",
+        "M6C1aXfR":"300",
+        "MAP_OPENING_TEXT_FILE":"0,0",
+        "MISSION_AREA":"3000001",
+        "MISSION_IDS_REQUIRED":"0",
+        "QUEST_ALWAYS_EMPTY":"",
+        "QUEST_BANNER_IMAGE":"sp_quest_banner_frontier.png",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"1",
+        "QUEST_ZONE_MAP_NUMBER":"99",
+        "SnNtTh51":"300",
+        "THUMBNAIL":""
+    },
+    {
+        "0u1nvMeS":"1",
+        "3hPeI1RV":"5",
+        "DESCRIPTION":"Frontier Spire Sector 16",
+        "DUNGEON_ID":"100006015",
+        "DUNGEON_IMAGE":"dungeon_battle_3000001.jpg",
+        "DUNGEON_NAME":"Sector 16",
+        "M6C1aXfR":"300",
+        "MAP_OPENING_TEXT_FILE":"0,0",
+        "MISSION_AREA":"3000001",
+        "MISSION_IDS_REQUIRED":"0",
+        "QUEST_ALWAYS_EMPTY":"",
+        "QUEST_BANNER_IMAGE":"sp_quest_banner_frontier.png",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"1",
+        "QUEST_ZONE_MAP_NUMBER":"99",
+        "SnNtTh51":"300",
+        "THUMBNAIL":""
+    },
+    {
+        "0u1nvMeS":"1",
+        "3hPeI1RV":"5",
+        "DESCRIPTION":"Frontier Spire Sector 17",
+        "DUNGEON_ID":"100006016",
+        "DUNGEON_IMAGE":"dungeon_battle_3000001.jpg",
+        "DUNGEON_NAME":"Sector 17",
+        "M6C1aXfR":"300",
+        "MAP_OPENING_TEXT_FILE":"0,0",
+        "MISSION_AREA":"3000001",
+        "MISSION_IDS_REQUIRED":"0",
+        "QUEST_ALWAYS_EMPTY":"",
+        "QUEST_BANNER_IMAGE":"sp_quest_banner_frontier.png",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"1",
+        "QUEST_ZONE_MAP_NUMBER":"99",
+        "SnNtTh51":"300",
+        "THUMBNAIL":""
+    },
+    {
+        "0u1nvMeS":"1",
+        "3hPeI1RV":"5",
+        "DESCRIPTION":"Frontier Spire Sector 18",
+        "DUNGEON_ID":"100006017",
+        "DUNGEON_IMAGE":"dungeon_battle_3000001.jpg",
+        "DUNGEON_NAME":"Sector 18",
+        "M6C1aXfR":"300",
+        "MAP_OPENING_TEXT_FILE":"0,0",
+        "MISSION_AREA":"3000001",
+        "MISSION_IDS_REQUIRED":"0",
+        "QUEST_ALWAYS_EMPTY":"",
+        "QUEST_BANNER_IMAGE":"sp_quest_banner_frontier.png",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"1",
+        "QUEST_ZONE_MAP_NUMBER":"99",
+        "SnNtTh51":"300",
+        "THUMBNAIL":""
+    },
+    {
+        "0u1nvMeS":"1",
+        "3hPeI1RV":"5",
+        "DESCRIPTION":"Frontier Spire Sector 19",
+        "DUNGEON_ID":"100006018",
+        "DUNGEON_IMAGE":"dungeon_battle_3000001.jpg",
+        "DUNGEON_NAME":"Sector 19",
+        "M6C1aXfR":"300",
+        "MAP_OPENING_TEXT_FILE":"0,0",
+        "MISSION_AREA":"3000001",
+        "MISSION_IDS_REQUIRED":"0",
+        "QUEST_ALWAYS_EMPTY":"",
+        "QUEST_BANNER_IMAGE":"sp_quest_banner_frontier.png",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"1",
+        "QUEST_ZONE_MAP_NUMBER":"99",
+        "SnNtTh51":"300",
+        "THUMBNAIL":""
+    },
+    {
+        "0u1nvMeS":"1",
+        "3hPeI1RV":"5",
+        "DESCRIPTION":"Frontier Spire Sector 20",
+        "DUNGEON_ID":"100006019",
+        "DUNGEON_IMAGE":"dungeon_battle_3000001.jpg",
+        "DUNGEON_NAME":"Sector 20",
+        "M6C1aXfR":"300",
+        "MAP_OPENING_TEXT_FILE":"0,0",
+        "MISSION_AREA":"3000001",
+        "MISSION_IDS_REQUIRED":"0",
+        "QUEST_ALWAYS_EMPTY":"",
+        "QUEST_BANNER_IMAGE":"sp_quest_banner_frontier.png",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"1",
+        "QUEST_ZONE_MAP_NUMBER":"99",
+        "SnNtTh51":"300",
+        "THUMBNAIL":""
+    },
+    {
+        "0u1nvMeS":"1",
+        "3hPeI1RV":"5",
+        "DESCRIPTION":"Frontier Spire Sector 21",
+        "DUNGEON_ID":"100006020",
         "DUNGEON_IMAGE":"dungeon_battle_3000001.jpg",
         "DUNGEON_NAME":"Sector: Unknown",
         "M6C1aXfR":"300",
