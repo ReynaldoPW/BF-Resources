@@ -15001,7 +15001,7 @@
     },
     "20158":{
         "background image":"gacha_Thunder_Featured_img_210526T_s1.png",
-        "desc":"From 26 May 07:00 PST ~ 02 June 06:59 PST, summon minimum 5* Global exclusive units with Omni Potential and enjoy Increased Rates on Lleva! Get a Global Exclusive Elgif for every 10 summons!",
+        "desc":"From 16 June 07:00 PST ~ 23 June 06:59 PST, summon minimum 5* Global exclusive units with Omni Potential and enjoy Increased Rates on Lleva! Get a Global Exclusive Elgif for every 10 summons!",
         "door image":"gacha_rare_door.png",
         "end time":"2021-06-02 14:59:59",
         "gem cost":5,
@@ -15012,7 +15012,7 @@
         "summon button image":"gacha_rare_summons_btn1.png"
     },
     "20159":{
-        "background image":"gacha_Thunder_Featured_img_210526T_s1.png",
+        "background image":"gacha_Light_Featured_img_210602P_s1.png",
         "desc":"From 02 June 07:00 PST ~ 09 June 06:59 PST, summon minimum 5* Global exclusive units with Omni Potential and enjoy Increased Rates on Phaedra! Get a Global Exclusive Elgif for every 10 summons!",
         "door image":"gacha_rare_door.png",
         "end time":"2021-06-09 14:59:59",
@@ -15024,7 +15024,7 @@
         "summon button image":"gacha_rare_summons_btn1.png"
     },
     "20160":{
-        "background image":"gacha_Thunder_Featured_img_210526T_s1.png",
+        "background image":"gacha_Dark_Featured_img_210609L_s1.png",
         "desc":"From 09 June 07:00 PST ~ 16 June 06:59 PST, summon minimum 5* Global exclusive units with Omni Potential and enjoy Increased Rates on Luro! Get a Global Exclusive Elgif for every 10 summons!",
         "door image":"gacha_rare_door.png",
         "end time":"2021-06-16 14:59:59",
@@ -15036,15 +15036,39 @@
         "summon button image":"gacha_rare_summons_btn1.png"
     },
     "20161":{
-        "background image":"gacha_Thunder_Featured_img_210526T_s1.png",
-        "desc":"From 09 June 07:00 PST ~ 16 June 06:59 PST, summon minimum 5* Global exclusive units with Omni Potential and enjoy Increased Rates on Luro! Get a Global Exclusive Elgif for every 10 summons!",
+        "background image":"gacha_Fire_Featured_img_210505G_s1.png",
+        "desc":"From 16 June 07:00 PST ~ 23 June 06:59 PST, summon minimum 5* Global exclusive units with Omni Potential and enjoy Increased Rates on Guinne! Get a Global Exclusive Elgif for every 10 summons!",
         "door image":"gacha_rare_door.png",
-        "end time":"2021-06-16 14:59:59",
+        "end time":"2021-06-23 14:59:59",
         "gem cost":5,
-        "name":"Dark Featured Summon",
+        "name":"Fire Featured Summon",
         "priority":"2",
-        "short desc":"Luro is available through the Summon Gate! Get a Global Exclusive Elgif for every 10 Summons from the same gate!",
-        "start time":"2021-06-09 15:00:00",
+        "short desc":"Guinne is available through the Summon Gate! Get a Global Exclusive Elgif for every 10 Summons from the same gate!",
+        "start time":"2021-06-16 15:00:00",
+        "summon button image":"gacha_rare_summons_btn1.png"
+    },
+    "20162":{
+        "background image":"gacha_Water_Featured_img_210512M_s1.png",
+        "desc":"From 23 June 07:00 PST ~ 30 June 06:59 PST, summon minimum 5* Global exclusive units with Omni Potential and enjoy Increased Rates on Maeri! Get a Global Exclusive Elgif for every 10 summons!",
+        "door image":"gacha_rare_door.png",
+        "end time":"2021-06-30 14:59:59",
+        "gem cost":5,
+        "name":"Water Featured Summon",
+        "priority":"2",
+        "short desc":"Maeri is available through the Summon Gate! Get a Global Exclusive Elgif for every 10 Summons from the same gate!",
+        "start time":"2021-06-23 15:00:00",
+        "summon button image":"gacha_rare_summons_btn1.png"
+    },
+    "20163":{
+        "background image":"gacha_Earth_Featured_img_210512T_s1.png",
+        "desc":"From 30 June 07:00 PST ~ 7 July 06:59 PST, summon minimum 5* Global exclusive units with Omni Potential and enjoy Increased Rates on Tilith! Get a Global Exclusive Elgif for every 10 summons!",
+        "door image":"gacha_rare_door.png",
+        "end time":"2021-07-07 14:59:59",
+        "gem cost":5,
+        "name":"Earth Featured Summon",
+        "priority":"2",
+        "short desc":"Tilith is available through the Summon Gate! Get a Global Exclusive Elgif for every 10 Summons from the same gate!",
+        "start time":"2021-06-30 15:00:00",
         "summon button image":"gacha_rare_summons_btn1.png"
     }
 }
