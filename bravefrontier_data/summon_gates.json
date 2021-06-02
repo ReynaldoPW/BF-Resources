@@ -14883,7 +14883,7 @@
         "background image":"gacha_img_210414HS_s1.png",
         "desc":"From 14 April 7:00 PST ~ 12 May 6:59 PST, use your Easter Heroes Selector Ticket to summon one of the selected units from the Heroes Across Time series along with past Easter units! Remember, this ticket is only valid till 12th May.",
         "door image":"gacha_rare_door.png",
-        "end time":"2021-05-12 14:59:59",
+        "end time":"2021-05-13 07:59:59",
         "gem cost":999,
         "name":"Easter Heroes Selector Summon",
         "priority":"2",
@@ -15024,6 +15024,18 @@
         "summon button image":"gacha_rare_summons_btn1.png"
     },
     "20160":{
+        "background image":"gacha_Thunder_Featured_img_210526T_s1.png",
+        "desc":"From 09 June 07:00 PST ~ 16 June 06:59 PST, summon minimum 5* Global exclusive units with Omni Potential and enjoy Increased Rates on Luro! Get a Global Exclusive Elgif for every 10 summons!",
+        "door image":"gacha_rare_door.png",
+        "end time":"2021-06-16 14:59:59",
+        "gem cost":5,
+        "name":"Dark Featured Summon",
+        "priority":"2",
+        "short desc":"Luro is available through the Summon Gate! Get a Global Exclusive Elgif for every 10 Summons from the same gate!",
+        "start time":"2021-06-09 15:00:00",
+        "summon button image":"gacha_rare_summons_btn1.png"
+    },
+    "20161":{
         "background image":"gacha_Thunder_Featured_img_210526T_s1.png",
         "desc":"From 09 June 07:00 PST ~ 16 June 06:59 PST, summon minimum 5* Global exclusive units with Omni Potential and enjoy Increased Rates on Luro! Get a Global Exclusive Elgif for every 10 summons!",
         "door image":"gacha_rare_door.png",

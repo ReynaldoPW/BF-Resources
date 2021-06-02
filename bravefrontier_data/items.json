@@ -32870,7 +32870,7 @@
         "from raid":"false",
         "guide id":"800143",
         "id":"819164",
-        "lore":"MST_SPHERES_819164_LONGDESCRIPTION",
+        "lore":"An odd egg-shaped creation with a mysterious frog on its shell. No one knows who made it--or why. While its healing powers are quite amazing, many find its ability to increase one's strength and prowess with every injury that they take quite curious. Perhaps it was an odd gift made by a mad scientist, or just a failed experiment. Whatever the reason, its might is a force to be reckoned with.",
         "max equip":1,
         "max stack":1,
         "name":"MST_SPHERES_819164_NAME",
@@ -40055,7 +40055,7 @@
         "from raid":"false",
         "guide id":"819357",
         "id":"819357",
-        "lore":"MST_SPHERES_819357_LONGDESCRIPTION",
+        "lore":"A majestic crown fit for a champion among champions. Crafted with the finest metals and embedded with precious jewels, it also serves to amplify one's innate strengths to greater heights.<br>Ebb and flow, surge and recede; be like water, champion.",
         "max equip":1,
         "max stack":1,
         "name":"MST_SPHERES_819357_NAME",
@@ -40094,7 +40094,7 @@
         "from raid":"false",
         "guide id":"819358",
         "id":"819358",
-        "lore":"MST_SPHERES_819358_LONGDESCRIPTION",
+        "lore":"A crown fit for a champion, imbued with powerful elemental energies. The curling fringes inlaid with sapphires resemble swelling waves.",
         "max equip":1,
         "max stack":1,
         "name":"MST_SPHERES_819358_NAME",
@@ -40104,6 +40104,334 @@
         "sphere type":"SPHERE_TYPE_NAME_11",
         "target":"none",
         "thumbnail":"sphere_thum_819358.png",
+        "type":"sphere"
+    },
+    "819359":{
+        "desc":"MST_SPHERES_819359_SHORTDESCRIPTION",
+        "effects":[
+            {
+                "params":"3,0,70,70,70,0,70",
+                "proc id":"2"
+            },
+            {
+                "params":"30,100,1,0",
+                "proc id":"75"
+            },
+            {
+                "params":"200,0,0,0,0,0",
+                "proc id":"31"
+            },
+            {
+                "params":"2500",
+                "proc id":"9"
+            },
+            {
+                "params":"12,100,-1,30,2,-1",
+                "proc id":"55"
+            },
+            {
+                "params":"10019,10500&0&0&0&0&0&0&0&0&30,100,2,0,1,1,0",
+                "proc id":"66"
+            }
+        ],
+        "from raid":"false",
+        "guide id":"819359",
+        "id":"819359",
+        "lore":"A majestic crown fit for a champion among champions. Crafted with the finest metals and embedded with precious jewels, it also serves to amplify one's innate strengths to greater heights.<br>Breathe deep of the earth and feel the wind in your bones, and be as one with Great Mother Nature.",
+        "max equip":1,
+        "max stack":1,
+        "name":"MST_SPHERES_819359_NAME",
+        "rarity":7,
+        "sale caution":"true",
+        "sale price":30000,
+        "sphere type":"SPHERE_TYPE_NAME_11",
+        "target":"none",
+        "thumbnail":"sphere_thum_819359.png",
+        "type":"sphere"
+    },
+    "819360":{
+        "desc":"MST_SPHERES_819360_SHORTDESCRIPTION",
+        "effects":[
+            {
+                "params":"3,0,60,60,60,0,60",
+                "proc id":"2"
+            },
+            {
+                "params":"20,100,1,0",
+                "proc id":"75"
+            },
+            {
+                "params":"150,0,0,0,0,0",
+                "proc id":"31"
+            },
+            {
+                "params":"1500",
+                "proc id":"9"
+            },
+            {
+                "params":"12,100,-1,30,2,-1",
+                "proc id":"55"
+            }
+        ],
+        "from raid":"false",
+        "guide id":"819360",
+        "id":"819360",
+        "lore":"A crown fit for a champion, imbued with powerful elemental energies. Precious earthen treasures adorn its perimeter.",
+        "max equip":1,
+        "max stack":1,
+        "name":"MST_SPHERES_819360_NAME",
+        "rarity":6,
+        "sale caution":"true",
+        "sale price":30000,
+        "sphere type":"SPHERE_TYPE_NAME_11",
+        "target":"none",
+        "thumbnail":"sphere_thum_819360.png",
+        "type":"sphere"
+    },
+    "819361":{
+        "desc":"MST_SPHERES_819361_SHORTDESCRIPTION",
+        "effects":[
+            {
+                "params":"4,0,70,70,70,0,70",
+                "proc id":"2"
+            },
+            {
+                "params":"30,100,1,0",
+                "proc id":"75"
+            },
+            {
+                "params":"200,0,0,0,0,0",
+                "proc id":"31"
+            },
+            {
+                "params":"2500",
+                "proc id":"9"
+            },
+            {
+                "params":"12,100,-1,30,2,-1",
+                "proc id":"55"
+            },
+            {
+                "params":"10019,10500&0&0&0&0&0&0&0&0&30,100,2,0,1,1,0",
+                "proc id":"66"
+            }
+        ],
+        "from raid":"false",
+        "guide id":"819361",
+        "id":"819361",
+        "lore":"A majestic crown fit for a champion among champions. Crafted with the finest metals and embedded with precious jewels, it also serves to amplify one's innate strengths to greater heights.<br>Raise your head skyward and call down the judgement of the heavens.",
+        "max equip":1,
+        "max stack":1,
+        "name":"MST_SPHERES_819361_NAME",
+        "rarity":7,
+        "sale caution":"true",
+        "sale price":30000,
+        "sphere type":"SPHERE_TYPE_NAME_11",
+        "target":"none",
+        "thumbnail":"sphere_thum_819361.png",
+        "type":"sphere"
+    },
+    "819362":{
+        "desc":"MST_SPHERES_819362_SHORTDESCRIPTION",
+        "effects":[
+            {
+                "params":"4,0,60,60,60,0,60",
+                "proc id":"2"
+            },
+            {
+                "params":"20,100,1,0",
+                "proc id":"75"
+            },
+            {
+                "params":"150,0,0,0,0,0",
+                "proc id":"31"
+            },
+            {
+                "params":"1500",
+                "proc id":"9"
+            },
+            {
+                "params":"12,100,-1,30,2,-1",
+                "proc id":"55"
+            }
+        ],
+        "from raid":"false",
+        "guide id":"819362",
+        "id":"819362",
+        "lore":"A crown fit for a champion, imbued with powerful elemental energies. A jagged ring of bolts around its band reaches for the skies.",
+        "max equip":1,
+        "max stack":1,
+        "name":"MST_SPHERES_819362_NAME",
+        "rarity":6,
+        "sale caution":"true",
+        "sale price":30000,
+        "sphere type":"SPHERE_TYPE_NAME_11",
+        "target":"none",
+        "thumbnail":"sphere_thum_819362.png",
+        "type":"sphere"
+    },
+    "819363":{
+        "desc":"MST_SPHERES_819363_SHORTDESCRIPTION",
+        "effects":[
+            {
+                "params":"5,0,70,70,70,0,70",
+                "proc id":"2"
+            },
+            {
+                "params":"30,100,1,0",
+                "proc id":"75"
+            },
+            {
+                "params":"200,0,0,0,0,0",
+                "proc id":"31"
+            },
+            {
+                "params":"2500",
+                "proc id":"9"
+            },
+            {
+                "params":"12,100,-1,30,2,-1",
+                "proc id":"55"
+            },
+            {
+                "params":"10019,10500&0&0&0&0&0&0&0&0&30,100,2,0,1,1,0",
+                "proc id":"66"
+            }
+        ],
+        "from raid":"false",
+        "guide id":"819363",
+        "id":"819363",
+        "lore":"A majestic crown fit for a champion among champions. Crafted with the finest metals and embedded with precious jewels, it also serves to amplify one's innate strengths to greater heights.<br>Shine your radiance upon the world, and bring forth an everlasting light.",
+        "max equip":1,
+        "max stack":1,
+        "name":"MST_SPHERES_819363_NAME",
+        "rarity":7,
+        "sale caution":"true",
+        "sale price":30000,
+        "sphere type":"SPHERE_TYPE_NAME_11",
+        "target":"none",
+        "thumbnail":"sphere_thum_819363.png",
+        "type":"sphere"
+    },
+    "819364":{
+        "desc":"MST_SPHERES_819364_SHORTDESCRIPTION",
+        "effects":[
+            {
+                "params":"5,0,60,60,60,0,60",
+                "proc id":"2"
+            },
+            {
+                "params":"20,100,1,0",
+                "proc id":"75"
+            },
+            {
+                "params":"150,0,0,0,0,0",
+                "proc id":"31"
+            },
+            {
+                "params":"1500",
+                "proc id":"9"
+            },
+            {
+                "params":"12,100,-1,30,2,-1",
+                "proc id":"55"
+            }
+        ],
+        "from raid":"false",
+        "guide id":"819364",
+        "id":"819364",
+        "lore":"A crown fit for a champion, imbued with powerful elemental energies. The sunburst at its center brings to mind the might of the divine.",
+        "max equip":1,
+        "max stack":1,
+        "name":"MST_SPHERES_819364_NAME",
+        "rarity":6,
+        "sale caution":"true",
+        "sale price":30000,
+        "sphere type":"SPHERE_TYPE_NAME_11",
+        "target":"none",
+        "thumbnail":"sphere_thum_819364.png",
+        "type":"sphere"
+    },
+    "819365":{
+        "desc":"MST_SPHERES_819365_SHORTDESCRIPTION",
+        "effects":[
+            {
+                "params":"6,0,70,70,70,0,70",
+                "proc id":"2"
+            },
+            {
+                "params":"30,100,1,0",
+                "proc id":"75"
+            },
+            {
+                "params":"200,0,0,0,0,0",
+                "proc id":"31"
+            },
+            {
+                "params":"2500",
+                "proc id":"9"
+            },
+            {
+                "params":"12,100,-1,30,2,-1",
+                "proc id":"55"
+            },
+            {
+                "params":"10019,10500&0&0&0&0&0&0&0&0&30,100,2,0,1,1,0",
+                "proc id":"66"
+            }
+        ],
+        "from raid":"false",
+        "guide id":"819365",
+        "id":"819365",
+        "lore":"A majestic crown fit for a champion among champions. Crafted with the finest metals and embedded with precious jewels, it also serves to amplify one's innate strengths to greater heights.<br>Only by facing the demons within you can you harness the true powers of darkness.",
+        "max equip":1,
+        "max stack":1,
+        "name":"MST_SPHERES_819365_NAME",
+        "rarity":7,
+        "sale caution":"true",
+        "sale price":30000,
+        "sphere type":"SPHERE_TYPE_NAME_11",
+        "target":"none",
+        "thumbnail":"sphere_thum_819365.png",
+        "type":"sphere"
+    },
+    "819366":{
+        "desc":"MST_SPHERES_819366_SHORTDESCRIPTION",
+        "effects":[
+            {
+                "params":"6,0,60,60,60,0,60",
+                "proc id":"2"
+            },
+            {
+                "params":"20,100,1,0",
+                "proc id":"75"
+            },
+            {
+                "params":"150,0,0,0,0,0",
+                "proc id":"31"
+            },
+            {
+                "params":"1500",
+                "proc id":"9"
+            },
+            {
+                "params":"12,100,-1,30,2,-1",
+                "proc id":"55"
+            }
+        ],
+        "from raid":"false",
+        "guide id":"819366",
+        "id":"819366",
+        "lore":"A crown fit for a champion, imbued with powerful elemental energies. Set prominently into the center is a glimmering dark gem.",
+        "max equip":1,
+        "max stack":1,
+        "name":"MST_SPHERES_819366_NAME",
+        "rarity":6,
+        "sale caution":"true",
+        "sale price":30000,
+        "sphere type":"SPHERE_TYPE_NAME_11",
+        "target":"none",
+        "thumbnail":"sphere_thum_819366.png",
         "type":"sphere"
     },
     "819367":{
@@ -40129,7 +40457,7 @@
         "from raid":"false",
         "guide id":"819367",
         "id":"819367",
-        "lore":"MST_SPHERES_819367_LONGDESCRIPTION",
+        "lore":"A hypercharged device harnessing the dual powers of light and darkness. The contraption hums at a rather ominous frequency, like that of a rumbling steel beast.<br>Having equipped the new gizmos with new modules, greater emphasis was placed on 'hypercharging' the user's latent energies. The resulting test runs have been a rousing success, though some users report their hair standing on end for days afterward.",
         "max equip":1,
         "max stack":1,
         "name":"MST_SPHERES_819367_NAME",
@@ -40164,7 +40492,7 @@
         "from raid":"false",
         "guide id":"819368",
         "id":"819368",
-        "lore":"MST_SPHERES_819368_LONGDESCRIPTION",
+        "lore":"A device brimming with elemental charge. Flashes of light and darkness cross its scowling eyes.<br>Experimental technologies such as these gizmos are given to outstanding warriors of skill to test their effectiveness on the field. While rather satisfying for the testers, the same cannot be said of their unfortunate targets.",
         "max equip":1,
         "max stack":1,
         "name":"MST_SPHERES_819368_NAME",
@@ -40174,6 +40502,240 @@
         "sphere type":"SPHERE_TYPE_NAME_13",
         "target":"none",
         "thumbnail":"sphere_thum_819368.png",
+        "type":"sphere"
+    },
+    "819369":{
+        "desc":"MST_SPHERES_819369_SHORTDESCRIPTION",
+        "effects":[
+            {
+                "params":"1,4,65,65,65,30,65",
+                "proc id":"2"
+            },
+            {
+                "params":"0,150,0,0,0,0,0",
+                "proc id":"46"
+            },
+            {
+                "params":"2.5",
+                "proc id":"34"
+            },
+            {
+                "params":"15,15,100",
+                "proc id":"17"
+            }
+        ],
+        "from raid":"false",
+        "guide id":"819369",
+        "id":"819369",
+        "lore":"A draconic spirit coils around this lantern, its flaming, thunderous presence inspiring awe and strength in warriors.<br><br>When it has discovered a warrior of great renown, draconic spirits from the East will slither forth from their lantern rests and make themselves known. Though temperamental, they make for steadfast allies, granting powerful boons that form the stuff of legends.",
+        "max equip":1,
+        "max stack":1,
+        "name":"MST_SPHERES_819369_NAME",
+        "rarity":7,
+        "sale caution":"true",
+        "sale price":30000,
+        "sphere type":"SPHERE_TYPE_NAME_13",
+        "target":"none",
+        "thumbnail":"sphere_thum_819369.png",
+        "type":"sphere"
+    },
+    "819370":{
+        "desc":"MST_SPHERES_819370_SHORTDESCRIPTION",
+        "effects":[
+            {
+                "params":"1,4,60,60,60,30,60",
+                "proc id":"2"
+            },
+            {
+                "params":"0,100,0,0,0,0,0",
+                "proc id":"46"
+            },
+            {
+                "params":"2",
+                "proc id":"34"
+            },
+            {
+                "params":"15,15,100",
+                "proc id":"17"
+            }
+        ],
+        "from raid":"false",
+        "guide id":"819370",
+        "id":"819370",
+        "lore":"A red lantern crested by a scowling visage. Burns with a fierce fire, and rumbles like thunder.<br><br>In some parts of Grand Gaia, such lanterns were said to be the abode of a draconic spirit. Unlike their four-legged winged kin, these dragons are long, slender, and resemble snakes\u2014if snakes were made entirely out of elemental energy.",
+        "max equip":1,
+        "max stack":1,
+        "name":"MST_SPHERES_819370_NAME",
+        "rarity":7,
+        "sale caution":"true",
+        "sale price":30000,
+        "sphere type":"SPHERE_TYPE_NAME_13",
+        "target":"none",
+        "thumbnail":"sphere_thum_819370.png",
+        "type":"sphere"
+    },
+    "819371":{
+        "desc":"MST_SPHERES_819371_SHORTDESCRIPTION",
+        "effects":[
+            {
+                "params":"2,3,65,65,65,30,65",
+                "proc id":"2"
+            },
+            {
+                "params":"0,150,0,0,0,0,0",
+                "proc id":"46"
+            },
+            {
+                "params":"2.5",
+                "proc id":"34"
+            },
+            {
+                "params":"15,15,100",
+                "proc id":"17"
+            },
+            {
+                "params":"44,1500&100&0&100&0&3&0,2,2,0,0,0,1",
+                "proc id":"66"
+            },
+            {
+                "params":"0,200,50000",
+                "proc id":"81"
+            }
+        ],
+        "from raid":"false",
+        "guide id":"819371",
+        "id":"819371",
+        "lore":"A shining azure helm crested with two sweeping emerald horns. Two shortblades cross behind this trophy unique to some parts of Grand Gaia.<br><br>Warriors of great renown who were lucky enough to live out the rest of their days off the fields of battle treated their helmets as a living legend, carefully enshrining them with utmost respect. Said to inspire the warrior's descendents with the incredible power in its aura.",
+        "max equip":1,
+        "max stack":1,
+        "name":"MST_SPHERES_819371_NAME",
+        "rarity":7,
+        "sale caution":"true",
+        "sale price":30000,
+        "sphere type":"SPHERE_TYPE_NAME_13",
+        "target":"none",
+        "thumbnail":"sphere_thum_819371.png",
+        "type":"sphere"
+    },
+    "819372":{
+        "desc":"MST_SPHERES_819372_SHORTDESCRIPTION",
+        "effects":[
+            {
+                "params":"2,3,60,60,60,30,60",
+                "proc id":"2"
+            },
+            {
+                "params":"0,100,0,0,0,0,0",
+                "proc id":"46"
+            },
+            {
+                "params":"2",
+                "proc id":"34"
+            },
+            {
+                "params":"15,15,100",
+                "proc id":"17"
+            },
+            {
+                "params":"44,1200&100&0&100&0&3&0,2,2,0,0,0,1",
+                "proc id":"66"
+            },
+            {
+                "params":"0,200,50000",
+                "proc id":"81"
+            }
+        ],
+        "from raid":"false",
+        "guide id":"819372",
+        "id":"819372",
+        "lore":"A polished azure helm crafted in a distinctive style unique to some parts of Grand Gaia.<br><br>Worn by distinguished warriors, these helms can be spotted charging at the forefront of any skirmish, and have come to be associated with the unstoppable forces of nature.",
+        "max equip":1,
+        "max stack":1,
+        "name":"MST_SPHERES_819372_NAME",
+        "rarity":7,
+        "sale caution":"true",
+        "sale price":30000,
+        "sphere type":"SPHERE_TYPE_NAME_13",
+        "target":"none",
+        "thumbnail":"sphere_thum_819372.png",
+        "type":"sphere"
+    },
+    "819373":{
+        "desc":"MST_SPHERES_819373_SHORTDESCRIPTION",
+        "effects":[
+            {
+                "params":"4,0,70,70,70,0,70",
+                "proc id":"2"
+            },
+            {
+                "params":"4,0,0,0,0,0,2",
+                "proc id":"50"
+            },
+            {
+                "params":"40",
+                "proc id":"32"
+            },
+            {
+                "params":"98,4&2000&2000&100&0,-1,15000,-1",
+                "proc id":"78"
+            },
+            {
+                "params":"100,100,100,100,100,100,0,0,0,0",
+                "proc id":"53"
+            }
+        ],
+        "from raid":"false",
+        "guide id":"819373",
+        "id":"819373",
+        "lore":"A small egg-shaped device brimming with circuitry that emits a low humming tone.<br><br>Created by none other than the self-proclaimed \"ebil genius\" Vikki, this \"highly sophisticated energy transference capsule\" replicates the power of the magical eggs found in Grand Gaia with a uniquely technological touch. Vikki considers this her finest work yet; in fact, the mad scientist is contemplating mass-producing them to hide them in all corners of Paskua in gross approximation of some Grand Gaian holiday...",
+        "max equip":1,
+        "max stack":1,
+        "name":"MST_SPHERES_819373_NAME",
+        "rarity":7,
+        "sale caution":"true",
+        "sale price":30000,
+        "sphere type":"SPHERE_TYPE_NAME_13",
+        "target":"none",
+        "thumbnail":"sphere_thum_819373.png",
+        "type":"sphere"
+    },
+    "8193749":{
+        "desc":"MST_SPHERES_8193749_SHORTDESCRIPTION",
+        "effects":[
+            {
+                "params":"4,0,70,70,70,0,70",
+                "proc id":"2"
+            },
+            {
+                "params":"4,0,0,0,0,0,2",
+                "proc id":"50"
+            },
+            {
+                "params":"40",
+                "proc id":"32"
+            },
+            {
+                "params":"98,4&2000&2000&100&0,-1,15000,-1",
+                "proc id":"78"
+            },
+            {
+                "params":"100,100,100,100,100,100,0,0,0,0",
+                "proc id":"53"
+            }
+        ],
+        "from raid":"false",
+        "guide id":"8193749",
+        "id":"8193749",
+        "lore":"MST_SPHERES_8193749_LONGDESCRIPTION",
+        "max equip":1,
+        "max stack":1,
+        "name":"MST_SPHERES_8193749_NAME",
+        "rarity":7,
+        "sale caution":"true",
+        "sale price":30000,
+        "sphere type":"SPHERE_TYPE_NAME_13",
+        "target":"none",
+        "thumbnail":"sphere_thum_819373.png",
         "type":"sphere"
     },
     "819901":{

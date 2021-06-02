@@ -128,7 +128,7 @@
         "moWQ30GH":"F_AREA_MST"
     },
     {
-        "d2RFtP8T":"934",
+        "d2RFtP8T":"937",
         "moWQ30GH":"F_DUNGEON_MST"
     },
     {
@@ -220,11 +220,11 @@
         "moWQ30GH":"F_CHRONOLOGY_WORD_MST"
     },
     {
-        "d2RFtP8T":"509",
+        "d2RFtP8T":"512",
         "moWQ30GH":"F_FROGATE_MST"
     },
     {
-        "d2RFtP8T":"286",
+        "d2RFtP8T":"287",
         "moWQ30GH":"F_FROGATE_REWARD_MST"
     },
     {
@@ -456,7 +456,7 @@
         "moWQ30GH":"F_UNIT_TYPE_MST"
     },
     {
-        "d2RFtP8T":"1054",
+        "d2RFtP8T":"1056",
         "moWQ30GH":"F_MISSION_MST"
     },
     {
@@ -476,7 +476,7 @@
         "moWQ30GH":"F_RESOURCE_MST"
     },
     {
-        "d2RFtP8T":"1019",
+        "d2RFtP8T":"1024",
         "moWQ30GH":"F_ITEM_MST"
     },
     {
