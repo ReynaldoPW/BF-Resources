@@ -15262,5 +15262,65 @@
         "short desc":"Hilda and Ren\u00e9 are available through the Summon Gate! Get a Global Exclusive Elgif for every 10 Summons from the same gate!",
         "start time":"2021-09-29 15:00:00",
         "summon button image":"gacha_rare_summons_btn1.png"
+    },
+    "20180":{
+        "background image":"gacha_Fire_Featured_img_211006A_s1.png",
+        "desc":"From 06 Oct 07:00 PST ~ 13 Oct 06:59 PST, summon minimum 5* Global exclusive units with Omni Potential and enjoy Increased Rates on Azius! Get a Global Exclusive Elgif for every 10 summons!",
+        "door image":"gacha_rare_door.png",
+        "end time":"2021-10-13 14:59:59",
+        "gem cost":5,
+        "name":"Fire Featured Summon",
+        "priority":"2",
+        "short desc":"Azius is available through the Summon Gate! Get a Global Exclusive Elgif for every 10 Summons from the same gate!",
+        "start time":"2021-10-06 15:00:00",
+        "summon button image":"gacha_rare_summons_btn1.png"
+    },
+    "20181":{
+        "background image":"gacha_Water_Featured_img_211013A_s1.png",
+        "desc":"From 13 Oct 07:00 PST ~ 20 Oct 06:59 PST, summon minimum 5* Global exclusive units with Omni Potential and enjoy Increased Rates on Aoife! Get a Global Exclusive Elgif for every 10 summons!",
+        "door image":"gacha_rare_door.png",
+        "end time":"2021-10-20 14:59:59",
+        "gem cost":5,
+        "name":"Water Featured Summon",
+        "priority":"2",
+        "short desc":"Aoife is available through the Summon Gate! Get a Global Exclusive Elgif for every 10 Summons from the same gate!",
+        "start time":"2021-10-13 15:00:00",
+        "summon button image":"gacha_rare_summons_btn1.png"
+    },
+    "20182":{
+        "background image":"gacha_Earth_Featured_img_211020S_s1.png",
+        "desc":"From 20 Oct 07:00 PST ~ 27 Oct 06:59 PST, summon minimum 5* Global exclusive units with Omni Potential and enjoy Increased Rates on S'eljah! Get a Global Exclusive Elgif for every 10 summons!",
+        "door image":"gacha_rare_door.png",
+        "end time":"2021-10-27 14:59:59",
+        "gem cost":5,
+        "name":"Earth Featured Summon",
+        "priority":"2",
+        "short desc":"S'eljah is available through the Summon Gate! Get a Global Exclusive Elgif for every 10 Summons from the same gate!",
+        "start time":"2021-10-20 15:00:00",
+        "summon button image":"gacha_rare_summons_btn1.png"
+    },
+    "20183":{
+        "background image":"gacha_img_211020VA_s1.png",
+        "desc":"From 20 Oct 7:00 PST ~ 27 Oct 6:59 PST, summon minimum 5* Global exclusive units with Omni Potential and enjoy Increased Rates on Ukie !",
+        "door image":"gacha_rare_door.png",
+        "end time":"2021-10-27 14:59:59",
+        "gem cost":5,
+        "name":"Vortex Arena Resummon",
+        "priority":"2",
+        "short desc":"Summon 2 units with Increased Rates on  Ukie with option to Resummon 1!",
+        "start time":"2021-10-20 15:00:00",
+        "summon button image":"gacha_rare_summons_btn1.png"
+    },
+    "20184":{
+        "background image":"gacha_Thunder_Featured_img_211027M_s1.png",
+        "desc":"From 27 Oct 07:00 PST ~ 03 Nov 06:59 PST, summon minimum 5* Global exclusive units with Omni Potential and enjoy Increased Rates on Miriam! Get a Global Exclusive Elgif for every 10 summons!",
+        "door image":"gacha_rare_door.png",
+        "end time":"2021-11-03 14:59:59",
+        "gem cost":5,
+        "name":"Thunder Featured Summon",
+        "priority":"2",
+        "short desc":"Miriam is available through the Summon Gate! Get a Global Exclusive Elgif for every 10 Summons from the same gate!",
+        "start time":"2021-10-27 15:00:00",
+        "summon button image":"gacha_rare_summons_btn1.png"
     }
 }

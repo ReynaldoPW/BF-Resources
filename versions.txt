@@ -76,7 +76,7 @@
         "moWQ30GH":"M_NPC_MST"
     },
     {
-        "d2RFtP8T":"2729",
+        "d2RFtP8T":"2730",
         "moWQ30GH":"M_GACHA_EFFECT_MST"
     },
     {
@@ -124,11 +124,11 @@
         "moWQ30GH":"F_LAND_MST"
     },
     {
-        "d2RFtP8T":"646",
+        "d2RFtP8T":"647",
         "moWQ30GH":"F_AREA_MST"
     },
     {
-        "d2RFtP8T":"956",
+        "d2RFtP8T":"959",
         "moWQ30GH":"F_DUNGEON_MST"
     },
     {
@@ -220,11 +220,11 @@
         "moWQ30GH":"F_CHRONOLOGY_WORD_MST"
     },
     {
-        "d2RFtP8T":"527",
+        "d2RFtP8T":"530",
         "moWQ30GH":"F_FROGATE_MST"
     },
     {
-        "d2RFtP8T":"296",
+        "d2RFtP8T":"297",
         "moWQ30GH":"F_FROGATE_REWARD_MST"
     },
     {
@@ -284,7 +284,7 @@
         "moWQ30GH":"F_ACHIEVEMENT_SUBJECT_MST"
     },
     {
-        "d2RFtP8T":"426",
+        "d2RFtP8T":"427",
         "moWQ30GH":"F_ACHIEVEMENT_TRADE_MST"
     },
     {
@@ -456,7 +456,7 @@
         "moWQ30GH":"F_UNIT_TYPE_MST"
     },
     {
-        "d2RFtP8T":"1070",
+        "d2RFtP8T":"1072",
         "moWQ30GH":"F_MISSION_MST"
     },
     {
@@ -472,7 +472,7 @@
         "moWQ30GH":"F_EXTRA_PASSIVE_SKILL_MST"
     },
     {
-        "d2RFtP8T":"3241",
+        "d2RFtP8T":"3245",
         "moWQ30GH":"F_RESOURCE_MST"
     },
     {
@@ -484,7 +484,7 @@
         "moWQ30GH":"F_RECIPE_MST"
     },
     {
-        "d2RFtP8T":"580",
+        "d2RFtP8T":"581",
         "moWQ30GH":"F_EFFECT_MST"
     },
     {
@@ -612,7 +612,7 @@
         "moWQ30GH":"F_GUILD_INFO_MST"
     },
     {
-        "d2RFtP8T":"231",
+        "d2RFtP8T":"232",
         "moWQ30GH":"F_GUILD_POINT_EXCHANGE_MST"
     },
     {
