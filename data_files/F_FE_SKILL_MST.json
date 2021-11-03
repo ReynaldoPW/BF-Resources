@@ -25751,6 +25751,39 @@
         "yRlCNyvk":"Allows UBB's effects to last additional 1 turn"
     },
     {
+        "2Smu5Mtq":"47,300&550&0&200&0&0&0&0,2,2,0,0,1,0",
+        "9PsmH7tz":"1010800193",
+        "D9wXQI2V":"5",
+        "G5wFDad6":"25",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010800193",
+        "yRlCNyvk":"Add to SBB (32 combo Fire attack [300-550%] on all foes (damage relative to remaining HP))"
+    },
+    {
+        "2Smu5Mtq":"10017,1&7000&7000&3&0,1,2,0,1,1,0",
+        "9PsmH7tz":"1010800194",
+        "D9wXQI2V":"5",
+        "G5wFDad6":"20",
+        "hjAy9St3":"66",
+        "jeR2rN3V":"1",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010800194",
+        "yRlCNyvk":"Add to BB\\/SBB (Adds Fire shield [7000 HP, 7000 Def] for 3 turns)"
+    },
+    {
+        "2Smu5Mtq":"0,0,0,0,0,0,0,1,0@0,0,0,0,0,1,0@0,1,0@0,0,0,1,0@0,0,0,1,0",
+        "9PsmH7tz":"1010800195",
+        "D9wXQI2V":"5",
+        "G5wFDad6":"20",
+        "hjAy9St3":"9@5@65@85@20",
+        "jeR2rN3V":"4@4@4@4@4",
+        "qp37xTDh":"",
+        "ri6D9yBi":"1010800195",
+        "yRlCNyvk":"Allows UBB's effects to last additional 1 turn"
+    },
+    {
         "2Smu5Mtq":"100,100,100,100,100,100,100,100,100",
         "9PsmH7tz":"1010900001",
         "D9wXQI2V":"3",

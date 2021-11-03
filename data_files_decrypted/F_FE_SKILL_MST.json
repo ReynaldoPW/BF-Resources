@@ -25753,6 +25753,39 @@
     {
         "DESCRIPTION":"",
         "EFFECT_AREA*":"1",
+        "LEVEL":"5",
+        "PROC/PASSIVE_ID(S)":"66",
+        "PROC/PASSIVE_PARAMETERS":"47,300&550&0&200&0&0&0&0,2,2,0,0,1,0",
+        "SP_ID":"1010800193",
+        "SP_NAME":"Add to SBB (32 combo Fire attack [300-550%] on all foes (damage relative to remaining HP))",
+        "SP_NEED_BP":"25",
+        "SP_SERIES":"1010800193"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
+        "LEVEL":"5",
+        "PROC/PASSIVE_ID(S)":"66",
+        "PROC/PASSIVE_PARAMETERS":"10017,1&7000&7000&3&0,1,2,0,1,1,0",
+        "SP_ID":"1010800194",
+        "SP_NAME":"Add to BB\\/SBB (Adds Fire shield [7000 HP, 7000 Def] for 3 turns)",
+        "SP_NEED_BP":"20",
+        "SP_SERIES":"1010800194"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"4@4@4@4@4",
+        "LEVEL":"5",
+        "PROC/PASSIVE_ID(S)":"9@5@65@85@20",
+        "PROC/PASSIVE_PARAMETERS":"0,0,0,0,0,0,0,1,0@0,0,0,0,0,1,0@0,1,0@0,0,0,1,0@0,0,0,1,0",
+        "SP_ID":"1010800195",
+        "SP_NAME":"Allows UBB's effects to last additional 1 turn",
+        "SP_NEED_BP":"20",
+        "SP_SERIES":"1010800195"
+    },
+    {
+        "DESCRIPTION":"",
+        "EFFECT_AREA*":"1",
         "LEVEL":"3",
         "PROC/PASSIVE_ID(S)":"73",
         "PROC/PASSIVE_PARAMETERS":"100,100,100,100,100,100,100,100,100",

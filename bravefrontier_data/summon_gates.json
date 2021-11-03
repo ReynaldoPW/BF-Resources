@@ -15322,5 +15322,89 @@
         "short desc":"Miriam is available through the Summon Gate! Get a Global Exclusive Elgif for every 10 Summons from the same gate!",
         "start time":"2021-10-27 15:00:00",
         "summon button image":"gacha_rare_summons_btn1.png"
+    },
+    "20185":{
+        "background image":"gacha_Fire_Featured_img_211103V_s1.png",
+        "desc":"From 03 Nov 07:00 PST ~ 10 Nov 06:59 PST, summon minimum 5* Global exclusive units with Omni Potential and enjoy Increased Rates on Vyrr! Get a Global Exclusive Elgif for every 10 summons!",
+        "door image":"gacha_rare_door.png",
+        "end time":"2021-11-10 14:59:59",
+        "gem cost":5,
+        "name":"Fire Featured Summon",
+        "priority":"2",
+        "short desc":"Vyrr is available through the Summon Gate! Get a Global Exclusive Elgif for every 10 Summons from the same gate!",
+        "start time":"2021-11-03 15:00:00",
+        "summon button image":"gacha_rare_summons_btn1.png"
+    },
+    "20186":{
+        "background image":"gacha_Light_Featured_img_211110K_s1.png",
+        "desc":"From 10 Nov 07:00 PST ~ 17 Nov 06:59 PST, summon minimum 5* Global exclusive units with Omni Potential and enjoy Increased Rates on Kranus! Get a Global Exclusive Elgif for every 10 summons!",
+        "door image":"gacha_rare_door.png",
+        "end time":"2021-11-17 14:59:59",
+        "gem cost":5,
+        "name":"Light Featured Summon",
+        "priority":"2",
+        "short desc":"Kranus is available through the Summon Gate! Get a Global Exclusive Elgif for every 10 Summons from the same gate!",
+        "start time":"2021-11-10 15:00:00",
+        "summon button image":"gacha_rare_summons_btn1.png"
+    },
+    "20187":{
+        "background image":"gacha_Earth_Featured_img_211117T_s1.png",
+        "desc":"From 17 Nov 07:00 PST ~ 24 Nov 06:59 PST, summon minimum 5* Global exclusive units with Omni Potential and enjoy Increased Rates on Tilith! Get a Global Exclusive Elgif for every 10 summons!",
+        "door image":"gacha_rare_door.png",
+        "end time":"2021-11-24 14:59:59",
+        "gem cost":5,
+        "name":"Earth Featured Summon",
+        "priority":"2",
+        "short desc":"Tilith is available through the Summon Gate! Get a Global Exclusive Elgif for every 10 Summons from the same gate!",
+        "start time":"2021-11-17 15:00:00",
+        "summon button image":"gacha_rare_summons_btn1.png"
+    },
+    "20188":{
+        "background image":"gacha_img_211117VA_s1.png",
+        "desc":"From 17 Nov 7:00 PST ~ 24 Nov 6:59 PST, summon minimum 5* Global exclusive units with Omni Potential and enjoy Increased Rates on Kelsa !",
+        "door image":"gacha_rare_door.png",
+        "end time":"2021-11-24 14:59:59",
+        "gem cost":5,
+        "name":"Vortex Arena Resummon",
+        "priority":"2",
+        "short desc":"Summon 2 units with Increased Rates on  Kelsa with option to Resummon 1!",
+        "start time":"2021-11-17 15:00:00",
+        "summon button image":"gacha_rare_summons_btn1.png"
+    },
+    "20189":{
+        "background image":"gacha_Thunder_Featured_img_211124K_s1.png",
+        "desc":"From 24 Nov 07:00 PST ~ 01 Dec 06:59 PST, summon minimum 5* Global exclusive units with Omni Potential and enjoy Increased Rates on Kisrai! Get a Global Exclusive Elgif for every 10 summons!",
+        "door image":"gacha_rare_door.png",
+        "end time":"2021-12-01 14:59:59",
+        "gem cost":5,
+        "name":"Thunder Featured Summon",
+        "priority":"2",
+        "short desc":"Kisrai is available through the Summon Gate! Get a Global Exclusive Elgif for every 10 Summons from the same gate!",
+        "start time":"2021-11-24 15:00:00",
+        "summon button image":"gacha_rare_summons_btn1.png"
+    },
+    "20191":{
+        "background image":"gacha_Daily_img_211103A_s1.png",
+        "desc":"From 03 Nov 07:00 PST ~ 01 Dec 23:59 PST, summon minimum 5* Global exclusive units with Omni Potential and enjoy Increased Rates on past Anniversary exclusives and Ezra! Remember, this ticket is only valid till 1st Dec.",
+        "door image":"gacha_rare_door.png",
+        "end time":"2021-12-01 14:59:59",
+        "gem cost":5,
+        "name":"Anniversary Daily Summon",
+        "priority":"2",
+        "short desc":"Past Anniversary exclusives and Ezra are now available through the Summon Gate!  Collect your free daily Anniversary Daily Ticket and summon now!",
+        "start time":"2021-11-03 15:00:00",
+        "summon button image":"gacha_rare_summons_btn1.png"
+    },
+    "20192":{
+        "background image":"gacha_Classical_img_211103C_s1.png",
+        "desc":"From 03 Nov 07:00 PST ~ 01 Dec 23:59 PST, use your Free Anniversary Classical Ticket to summon one of the units from the Classical Heroes! Remember, this ticket is only valid till 1st Dec.",
+        "door image":"gacha_rare_door.png",
+        "end time":"2021-12-01 14:59:59",
+        "gem cost":5,
+        "name":"Anniversary Classical Summon",
+        "priority":"2",
+        "short desc":"Summon any one of the units from Classical Heroes Across Time exclusive units!",
+        "start time":"2021-11-03 15:00:00",
+        "summon button image":"gacha_rare_summons_btn1.png"
     }
 }

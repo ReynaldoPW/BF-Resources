@@ -27332,6 +27332,40 @@
         "id":"811028",
         "name":"MST_LEADERSKILLS_811028_NAME"
     },
+    "811038":{
+        "desc":"MST_LEADERSKILLS_811038_DESCRIPTION",
+        "effects":[
+            {
+                "atk% buff":140,
+                "crit% buff":30,
+                "def% buff":140,
+                "hp% buff":140,
+                "passive id":"2",
+                "rec% buff":140
+            },
+            {
+                "elemental weakness dmg%":300,
+                "elements":[
+                    "fire"
+                ],
+                "passive id":"50"
+            },
+            {
+                "params":"1,3,0,0,0,0,25",
+                "passive id":"62"
+            },
+            {
+                "params":"60,60",
+                "passive id":"77"
+            },
+            {
+                "passive id":"48",
+                "reduced bc cost%":30
+            }
+        ],
+        "id":"811038",
+        "name":"MST_LEADERSKILLS_811038_NAME"
+    },
     "811118":{
         "desc":"MST_LEADERSKILLS_811118_DESCRIPTION",
         "effects":[

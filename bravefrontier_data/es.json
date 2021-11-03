@@ -19555,6 +19555,42 @@
         "name":"MST_EXTRAPASSIVESKILL_8000537_NAME",
         "rarity":7
     },
+    "8000538":{
+        "conditions":"1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0",
+        "desc":"MST_EXTRAPASSIVESKILL_8000538_DESCRIPTION",
+        "effects":[
+            {
+                "atk% buff":25,
+                "def% buff":25,
+                "hp% buff":25,
+                "passive id":"1",
+                "rec% buff":25
+            },
+            {
+                "elemental weakness dmg%":100,
+                "elements":[
+                    "fire",
+                    "water",
+                    "earth",
+                    "thunder",
+                    "light",
+                    "dark"
+                ],
+                "passive id":"50"
+            },
+            {
+                "crit dmg%":100,
+                "passive id":"34"
+            },
+            {
+                "miti%":10,
+                "passive id":"8"
+            }
+        ],
+        "id":"8000538",
+        "name":"MST_EXTRAPASSIVESKILL_8000538_NAME",
+        "rarity":7
+    },
     "8000601":{
         "conditions":"1#0,0%0,0%0,0@1#0,0%0,0%0,0@1#0,0%0,0%0,0@1#0,0%0,0%0,0@1#0,0%0,0%0,0@1#0,0%0,0%0,0",
         "desc":"MST_EXTRAPASSIVESKILL_8000601_DESCRIPTION",
@@ -22424,6 +22460,38 @@
         ],
         "id":"811028",
         "name":"MST_EXTRAPASSIVESKILL_811028_NAME",
+        "rarity":7
+    },
+    "811038":{
+        "conditions":"2#3,819374%6,11%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0@1#0,0%0,0%0,0%0,0",
+        "desc":"MST_EXTRAPASSIVESKILL_811038_DESCRIPTION",
+        "effects":[
+            {
+                "params":"1&2&3&4&5&6,200",
+                "passive id":"74"
+            },
+            {
+                "params":"100,15",
+                "passive id":"127"
+            },
+            {
+                "atk% extra buff based on hp":100,
+                "buff proportional to hp":"remaining",
+                "def% extra buff based on hp":100,
+                "passive id":"46",
+                "rec% extra buff based on hp":100
+            },
+            {
+                "params":"100,100,100,100,100,100,100,100,100",
+                "passive id":"73"
+            },
+            {
+                "params":"38,1&2&3&4&5&6&7&8&9,1,2,0,1,1,0",
+                "passive id":"66"
+            }
+        ],
+        "id":"811038",
+        "name":"MST_EXTRAPASSIVESKILL_811038_NAME",
         "rarity":7
     },
     "811118":{

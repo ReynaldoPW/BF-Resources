@@ -824,5 +824,12 @@
         "SCENARIO_SUPERSECTION*":"70000",
         "SP_CAT_ID":"100027",
         "SP_CAT_NAME":"Full Metal Hare"
+    },
+    {
+        "DESCRIPTION":"Warm memories of the strange (but sumptuous) banquet Giselle organized for you.",
+        "QUEST_MAP_NUMBER/GUIDE_ID":"41",
+        "SCENARIO_SUPERSECTION*":"70000",
+        "SP_CAT_ID":"100028",
+        "SP_CAT_NAME":"Mysterious Banquet"
     }
 ]
