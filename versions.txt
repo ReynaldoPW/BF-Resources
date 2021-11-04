@@ -220,7 +220,7 @@
         "moWQ30GH":"F_CHRONOLOGY_WORD_MST"
     },
     {
-        "d2RFtP8T":"537",
+        "d2RFtP8T":"538",
         "moWQ30GH":"F_FROGATE_MST"
     },
     {
@@ -472,7 +472,7 @@
         "moWQ30GH":"F_EXTRA_PASSIVE_SKILL_MST"
     },
     {
-        "d2RFtP8T":"3261",
+        "d2RFtP8T":"3263",
         "moWQ30GH":"F_RESOURCE_MST"
     },
     {
