@@ -124,7 +124,7 @@
         "moWQ30GH":"F_LAND_MST"
     },
     {
-        "d2RFtP8T":"651",
+        "d2RFtP8T":"653",
         "moWQ30GH":"F_AREA_MST"
     },
     {
@@ -472,7 +472,7 @@
         "moWQ30GH":"F_EXTRA_PASSIVE_SKILL_MST"
     },
     {
-        "d2RFtP8T":"3259",
+        "d2RFtP8T":"3261",
         "moWQ30GH":"F_RESOURCE_MST"
     },
     {
@@ -532,7 +532,7 @@
         "moWQ30GH":"F_BANNER_INFO_MST"
     },
     {
-        "d2RFtP8T":"776",
+        "d2RFtP8T":"779",
         "moWQ30GH":"F_RELOAD_FILE_MST"
     },
     {

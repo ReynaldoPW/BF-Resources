@@ -2242,5 +2242,9 @@
     {
         "RELOAD_FILES":"gacha_Daily_img_210310P_s1.png",
         "RELOAD_ID":"3133"
+    },
+    {
+        "RELOAD_FILES":"sp_quest_banner_25620002.png",
+        "RELOAD_ID":"3134"
     }
 ]
